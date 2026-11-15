@@ -45,8 +45,13 @@ def verified_icecat_identity(candidate, product, decision, evidence_dir, normali
         # code does not carry. EAN is in Icecat's GTIN list for the same brand and the
         # Icecat part code is the canonical product's model name.
         model = normalize(re.sub(r'^' + re.escape(str(product.get('brand') or '')) + r'\s+', '', str(product.get('name') or ''), flags=re.I))
-        if not code or code != model:
-            raise ValueError('Icecat part code must equal the canonical model name for ean_model identity')
+        # Equal to the canonical model name, or every digit-bearing token of the Icecat part
+        # code (UD850GM, PG5...) appears in the canonical name/MPN (revision words like V2 may differ).
+        digit_tokens = [t for t in re.findall(r'[A-Za-z0-9]+', str(record.get('brand_part_code') or '')) if re.search(r'\d', t) and len(t) >= 3]
+        haystack = set(re.findall(r'[a-z0-9]+', (str(product.get('name') or '') + ' ' + str(product.get('mpn') or '')).lower()))
+        token_match = bool(digit_tokens) and all(t.lower() in haystack for t in digit_tokens)
+        if not code or (code != model and not token_match):
+            raise ValueError('Icecat part code must match the canonical model for ean_model identity')
     else:
         if not code or code != normalize(product.get('mpn') or '') or code != normalize(candidate.get('mpn') or ''):
             raise ValueError('Icecat brand part code must equal the retailer MPN and the canonical MPN literally')

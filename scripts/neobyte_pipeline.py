@@ -18,10 +18,20 @@ from validate_batch import registrable, validate, alnum
 from generate_seed import CATEGORIES
 from icecat_identity import verified_icecat_identity
 from amd_opn import verified_amd_opn
+from manufacturer_ean import verified_manufacturer_ean
 import psycopg
 
 
 ICECAT_EVIDENCE_DIR = ROOT / 'artifacts/neobyte/icecat-evidence'
+
+
+def region_equal(retailer, canonical):
+    """Policy 2026-11-14: a final regional suffix on the retailer code does not change the product.
+    Also covers a base code whose last letter is part of the suffix (canonical ...-3B, retailer ...-3BEU)."""
+    a, b = normalize(retailer or ''), normalize(canonical or '')
+    if not a or not b:
+        return False
+    return strip_region(a) == strip_region(b) or a in (b + 'eu', b + '-eu', b + '_eu', b + 'beu', b + '-beu')
 
 
 def strip_region(value):
@@ -54,21 +64,26 @@ def validate_review(conn, decision, aliases):
     product = dict(id=pid, **result[0])
     icecat_identity = verified_icecat_identity(candidate, product, decision, ICECAT_EVIDENCE_DIR, normalize, canonical_brand)
     amd_identity = verified_amd_opn(candidate, product, decision, normalize)
+    mfr_ean_identity = verified_manufacturer_ean(candidate, product, decision, registrable)
+    # User policy 2026-11-15: criterion B for PSUs whose brand never prints the store code.
+    # Needs the same full variant evidence as cases/coolers with >=4 attributes (watts, ATX standard, modular, color/80 PLUS...).
+    psu_b = (candidate.get('category_hint') == 'psu' and decision.get('psu_criterion_b') is True
+             and len((decision.get('variant_evidence') or {}).get('attributes') or {}) >= 4)
     if canonical_brand(candidate.get('brand')) != canonical_brand(product['brand']):
         raise ValueError('Retailer and manufacturer brands differ')
     if product['category_id'] != candidate['category_hint']:
         raise ValueError('Product and retailer categories differ')
     chosen = [a for a in aliases if a.get('product_id') == pid and a.get('source_url') == candidate['url_public']]
     evidence = decision.get('note', '') + ' ' + ' '.join(a.get('note', '') for a in chosen)
-    if candidate['category_hint'] not in ('gpu', 'motherboard', 'case', 'cooler') and not (icecat_identity or amd_identity):
-        if chosen or product.get('mpn_source') != 'manufacturer' or not candidate.get('mpn') or strip_region(candidate['mpn']) != strip_region(product.get('mpn', '')):
+    if candidate['category_hint'] not in ('gpu', 'motherboard', 'case', 'cooler') and not (icecat_identity or amd_identity or mfr_ean_identity or psu_b):
+        if chosen or product.get('mpn_source') != 'manufacturer' or not candidate.get('mpn') or not region_equal(candidate['mpn'], product.get('mpn', '')):
             raise ValueError('Other component categories require an exact manufacturer MPN, never criterion B aliases')
         if strip_region(product['mpn']) not in normalize(evidence):
             raise ValueError('Review must explicitly document the exact manufacturer MPN')
     official_domain = registrable(urlparse(product['manufacturer_url']).hostname)[0]
     # User-authorized extension (2026-11-14): exact full variants for cases/coolers.
     # This remains an explicit human review, never an automatic name match.
-    if candidate['category_hint'] in ('case', 'cooler'):
+    if candidate['category_hint'] in ('case', 'cooler') or psu_b:
         exact_mpn = (not chosen and product.get('mpn_source') == 'manufacturer'
                      and bool(candidate.get('mpn'))
                      and normalize(candidate['mpn']) == normalize(product.get('mpn', '')))
@@ -99,6 +114,9 @@ def validate_review(conn, decision, aliases):
         conflict = conn.execute("SELECT product_id FROM product_identifiers WHERE kind='ean' AND scope='global' AND value=%s", (normalize(candidate['ean']),)).fetchone()
         if conflict and conflict[0] != pid:
             raise ValueError('EAN contradicts the reviewed identity')
+    if mfr_ean_identity and candidate.get('ean'):
+        chosen.append(dict(product_id=pid, kind='ean', scope='global', value=candidate['ean'], source_url=candidate['url_public'],
+                           note='EAN published by the manufacturer on ' + decision['manufacturer_ean']['source_url'] + ' for model ' + decision['manufacturer_ean']['model_on_page'] + '. ' + decision['note']))
     if icecat_identity and decision['icecat_evidence'].get('match') == 'ean_model' and candidate.get('ean'):
         chosen.append(dict(product_id=pid, kind='ean', scope='global', value=candidate['ean'], source_url=candidate['url_public'],
                            note='EAN linked through Icecat record ' + str(icecat_identity.get('icecat_id')) + ' (brand part code ' + str(icecat_identity.get('brand_part_code')) + '). ' + decision['note']))
@@ -115,7 +133,11 @@ def import_reviewed_products(conn, products, decisions):
         product = dict(raw)
         if product.get('category_id') not in {slug for slug, _ in CATEGORIES} or product.get('id') not in referenced:
             raise ValueError('New products must belong to supported categories and reviewed decisions')
-        if product['category_id'] not in ('gpu', 'motherboard', 'case', 'cooler') and product.get('mpn_source') != 'manufacturer':
+        amd_new = (product['category_id'] == 'cpu' and product.get('mpn_source') == 'retailer'
+                   and any(d.get('product_id') == product.get('id') and isinstance(d.get('amd_opn'), dict) for d in decisions))
+        psu_new = (product['category_id'] == 'psu' and product.get('mpn_source') == 'retailer'
+                   and any(d.get('product_id') == product.get('id') and d.get('psu_criterion_b') is True for d in decisions))
+        if product['category_id'] not in ('gpu', 'motherboard', 'case', 'cooler') and product.get('mpn_source') != 'manufacturer' and not amd_new and not psu_new:
             raise ValueError('Other new component categories require a verified manufacturer MPN')
         if not product.get('manufacturer_evidence'):
             raise ValueError('New products require explicit official evidence')
