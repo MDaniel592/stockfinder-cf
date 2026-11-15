@@ -29,6 +29,7 @@ import re
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
+from manufacturer_common import norm_brand, norm_model, norm_mpn, now_utc  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -67,18 +68,6 @@ LISTING_HINTS = {
 }
 
 
-def norm_brand(value) -> str:
-    return re.sub(r'[^a-z0-9]', '', str(value or '').casefold())
-
-
-def norm_mpn(value) -> str:
-    return re.sub(r'[^A-Z0-9]', '', str(value or '').upper())
-
-
-def norm_model(value) -> str:
-    return ' '.join(re.findall(r'[a-z0-9]+', str(value or '').casefold()))
-
-
 def strip_region(value: str) -> str:
     """Drop a trailing regional suffix (-EU, -BEU, -EEU, _EU) from a retailer MPN."""
     upper = str(value or '').strip().upper()
@@ -86,10 +75,6 @@ def strip_region(value: str) -> str:
         if upper.endswith(suffix) and len(upper) > len(suffix):
             return upper[: -len(suffix)]
     return upper
-
-
-def now_utc() -> str:
-    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
 
 
 class Reference:

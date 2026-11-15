@@ -40,6 +40,7 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
+from manufacturer_common import norm_model, norm_mpn, now_utc  # noqa: E402
 
 _DEPS = os.environ.get('STOCKFINDER_PYDEPS', '/tmp/stockfinder-pydeps')
 if os.path.isdir(_DEPS) and _DEPS not in sys.path:
@@ -82,10 +83,6 @@ def log(event: str, **data) -> None:
     print(json.dumps({'event': event, **data}, ensure_ascii=False), flush=True)
 
 
-def now_utc() -> str:
-    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
-
-
 def text(value) -> str:
     """HTML fragment -> clean text, keeping <br> as a newline and collapsing runs of spaces."""
     if value is None:
@@ -101,14 +98,6 @@ def text(value) -> str:
 
 def one_line(value) -> str:
     return ' '.join(text(value).split())
-
-
-def norm_mpn(value) -> str:
-    return re.sub(r'[^A-Z0-9]', '', str(value or '').upper())
-
-
-def norm_model(value) -> str:
-    return ' '.join(re.findall(r'[a-z0-9]+', str(value or '').casefold()))
 
 
 def looks_like_code(value) -> bool:
