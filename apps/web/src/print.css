@@ -1,0 +1,94 @@
+.builder-print-report { display:none; }
+@media print {
+  @page {
+    size:A4;
+    margin:13mm 14mm 16mm;
+    @bottom-left { content:"StockFinder  /  Configuración de PC"; font:7pt Arial,sans-serif; color:#667184; border-top:.3pt solid #dce1e8; padding-top:2.5mm; vertical-align:top; }
+    @bottom-right { content:"Página " counter(page) " / " counter(pages); font:7pt Arial,sans-serif; color:#667184; border-top:.3pt solid #dce1e8; padding-top:2.5mm; vertical-align:top; }
+  }
+  html:has(.builder-print-report),body:has(>.builder-print-report) { background:#fff!important; color:#152238!important; min-height:0!important; }
+  body:has(>.builder-print-report) { margin:0!important; padding:0!important; }
+  body:has(>.builder-print-report)>:not(.builder-print-report) { display:none!important; }
+  .builder-print-report { display:block!important; width:auto; margin:0; padding:0; font:9pt/1.4 Arial,sans-serif; color:#152238; background:#fff; overflow-wrap:anywhere; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  .builder-print-report * { box-sizing:border-box; }
+  .builder-print-report h1,.builder-print-report h2,.builder-print-report h3,.builder-print-report p { margin:0; color:inherit; letter-spacing:normal; }
+  .builder-print-report a { color:#b21850; text-decoration:none; }
+  .builder-print-header { display:flex; align-items:center; justify-content:space-between; gap:8mm; padding-bottom:3mm; border-bottom:.5pt solid #dce1e8; }
+  .builder-print-brand { display:flex; align-items:center; gap:2.2mm; white-space:nowrap; }
+  .builder-print-brand>strong { font-size:17pt; letter-spacing:-.7pt; }
+  .builder-print-brand>strong>span { color:#c51b56; }
+  .builder-print-monogram { display:flex; align-items:center; justify-content:center; width:9mm; height:9mm; border-radius:50%; background:#c51b56; color:#fff; font:bold 10pt Arial,sans-serif; letter-spacing:-.8pt; }
+  .builder-print-document { display:grid; gap:1.3mm; text-align:right; color:#667184; font-size:7.2pt; }
+  .builder-print-document>span { font-size:7pt; font-weight:bold; letter-spacing:1.1pt; }
+  .builder-print-intro { padding:4mm 0 3mm; }
+  .builder-print-eyebrow { color:#b21850!important; font-size:7pt; font-weight:bold; letter-spacing:1.5pt!important; }
+  .builder-print-intro h1 { font-size:22pt; font-weight:700; line-height:1.15; letter-spacing:-.6pt; margin:1.8mm 0 2mm; }
+  .builder-print-intro h1.is-long-title { font-size:18pt; }
+  .builder-print-intro>p:last-child { font-size:8.5pt; color:#667184; }
+  .builder-print-budget { display:flex; align-items:center; justify-content:space-between; gap:8mm; padding:4mm 5mm; border-radius:3mm; color:#fff; background:#152238; break-inside:avoid; }
+  .builder-print-budget-label { display:block; font-size:7pt; letter-spacing:1pt; color:#cdd5e1; }
+  .builder-print-budget-amount { display:block; margin-top:1mm; font-size:25pt; line-height:1.15; letter-spacing:-.6pt; }
+  .builder-print-budget p { margin-top:1.8mm; font-size:8pt; color:#e3e8ef; }
+  .builder-print-completion { flex:none; width:31mm; border-left:.5pt solid #6a7588; padding-left:6mm; }
+  .builder-print-completion>strong { display:block; font-size:25pt; line-height:1.2; }
+  .builder-print-completion>strong>span { font-size:12pt; color:#bfc8d7; }
+  .builder-print-completion>span { font-size:7pt; color:#cdd5e1; }
+  .builder-print-metrics { display:grid; grid-template-columns:1fr 1.2fr 1fr; gap:4mm; padding:3mm 0; margin-bottom:1mm; border-bottom:.5pt solid #dce1e8; }
+  .builder-print-metrics>div { display:grid; gap:1mm; }
+  .builder-print-metrics span { color:#667184; font-size:7pt; }
+  .builder-print-metrics strong { font-size:8.2pt; font-weight:600; }
+  .builder-print-section-title { display:flex; align-items:baseline; gap:2.5mm; margin:4mm 0 3mm; break-after:avoid; }
+  .builder-print-section-title>span { color:#b21850; font-size:7.5pt; font-weight:bold; }
+  .builder-print-section-title h2,.builder-print-section-title h3 { font-size:12pt; font-weight:bold; line-height:1.2; }
+  .builder-print-section-title small { margin-left:auto; font-size:7pt; font-weight:400; color:#667184; }
+  .builder-print-parts-grid { display:grid; grid-template-columns:1fr 1fr; gap:2.5mm; }
+  .builder-print-part { border:.5pt solid #dce1e8; border-radius:2.2mm; padding:2.5mm; background:#fff; min-width:0; break-inside:avoid; }
+  .builder-print-part-label { display:flex; align-items:center; gap:1.5mm; margin-bottom:1.5mm; color:#667184; font-size:7.1pt; }
+  .builder-print-part-label>span { color:#a0a9b6; font-size:6.5pt; }
+  .builder-print-part-label svg { width:3mm; height:3mm; color:#b21850; flex:none; }
+  .builder-print-part-label>strong { font-weight:600; }
+  .builder-print-part-content { display:flex; align-items:center; gap:2.5mm; min-height:14mm; }
+  .builder-print-part-image,.builder-print-part-placeholder { display:block; width:12mm!important; height:12mm!important; object-fit:contain; flex:none; }
+  .builder-print-part-placeholder { display:flex; align-items:center; justify-content:center; border-radius:2mm; background:#f5f6f9; color:#a0a9b6; }
+  .builder-print-part-placeholder svg { width:7mm; height:7mm; }
+  .builder-print-part-content>div { min-width:0; }
+  .builder-print-part h3 { font-size:8.8pt; font-weight:600; line-height:1.28; }
+  .builder-print-part-content p { margin-top:1.3mm; color:#667184; font-size:7pt; line-height:1.3; }
+  .builder-print-part-bottom { display:flex; align-items:flex-end; justify-content:space-between; gap:2mm; padding-top:1.5mm; margin-top:1.5mm; border-top:.4pt solid #edf0f4; }
+  .builder-print-part-bottom>span { font-size:6.6pt; color:#667184; line-height:1.25; }
+  .builder-print-part-bottom>strong { flex:none; font-size:10pt; color:#152238; white-space:nowrap; }
+  .builder-print-part.is-unselected { border-style:dashed; background:#fbfcfd; }
+  .builder-print-part.is-unselected h3 { color:#7f8a9b; font-weight:400; }
+  .builder-print-part.is-unselected .builder-print-part-bottom>strong { color:#7f8a9b; font-size:8pt; font-weight:400; }
+  .builder-print-price-note,.builder-print-final-note { padding:3mm 3.5mm; margin-top:4mm; border-left:2pt solid #c51b56; background:#f6f7fa; break-inside:avoid; }
+  .builder-print-price-note strong,.builder-print-final-note strong { font-size:8pt; }
+  .builder-print-price-note p,.builder-print-final-note p { margin-top:1mm; color:#667184; font-size:7.5pt; line-height:1.4; }
+  .builder-print-review { break-before:page; }
+  .builder-print-review-heading { margin:0 0 5mm; padding-bottom:4mm; border-bottom:.5pt solid #dce1e8; }
+  .builder-print-review-heading h2 { font-size:24pt; line-height:1.2; margin:1.5mm 0 1mm; letter-spacing:-.5pt; }
+  .builder-print-review-heading>p:last-child { font-size:9pt; color:#667184; }
+  .builder-print-review-status { display:flex; align-items:flex-start; gap:3mm; padding:3.5mm; border:.5pt solid #d4e4dd; border-radius:2mm; background:#f2f8f5; break-inside:avoid; }
+  .builder-print-review-status>svg { width:6mm; height:6mm; flex:none; color:#2d6b53; }
+  .builder-print-review-status strong { font-size:9pt; color:#245c46; }
+  .builder-print-review-status p { margin-top:1.2mm; font-size:7.5pt; color:#566d63; }
+  .builder-print-review-status.is-error { background:#fff5f6; border-color:#efcbd0; }
+  .builder-print-review-status.is-error strong,.builder-print-review-status.is-error>svg { color:#a42739; }
+  .builder-print-review-status.is-error p { color:#84505a; }
+  .builder-print-check-group h3 { font-size:11pt; }
+  .builder-print-check-group ol { list-style:none; margin:0; padding:0; }
+  .builder-print-check-group li { display:flex; align-items:flex-start; gap:3mm; padding:2.5mm 0; border-bottom:.4pt solid #e7ebf0; break-inside:avoid; }
+  .builder-print-check-number { flex:none; width:5mm; font-size:7.5pt; color:#a16821; font-weight:bold; padding-top:.4mm; }
+  .builder-print-check-group li p { font-size:8.4pt; line-height:1.4; }
+  .builder-print-check-group.is-error { margin-top:4mm; }
+  .builder-print-check-group.is-error h3 { color:#b32637; margin-bottom:1mm; }
+  .builder-print-check-group.is-error li { color:#9c2837; }
+  .builder-print-check-group.is-error svg { width:4mm; height:4mm; flex:none; }
+  .builder-print-passed { display:flex; align-items:center; gap:1.5mm; margin-top:3mm!important; color:#2d6b53!important; font-size:7.5pt; }
+  .builder-print-passed svg { width:3.5mm; height:3.5mm; }
+  .builder-print-references { margin-top:5mm; break-inside:avoid; }
+  .builder-print-references>p { color:#667184; font-size:7.5pt; margin-bottom:2.5mm; }
+  .builder-print-reference { display:grid; grid-template-columns:31mm 1fr 27mm; gap:2mm; align-items:baseline; padding:1.5mm 0; border-bottom:.4pt solid #edf0f4; font-size:7.3pt; }
+  .builder-print-reference>span { color:#667184; }
+  .builder-print-reference>strong { font-weight:500; }
+  .builder-print-reference>a { text-align:right; white-space:nowrap; font-size:7pt; }
+}

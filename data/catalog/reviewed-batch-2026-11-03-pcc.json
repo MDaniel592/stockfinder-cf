@@ -1,0 +1,90 @@
+[
+  {
+    "id": "darkflash-ds500-rgb-black",
+    "slug": "darkflash-ds500-rgb-black",
+    "name": "darkFlash DS500 RGB Negra",
+    "category_id": "case",
+    "brand": "darkFlash",
+    "mpn": "DC-DS500-B-EU1",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.darkflash.com/es/product/ds500-rgb-black",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Formato": "Micro-ATX",
+      "Placas compatibles": "M-ATX y Mini-ITX",
+      "Acabado": "Negro",
+      "Materiales": "Acero SPCC, vidrio templado y malla frontal",
+      "Dimensiones": "380 × 210 × 430 mm",
+      "GPU máxima": "320 mm",
+      "Disipador CPU máximo": "160 mm",
+      "Ranuras PCIe": "4",
+      "Radiador frontal": "240 o 360 mm",
+      "E/S frontal": "1 × USB 3.0, 2 × USB 2.0, audio HD"
+    }
+  },
+  {
+    "id": "darkflash-dv360s-max-black",
+    "slug": "darkflash-dv360s-max-black",
+    "name": "darkFlash DV360S MAX 360 mm Negro",
+    "category_id": "cooler",
+    "brand": "darkFlash",
+    "mpn": "darkflash_DW-DV360S MAX-B-EU1",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.darkflash.com/es/products/darkflash-dv360s-max-refrigeracion-liquida-360",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Tipo": "Líquida AIO",
+      "Radiador": "360 mm (394 × 120 × 27 mm)",
+      "Ventiladores": "3 × 120 mm ARGB, 800-2000 RPM",
+      "Pantalla": "IPS LCD 3,95\" 480 × 480 px en el bloque",
+      "Acabado": "Negro",
+      "Sockets compatibles": "Intel LGA 115x, 1200, 1700, 2011, 2011-v3, 2066; AMD AM4, AM5",
+      "Garantía": "3 años"
+    }
+  },
+  {
+    "id": "einarex-pulse-pm300-core-black",
+    "slug": "einarex-pulse-pm300-core-black",
+    "name": "Einarex Pulse PM300 Core Black",
+    "category_id": "case",
+    "brand": "Einarex",
+    "mpn": "EXCS-PM-300C-B",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://einarex.com/product/pulse-pm300/",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Formato": "Mini-Torre Micro-ATX",
+      "Placas compatibles": "Micro-ATX y Mini-ITX",
+      "Materiales": "Acero SPCC, ABS y vidrio templado",
+      "Dimensiones": "350 × 212 × 336 mm",
+      "GPU máxima": "340 mm",
+      "Disipador CPU máximo": "175 mm",
+      "Ranuras PCIe": "4",
+      "E/S frontal": "1 × USB 3.0, 1 × USB Type-C, audio 3,5 mm",
+      "Radiador superior": "Hasta 240 mm"
+    }
+  },
+  {
+    "id": "einarex-zenith-z1k-rgb-black",
+    "slug": "einarex-zenith-z1k-rgb-black",
+    "name": "Einarex Zenith Z1K RGB",
+    "category_id": "case",
+    "brand": "Einarex",
+    "mpn": "EXCS-ZE-10KR-B",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://einarex.com/product/zenith-z1k/",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Formato": "Semitorre E-ATX / ATX",
+      "Placas compatibles": "E-ATX, ATX, Micro-ATX y Mini-ITX",
+      "Materiales": "Acero SPCC, ABS y vidrio templado (puertas abatibles frontal y lateral)",
+      "Dimensiones": "472 × 240 × 510 mm",
+      "GPU máxima": "430 mm",
+      "Disipador CPU máximo": "180 mm",
+      "Ranuras PCIe": "7",
+      "Ventiladores incluidos": "3 RGB laterales y 1 RGB trasero",
+      "E/S frontal": "1 × USB Type-C, 2 × USB 3.0, audio 3,5 mm",
+      "Radiador": "Hasta 360 mm superior y lateral"
+    }
+  }
+]

@@ -1,0 +1,1792 @@
+[
+  {
+    "product_id": "g-skill-f5-5200j4040a32gx2-rm5rw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/product/165/421/1716885274/F5-5200J4040A32GX2-RM5RW",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238f16gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/cn/specification/204/376/1641798782/F5-6000J3238F16GX2-TZ5RK-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g16gx2-fx5w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/qvl/165/396/1729505414/F5-6000J2836G16GX2-FX5-QVL",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb2ak2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF432C16BB2AK2_16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g32gx2-rm5nrw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/qvl/165/428/1731653954/F5-6000J2836G32GX2-RM5NRW-QVL",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g32gx2-rm5nrk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/product/165/428/1731653613/F5-6000J2836G32GX2-RM5NRK",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g16gx2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/qvl/165/396/1729505414/F5-6000J2836G16GX2-FX5-QVL",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-7200j3445g16gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/qvl/165/374/1665644656/F5-7200J3445G16GX2-TZ5RK-QVL",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-5200j4040a16gx2-rm5rw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/tw/specification/203/422/1716885128/F5-5200J4040A16GX2-RM5RW-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "coolmod-ram-md16gsd43200-tb",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://cs.pny.com.tw/en/upload/download_files/en_download_list_21i02_yhwt83humb.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "coolmod-ram-cb8gu3200",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://content.crucial.com/content/dam/crucial/dram-products/basics/flyer/crucial-basics-memory-productflyer.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax4u320016g16a-sbkd35g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_spectrix_d35g_ddr4_rgb_memory_20260402.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f5-6000j3636f16gx2-tz5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/product/165/371/1640229700/F5-6000J3636F16GX2-TZ5K-F5-6000J3636F16GA2-TZ5K",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f4-3200c16d-32gis",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/cn/specification/204/232/1567584227/F4-3200C16D-32GIS-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax5u6000c3016g-dclarwh",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.adata.com/storage/downloadfile/datasheet_xpg_lancer_rgb_ddr5_memory_v5.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax5u6000c4816g-slabrwh",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260520.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax5u6000c4816g-slabbk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_v3.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "lexar-ld5u16g60c30br-rgd",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://americas.lexar.com/product/lexar-ares-rgb-2nd-gen-ddr5-desktop-memory/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax4u320016g16a-sbkd35",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory_20260402.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax4u32008g16a-sbkd35",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory_20260402.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bbk2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BBK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bwe2ak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BWE2AK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf564c32bweak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF564C32BWEAK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bweak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BWEAK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bwe2k2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BWE2K2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "apacer-ah5u16g60c622mbaa-1",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Gaming/Data%20Sheet_NOX%20DDR5.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bweak2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C30BWEAK2-64.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bbe-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C30BBE-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bbk2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BBK2-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf564c32bbeak2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF564C32BBEAK2-64.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bwea-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C30BWEA-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "lexar-ld5u16g68c34la-rgd",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://americas.lexar.com/product/lexar-ares-rgb-ddr5-desktop-memory/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bbk2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BBK2%2F32",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bb-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BB-8.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bbak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C40BBAK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bbak2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C40BBAK2-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bwea-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C30BWEA-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbea-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BBEA-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bbak2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BBAK2-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbeak2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BBEAK2-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16rb2k2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16RB2K2%2F16",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bbak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BBAK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bba-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BBA-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bbeak2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C30BBEAK2-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbe2k2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BBE2K2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bwe2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BWE2-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbek2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BBEK2-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c18bbk2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/unitedkingdom/en/memory/search?partid=KF436C18BBK2%2F32",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbe-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BBE-8.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbeak2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BBEAK2-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax5u6000c3016g-clabk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_ddr5_memory_20250919_v11.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bba-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BBA-8.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c17bbk2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/unitedkingdom/en/memory/search?partid=KF436C17BBK2%2F16",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbek2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BBEK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bb-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BB-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bbek2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C30BBEK2-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bwe-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C30BWE-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax5u6000c3624g-slabrbk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260430.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbe-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BBE-64.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c16rb12k2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/unitedkingdom/en/memory/search?partid=KF436C16RB12K2%2F32",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bba-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C40BBA-8.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf572c38rsk2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF572C38RSK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "lexar-thor-2nd-gen-32gb-ddr5-6000-cl38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://americas.lexar.com/product/lexar-thor-2nd-gen-ddr5-desktop-memory-blk/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "patriot-viper-venom-32gb-ddr5-6000-cl30",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.patriotmemory.com/en/products/viper-venom-ddr5-performance-ram",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "patriot-viper-venom-32gb-ddr5-6000-cl36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.patriotmemory.com/en/products/viper-venom-ddr5-performance-ram",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "forgeon-cyclone-pro-rgb-32gb-ddr5-6000-cl36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-pro-rgb-ddr5-6000-mhz-32gb-2x16gb-cl36-negra",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-rival-deep-black-16gb-ddr4-3600-cl18",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-rival-deep-black-16gb-2x8gb-ddr4-3600-cl18",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-rival-deep-black-32gb-2x16gb-ddr4-3600-cl18",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-rival-radiant-32gb-ddr4-3200-cl16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/de/produkte/goodram-rival-ddr4-radiant/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct32g56c46u5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct32g56c46u5",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct32g56c46u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL46",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct32g56c46u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-ct16g56c46u5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct16g56c46u5",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct16g56c46u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL46",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct16g56c46u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-ct8g56c46u5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct8g56c46u5",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct8g56c46u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL46",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct8g56c46u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-ct2k16g56c46u5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct2k16g56c46u5",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct2k16g56c46u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL46",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct2k16g56c46u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-cp2k16g56c46u5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp2k16g56c46u5",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp2k16g56c46u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL46",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp2k16g56c46u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-cp2k32g56c46u5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp2k32g56c46u5",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp2k32g56c46u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL46",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp2k32g56c46u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-ct32g48c40u5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct32g48c40u5",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct32g48c40u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL40",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct32g48c40u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-ct8g48c40u5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct8g48c40u5",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct8g48c40u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL40",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct8g48c40u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-ct2k16g48c40u5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct2k16g48c40u5",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct2k16g48c40u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL40",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct2k16g48c40u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-ct8g4dfra32a",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct8g4dfra32a",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct8g4dfra32a",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL22",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct8g4dfra32a",
+    "note": "INFERIDO: Crucial DDR4-3200 estándar JEDEC (CL22)."
+  },
+  {
+    "product_id": "crucial-ct16g4dfra32a",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct16g4dfra32a",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct16g4dfra32a",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL22",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct16g4dfra32a",
+    "note": "INFERIDO: Crucial DDR4-3200 estándar JEDEC (CL22)."
+  },
+  {
+    "product_id": "crucial-ct2k16g4dfra32a",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct2k16g4dfra32a",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct2k16g4dfra32a",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL22",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct2k16g4dfra32a",
+    "note": "INFERIDO: Crucial DDR4-3200 estándar JEDEC (CL22)."
+  },
+  {
+    "product_id": "crucial-ct32g4dfd832a",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct32g4dfd832a",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-ct32g4dfd832a",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL22",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct32g4dfd832a",
+    "note": "INFERIDO: Crucial DDR4-3200 estándar JEDEC (CL22)."
+  },
+  {
+    "product_id": "crucial-cp32g4dfra32a",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/cp32g4dfra32a",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp32g4dfra32a",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL22",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/cp32g4dfra32a",
+    "note": "INFERIDO: Crucial DDR4-3200 estándar JEDEC (CL22)."
+  },
+  {
+    "product_id": "crucial-cp16g4dfra32a",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/cp16g4dfra32a",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp16g4dfra32a",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL22",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/cp16g4dfra32a",
+    "note": "INFERIDO: Crucial DDR4-3200 estándar JEDEC (CL22)."
+  },
+  {
+    "product_id": "crucial-cp2k16g4dfra32a",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/cp2k16g4dfra32a",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp2k16g4dfra32a",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL22",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/cp2k16g4dfra32a",
+    "note": "INFERIDO: Crucial DDR4-3200 estándar JEDEC (CL22)."
+  },
+  {
+    "product_id": "crucial-cp2k32g4dfra32a",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/cp2k32g4dfra32a",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp2k32g4dfra32a",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL22",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/cp2k32g4dfra32a",
+    "note": "INFERIDO: Crucial DDR4-3200 estándar JEDEC (CL22)."
+  },
+  {
+    "product_id": "crucial-cp2k16g60c36u5b",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp2k16g60c36u5b",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp2k16g60c36u5b",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL36",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp2k16g60c36u5b",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-cp16g60c36u5b",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp16g60c36u5b",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp16g60c36u5b",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL36",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp16g60c36u5b",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-cp2k16g64c38u5w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp2k16g64c38u5w",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp2k16g64c32u5w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp2k16g64c32u5w",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f5-6400j3239g16gx2-tz5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/product/165/371/1642064625/F5-6400J3239G16GX2-TZ5K-F5-6400J3239G16GA2-TZ5K",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f5-6000j3040g32gx2-tz5rw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/product/165/374/1688607694/F5-6000J3040G32GX2-TZ5RW",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "corsair-cmv16gx4m1a2666c18",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmv16gx4m1a2666c18/corsair-memory-a-16gb-1x16gb-ddr4-2666mhz-c18-dimm-cmv16gx4m1a2666c18",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "lexar-ld5u16g60c28br-rgd",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.lexar.com/global/products/Lexar-ARES-RGB-2nd-Gen-DDR5-Desktop-Memory/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax4u320032g16a-dtbkd35",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c18bb2a-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF436C18BB2A_16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbe-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BBE-8.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbe-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BBE-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bwe2a-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BWE2A-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bwea-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BWEA-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bw-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C40BW-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf564c32rs-48",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF564C32RS-48.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bb2k2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C40BB2K2-64.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbe2ak2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BBE2AK2-64.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbe2k2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BBE2K2-64.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bb2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BB2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf568c34bbek2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF568C34BBEK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bb2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C40BB2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bb2a-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C40BB2A-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf568c34bbeak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF568C34BBEAK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf568c34bweak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF568C34BWEAK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbea-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BBEA-8.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbea-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C36BBEA-8.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bw-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF552C40BW-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bwe-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BWE-16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16rb12a-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF432C16RB12A_16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16rb2ak2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF432C16RB2AK2_16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf440c19rb2ak2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF440C19RB2AK2_16.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "corsair-cmv8gx4m1a2400c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmv8gx4m1a2400c16/corsair-memory-a-8gb-1x8gb-ddr4-2400mhz-c16-dimm-cmv8gx4m1a2400c16",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-gr5600d564l46s-16g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-ddr5-dimm/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-gr3200d464l22-16g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-gr2666d464l19-16g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-gr2666d464l19s-8g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-ir-x3200d464l16a-16g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-gr3200d464l22s-8g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-ir-x3200d464l16sa-8g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-ggrrd4-32l16sa-16gdc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-ggrgd4-32l16sa-16gdc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "goodram-ggrrd4-32l16sa-8g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "crucial-cp2k24g56c46u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL46",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp2k24g56c46u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-ct2k32g56c46u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL46",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct2k32g56c46u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "crucial-cp16g56c46u5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL46",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/cp16g56c46u5",
+    "note": "INFERIDO: el P/N de Crucial codifica la latencia (…C<CL>U5)."
+  },
+  {
+    "product_id": "kingston-kf560c30bwek2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF560C30BWEK2-32.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "forgeon-fo-ddr-plus32gb-v2-b",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-32gb-2x16gb-cl16-negra",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "forgeon-fo-ddr-plus16gb-v2-b",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-16gb-2x8gb-cl16-negra",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "patriot-pvv532g56c38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f5-6000j3244g64gx2-tz5nr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1750730463/F5-6000J3244G64GX2-TZ5NR-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f4-2666c19s-16gis",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1575527599/F4-2666C19S-16GIS-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f4-3600c16q-64gvkc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1562832133/F4-3600C16Q-64GVKC-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f4-4000c18d-16gvk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1562837577/F4-4000C18D-16GVK-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f4-3600c16d-16gtzrc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/166/1562743659/F4-3600C16D-16GTZRC-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f5-6000j3636f16gx1-is",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/440/1729563348/F5-6000J3636F16GX1-IS-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f5-6000j3036f48gx2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1731653457/F5-6000J3036F48GX2-FX5-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "gskill-f5-6000j3038f16gh1-tz5nr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1772001009/F5-6000J3038F16GH1-TZ5NR-Specification",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax5u6000c3616g-dtlabrwh",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260520.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "adata-ax5u6400c3216g-dtlabwh",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://assets.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20260930.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "apacer-ah4u16g32c28ytbaa-1",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/upload/media/download/ZADAK/Data%20Sheet_TEX%20DDR4.pdf",
+    "note": "INFERIDO: memoria de sobremesa DIMM sin indicación de SO-DIMM/RDIMM/ECC/CUDIMM en nombre ni P/N; en consumo equivale a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf564c32bbeak2-32",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF564C32BBEAK2-32.pdf",
+    "note": "INFERIDO: mismo valor en 5 producto(s) hermano(s) de la misma serie (kingston-kf564c32bbek2-64, kingston-kf564c32bweak2-32, kingston-kf564c32bbeak2-64); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "crucial-ct32g56c46u5",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct32g56c46u5",
+    "note": "INFERIDO: mismo valor en 2 producto(s) hermano(s) de la misma serie (crucial-cp2k16g56c46u5, crucial-cp2k32g56c46u5); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "crucial-ct16g56c46u5",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct16g56c46u5",
+    "note": "INFERIDO: mismo valor en 2 producto(s) hermano(s) de la misma serie (crucial-cp2k16g56c46u5, crucial-cp2k32g56c46u5); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "crucial-ct8g56c46u5",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct8g56c46u5",
+    "note": "INFERIDO: mismo valor en 2 producto(s) hermano(s) de la misma serie (crucial-cp2k16g56c46u5, crucial-cp2k32g56c46u5); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "crucial-ct2k16g56c46u5",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct2k16g56c46u5",
+    "note": "INFERIDO: mismo valor en 2 producto(s) hermano(s) de la misma serie (crucial-cp2k16g56c46u5, crucial-cp2k32g56c46u5); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "crucial-ct8g4dfra32a",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP, Intel XMP 2.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct8g4dfra32a",
+    "note": "INFERIDO: mismo valor en 4 producto(s) hermano(s) de la misma serie (crucial-cp32g4dfra32a, crucial-cp16g4dfra32a, crucial-cp2k16g4dfra32a); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "crucial-ct16g4dfra32a",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP, Intel XMP 2.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct16g4dfra32a",
+    "note": "INFERIDO: mismo valor en 4 producto(s) hermano(s) de la misma serie (crucial-cp32g4dfra32a, crucial-cp16g4dfra32a, crucial-cp2k16g4dfra32a); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "crucial-ct2k16g4dfra32a",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP, Intel XMP 2.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct2k16g4dfra32a",
+    "note": "INFERIDO: mismo valor en 4 producto(s) hermano(s) de la misma serie (crucial-cp32g4dfra32a, crucial-cp16g4dfra32a, crucial-cp2k16g4dfra32a); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "crucial-ct32g4dfd832a",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP, Intel XMP 2.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr4/ct32g4dfd832a",
+    "note": "INFERIDO: mismo valor en 4 producto(s) hermano(s) de la misma serie (crucial-cp32g4dfra32a, crucial-cp16g4dfra32a, crucial-cp2k16g4dfra32a); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "crucial-ct2k32g56c46u5",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct2k32g56c46u5",
+    "note": "INFERIDO: mismo valor en 2 producto(s) hermano(s) de la misma serie (crucial-cp2k24g56c46u5, crucial-cp16g56c46u5); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "adata-ax5u6000c3032g-slabbk",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xpg.com/en/xpg/dram-modules-lancer-blade-ddr5",
+    "note": "INFERIDO: mismo valor en 3 producto(s) hermano(s) de la misma serie (adata-ax5u6000c4816g-slabrwh, adata-ax5u6000c4816g-slabbk, adata-ax5u6000c3624g-slabrbk); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "adata-ax5u6000c3616g-dtlabrwh",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260520.pdf",
+    "note": "INFERIDO: mismo valor en 3 producto(s) hermano(s) de la misma serie (adata-ax5u6000c4816g-slabrwh, adata-ax5u6000c4816g-slabbk, adata-ax5u6000c3624g-slabrbk); no es dato de ficha de este modelo."
+  }
+]

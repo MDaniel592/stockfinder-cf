@@ -1,0 +1,86 @@
+[
+  {
+    "product_id": "asus-tuf-gaming-b850-plus-wifi",
+    "image_path": "/images/products/parts/asus-tuf-gaming-b850-plus-wifi.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/4fa02c46-d242-4d73-a8e6-aebb298a1b09/w800/fwebp",
+    "image_page_url": "https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850-plus-wifi/",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "msi-mag-z890-tomahawk-wifi",
+    "image_path": "/images/products/parts/msi-mag-z890-tomahawk-wifi.png",
+    "image_source_url": "https://storage-asset.msi.com/global/picture/image/feature/mb/z890/MAG-z890-tomahawk-wifi/msi-z890-tomahawk-wifi-kv.png",
+    "image_page_url": "https://us.msi.com/Motherboard/MAG-Z890-TOMAHAWK-WIFI/Overview",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "corsair-vengeance-32gb-ddr5-6000-cl30",
+    "image_path": "/images/products/parts/corsair-vengeance-32gb-ddr5-6000-cl30.webp",
+    "image_source_url": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Memory/vengeance-ddr5-amd-blk-config/2up/VENGEANCE_DDR5_GREY_AMD_01.webp",
+    "image_page_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6000z30/vengeance-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-amd-expo-memory-black-cmk32gx5m2b6000z30",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "corsair-vengeance-32gb-ddr5-6400-cl32",
+    "image_path": "/images/products/parts/corsair-vengeance-32gb-ddr5-6400-cl32.webp",
+    "image_source_url": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Memory/vengeance-ddr5-blk-config/Gallery/VENGEANCE_DDR5_BLK_01_2up.webp",
+    "image_page_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6400c32/vengeance-32gb-2x16gb-ddr5-dram-6400mhz-c32-memory-kit-black-cmk32gx5m2b6400c32",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "corsair-rm850e-2025",
+    "image_path": "/images/products/parts/corsair-rm850e-2025.webp",
+    "image_source_url": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/rme-series-2025/Gallery/CP-9020296-NA_01.webp",
+    "image_page_url": "https://www.corsair.com/us/en/p/psu/cp-9020296-na/rme-series-rm850e-fully-modular-low-noise-atx-power-supply-cp-9020296-na",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "corsair-rm1000e-2025",
+    "image_path": "/images/products/parts/corsair-rm1000e-2025.webp",
+    "image_source_url": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/rme-series-2025/Gallery/CP-9020297-NA_01.webp",
+    "image_page_url": "https://www.corsair.com/us/en/p/psu/cp-9020297-na/rme-series-rm1000e-fully-modular-low-noise-atx-power-supply-cp-9020297-na",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "fractal-north-charcoal-black-tg-dark",
+    "image_path": "/images/products/parts/fractal-north-charcoal-black-tg-dark.png",
+    "image_source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/7212fb5e68924af41cfb8b76064bab5b3b125ecc-2560x3200.png",
+    "image_page_url": "https://www.fractal-design.com/products/cases/north-series/north/north-charcoal-black-tg-light/",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "fractal-north-xl-charcoal-black-tg-dark",
+    "image_path": "/images/products/parts/fractal-north-xl-charcoal-black-tg-dark.png",
+    "image_source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/f1e7b939866cee50773fa9a87a8f693c13e7d8ae-2560x3200.png",
+    "image_page_url": "https://www.fractal-design.com/products/cases/north-series/north-xl/north-xl-charcoal-black-tg/",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "samsung-990-pro-2tb",
+    "image_path": "/images/products/parts/samsung-990-pro-2tb.png",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/ca/mz-v9p2t0b-am/gallery/ca-990pro-nvme-m2-ssd-mz-v9p2t0b-am-533750492?$1164_776_PNG$",
+    "image_page_url": "https://www.samsung.com/ca/memory-storage/nvme-ssd/990-pro-2tb-nvme-pcie-gen-4-mz-v9p2t0b-am/",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "samsung-9100-pro-2tb",
+    "image_path": "/images/products/parts/samsung-9100-pro-2tb.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/mz-vap2t0b-am/gallery/us-9100-pro-nvme-m2-ssd-mz-vap2t0b-am-550645013?$product-details-jpg$",
+    "image_page_url": "https://www.samsung.com/us/memory-storage/nvme-ssd/9100-pro-nvme-ssd-sku-mz-vap2t0b-am/",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "noctua-nh-d15-g2",
+    "image_path": "/images/products/parts/noctua-nh-d15-g2.png",
+    "image_source_url": "https://cdn.noctua.at/media/nh_d15_g2_11-improved.png",
+    "image_page_url": "https://www.noctua.at/en/products/nh-d15-g2",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "arctic-liquid-freezer-iii-pro-360",
+    "image_path": "/images/products/parts/arctic-liquid-freezer-iii-pro-360.png",
+    "image_source_url": "https://www.arctic.de/media/c6/8f/e4/1741780195/Liquid_Freezer_III_Pro_360_Black_g00.png",
+    "image_page_url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-360/ACFRE00180A",
+    "image_scope": "model"
+  }
+]

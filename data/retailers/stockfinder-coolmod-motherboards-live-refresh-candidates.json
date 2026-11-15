@@ -1,0 +1,68 @@
+[
+  {
+    "product_id": "gigabyte-b850-aorus-elite-wifi7",
+    "shop_id": "coolmod",
+    "retailer_sku": "PROD-038190",
+    "mpn": "B850 A ELITE WF7",
+    "url_public": "https://www.coolmod.com/gigabyte-b850-aorus-elite-wifi7-socket-am5/",
+    "price_cents": 19495,
+    "in_stock": true,
+    "last_checked_at": "2026-11-02T19:48:26.371Z",
+    "match_evidence": "Normal browser JSON-LD Product/Offer; exact curated MPN or documented store alias and retailer SKU; EUR price and explicit schema availability."
+  },
+  {
+    "product_id": "gigabyte-b650m-aorus-elite-ax-ice",
+    "shop_id": "coolmod",
+    "retailer_sku": "PROD-032403",
+    "mpn": "B650M A ELITE AX ICE",
+    "url_public": "https://www.coolmod.com/gigabyte-b650m-aorus-elite-ax-ice-socket-am5/",
+    "price_cents": 16795,
+    "in_stock": true,
+    "last_checked_at": "2026-11-02T19:48:34.575Z",
+    "match_evidence": "Normal browser JSON-LD Product/Offer; exact curated MPN or documented store alias and retailer SKU; EUR price and explicit schema availability."
+  },
+  {
+    "product_id": "gigabyte-b850m-aorus-elite-wifi6e",
+    "shop_id": "coolmod",
+    "retailer_sku": "PROD-043891",
+    "mpn": "B850M A ELT WF6E",
+    "url_public": "https://www.coolmod.com/gigabyte-b850m-aorus-elite-wifi6e-socket-am5/",
+    "price_cents": 21695,
+    "in_stock": true,
+    "last_checked_at": "2026-11-02T19:48:41.461Z",
+    "match_evidence": "Normal browser JSON-LD Product/Offer; exact curated MPN or documented store alias and retailer SKU; EUR price and explicit schema availability."
+  },
+  {
+    "product_id": "sapphire-52118-03-40g",
+    "shop_id": "coolmod",
+    "retailer_sku": "PROD-044792",
+    "mpn": "52118-03-40G",
+    "url_public": "https://www.coolmod.com/sapphire-pulse-a620am-socket-am5/",
+    "price_cents": 13995,
+    "in_stock": true,
+    "last_checked_at": "2026-11-02T19:48:49.465Z",
+    "match_evidence": "Normal browser JSON-LD Product/Offer; exact curated MPN or documented store alias and retailer SKU; EUR price and explicit schema availability."
+  },
+  {
+    "product_id": "sapphire-52123-01-40g",
+    "shop_id": "coolmod",
+    "retailer_sku": "PROD-043887",
+    "mpn": "52123-01-40G",
+    "url_public": "https://www.coolmod.com/sapphire-nitro-b850m-wifi-socket-am5/",
+    "price_cents": 18195,
+    "in_stock": true,
+    "last_checked_at": "2026-11-02T19:48:55.366Z",
+    "match_evidence": "Normal browser JSON-LD Product/Offer; exact curated MPN or documented store alias and retailer SKU; EUR price and explicit schema availability."
+  },
+  {
+    "product_id": "gigabyte-b650m-gaming-plus-wifi",
+    "shop_id": "coolmod",
+    "retailer_sku": "PROD-043994",
+    "mpn": "B650M GAMING PLUS WF",
+    "url_public": "https://www.coolmod.com/gigabyte-b650m-gaming-plus-wifi-socket-am5/",
+    "price_cents": 12295,
+    "in_stock": true,
+    "last_checked_at": "2026-11-02T19:49:01.700Z",
+    "match_evidence": "Normal browser JSON-LD Product/Offer; exact curated MPN or documented store alias and retailer SKU; EUR price and explicit schema availability."
+  }
+]

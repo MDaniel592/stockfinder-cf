@@ -1,0 +1,82 @@
+[
+  {
+    "id": "corsair-vengeance-16gb-ddr5-6000-cl36",
+    "slug": "corsair-vengeance-16gb-ddr5-6000-cl36",
+    "name": "Corsair Vengeance 16 GB (2 × 8 GB) DDR5-6000 CL36",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "specs": {
+      "Perfil": "AMD EXPO e Intel XMP",
+      "Formato": "UDIMM",
+      "Latencia": "CL36",
+      "Módulos": "2 × 8 GB",
+      "Capacidad": "16 GB",
+      "Velocidad": "6000 MT/s",
+      "Iluminación": "Sin iluminación",
+      "Tipo de memoria": "DDR5"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk16gx5m2e6000z36/vengeance-16gb-2x8gb-ddr5-dram-6000mts-cl36-amd-expo-intel-xmp-memory-kit-cmk16gx5m2e6000z36",
+    "specs_verified_at": "2026-11-02T12:00:00Z",
+    "mpn": "CMK16GX5M2E6000Z36"
+  },
+  {
+    "id": "corsair-vengeance-32gb-ddr5-6000-cl36",
+    "slug": "corsair-vengeance-32gb-ddr5-6000-cl36",
+    "name": "Corsair Vengeance 32 GB (2 × 16 GB) DDR5-6000 CL36",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "specs": {
+      "Perfil": "AMD EXPO e Intel XMP",
+      "Formato": "UDIMM",
+      "Latencia": "CL36",
+      "Módulos": "2 × 16 GB",
+      "Capacidad": "32 GB",
+      "Velocidad": "6000 MT/s",
+      "Iluminación": "Sin iluminación",
+      "Tipo de memoria": "DDR5"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2e6000z36/vengeance-32gb-2x16gb-ddr5-dram-6000mt-s-cl36-memory-kit-cmk32gx5m2e6000z36",
+    "specs_verified_at": "2026-11-02T12:00:00Z",
+    "mpn": "CMK32GX5M2E6000Z36"
+  },
+  {
+    "id": "corsair-vengeance-32gb-ddr5-6000-cl38-gray",
+    "slug": "corsair-vengeance-32gb-ddr5-6000-cl38-gray",
+    "name": "Corsair Vengeance 32 GB (2 × 16 GB) DDR5-6000 CL38",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "specs": {
+      "Perfil": "AMD EXPO e Intel XMP",
+      "Formato": "UDIMM",
+      "Latencia": "CL38",
+      "Módulos": "2 × 16 GB",
+      "Capacidad": "32 GB",
+      "Velocidad": "6000 MT/s",
+      "Iluminación": "Sin iluminación",
+      "Tipo de memoria": "DDR5"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2d6000z38/vengeance-32gb-2-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-intel-xmp-memory-kit-gray-cmk32gx5m2d6000z38",
+    "specs_verified_at": "2026-11-02T12:00:00Z",
+    "mpn": "CMK32GX5M2D6000Z38"
+  },
+  {
+    "id": "corsair-vengeance-rgb-32gb-ddr5-6000-cl38-gray",
+    "slug": "corsair-vengeance-rgb-32gb-ddr5-6000-cl38-gray",
+    "name": "Corsair Vengeance RGB 32 GB (2 × 16 GB) DDR5-6000 CL38",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "specs": {
+      "Perfil": "AMD EXPO e Intel XMP",
+      "Formato": "UDIMM",
+      "Latencia": "CL38",
+      "Módulos": "2 × 16 GB",
+      "Capacidad": "32 GB",
+      "Velocidad": "6000 MT/s",
+      "Iluminación": "RGB",
+      "Tipo de memoria": "DDR5"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2d6000z38/vengeance-rgb-32gb-2-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-intel-xmp-memory-kit-gray-cmh32gx5m2d6000z38",
+    "specs_verified_at": "2026-11-02T12:00:00Z",
+    "mpn": "CMH32GX5M2D6000Z38"
+  }
+]

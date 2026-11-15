@@ -1,0 +1,108 @@
+[
+ {
+  "id": "thermaltake-the-tower-300-negro-ca-1y4-00s1wn-00",
+  "slug": "thermaltake-the-tower-300-negro-ca-1y4-00s1wn-00",
+  "name": "Thermaltake The Tower 300 Negro (CA-1Y4-00S1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1Y4-00S1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/the-tower-300-micro-tower-chassis.html",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "210 mm",
+   "Ventiladores incluidos": "2 × 140 mm",
+   "Dimensiones": "551 × 342 × 281 mm"
+  }
+ },
+ {
+  "id": "thermaltake-ceres-300-tg-argb-matcha-green-ca-1y2-00mewn-00",
+  "slug": "thermaltake-ceres-300-tg-argb-matcha-green-ca-1y2-00mewn-00",
+  "name": "Thermaltake Ceres 300 TG ARGB Matcha Green (CA-1Y2-00MEWN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1Y2-00MEWN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/ceres-300-tg-argb-matcha-green-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "370 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "475 × 245 × 463 mm"
+  }
+ },
+ {
+  "id": "thermaltake-ceres-300-tg-argb-snow-ca-1y2-00m6wn-00",
+  "slug": "thermaltake-ceres-300-tg-argb-snow-ca-1y2-00m6wn-00",
+  "name": "Thermaltake Ceres 300 TG ARGB Snow (CA-1Y2-00M6WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1Y2-00M6WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/ceres-300-tg-argb-snow-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "370 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "475 × 245 × 463 mm"
+  }
+ },
+ {
+  "id": "thermaltake-the-tower-200-snow-ca-1x9-00s6wn-00",
+  "slug": "thermaltake-the-tower-200-snow-ca-1x9-00s6wn-00",
+  "name": "Thermaltake The Tower 200 Snow (CA-1X9-00S6WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1X9-00S6WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/the-tower-200-snow-mini-chassis.html",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "380 mm",
+   "Altura disipador máxima": "200 mm",
+   "Ventiladores incluidos": "2 × 140 mm",
+   "Dimensiones": "537 × 300 × 280 mm"
+  }
+ },
+ {
+  "id": "thermaltake-view-91-tempered-glass-rgb-edition-ca-1i9-00f1wn-00",
+  "slug": "thermaltake-view-91-tempered-glass-rgb-edition-ca-1i9-00f1wn-00",
+  "name": "Thermaltake View 91 Tempered Glass RGB Edition (CA-1I9-00F1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1I9-00F1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/view-91-tempered-glass-rgb-edition.html",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "XL-ATX, E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "600 mm",
+   "Altura disipador máxima": "200 mm",
+   "Ventiladores incluidos": "4 × 140 mm (Riing Plus RGB)",
+   "Radiador frontal máximo": "480 mm",
+   "Radiador superior máximo": "480 mm",
+   "Dimensiones": "691 × 344 × 645 mm"
+  }
+ }
+]

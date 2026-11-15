@@ -1,0 +1,990 @@
+[
+ {
+  "id": "asrock-z890-taichi-aqua",
+  "slug": "asrock-z890-taichi-aqua",
+  "name": "ASRock Z890 Taichi AQUA",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPL0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Taichi%20AQUA/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5"
+  }
+ },
+ {
+  "id": "asrock-b850-riptide-wifi",
+  "slug": "asrock-b850-riptide-wifi",
+  "name": "ASRock B850 Riptide WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQT0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850%20Riptide%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b850-pro-rs",
+  "slug": "asrock-b850-pro-rs",
+  "name": "ASRock B850 Pro RS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQK0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850%20Pro%20RS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-x870-taichi-creator",
+  "slug": "asrock-x870-taichi-creator",
+  "name": "ASRock X870 Taichi Creator",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBTE0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/X870%20Taichi%20Creator/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-x870-pro-rs",
+  "slug": "asrock-x870-pro-rs",
+  "name": "ASRock X870 Pro RS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPZ0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/X870%20Pro%20RS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b650m-hdvm2",
+  "slug": "asrock-b650m-hdvm2",
+  "name": "ASRock B650M-HDV/M.2",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBLA0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B650M-HDVM.2/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b650m-pro-rs",
+  "slug": "asrock-b650m-pro-rs",
+  "name": "ASRock B650M Pro RS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBLP0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B650M%20Pro%20RS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b850-pro-a",
+  "slug": "asrock-b850-pro-a",
+  "name": "ASRock B850 Pro-A",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQM0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850%20Pro-A/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b850-pro-rs-wifi",
+  "slug": "asrock-b850-pro-rs-wifi",
+  "name": "ASRock B850 Pro RS WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQL0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850%20Pro%20RS%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b760m-pro-rs",
+  "slug": "asrock-b760m-pro-rs",
+  "name": "ASRock B760M Pro RS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBLH0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B760M%20Pro%20RS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b860-pro-rs-wifi",
+  "slug": "asrock-b860-pro-rs-wifi",
+  "name": "ASRock B860 Pro RS WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBRK0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B860%20Pro%20RS%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b860-livemixer-wifi",
+  "slug": "asrock-b860-livemixer-wifi",
+  "name": "ASRock B860 LiveMixer WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQV0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B860%20LiveMixer%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b650-pro-rs",
+  "slug": "asrock-b650-pro-rs",
+  "name": "ASRock B650 Pro RS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBL10-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B650%20Pro%20RS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b850m-x-wifi-r2-0",
+  "slug": "asrock-b850m-x-wifi-r2-0",
+  "name": "ASRock B850M-X WiFi R2.0",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBSH0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850M-X%20WiFi%20R2.0/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-z890m-riptide-wifi",
+  "slug": "asrock-z890m-riptide-wifi",
+  "name": "ASRock Z890M Riptide WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPK0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890M%20Riptide%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-x870-riptide-wifi",
+  "slug": "asrock-x870-riptide-wifi",
+  "name": "ASRock X870 Riptide WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPP0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/X870%20Riptide%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b850-pro-a-wifi",
+  "slug": "asrock-b850-pro-a-wifi",
+  "name": "ASRock B850 Pro-A WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQN0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850%20Pro-A%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-z890-pro-a",
+  "slug": "asrock-z890-pro-a",
+  "name": "ASRock Z890 Pro-A",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBP50-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Pro-A/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-x870e-taichi-lite",
+  "slug": "asrock-x870e-taichi-lite",
+  "name": "ASRock X870E Taichi Lite",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPA0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/X870E%20Taichi%20Lite/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870E",
+   "Tipo de memoria": "DDR5",
+   "Formato": "E-ATX"
+  }
+ },
+ {
+  "id": "asrock-a620am-hvs",
+  "slug": "asrock-a620am-hvs",
+  "name": "ASRock A620AM-HVS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBSR0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/A620AM-HVS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD A620A",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-a620ai-wifi",
+  "slug": "asrock-a620ai-wifi",
+  "name": "ASRock A620AI WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBT50-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/A620AI%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Mini-ITX",
+   "Ranuras de memoria": "2"
+  }
+ },
+ {
+  "id": "asrock-b860i-lightning-wifi",
+  "slug": "asrock-b860i-lightning-wifi",
+  "name": "ASRock B860I Lightning WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBRZ0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B860I%20Lightning%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Mini-ITX",
+   "Ranuras de memoria": "2"
+  }
+ },
+ {
+  "id": "asrock-z890-riptide-wifi",
+  "slug": "asrock-z890-riptide-wifi",
+  "name": "ASRock Z890 Riptide WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPB0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Riptide%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-z890-pro-rs-wifi-white",
+  "slug": "asrock-z890-pro-rs-wifi-white",
+  "name": "ASRock Z890 Pro RS WiFi White",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQC0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Pro%20RS%20WiFi%20White/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-z890i-nova-wifi",
+  "slug": "asrock-z890i-nova-wifi",
+  "name": "ASRock Z890I Nova WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPN0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890I%20Nova%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Mini-ITX",
+   "Ranuras de memoria": "2"
+  }
+ },
+ {
+  "id": "asrock-b860m-steel-legend-wifi",
+  "slug": "asrock-b860m-steel-legend-wifi",
+  "name": "ASRock B860M Steel Legend WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQF0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B860M%20Steel%20Legend%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b850i-lightning-wifi",
+  "slug": "asrock-b850i-lightning-wifi",
+  "name": "ASRock B850I Lightning WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQR0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850I%20Lightning%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Mini-ITX",
+   "Ranuras de memoria": "2"
+  }
+ },
+ {
+  "id": "asrock-z890-pro-rs",
+  "slug": "asrock-z890-pro-rs",
+  "name": "ASRock Z890 Pro RS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBP10-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Pro%20RS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b650m-hm2",
+  "slug": "asrock-b650m-hm2",
+  "name": "ASRock B650M-H/M.2+",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBMS0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B650M-HM.2+/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b860m-pro-rs-wifi",
+  "slug": "asrock-b860m-pro-rs-wifi",
+  "name": "ASRock B860M Pro RS WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBRQ0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B860M%20Pro%20RS%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b650-pg-lightning",
+  "slug": "asrock-b650-pg-lightning",
+  "name": "ASRock B650 PG Lightning",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBK20-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B650%20PG%20Lightning/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b860m-pro-rs",
+  "slug": "asrock-b860m-pro-rs",
+  "name": "ASRock B860M Pro RS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBRP0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B860M%20Pro%20RS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b760-pro-rs",
+  "slug": "asrock-b760-pro-rs",
+  "name": "ASRock B760 Pro RS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBKS0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B760%20Pro%20RS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-z890-nova-wifi",
+  "slug": "asrock-z890-nova-wifi",
+  "name": "ASRock Z890 Nova WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPS0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Nova%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-z790-pg-lightning",
+  "slug": "asrock-z790-pg-lightning",
+  "name": "ASRock Z790 PG Lightning",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBKA0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z790%20PG%20Lightning/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel Z790",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b860-steel-legend-wifi",
+  "slug": "asrock-b860-steel-legend-wifi",
+  "name": "ASRock B860 Steel Legend WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBR30-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B860%20Steel%20Legend%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-x870e-nova-wifi",
+  "slug": "asrock-x870e-nova-wifi",
+  "name": "ASRock X870E Nova WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPX0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/X870E%20Nova%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870E",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-z890-steel-legend-wifi",
+  "slug": "asrock-z890-steel-legend-wifi",
+  "name": "ASRock Z890 Steel Legend WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPF0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Steel%20Legend%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-z890-lightning-wifi",
+  "slug": "asrock-z890-lightning-wifi",
+  "name": "ASRock Z890 Lightning WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPG0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Lightning%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-x870-steel-legend-wifi",
+  "slug": "asrock-x870-steel-legend-wifi",
+  "name": "ASRock X870 Steel Legend WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPJ0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/X870%20Steel%20Legend%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b860m-pro-a",
+  "slug": "asrock-b860m-pro-a",
+  "name": "ASRock B860M Pro-A",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBRR0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B860M%20Pro-A/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b650-steel-legend-wifi",
+  "slug": "asrock-b650-steel-legend-wifi",
+  "name": "ASRock B650 Steel Legend WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBN90-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B650%20Steel%20Legend%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b850m-x-r2-0",
+  "slug": "asrock-b850m-x-r2-0",
+  "name": "ASRock B850M-X R2.0",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBSG0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850M-X%20R2.0/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-z890-livemixer-wifi",
+  "slug": "asrock-z890-livemixer-wifi",
+  "name": "ASRock Z890 LiveMixer WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPE0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20LiveMixer%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-z890-taichi",
+  "slug": "asrock-z890-taichi",
+  "name": "ASRock Z890 Taichi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBPR0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Taichi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b760m-steel-legend-wifi",
+  "slug": "asrock-b760m-steel-legend-wifi",
+  "name": "ASRock B760M Steel Legend WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBL70-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B760M%20Steel%20Legend%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b850m-pro-rs",
+  "slug": "asrock-b850m-pro-rs",
+  "name": "ASRock B850M Pro RS",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBR60-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850M%20Pro%20RS/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-z890-pro-a-wifi",
+  "slug": "asrock-z890-pro-a-wifi",
+  "name": "ASRock Z890 Pro-A WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBP60-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/Z890%20Pro-A%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-x870e-taichi-ocf",
+  "slug": "asrock-x870e-taichi-ocf",
+  "name": "ASRock X870E Taichi OCF",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBTG0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/X870E%20Taichi%20OCF/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870E",
+   "Tipo de memoria": "DDR5"
+  }
+ },
+ {
+  "id": "asrock-b860m-livemixer-wifi",
+  "slug": "asrock-b860m-livemixer-wifi",
+  "name": "ASRock B860M LiveMixer WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBRT0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/Intel/B860M%20LiveMixer%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-a620am-x-wifi",
+  "slug": "asrock-a620am-x-wifi",
+  "name": "ASRock A620AM-X WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBSU0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/A620AM-X%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD A620A",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-a620am-x",
+  "slug": "asrock-a620am-x",
+  "name": "ASRock A620AM-X",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBST0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/A620AM-X/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD A620A",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-a620am-pro-a",
+  "slug": "asrock-a620am-pro-a",
+  "name": "ASRock A620AM Pro-A",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBSX0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/A620AM%20Pro-A/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD A620A",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-a620am-pro-rs-wifi",
+  "slug": "asrock-a620am-pro-rs-wifi",
+  "name": "ASRock A620AM Pro RS WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBSW0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/A620AM%20Pro%20RS%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD A620A",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "asrock-b850-livemixer-wifi",
+  "slug": "asrock-b850-livemixer-wifi",
+  "name": "ASRock B850 LiveMixer WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBQU0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B850%20LiveMixer%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "asrock-b650i-lightning-wifi",
+  "slug": "asrock-b650i-lightning-wifi",
+  "name": "ASRock B650I Lightning WiFi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBMP0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B650I%20Lightning%20WiFi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Mini-ITX",
+   "Ranuras de memoria": "2"
+  }
+ },
+ {
+  "id": "asrock-x870e-taichi",
+  "slug": "asrock-x870e-taichi",
+  "name": "ASRock X870E Taichi",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBP90-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/X870E%20Taichi/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870E",
+   "Tipo de memoria": "DDR5",
+   "Formato": "E-ATX"
+  }
+ },
+ {
+  "id": "asrock-b650m-pg-lightning",
+  "slug": "asrock-b650m-pg-lightning",
+  "name": "ASRock B650M PG Lightning",
+  "category_id": "motherboard",
+  "brand": "ASRock",
+  "mpn": "90-MXBMV0-A0UAYZ",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asrock.com/MB/AMD/B650M%20PG%20Lightning/",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ }
+]

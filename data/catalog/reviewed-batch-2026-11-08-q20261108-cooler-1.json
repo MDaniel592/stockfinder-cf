@@ -1,0 +1,83 @@
+[
+ {
+  "id": "asus-90rc0151-b0eay0",
+  "slug": "asus-90rc0151-b0eay0",
+  "name": "ASUS ROG Ryuo IV SLC 360 ARGB (90RC0151-B0EAY0)",
+  "category_id": "cooler",
+  "brand": "ASUS",
+  "mpn": "90RC0151-B0EAY0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://uk.store.asus.com/rog-ryuo-iv-slc-360-argb-309766962-90rc0151-b0eay0.html",
+  "manufacturer_sources": [
+   "https://uk.store.asus.com/rog-ryuo-iv-slc-360-argb-309766962-90rc0151-b0eay0.html"
+  ],
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "394 x 140 x 32 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "asus-90rc00w1-m0uay0",
+  "slug": "asus-90rc00w1-m0uay0",
+  "name": "ASUS ROG Strix LC III 360 ARGB LCD (90RC00W1-M0UAY0)",
+  "category_id": "cooler",
+  "brand": "ASUS",
+  "mpn": "90RC00W1-M0UAY0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://uk.store.asus.com/rog-strix-lc-iii-360-argb-251978030-90rc00w1-m0uay0.html",
+  "manufacturer_sources": [
+   "https://uk.store.asus.com/rog-strix-lc-iii-360-argb-251978030-90rc00w1-m0uay0.html"
+  ],
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "394 x 121 x 27 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "asus-90rc00m1-m0uay0",
+  "slug": "asus-90rc00m1-m0uay0",
+  "name": "ASUS TUF Gaming LC II 360 ARGB (90RC00M1-M0UAY0)",
+  "category_id": "cooler",
+  "brand": "ASUS",
+  "mpn": "90RC00M1-M0UAY0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://uk.store.asus.com/tuf-gaming-lc-ii-360-argb-224395908-90rc00m1-m0uay0.html",
+  "manufacturer_sources": [
+   "https://uk.store.asus.com/tuf-gaming-lc-ii-360-argb-224395908-90rc00m1-m0uay0.html"
+  ],
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "397 x 120 x 27 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "msi-mag-coreliquid-a15-360",
+  "slug": "msi-mag-coreliquid-a15-360",
+  "name": "MSI MAG CORELIQUID A15 360",
+  "category_id": "cooler",
+  "brand": "MSI",
+  "mpn": "MAG CORELIQUID A15 360",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Liquid-Cooling/MAG-CORELIQUID-A15-360",
+  "manufacturer_sources": [
+   "https://www.msi.com/Liquid-Cooling/MAG-CORELIQUID-A15-360"
+  ],
+  "specs_verified_at": "2026-11-08T18:00:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm"
+  }
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "id": "pny-rtx-5080-argb-overclocked-triple-fan-16gb",
+  "key": "Longitud",
+  "reason": "La pagina PNY del SKU VCG508016TFXXPB1-O muestra en su tabla el P/N VCG508016TFXPB1 (no coincide); no se acredita al MPN exacto",
+  "tried": "pny.com ?sku=VCG508016TFXXPB1-O"
+ },
+ {
+  "id": "powercolor-rx907016g-a",
+  "key": "Interfaz",
+  "reason": "powercolor.com no verifica certificado TLS (fallo SSL en curl y WebFetch); no se omite la verificacion",
+  "tried": "https://www.powercolor.com/product-detail215.htm; WebSearch solo da tiendas con datos contradictorios (289 vs 304 mm)"
+ },
+ {
+  "id": "powercolor-rx907016g-a",
+  "key": "Consumo (TBP)",
+  "reason": "idem: ficha oficial inaccesible por error TLS",
+  "tried": "idem"
+ },
+ {
+  "id": "powercolor-rx907016g-a",
+  "key": "Longitud",
+  "reason": "idem: ficha oficial inaccesible por error TLS; tiendas contradictorias",
+  "tried": "idem"
+ },
+ {
+  "id": "powercolor-rx907016g-a",
+  "key": "Fuente recomendada",
+  "reason": "idem: ficha oficial inaccesible por error TLS",
+  "tried": "idem"
+ },
+ {
+  "id": "owercolor-rx9070xt16g-l-oc",
+  "key": "Interfaz",
+  "reason": "powercolor.com no verifica certificado TLS; ficha oficial inaccesible",
+  "tried": "https://www.powercolor.com/product-detail211.htm"
+ },
+ {
+  "id": "owercolor-rx9070xt16g-l-oc",
+  "key": "Longitud",
+  "reason": "idem",
+  "tried": "idem"
+ },
+ {
+  "id": "intel-arc-b570",
+  "key": "Longitud",
+  "reason": "La ficha Intel (ARK) no lista longitud (curl 403 Akamai, WebFetch sin dato) y no hay hoja oficial verificada del modelo concreto",
+  "tried": "intel.com ARK specifications; WebSearch"
+ },
+ {
+  "id": "intel-arc-b570",
+  "key": "Fuente recomendada",
+  "reason": "La ficha Intel (ARK) no lista fuente recomendada; sin hoja oficial verificada del modelo concreto",
+  "tried": "intel.com ARK specifications; WebSearch"
+ }
+]

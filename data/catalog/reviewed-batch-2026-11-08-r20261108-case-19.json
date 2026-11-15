@@ -1,0 +1,342 @@
+[
+ {
+  "id": "tooq-prisma-tqc-5701u3c-b",
+  "slug": "tooq-prisma-tqc-5701u3c-b",
+  "name": "TooQ PRISMA (TQC-5701U3C-B)",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQC-5701U3C-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqc-5701u3c-b/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "350 mm",
+   "Altura disipador máxima": "152 mm",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "tooq-tqc-3005u3-con-fuente-sfx-500-w",
+  "slug": "tooq-tqc-3005u3-con-fuente-sfx-500-w",
+  "name": "TooQ TQC-3005U3 con fuente SFX 500 W",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQC-3005U3",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqc-3005u3/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "SFX",
+   "Longitud GPU máxima": "230 mm",
+   "Altura disipador máxima": "75 mm"
+  }
+ },
+ {
+  "id": "tooq-ragnarok-tqgcc101-b",
+  "slug": "tooq-ragnarok-tqgcc101-b",
+  "name": "TooQ Ragnärok TQGCC101-B",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQGCC101-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqgcc101-b/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "310 mm",
+   "Altura disipador máxima": "159 mm",
+   "Ventiladores incluidos": "4 × 120 mm"
+  }
+ },
+ {
+  "id": "tooq-tqc-3008u3c-con-fuente-sfx-500-w",
+  "slug": "tooq-tqc-3008u3c-con-fuente-sfx-500-w",
+  "name": "TooQ TQC-3008U3C con fuente SFX 500 W",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQC-3008U3C",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqc-3008u3c/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "SFX",
+   "Longitud GPU máxima": "252 mm",
+   "Altura disipador máxima": "75 mm"
+  }
+ },
+ {
+  "id": "tooq-dodeka-tqc-4702u3c-b",
+  "slug": "tooq-dodeka-tqc-4702u3c-b",
+  "name": "TooQ DODEKA (TQC-4702U3C-B)",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQC-4702U3C-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqc-4702u3c-b/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Longitud GPU máxima": "250 mm",
+   "Altura disipador máxima": "140 mm",
+   "Ventiladores incluidos": "1 × 80 mm"
+  }
+ },
+ {
+  "id": "tooq-prisma-ultra-con-fuente-atx-500-w-tqc-5701-sp",
+  "slug": "tooq-prisma-ultra-con-fuente-atx-500-w-tqc-5701-sp",
+  "name": "TooQ PRISMA ULTRA con fuente ATX 500 W (TQC-5701-SP)",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQC-5701-SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqc-5701-sp/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "350 mm",
+   "Altura disipador máxima": "150 mm",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "tooq-isobox-tqc-4701u3c-b",
+  "slug": "tooq-isobox-tqc-4701u3c-b",
+  "name": "TooQ ISOBOX (TQC-4701U3C-B)",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQC-4701U3C-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqc-4701u3c-b/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Longitud GPU máxima": "310 mm",
+   "Altura disipador máxima": "145 mm",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "tooq-biohazard-tqgcc102-b",
+  "slug": "tooq-biohazard-tqgcc102-b",
+  "name": "TooQ Biohazard TQGCC102-B",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQGCC102-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqgcc102-b/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "305 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "tooq-dodeka-ultra-con-fuente-atx-500-w-tqc-4702-sp",
+  "slug": "tooq-dodeka-ultra-con-fuente-atx-500-w-tqc-4702-sp",
+  "name": "TooQ DODEKA ULTRA con fuente ATX 500 W (TQC-4702-SP)",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQC-4702-SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqc-4702-sp/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "250 mm",
+   "Altura disipador máxima": "140 mm",
+   "Ventiladores incluidos": "1 × 80 mm"
+  }
+ },
+ {
+  "id": "tooq-isobox-ultra-con-fuente-atx-500-w-tqc-4701-sp",
+  "slug": "tooq-isobox-ultra-con-fuente-atx-500-w-tqc-4701-sp",
+  "name": "TooQ ISOBOX ULTRA con fuente ATX 500 W (TQC-4701-SP)",
+  "category_id": "case",
+  "brand": "TooQ",
+  "mpn": "TQC-4701-SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqc-4701-sp/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "310 mm",
+   "Altura disipador máxima": "140 mm",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "cougar-purity-cgr-5pc4b-385pc40-0003",
+  "slug": "cougar-purity-cgr-5pc4b-385pc40-0003",
+  "name": "Cougar Purity (CGR-5PC4B) (385PC40.0003)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385PC40.0003",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/purity/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Longitud GPU máxima": "305 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador superior máximo": "240 mm"
+  }
+ },
+ {
+  "id": "cougar-purity-rgb-blanca-cgr-5pc4w-rgb-385pc40-0002",
+  "slug": "cougar-purity-rgb-blanca-cgr-5pc4w-rgb-385pc40-0002",
+  "name": "Cougar Purity RGB Blanca (CGR-5PC4W-RGB) (385PC40.0002)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385PC40.0002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/purity-rgb/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "305 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador superior máximo": "240 mm"
+  }
+ },
+ {
+  "id": "cougar-mx360-rgb-cgr-5cc6g-rgb-385cc60-0001",
+  "slug": "cougar-mx360-rgb-cgr-5cc6g-rgb-385cc60-0001",
+  "name": "Cougar MX360 RGB (CGR-5CC6G-RGB) (385CC60.0001)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385CC60.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/mx360-rgb/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "315 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm"
+  }
+ },
+ {
+  "id": "cougar-fv270-rgb-negra-cgr-58m6b-rgb-3858m60-0005",
+  "slug": "cougar-fv270-rgb-negra-cgr-58m6b-rgb-3858m60-0005",
+  "name": "Cougar FV270 RGB Negra (CGR-58M6B-RGB) (3858M60.0005)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "3858M60.0005",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/fv270-rgb/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "3 × 140 mm + 1 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "cougar-mx600-mini-rgb-negra-cgr-5gc9b-rgb-385gc90-0001",
+  "slug": "cougar-mx600-mini-rgb-negra-cgr-5gc9b-rgb-385gc90-0001",
+  "name": "Cougar MX600 Mini RGB Negra (CGR-5GC9B-RGB) (385GC90.0001)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385GC90.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/mx600-mini-rgb/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "2 × 160 mm + 1 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "cougar-gemini-t-pro-106kmt0008-00",
+  "slug": "cougar-gemini-t-pro-106kmt0008-00",
+  "name": "Cougar Gemini T Pro (106KMT0008-00)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "106KMT0008-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/gemini-t-pro/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "2 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "cougar-mx600-rgb-negra-cgr-57c9b-rgb-3857c90-0001",
+  "slug": "cougar-mx600-rgb-negra-cgr-57c9b-rgb-3857c90-0001",
+  "name": "Cougar MX600 RGB Negra (CGR-57C9B-RGB) (3857C90.0001)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "3857C90.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/mx600-rgb/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "3 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "cougar-cfv235-blanca-cgr-2da4w-382da40-0002",
+  "slug": "cougar-cfv235-blanca-cgr-2da4w-382da40-0002",
+  "name": "Cougar CFV235 Blanca (CGR-2DA4W) (382DA40.0002)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "382DA40.0002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/cfv235/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "1 × 240 mm (doble 120 mm) + 1 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "cougar-airface-180-negra-cgr-5va4b-rgb-385va40-0001",
+  "slug": "cougar-airface-180-negra-cgr-5va4b-rgb-385va40-0001",
+  "name": "Cougar Airface 180 Negra (CGR-5VA4B-RGB) (385VA40.0001)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385VA40.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/airface-180/",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "340 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "2 × 180 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm"
+  }
+ }
+]

@@ -1,0 +1,1123 @@
+[
+  {
+    "product_id": "arctic-freezer-36-s-argb-black",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Freezer-36-S-A-RGB-Black/ACFRE00198A",
+    "note": "La ficha técnica ARCTIC del SKU ACFRE00198A especifica el ventilador P12 Pro A-RGB de 120 × 120 × 25 mm; la nota oficial de la serie Freezer 36-S indica que incluye un único ventilador."
+  },
+  {
+    "product_id": "arctic-freezer-36-s-argb-black",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "156 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Freezer-36-S-A-RGB-Black/ACFRE00198A",
+    "note": "La ficha técnica del SKU ACFRE00198A publica dimensiones 126 × 88 × 156 mm (L × W × H)."
+  },
+  {
+    "product_id": "arctic-freezer-36-s-argb-white",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Freezer-36-S-A-RGB-White/ACFRE00199A",
+    "note": "La ficha técnica ARCTIC identifica el SKU blanco ACFRE00199A y especifica un P12 Pro A-RGB de 120 × 120 × 25 mm; la nota oficial de la serie indica un único ventilador."
+  },
+  {
+    "product_id": "arctic-freezer-36-s-black",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Freezer-36-S/ACFRE00196A",
+    "note": "La ficha técnica del SKU ACFRE00196A especifica el P12 Pro de 120 × 120 × 25 mm; la nota oficial de la serie Freezer 36-S indica que incluye un único ventilador."
+  },
+  {
+    "product_id": "arctic-freezer-36-s-black",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "156 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Freezer-36-S/ACFRE00196A",
+    "note": "La ficha técnica del SKU ACFRE00196A publica dimensiones 126 × 88 × 156 mm (L × W × H)."
+  },
+  {
+    "product_id": "arctic-freezer-36-s-white",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Freezer-36-S/ACFRE00194A",
+    "note": "La ficha técnica identifica el SKU blanco ACFRE00194A y especifica el P12 Pro de 120 × 120 × 25 mm; la nota oficial de la serie Freezer 36-S indica un único ventilador."
+  },
+  {
+    "product_id": "arctic-freezer-8i-acfre00190a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 100 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Freezer-8i/ACFRE00190A",
+    "note": "La ficha técnica del SKU ACFRE00190A especifica un ventilador P10 de 100 × 100 × 25 mm."
+  },
+  {
+    "product_id": "arctic-freezer-8i-acfre00190a",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "136 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Freezer-8i/ACFRE00190A",
+    "note": "La ficha técnica del SKU ACFRE00190A publica dimensiones 83 × 108 × 136 mm (L × W × H)."
+  },
+  {
+    "product_id": "arctic-liquid-freezer-iii-pro-280-argb-white-acfre00187a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 140 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-280-A-RGB-White/ACFRE00187A",
+    "note": "La ficha oficial del SKU ACFRE00187A especifica dos ventiladores P14 Pro A-RGB; la ficha dimensional publica el tamaño de ventilador de 140 mm."
+  },
+  {
+    "product_id": "arctic-liquid-freezer-iii-pro-420-argb-white-acfre00189a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 140 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/Liquid-Freezer-III-Pro-420-A-RGB-White/ACFRE00189A",
+    "note": "La ficha oficial del SKU ACFRE00189A especifica tres ventiladores P14 Pro A-RGB de 140 mm."
+  },
+  {
+    "product_id": "arctic-acfre00181a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 140 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-420/ACFRE00181A",
+    "note": "La ficha oficial del SKU ACFRE00181A especifica tres ventiladores P14 Pro; la hoja dimensional identifica ventiladores de 140 mm."
+  },
+  {
+    "product_id": "arctic-acfre00185a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 140 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/Liquid-Freezer-III-Pro-420-A-RGB/ACFRE00185A",
+    "note": "La ficha oficial del SKU ACFRE00185A especifica tres ventiladores P14 Pro A-RGB de 140 mm."
+  },
+  {
+    "product_id": "arctic-acfre00185a",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/Liquid-Freezer-III-Pro-420-A-RGB/ACFRE00185A",
+    "note": "La ficha del SKU ACFRE00185A indica compatibilidad AMD AM5/AM4 e Intel LGA1851/LGA1700."
+  },
+  {
+    "product_id": "arctic-alpine-17-acalp00040a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 92 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Alpine-17/ACALP00040A",
+    "note": "La ficha técnica de ACALP00040A publica un ventilador de 92 mm y representa una unidad integrada en el disipador."
+  },
+  {
+    "product_id": "deepcool-ag300-g2",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 92 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AG300-G2-Superior-Performance-3-Heatpipe-Single-Tower-CPU-Cooler/2026/22966.shtml",
+    "note": "La ficha del P/N R-AG300-BKAMMG2 especifica un ventilador PWM de 92 × 92 × 25 mm."
+  },
+  {
+    "product_id": "deepcool-ag400-g2",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AG400-G2-Superior-Performance-4-Heatpipe-Single-Tower-CPU-Cooler/2025/22515.shtml",
+    "note": "La ficha del P/N R-AG400-BKNPMG2-G especifica un ventilador PWM de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "deepcool-ag600-argb",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AG600-ARGB-Superior-Performance-6-Heatpipe-Single-Tower-CPU-Cooler/2026/22803.shtml",
+    "note": "La ficha del P/N R-AG600-BKAMMG2-G especifica un ventilador A-RGB de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "deepcool-ak400-g2-digital-nyx",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AK400-G2-DIGITAL-NYX-AI-Dynamic-Adjustment-CPU-Cooler-with-Digital-Display/2025/21907.shtml",
+    "note": "La ficha del P/N R-AK400G2-BKNNMN-GJD-1 especifica un ventilador de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "deepcool-ak500-g2-digital-nyx",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AK500-G2-DIGITAL-NYX-AI-Dynamic-Adjustment-CPU-Cooler-with-Digital-Display/2025/21985.shtml",
+    "note": "La ficha del P/N R-AK500G2-BKNNMN-GJD-1 especifica un ventilador de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "deepcool-r-ak500g2-bknnmn-gjd",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AK500-G2-Wood-Grain-Top-Cover-CPU-Cooler/2025/21986.shtml",
+    "note": "La ficha del P/N R-AK500G2-BKNNMN-GJD indica compatibilidad Intel LGA1851/1700/1200/115X y AMD AM5/AM4."
+  },
+  {
+    "product_id": "thermaltake-cl-w361-pl12sw-a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://thermaltake.com/products/th240-v2-argb-sync-all-in-one-liquid-cooler",
+    "note": "La ficha del P/N CL-W361-PL12SW-A indica dos ventiladores CT120 ARGB, cada uno de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "thermaltake-cl-w376-pl14sw-a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 140 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://thermaltake.com/products/th420-v2-argb-sync-all-in-one-liquid-cooler",
+    "note": "La ficha del P/N CL-W376-PL14SW-A indica tres ventiladores CT140 ARGB de 140 × 140 × 25 mm."
+  },
+  {
+    "product_id": "thermaltake-cl-w386-pl14sw-a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 140 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://thermaltake.com/products/th420-ultra-argb-sync-all-in-one-liquid-cooler",
+    "note": "La ficha del P/N CL-W386-PL14SW-A indica tres ventiladores CT140 ARGB de 140 × 140 × 25 mm."
+  },
+  {
+    "product_id": "thermaltake-cl-w384-pl12sw-a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://thermaltake.com/products/th360-ultra-argb-sync-all-in-one-liquid-cooler",
+    "note": "La ficha del P/N CL-W384-PL12SW-A indica tres ventiladores CT120 ARGB de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "thermaltake-cl-w383-pl12sw-a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://thermaltake.com/products/th240-ultra-argb-sync-all-in-one-liquid-cooler",
+    "note": "La ficha del P/N CL-W383-PL12SW-A indica dos ventiladores CT120 ARGB de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "thermaltake-cl-w370-pl14sw-a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 140 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://thermaltake.com/products/toughliquid-ultra-420-rgb-all-in-one-liquid-cooler",
+    "note": "La ficha del P/N CL-W370-PL14SW-A especifica tres ventiladores TOUGHFAN 14 RGB de 140 × 140 × 25 mm."
+  },
+  {
+    "product_id": "cooler-master-mly-d36m-a24pz-r1",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.coolermaster.com/en-global/products/MLY-D36M-A24PZ-R1.html",
+    "note": "Ficha oficial: especificaciones listan dimensiones 120 × 120 × 25 mm y Fan Quantity 3 PCS."
+  },
+  {
+    "product_id": "hiditec-c20-pro-cpuh10002",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "158 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/refrigeracion-de-aire/24-c20-pro.html",
+    "note": "Ficha técnica: dimensiones 125 × 158 × 135 mm; altura es 158 mm."
+  },
+  {
+    "product_id": "hiditec-c20-pro-cpuh10002",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/refrigeracion-de-aire/24-c20-pro.html",
+    "note": "Ficha técnica: número de ventiladores 2; dimensiones de ventilador 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "bequiet-dark-rock-6",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 135 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/cpucooler/7325",
+    "note": "Ficha técnica: número de ventiladores 1; dimensiones 135 × 135 × 25 mm."
+  },
+  {
+    "product_id": "hiditec-c40-pro-cpuh10003",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "164.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/refrigeracion-de-aire/63-c40-pro.html",
+    "note": "Ficha técnica: dimensiones 143 × 146 × 164.5 mm."
+  },
+  {
+    "product_id": "hiditec-c40-pro-cpuh10003",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 140 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/refrigeracion-de-aire/63-c40-pro.html",
+    "note": "Ficha del modelo: dos ventiladores; dimensión 140 mm."
+  },
+  {
+    "product_id": "hiditec-dc10-pro-cpuh10004",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "160 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/refrigeracion-de-aire/65-dc10-pro.html",
+    "note": "Ficha técnica: dimensiones 125 × 82 × 160 mm."
+  },
+  {
+    "product_id": "hiditec-dc40-pro",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "163 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/refrigeracion-de-aire/75-dc40-pro.html",
+    "note": "Ficha técnica: dimensiones 123 × 120 × 163 mm."
+  },
+  {
+    "product_id": "hiditec-dc40-pro",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/refrigeracion-de-aire/75-dc40-pro.html",
+    "note": "Ficha del modelo CPUH10006 declara dos ventiladores de 120 mm."
+  },
+  {
+    "product_id": "hiditec-dc20-pro",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "160 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/gb/air-cooling/72-dc20-pro.html",
+    "note": "Ficha técnica: dimensiones 120 × 76 × 160 mm."
+  },
+  {
+    "product_id": "hiditec-dc20-pro",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/gb/air-cooling/72-dc20-pro.html",
+    "note": "Ficha técnica: Fan units 1; fan dimensions 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "hiditec-c40-pro-cpuh10003",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM3, AM2, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA1156, LGA1366",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/refrigeracion-de-aire/63-c40-pro.html",
+    "note": "Ficha del modelo CPUH10003 lista compatibilidades Intel y AMD."
+  },
+  {
+    "product_id": "endorfy-ey3a010",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM2+, FM2+, FM1, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011-v3, LGA2011, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en-en/products/fortis-5-argb",
+    "note": "La ficha técnica oficial de Fortis 5 ARGB (SKU EY3A010) enumera los sockets AMD e Intel marcados como compatibles."
+  },
+  {
+    "product_id": "endorfy-ey3a010",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "159 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en-en/products/fortis-5-argb",
+    "note": "La tabla de especificaciones de Fortis 5 ARGB (SKU EY3A010) publica altura (incluido ventilador) de 159 mm."
+  },
+  {
+    "product_id": "endorfy-ey3a012",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM2+, FM2+, FM1, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011-v3, LGA2011, LGA1366, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en-en/products/fera-5-black-argb",
+    "note": "La ficha técnica oficial de Fera 5 Black ARGB (SKU EY3A012) enumera los sockets AMD e Intel marcados como compatibles."
+  },
+  {
+    "product_id": "endorfy-ey3a012",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "155 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en-en/products/fera-5-black-argb",
+    "note": "La tabla de especificaciones de Fera 5 Black ARGB (SKU EY3A012) publica altura (incluido ventilador) de 155 mm."
+  },
+  {
+    "product_id": "endorfy-ey3a014",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM2+, FM2+, FM1, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011-v3, LGA2011, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en/products/fortis-5-black-argb",
+    "note": "La ficha técnica oficial de Fortis 5 Black ARGB (SKU EY3A014) enumera los sockets AMD e Intel marcados como compatibles."
+  },
+  {
+    "product_id": "endorfy-ey3a014",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "159 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en/products/fortis-5-black-argb",
+    "note": "La tabla de especificaciones de Fortis 5 Black ARGB (SKU EY3A014) publica altura (incluido ventilador) de 159 mm."
+  },
+  {
+    "product_id": "endorfy-ey3a008",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM2+, FM2+, FM1, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011-v3, LGA2011, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en-en/products/fortis-5",
+    "note": "La ficha técnica oficial de Fortis 5 (SKU EY3A008) enumera los sockets AMD e Intel marcados como compatibles."
+  },
+  {
+    "product_id": "endorfy-ey3a008",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "159 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en-en/products/fortis-5",
+    "note": "La tabla de especificaciones de Fortis 5 (SKU EY3A008) publica altura (incluido ventilador) de 159 mm."
+  },
+  {
+    "product_id": "endorfy-ey3a007",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM2+, FM2+, FM1, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011-v3, LGA2011, LGA1366, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en-en/products/fera-5-argb",
+    "note": "La ficha técnica oficial de Fera 5 ARGB (SKU EY3A007) enumera los sockets AMD e Intel marcados como compatibles."
+  },
+  {
+    "product_id": "endorfy-ey3a007",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "155 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en-en/products/fera-5-argb",
+    "note": "La tabla de especificaciones de Fera 5 ARGB (SKU EY3A007) publica altura (incluido ventilador) de 155 mm."
+  },
+  {
+    "product_id": "endorfy-ey3a002",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM2+, FM2+, FM1, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en/products/spartan-5-argb",
+    "note": "La ficha técnica oficial de Spartan 5 ARGB (SKU EY3A002) enumera los sockets AMD e Intel marcados como compatibles."
+  },
+  {
+    "product_id": "endorfy-ey3a004",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM2+, FM2+, FM1, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/products/spartan-5-max-argb",
+    "note": "La ficha técnica oficial de Spartan 5 MAX ARGB (SKU EY3A004) enumera los sockets AMD e Intel marcados como compatibles."
+  },
+  {
+    "product_id": "endorfy-ey3a003",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM2+, FM2+, FM1, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en/products/spartan-5-max",
+    "note": "La ficha técnica oficial de Spartan 5 MAX (SKU EY3A003) enumera los sockets AMD e Intel marcados como compatibles."
+  },
+  {
+    "product_id": "endorfy-ey3b003",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA2066, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://endorfy.com/en/products/navis-f360",
+    "note": "La ficha técnica oficial de Navis F360 (SKU EY3B003) enumera los sockets AMD e Intel marcados como compatibles."
+  },
+  {
+    "product_id": "be-quiet-pure-loop-3-280mm-bw028eu",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/watercooler/6138",
+    "note": "La tabla “Socket compatibility” de la ficha oficial de Pure Loop 3 280mm, article BW028EU enumera AMD AM5/AM4 e Intel LGA1851/1700/1200/1151/1150/1155."
+  },
+  {
+    "product_id": "be-quiet-silent-loop-3-240mm-bw024",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://bequiet.com/en/watercooler/5399",
+    "note": "La tabla “Socket compatibility” de la ficha oficial de Silent Loop 3 240mm, article BW024 enumera AMD AM5/AM4 e Intel LGA1851/1700/1200/1151/1150/1155."
+  },
+  {
+    "product_id": "be-quiet-pure-loop-3-lx-240mm-bw030eu",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/watercooler/6140",
+    "note": "La tabla “Socket compatibility” de la ficha oficial de Pure Loop 3 LX 240mm, article BW030EU enumera AMD AM5/AM4 e Intel LGA1851/1700/1200/1151/1150/1155."
+  },
+  {
+    "product_id": "be-quiet-pure-loop-3-lx-360mm-bw031eu",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/watercooler/6141",
+    "note": "La tabla “Socket compatibility” de la ficha oficial de Pure Loop 3 LX 360mm, article BW031EU enumera AMD AM5/AM4 e Intel LGA1851/1700/1200/1151/1150/1155."
+  },
+  {
+    "product_id": "be-quiet-light-loop-240mm-bw020",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/cpucooler/5183",
+    "note": "La tabla “Socket compatibility” de la ficha oficial de Light Loop 240mm, article BW020 enumera AMD AM5/AM4 e Intel LGA1851/1700/1200/1151/1150/1155."
+  },
+  {
+    "product_id": "asus-90rc00k1-m0uay0",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://estore.asus.com/es/90rc00k1-m0uay0-rog-ryujin-iii-240-argb.html",
+    "note": "La ficha ASUS del MPN 90RC00K1-M0UAY0 indica AM5/AM4 e Intel LGA 1851/1700/1200/115x."
+  },
+  {
+    "product_id": "msi-mag-coreliquid-a15-360",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://storage-asset.msi.com/datasheet/liquid-cooling/global/MAG-CORELIQUID-A15-360.pdf",
+    "note": "La ficha técnica oficial MAG CORELIQUID A15 360 lista AMD AM5/AM4 e Intel LGA1851/1700."
+  },
+  {
+    "product_id": "msi-mag-coreliquid-a15-360",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://storage-asset.msi.com/datasheet/liquid-cooling/global/MAG-CORELIQUID-A15-360.pdf",
+    "note": "La tabla de especificaciones declara Number of Fans: 3 y Fan Dimensions: 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "lian-li-ga2alcd36w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://lian-li.com/product/galahad-ii-lcd/",
+    "note": "La tabla de especificaciones GALAHAD II LCD asocia el SKU GA2ALCD36W/B con socket Intel LGA1851/1700/1200/115x y AMD AM5/AM4."
+  },
+  {
+    "product_id": "lian-li-ga2alcd36b",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://lian-li.com/product/galahad-ii-lcd/",
+    "note": "La tabla de especificaciones GALAHAD II LCD asocia el SKU GA2ALCD36W/B con socket Intel LGA1851/1700/1200/115x y AMD AM5/AM4."
+  },
+  {
+    "product_id": "mars-gaming-mcpu-xpro",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 90 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-xpro",
+    "note": "Ficha del MCPU-XPRO: “90mm PWM FDB fan”; especificaciones: Nº Ventiladores = 1; referencia MCPUXPRO."
+  },
+  {
+    "product_id": "mars-gaming-mcpu-vr-rosa-mcpuvrp",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-vr",
+    "note": "Ficha MCPU-VR: especifica Fan 120x25mm y Nº Ventiladores = 1; el selector ofrece color Rose; referencia MCPUVR."
+  },
+  {
+    "product_id": "mars-gaming-mcpu-vr-negro-mcpuvr",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-vr",
+    "note": "Ficha MCPU-VR: especifica Fan 120x25mm y Nº Ventiladores = 1; el selector ofrece color Black; referencia MCPUVR."
+  },
+  {
+    "product_id": "cougar-forza-50-argb-3mfzr50-0001",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "155 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://cougargaming.com/products/cooling/forza50argb/",
+    "note": "Ficha COUGAR FORZA 50 ARGB: 155 mm de alto; P/N 3MFZR50.0001 coincide con el catálogo."
+  },
+  {
+    "product_id": "zalman-alpha2-ds-a24-black",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1616",
+    "note": "ALPHA2 DS A24 (BLACK): la sección Socket Compatibility publica Intel LGA1851/1700/1200/115X y AMD AM5/AM4."
+  },
+  {
+    "product_id": "zalman-alpha2-ds-a36-black",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1617",
+    "note": "ALPHA2 DS A36 (BLACK): la sección Socket Compatibility publica Intel LGA1851/1700/1200/115X y AMD AM5/AM4."
+  },
+  {
+    "product_id": "zalman-alpha2-ds-a36-white",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1615",
+    "note": "ALPHA2 DS A36 (WHITE): la sección Socket Compatibility publica Intel LGA1851/1700/1200/115X y AMD AM5/AM4."
+  },
+  {
+    "product_id": "corsair-cw-9060088-ww",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060088-ww/nautilus-240-rs-liquid-cpu-cooler-cw-9060088-ww",
+    "note": "SKU CW-9060088-WW. QSG NAUTILUS 240|360 RS: 2x RS Fans para 240 RS; RS120 oficial especifica 120 mm. QSG: https://www.corsair.com/us/en/explorer/diy-builder/cpu-coolers/nautilus-240-360-rs/"
+  },
+  {
+    "product_id": "corsair-cw-9060095-ww",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060095-ww/nautilus-360-rs-argb-liquid-cpu-cooler-white-cw-9060095-ww",
+    "note": "SKU CW-9060095-WW. QSG NAUTILUS RS ARGB: 3x RS ARGB Fans para 360 RS; RS120 ARGB oficial especifica 120 mm. QSG: https://www.corsair.com/us/en/explorer/diy-builder/cpu-coolers/nautilus-240-360-rs-argb/"
+  },
+  {
+    "product_id": "corsair-cw-9060093-ww",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060093-ww/nautilus-360-rs-argb-liquid-cpu-cooler-cw-9060093-ww",
+    "note": "SKU CW-9060093-WW. QSG NAUTILUS RS ARGB: 3x RS ARGB Fans para 360 RS; RS120 ARGB oficial especifica 120 mm. QSG: https://www.corsair.com/us/en/explorer/diy-builder/cpu-coolers/nautilus-240-360-rs-argb/"
+  },
+  {
+    "product_id": "mars-gaming-ml-one240-white-mlone240w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/liquid-cooling/ml-one240",
+    "note": "La ficha oficial, referencia MLONE240W, especifica dos ventiladores FDB FRGB y muestra dimensiones de ventilador 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "alphacool-11999",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/11999-alphacool-eisbaer-aurora-hpe-edition-360-cpu-aio",
+    "note": "La ficha del modelo exacto especifica radiador de 360 mm, ventiladores de 120 mm y montaje de tres en un lado."
+  },
+  {
+    "product_id": "alphacool-13074",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/13074-alphacool-eisbaer-pro-hpe-aurora-360-cpu-aio",
+    "note": "La ficha del modelo exacto especifica radiador de 360 mm, ventiladores de 120 mm y montaje de tres en un lado."
+  },
+  {
+    "product_id": "lian-li-ga2alcd36w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://lian-li.com/es/product/galahad-ii-lcd/",
+    "note": "La tabla oficial vincula el MPN GA2ALCD36 con la versión 360 y ventiladores de 120 mm preinstalados."
+  },
+  {
+    "product_id": "lian-li-ga2alcd36b",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://lian-li.com/es/product/galahad-ii-lcd/",
+    "note": "La tabla oficial vincula el MPN GA2ALCD36 con la versión 360 y ventiladores de 120 mm preinstalados."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t201-argb-blanco-mc-c-t201-af0-w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/FILES/chlodzenie/COOL-VOLCANO-0C-T201-200-ARGB/product_card/MODECOM_Volcano_0C_T201_ARGB_AIR_COOLER_120_White_Karta_produktowa.pdf",
+    "note": "La ficha oficial identifica un ventilador de 120 mm."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t201-argb-blanco-mc-c-t201-af0-w",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "153 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/FILES/chlodzenie/COOL-VOLCANO-0C-T201-200-ARGB/product_card/MODECOM_Volcano_0C_T201_ARGB_AIR_COOLER_120_White_Karta_produktowa.pdf",
+    "note": "La ficha oficial publica dimensiones de 153 × 120 × 73 mm con ventilador."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t201-argb-blanco-mc-c-t201-af0-w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1366, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/FILES/chlodzenie/COOL-VOLCANO-0C-T201-200-ARGB/product_card/MODECOM_Volcano_0C_T201_ARGB_AIR_COOLER_120_White_Karta_produktowa.pdf",
+    "note": "Sockets indicados en la ficha oficial del modelo exacto."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t202-lcd-argb-blanco-mc-c-t202-afl-w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/FILES/chlodzenie/COOL-VOLCANO-0C-T202-200-LCD-ARGB/product_card/MODECOM_Volcano_0C_T202_LCD_ARGB_AIR_COOLER_120_White_Karta_produktowa.pdf",
+    "note": "La ficha oficial identifica un ventilador de 120 mm."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t202-lcd-argb-blanco-mc-c-t202-afl-w",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "153 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/FILES/chlodzenie/COOL-VOLCANO-0C-T202-200-LCD-ARGB/product_card/MODECOM_Volcano_0C_T202_LCD_ARGB_AIR_COOLER_120_White_Karta_produktowa.pdf",
+    "note": "La ficha oficial publica dimensiones de 153 × 120 × 73 mm con ventilador."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t202-lcd-argb-blanco-mc-c-t202-afl-w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1366, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/FILES/chlodzenie/COOL-VOLCANO-0C-T202-200-LCD-ARGB/product_card/MODECOM_Volcano_0C_T202_LCD_ARGB_AIR_COOLER_120_White_Karta_produktowa.pdf",
+    "note": "Sockets indicados en la ficha oficial del modelo exacto."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t721-argb-blanco-mc-c-t721-af0-w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/files/chlodzenie/COOL-VOLCANO-0C-T721-200/product_card/MODECOM_Volcano_0C_T721_AIR_COOLER_120_White_Karta_produktowa.pdf",
+    "note": "La ficha oficial identifica un ventilador de 120 mm."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t721-argb-blanco-mc-c-t721-af0-w",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "153 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/files/chlodzenie/COOL-VOLCANO-0C-T721-200/product_card/MODECOM_Volcano_0C_T721_AIR_COOLER_120_White_Karta_produktowa.pdf",
+    "note": "La ficha oficial publica dimensiones de 153 × 120 × 73 mm con ventilador."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t721-argb-blanco-mc-c-t721-af0-w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1366, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/files/chlodzenie/COOL-VOLCANO-0C-T721-200/product_card/MODECOM_Volcano_0C_T721_AIR_COOLER_120_White_Karta_produktowa.pdf",
+    "note": "Sockets indicados en la ficha oficial del modelo exacto."
+  },
+  {
+    "product_id": "mars-gaming-mllcd240w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-ml-lcd240",
+    "note": "La ficha oficial de ML-LCD240 (referencia MLLCD240W) declara dos ventiladores ARGB de 120 mm."
+  },
+  {
+    "product_id": "mars-gaming-mllcd360w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-argb-ml-lcd360",
+    "note": "La ficha oficial de ML-LCD360 (referencia MLLCD360W) declara tres ventiladores ARGB de 120 mm."
+  },
+  {
+    "product_id": "mars-gaming-mlultra240w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-premium-ml-ultra240",
+    "note": "La ficha oficial de ML-ULTRA240 declara dos ventiladores y dimensiones de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "mars-gaming-mlultra360w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-premium-ml-ultra360",
+    "note": "La ficha oficial de ML-ULTRA360 declara tres ventiladores y dimensiones de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "mars-gaming-mlone360w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-ml-one360",
+    "note": "La ficha oficial de ML-ONE360 declara tres ventiladores y dimensiones de 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "mars-gaming-mlvision360w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "3 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-ml-vision360",
+    "note": "La ficha oficial de ML-VISION360 (referencia MLVISION360W) declara tres ventiladores de 120 mm."
+  },
+  {
+    "product_id": "unykach-unycool-h37",
+    "category_id": "cooler",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/es/consumo/coolers/coolers-fan-cpu/disipador-cpu-perfil-bajo-unycool-h37-uk321015/",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA1156",
+    "note": "La sección técnica de sockets del fabricante lista AM5/AM4 y LGA 1851/1700/1200/1151/1150/1155/1156."
+  },
+  {
+    "product_id": "unykach-unycool-h37",
+    "category_id": "cooler",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/es/consumo/coolers/coolers-fan-cpu/disipador-cpu-perfil-bajo-unycool-h37-uk321015/",
+    "key": "Altura",
+    "value": "37 mm",
+    "note": "La ficha oficial publica dimensiones de 103 × 92 × 37 mm para el cooler."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t200-blanco-mc-c-t200-000-w",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "153 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/FILES/chlodzenie/COOL-VOLCANO-0C-T200-200/ecommerce/0CT200White.pdf",
+    "note": "La ficha oficial específica del modelo declara dimensiones con ventilador 153 × 120 × 73 mm."
+  },
+  {
+    "product_id": "modecom-volcano-0c-t700-negro-mc-c-t700-000-b",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "153 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://files.modecom.com/FILES/chlodzenie/COOL-VOLCANO-0C-T700-100/ecommerce/0CT700_Black.pdf",
+    "note": "La ficha oficial específica del modelo declara dimensiones con ventilador 153 × 120 × 73 mm."
+  },
+  {
+    "product_id": "unykach-unycool-h37",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 90 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/es/consumo/coolers/coolers-fan-cpu/disipador-cpu-perfil-bajo-unycool-h37-uk321015/",
+    "note": "La ficha oficial del SKU UK321015 dice que incluye un ventilador PWM de 90 mm y da dimensiones del ventilador de 90 × 90 × 15 mm."
+  },
+  {
+    "product_id": "forgeon-air-solarian-4pipes-120mm-argb-blanco-fo-cpu-sol4121v1w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "1 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/ventilador-cpu-forgeon-air-solarian-4pipes-120mm-argb-cpu-cooler-blanco",
+    "note": "Ficha de Forgeon (marca de PcComponentes), P/N FO-CPU-SOL4121V1W: declara un ventilador incluido y dimensiones de ventilador 120 × 120 × 25 mm."
+  },
+  {
+    "product_id": "forgeon-air-solarian-4pipes-120mm-argb-blanco-fo-cpu-sol4121v1w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, LGA1700, LGA1200",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/ventilador-cpu-forgeon-air-solarian-4pipes-120mm-argb-cpu-cooler-blanco",
+    "note": "Ficha exacta Forgeon/PcComponentes, P/N FO-CPU-SOL4121V1W; declara compatibilidad AM4, AM5, LGA 1200 y LGA 1700."
+  },
+  {
+    "product_id": "forgeon-air-solarian-4pipes-120mm-argb-blanco-fo-cpu-sol4121v1w",
+    "category_id": "cooler",
+    "key": "Altura",
+    "value": "158 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/ventilador-cpu-forgeon-air-solarian-4pipes-120mm-argb-cpu-cooler-blanco",
+    "note": "Ficha exacta Forgeon/PcComponentes, P/N FO-CPU-SOL4121V1W; dimensiones del cooler 158 × 122 × 76 mm."
+  },
+  {
+    "product_id": "tempest-iceflow-240-argb-black-tp-lco-ice-240w-b",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/tempest-iceflow-refrigeracion-liquida-240-argb-kit-liquid-cooler-negra",
+    "note": "Ficha de Tempest/PcComponentes para P/N TP-LCO-ICE-240W-B; publica compatibles LGA 115X/1200/1700/1851 y AM3/AM4/AM5."
+  },
+  {
+    "product_id": "tempest-iceflow-240-argb-white-tp-lco-ice-240w-w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/tempest-iceflow-refrigeracion-liquida-240-argb-kit-liquid-cooler-blanca",
+    "note": "Ficha de Tempest/PcComponentes para P/N TP-LCO-ICE-240W-W; publica compatibles LGA 115X/1200/1700/1851 y AM3/AM4/AM5."
+  },
+  {
+    "product_id": "tempest-cooler-6pipes-black-a-rgb-2x120mm-tp-coolpro-6pb2",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/tempest-cooler-6pipes-black-a-rgb-ventilador-cpu-dual-heatsink-2x120mm-negro",
+    "note": "Ficha oficial Tempest/PcComponentes para P/N TP-COOLPRO-6PB2: declara dos ventiladores de 120 mm."
+  },
+  {
+    "product_id": "tempest-cooler-6pipes-white-a-rgb-2x120mm-tp-coolpro-6pw2",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "value": "2 × 120 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/tempest-cooler-6pipes-white-a-rgb-ventilador-cpu-dual-heatsink-2x120mm-blanco",
+    "note": "Ficha oficial Tempest/PcComponentes para P/N TP-COOLPRO-6PW2: declara dos ventiladores de 120 mm."
+  },
+  {
+    "product_id": "chieftec-iceberg-pro-360-dark-clc-360-vrm-blk",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://plasico.bg/resources/iceberg-pro-dark-en.pdf",
+    "value": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2+, FM2, FM1, LGA1851, LGA1700, LGA1200, LGA2011, LGA1366, LGA115x"
+  },
+  {
+    "product_id": "chieftec-iceberg-pro-360-dark-clc-360-vrm-blk",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://plasico.bg/resources/iceberg-pro-dark-en.pdf",
+    "value": "3 × 120 mm"
+  },
+  {
+    "product_id": "chieftec-iceberg-pro-360-dark-clc-360-vrm-blk",
+    "category_id": "cooler",
+    "key": "Radiador",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://plasico.bg/resources/iceberg-pro-dark-en.pdf",
+    "value": "360 mm"
+  },
+  {
+    "product_id": "arctic-acfre00226a",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.arctic.de/en/Freezer-4U-Altra/ACFRE00226A",
+    "value": "2 × 120 mm"
+  },
+  {
+    "product_id": "alphacool-11286",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/11286-alphacool-eisbaer-360-cpu-black",
+    "value": "3 × 120 mm"
+  },
+  {
+    "product_id": "alphacool-11285",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/11285-alphacool-eisbaer-240-cpu-black",
+    "value": "2 × 120 mm"
+  },
+  {
+    "product_id": "tempest-iceflow-240-argb-black-tp-lco-ice-240w-b",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "source": "manual",
+    "date": "2026-11-11",
+    "source_url": "https://www.pccomponentes.com/tempest-iceflow-refrigeracion-liquida-240-argb-kit-liquid-cooler-negra",
+    "value": "2 × 120 mm"
+  },
+  {
+    "product_id": "tempest-iceflow-240-argb-white-tp-lco-ice-240w-w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "source": "manual",
+    "date": "2026-11-11",
+    "source_url": "https://www.pccomponentes.com/tempest-iceflow-refrigeracion-liquida-240-argb-kit-liquid-cooler-blanca",
+    "value": "2 × 120 mm"
+  },
+  {
+    "product_id": "tryx-panorama-se-360-argb-white-l-p360l-am3m-g0w",
+    "category_id": "cooler",
+    "key": "Ventiladores",
+    "source": "manual",
+    "date": "2026-11-11",
+    "source_url": "https://www.tryx.com/en/products/cooling/panorama/panorama-se/white-360",
+    "value": "3 × 120 mm"
+  }
+]

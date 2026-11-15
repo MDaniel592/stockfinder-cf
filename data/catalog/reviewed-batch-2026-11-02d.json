@@ -1,0 +1,195 @@
+[
+  {
+    "id": "asus-tuf-gaming-radeon-rx-9070-xt-oc-16gb",
+    "slug": "asus-tuf-gaming-radeon-rx-9070-xt-oc-16gb",
+    "name": "ASUS TUF Gaming Radeon RX 9070 XT OC 16 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "90YV0L70-M0NA00",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/graphics-cards/tuf-gaming/tuf-rx9070xt-o16g-gaming/techspec/",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "3060 MHz (modo predeterminado)",
+      "Longitud": "330 mm",
+      "Dimensiones": "330 × 140 × 62,5 mm",
+      "Ranuras": "3,125",
+      "Fuente recomendada": "850 W",
+      "Conectores de alimentación": "3 × 8 pines",
+      "Consumo (TBP)": "304 W"
+    }
+  },
+  {
+    "id": "sapphire-pulse-radeon-rx-9070-xt-16gb",
+    "slug": "sapphire-pulse-radeon-rx-9070-xt-16gb",
+    "name": "Sapphire PULSE Radeon RX 9070 XT 16 GB",
+    "category_id": "gpu",
+    "brand": "Sapphire",
+    "mpn": "11348-03-20G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9070-xt-16g-gddr6",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "2970 MHz",
+      "Conectores de alimentación": "2 × 8 pines",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)",
+      "Longitud": "320 mm"
+    }
+  },
+  {
+    "id": "sapphire-nitro-plus-radeon-rx-9070-xt-oc-16gb",
+    "slug": "sapphire-nitro-plus-radeon-rx-9070-xt-oc-16gb",
+    "name": "Sapphire NITRO+ Radeon RX 9070 XT OC 16 GB",
+    "category_id": "gpu",
+    "brand": "Sapphire",
+    "mpn": "11348-01-20G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/nitro-radeon-rx-9070-xt-16g-gddr6",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "3060 MHz",
+      "Conectores de alimentación": "1 × 12V-2x6 (adaptador 3 × 8 pines incluido)",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "sapphire-pure-radeon-rx-9070-xt-oc-16gb",
+    "slug": "sapphire-pure-radeon-rx-9070-xt-oc-16gb",
+    "name": "Sapphire PURE Radeon RX 9070 XT OC 16 GB",
+    "category_id": "gpu",
+    "brand": "Sapphire",
+    "mpn": "11348-02-20G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/pure-radeon-rx-9070-xt-16g-gddr6",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "3010 MHz",
+      "Conectores de alimentación": "2 × 8 pines",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)",
+      "Longitud": "320 mm"
+    }
+  },
+  {
+    "id": "xfx-swift-radeon-rx-9070-xt-16gb",
+    "slug": "xfx-swift-radeon-rx-9070-xt-16gb",
+    "name": "XFX Swift Radeon RX 9070 XT Triple Fan 16 GB",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-97TSWF3B9",
+    "manufacturer_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070xt-triple-fan-gaming-edition",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "2970 MHz",
+      "Longitud": "325 mm",
+      "Dimensiones": "325 × 150 × 65 mm",
+      "Fuente recomendada": "850 W",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W"
+    }
+  },
+  {
+    "id": "xfx-mercury-radeon-rx-9070-xt-oc-rgb-16gb",
+    "slug": "xfx-mercury-radeon-rx-9070-xt-oc-rgb-16gb",
+    "name": "XFX Mercury Radeon RX 9070 XT OC RGB 16 GB",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-97TRGBBB9",
+    "manufacturer_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9070xt-oc-gaming-edition-with-rgb",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "3100 MHz",
+      "Longitud": "360 mm",
+      "Dimensiones": "360 × 155 × 72 mm",
+      "Fuente recomendada": "850 W",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W"
+    }
+  },
+  {
+    "id": "palit-geforce-rtx-5060-ti-infinity-3-16gb",
+    "slug": "palit-geforce-rtx-5060-ti-infinity-3-16gb",
+    "name": "Palit GeForce RTX 5060 Ti Infinity 3 16 GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "mpn": "NE7506T019T1-GB2061S",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5495&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "pny-geforce-rtx-5080-overclocked-triple-fan-16gb",
+    "slug": "pny-geforce-rtx-5080-overclocked-triple-fan-16gb",
+    "name": "PNY GeForce RTX 5080 Overclocked Triple Fan 16 GB",
+    "category_id": "gpu",
+    "brand": "PNY",
+    "mpn": "VCG508016TFXPB1-O",
+    "manufacturer_url": "https://pny.com/geforce-rtx-5080-series?sku=VCG508016TFXPB1-O",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Frecuencia turbo": "2730 MHz",
+      "Fuente recomendada": "850 W",
+      "Conectores de alimentación": "1 × 16 pines (adaptador a 3 × 8 pines)",
+      "Ranuras": "3",
+      "Consumo (TGP)": "360 W"
+    }
+  },
+  {
+    "id": "powercolor-reaper-radeon-rx-9070-gre-12gb",
+    "slug": "powercolor-reaper-radeon-rx-9070-gre-12gb",
+    "name": "PowerColor Reaper Radeon RX 9070 GRE 12 GB",
+    "category_id": "gpu",
+    "brand": "PowerColor",
+    "mpn": "RX9070GRE 12G-A",
+    "manufacturer_url": "https://www.powercolor.com/product-detail280.htm",
+    "specs_verified_at": "2026-11-02T14:30:00Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 GRE",
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "192 bits",
+      "Frecuencia turbo": "2790 MHz",
+      "Dimensiones": "289 × 111 × 41 mm",
+      "Longitud": "289 mm",
+      "Fuente recomendada": "650 W",
+      "Conectores de alimentación": "2 × 8 pines"
+    }
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "id": "gigabyte-aorus-elite-p1000w-v2",
+    "slug": "gigabyte-aorus-elite-p1000w-v2",
+    "name": "Gigabyte AORUS ELITE P1000W V2 (Rev. 2.0)",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-AE1000PM PG5 V2 EU",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-AE1000PM-PG5-V2/sp",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Estándar ATX": "ATX 3.1",
+      "Eficiencia": "80 PLUS / Cybenetics Platinum",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm FDB",
+      "Conector GPU": "PCIe Gen 5.1 (16 pines)"
+    }
+  },
+  {
+    "id": "gigabyte-gaming-850gm-pg5",
+    "slug": "gigabyte-gaming-850gm-pg5",
+    "name": "Gigabyte GAMING 850GM PG5",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-GME850GM PG5",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-GME850GM-PG5/sp",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Estándar ATX": "ATX 3.1",
+      "Eficiencia": "80 PLUS Gold",
+      "Ventilador": "135 mm FDB",
+      "Dimensiones": "150 x 150 x 86 mm",
+      "Conector GPU": "16 pines (PCIe 5.1)",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "gigabyte-ud850gm-pg5-v2-ice",
+    "slug": "gigabyte-ud850gm-pg5-v2-ice",
+    "name": "Gigabyte UD850GM PG5 V2 ICE",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-UD850GM PG5 ICE EU",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD850GM-PG5-V2-ICE/sp",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Estándar ATX": "ATX 3.1",
+      "Eficiencia": "80 PLUS Gold / Cybenetics Platinum",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm HYB",
+      "Color": "Blanco (ICE)",
+      "Conector GPU": "16 pines nativo"
+    }
+  },
+  {
+    "id": "gigabyte-ud1000gm-pg5-v2",
+    "slug": "gigabyte-ud1000gm-pg5-v2",
+    "name": "Gigabyte UD1000GM PG5 V2",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-UD1000GM PG5 V2 EU",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5-V2/sp",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Estándar ATX": "ATX 3.1",
+      "Eficiencia": "80 PLUS Gold / Cybenetics Platinum",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm HYB",
+      "Dimensiones": "150 x 140 x 86 mm",
+      "Conector GPU": "12+4 pines (PCIe 5.1)",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "gigabyte-ud750gm-pg5-ice",
+    "slug": "gigabyte-ud750gm-pg5-ice",
+    "name": "Gigabyte UD750GM PG5 ICE",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-UD750GM PG5 ICE EU",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD750GM-PG5-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "750 W",
+      "Estándar ATX": "ATX 3.1",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm HYB",
+      "Dimensiones": "150 x 140 x 86 mm",
+      "Color": "Blanco (ICE)",
+      "Conector GPU": "12+4 pines (PCIe 5.1)",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "gigabyte-aorus-elite-p1000w-ice",
+    "slug": "gigabyte-aorus-elite-p1000w-ice",
+    "name": "Gigabyte AORUS ELITE P1000W ICE",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-AE1000PM PG5 ICE EU",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-AE1000PM-PG5-ICE/sp",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Estándar ATX": "ATX 3.0 (compatible con ATX 3.1)",
+      "Eficiencia": "80 PLUS Platinum",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm FDB",
+      "Color": "Blanco (ICE)",
+      "Conector GPU": "PCIe Gen 5.0"
+    }
+  },
+  {
+    "id": "gigabyte-aorus-elite-p850w",
+    "slug": "gigabyte-aorus-elite-p850w",
+    "name": "Gigabyte AORUS ELITE P850W",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-AE850PM PG5 EU",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-AE850PM-PG5/sp",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Estándar ATX": "ATX 3.0 (compatible con ATX 3.1)",
+      "Eficiencia": "80 PLUS Platinum",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm FDB",
+      "Conector GPU": "PCIe Gen 5.0"
+    }
+  },
+  {
+    "id": "gigabyte-p550ss",
+    "slug": "gigabyte-p550ss",
+    "name": "Gigabyte P550SS",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-P550SS EU",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-P550SS/sp",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "550 W",
+      "Estándar ATX": "ATX 3.0 (compatible con ATX 3.1)",
+      "Eficiencia": "80 PLUS Silver",
+      "Ventilador": "120 mm FDB",
+      "Dimensiones": "150 x 140 x 86 mm",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "gigabyte-p650ss-ice",
+    "slug": "gigabyte-p650ss-ice",
+    "name": "Gigabyte P650SS ICE",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-P650SS ICE EU",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-P650SS-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "650 W",
+      "Estándar ATX": "ATX 3.0 (compatible con ATX 3.1)",
+      "Eficiencia": "80 PLUS Silver",
+      "Ventilador": "120 mm FDB",
+      "Dimensiones": "150 x 140 x 86 mm",
+      "Color": "Blanco (ICE)",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "gigabyte-p650ss",
+    "slug": "gigabyte-p650ss",
+    "name": "Gigabyte P650SS",
+    "category_id": "psu",
+    "brand": "Gigabyte",
+    "mpn": "GP-P650SS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-P650SS/sp",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "650 W",
+      "Estándar ATX": "ATX 3.0 (compatible con ATX 3.1)",
+      "Eficiencia": "80 PLUS Silver",
+      "Ventilador": "120 mm FDB",
+      "Dimensiones": "150 x 140 x 86 mm",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "msi-mag-a1000pls-pcie5",
+    "slug": "msi-mag-a1000pls-pcie5",
+    "name": "MSI MAG A1000PLS PCIE5",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZPNY11-CE0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A1000PLS-PCIE5",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Eficiencia": "80 PLUS Platinum",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "135 mm FDB",
+      "Dimensiones": "150 x 150 x 86 mm",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "msi-pro-a1000pl-pcie5",
+    "slug": "msi-pro-a1000pl-pcie5",
+    "name": "MSI PRO A1000PL PCIE5",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZPLX11-HD8",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/PRO-A1000PL-PCIE5",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Eficiencia": "80 PLUS Platinum",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm",
+      "Dimensiones": "150 x 150 x 86 mm",
+      "Conector GPU": "PCIe 5.1 16 pines (600 W)"
+    }
+  },
+  {
+    "id": "msi-pro-a850pl-pcie5",
+    "slug": "msi-pro-a850pl-pcie5",
+    "name": "MSI PRO A850PL PCIE5",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZPLY11-HD8",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/PRO-A850PL-PCIE5",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Eficiencia": "80 PLUS Platinum",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm",
+      "Dimensiones": "150 x 150 x 86 mm",
+      "Conector GPU": "PCIe 5.1 16 pines (600 W)"
+    }
+  },
+  {
+    "id": "msi-mag-a750bn-pcie5-ii",
+    "slug": "msi-mag-a750bn-pcie5-ii",
+    "name": "MSI MAG A750BN PCIE5 II",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZPSX11-CE0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A750BN-PCIE5-II",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "750 W",
+      "Eficiencia": "80 PLUS Bronze",
+      "Modularidad": "No modular",
+      "Ventilador": "120 mm",
+      "Dimensiones": "140 x 150 x 86 mm",
+      "Conector GPU": "PCIe 5.1 16 pines (450 W)"
+    }
+  },
+  {
+    "id": "msi-mag-a650bn-pcie5-ii",
+    "slug": "msi-mag-a650bn-pcie5-ii",
+    "name": "MSI MAG A650BN PCIE5 II",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZPSY11-CE0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A650BN-PCIE5-II",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "650 W",
+      "Eficiencia": "80 PLUS Bronze",
+      "Modularidad": "No modular",
+      "Ventilador": "120 mm",
+      "Dimensiones": "140 x 150 x 86 mm",
+      "Conector GPU": "PCIe 5.1 16 pines (300 W)"
+    }
+  },
+  {
+    "id": "msi-mag-a1000gl-pcie5-ii",
+    "slug": "msi-mag-a1000gl-pcie5-ii",
+    "name": "MSI MAG A1000GL PCIE5 II",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZP9D11-CE0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A1000GL-PCIE5-II",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "135 mm FDB",
+      "Dimensiones": "150 x 150 x 86 mm",
+      "Conector GPU": "PCIe 5.1 16 pines (600 W)"
+    }
+  },
+  {
+    "id": "msi-mpg-a1250gs-pcie5",
+    "slug": "msi-mpg-a1250gs-pcie5",
+    "name": "MSI MPG A1250GS PCIE5",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZPFX11-CE0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/MPG-A1250GS-PCIE5",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "1250 W",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "135 mm FDB",
+      "Dimensiones": "150 x 150 x 86 mm",
+      "Conector GPU": "2 x PCIe 5.1 16 pines (600 W)"
+    }
+  },
+  {
+    "id": "msi-mag-a1250gl-pcie5",
+    "slug": "msi-mag-a1250gl-pcie5",
+    "name": "MSI MAG A1250GL PCIE5",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZP9A11-CE0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A1250GL-PCIE5",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "1250 W",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "135 mm FDB",
+      "Dimensiones": "150 x 150 x 86 mm",
+      "Conector GPU": "PCIe 5.1 16 pines (600 W)"
+    }
+  },
+  {
+    "id": "msi-mag-a750gl-pcie5",
+    "slug": "msi-mag-a750gl-pcie5",
+    "name": "MSI MAG A750GL PCIE5",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZP8B11-CE0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A750GL-PCIE5",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "750 W",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm",
+      "Dimensiones": "140 x 150 x 86 mm",
+      "Conector GPU": "PCIe 5.0 16 pines (450 W)"
+    }
+  },
+  {
+    "id": "msi-mag-a850gl-pcie5",
+    "slug": "msi-mag-a850gl-pcie5",
+    "name": "MSI MAG A850GL PCIE5",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZP8A11-CE0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A850GL-PCIE5",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "120 mm FDB",
+      "Dimensiones": "140 x 150 x 86 mm",
+      "Conector GPU": "PCIe 5.0 16 pines (600 W)"
+    }
+  },
+  {
+    "id": "msi-mpg-a1000g-pcie5",
+    "slug": "msi-mpg-a1000g-pcie5",
+    "name": "MSI MPG A1000G PCIE5",
+    "category_id": "psu",
+    "brand": "MSI",
+    "mpn": "306-7ZP7C11-CE0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Power-Supply/MPG-A1000G-PCIE5",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "135 mm FDB",
+      "Dimensiones": "150 x 150 x 86 mm",
+      "Conector GPU": "PCIe 5.0 16 pines (600 W)"
+    }
+  },
+  {
+    "id": "hiditec-bzpro-650",
+    "slug": "hiditec-bzpro-650",
+    "name": "Hiditec BZPRO 650",
+    "category_id": "psu",
+    "brand": "Hiditec",
+    "mpn": "PSU010057",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/71-bzpro-650-80plus-bronze-atx-31-pcie-51.html",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "650 W",
+      "Estándar ATX": "ATX 3.1 / PCIe 5.1",
+      "Conector GPU": "12V-2x6 nativo",
+      "Ventilador": "140 mm FDB",
+      "Dimensiones": "150 x 86 x 160 mm",
+      "Eficiencia": "80 PLUS Bronze",
+      "Modularidad": "No modular",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "hiditec-bzpro-750",
+    "slug": "hiditec-bzpro-750",
+    "name": "Hiditec BZPRO 750",
+    "category_id": "psu",
+    "brand": "Hiditec",
+    "mpn": "PSU010058",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/70-bzpro-750-80plus-bronze-atx-31-pcie-51.html",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "750 W",
+      "Estándar ATX": "ATX 3.1 / PCIe 5.1",
+      "Conector GPU": "12V-2x6 nativo",
+      "Ventilador": "140 mm FDB",
+      "Dimensiones": "150 x 86 x 160 mm",
+      "Eficiencia": "80 PLUS Bronze",
+      "Modularidad": "No modular",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "hiditec-bzpro-850",
+    "slug": "hiditec-bzpro-850",
+    "name": "Hiditec BZPRO 850",
+    "category_id": "psu",
+    "brand": "Hiditec",
+    "mpn": "PSU010059",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/69-bzpro-850-80plus-bronze-atx-31-pcie-51.html",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Estándar ATX": "ATX 3.1 / PCIe 5.1",
+      "Conector GPU": "12V-2x6 nativo",
+      "Ventilador": "140 mm FDB",
+      "Dimensiones": "150 x 86 x 160 mm",
+      "Eficiencia": "80 PLUS Bronze",
+      "Modularidad": "No modular",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "hiditec-gdx1050-v3",
+    "slug": "hiditec-gdx1050-v3",
+    "name": "Hiditec GDX1050 v3",
+    "category_id": "psu",
+    "brand": "Hiditec",
+    "mpn": "PSU010051",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://hiditec.com/es/80-plus-gold/13-gdx1050-v3-80plus-gold-atx-31-pcie-51.html",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "1050 W",
+      "Estándar ATX": "ATX 3.1 / PCIe 5.1",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Conector GPU": "12V-2x6",
+      "Ventilador": "140 mm FDB",
+      "Dimensiones": "150 x 86 x 160 mm",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "hiditec-gdx850-v3",
+    "slug": "hiditec-gdx850-v3",
+    "name": "Hiditec GDX850 v3",
+    "category_id": "psu",
+    "brand": "Hiditec",
+    "mpn": "PSU010050",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://hiditec.com/es/80-plus-gold/14-gdx850-v3-80plus-gold-atx-31-pcie-51.html",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Estándar ATX": "ATX 3.1 / PCIe 5.1",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Conector GPU": "12V-2x6",
+      "Ventilador": "140 mm FDB",
+      "Dimensiones": "150 x 86 x 160 mm",
+      "Formato": "ATX"
+    }
+  },
+  {
+    "id": "hiditec-rl650",
+    "slug": "hiditec-rl650",
+    "name": "Hiditec RL650",
+    "category_id": "psu",
+    "brand": "Hiditec",
+    "mpn": "PSU010045",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/59-rl650-80plus-bronze.html",
+    "specs_verified_at": "2026-11-02T23:30:00Z",
+    "specs": {
+      "Potencia": "650 W",
+      "Formato": "ATX",
+      "Eficiencia": "80 PLUS Bronze",
+      "Modularidad": "No modular",
+      "Ventilador": "120 mm",
+      "Dimensiones": "150 x 85 x 140 mm"
+    }
+  }
+]

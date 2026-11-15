@@ -1,0 +1,556 @@
+[
+  {
+    "id": "crucial-ct32g56c46u5",
+    "slug": "crucial-ct32g56c46u5",
+    "name": "DDR5 Crucial 32GB 1x32GB 5600MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT32G56C46U5",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/ct32g56c46u5",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "1 × 32 GB",
+      "Velocidad": "5600 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct16g56c46u5",
+    "slug": "crucial-ct16g56c46u5",
+    "name": "DDR5 Crucial 16GB 1x16GB 5600MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT16G56C46U5",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/ct16g56c46u5",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "5600 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct8g56c46u5",
+    "slug": "crucial-ct8g56c46u5",
+    "name": "DDR5 Crucial 8GB 1x8GB 5600MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT8G56C46U5",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/ct8g56c46u5",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "5600 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct2k16g56c46u5",
+    "slug": "crucial-ct2k16g56c46u5",
+    "name": "DDR5 Crucial 32GB 2x16GB 5600MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT2K16G56C46U5",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/ct2k16g56c46u5",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "5600 MT/s"
+    }
+  },
+  {
+    "id": "crucial-cp2k16g56c46u5",
+    "slug": "crucial-cp2k16g56c46u5",
+    "name": "DDR5 Crucial Pro 32GB 2x16GB 5600MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP2K16G56C46U5",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/cp2k16g56c46u5",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "5600 MT/s",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "crucial-cp2k32g56c46u5",
+    "slug": "crucial-cp2k32g56c46u5",
+    "name": "DDR5 Crucial Pro 64GB 2x32GB 5600MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP2K32G56C46U5",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/cp2k32g56c46u5",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "5600 MT/s",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "crucial-ct32g48c40u5",
+    "slug": "crucial-ct32g48c40u5",
+    "name": "DDR5 Crucial 32GB 1x32GB 4800MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT32G48C40U5",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/ct32g48c40u5",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "1 × 32 GB",
+      "Velocidad": "4800 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct8g48c40u5",
+    "slug": "crucial-ct8g48c40u5",
+    "name": "DDR5 Crucial 8GB 1x8GB 4800MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT8G48C40U5",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/ct8g48c40u5",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "4800 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct2k16g48c40u5",
+    "slug": "crucial-ct2k16g48c40u5",
+    "name": "DDR5 Crucial 32GB 2x16GB 4800MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT2K16G48C40U5",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/ct2k16g48c40u5",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "4800 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct32g64c52cu5",
+    "slug": "crucial-ct32g64c52cu5",
+    "name": "DDR5 Crucial CUDIMM 32GB 1x32GB 6400MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT32G64C52CU5",
+    "manufacturer_url": "https://uk.crucial.com/memory/ddr5/ct32g64c52cu5",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "1 × 32 GB",
+      "Velocidad": "6400 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct8g4dfra32a",
+    "slug": "crucial-ct8g4dfra32a",
+    "name": "DDR4 Crucial 8GB 1x8GB 3200MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT8G4DFRA32A",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr4/ct8g4dfra32a",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3200 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct16g4dfra32a",
+    "slug": "crucial-ct16g4dfra32a",
+    "name": "DDR4 Crucial 16GB 1x16GB 3200MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT16G4DFRA32A",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr4/ct16g4dfra32a",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct2k16g4dfra32a",
+    "slug": "crucial-ct2k16g4dfra32a",
+    "name": "DDR4 Crucial 32GB 2x16GB 3200MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT2K16G4DFRA32A",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr4/ct2k16g4dfra32a",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "3200 MT/s"
+    }
+  },
+  {
+    "id": "crucial-ct32g4dfd832a",
+    "slug": "crucial-ct32g4dfd832a",
+    "name": "DDR4 Crucial 32GB 1x32GB 3200MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CT32G4DFD832A",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr4/ct32g4dfd832a",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "1 × 32 GB",
+      "Velocidad": "3200 MT/s"
+    }
+  },
+  {
+    "id": "crucial-cp32g4dfra32a",
+    "slug": "crucial-cp32g4dfra32a",
+    "name": "DDR4 Crucial Pro 32GB 1x32GB 3200MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP32G4DFRA32A",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr4/cp32g4dfra32a",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "1 × 32 GB",
+      "Velocidad": "3200 MT/s",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "crucial-cp16g4dfra32a",
+    "slug": "crucial-cp16g4dfra32a",
+    "name": "DDR4 Crucial Pro 16GB 1x16GB 3200MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP16G4DFRA32A",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr4/cp16g4dfra32a",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "crucial-cp2k16g4dfra32a",
+    "slug": "crucial-cp2k16g4dfra32a",
+    "name": "DDR4 Crucial Pro 32GB 2x16GB 3200MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP2K16G4DFRA32A",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr4/cp2k16g4dfra32a",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "crucial-cp2k32g4dfra32a",
+    "slug": "crucial-cp2k32g4dfra32a",
+    "name": "DDR4 Crucial Pro 64GB 2x32GB 3200MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP2K32G4DFRA32A",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr4/cp2k32g4dfra32a",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "3200 MT/s",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "crucial-cp2k16g60c36u5b",
+    "slug": "crucial-cp2k16g60c36u5b",
+    "name": "DDR5 Crucial Pro OC 32GB 2x16GB 6000MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP2K16G60C36U5B",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/cp2k16g60c36u5b",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "crucial-cp16g60c36u5b",
+    "slug": "crucial-cp16g60c36u5b",
+    "name": "DDR5 Crucial Pro OC 16GB 1x16GB 6000MHz",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP16G60C36U5B",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/cp16g60c36u5b",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "crucial-cp2k16g64c38u5w",
+    "slug": "crucial-cp2k16g64c38u5w",
+    "name": "DDR5 Crucial Pro OC 32GB 2x16GB 6400MHz CL38",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP2K16G64C38U5W",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/cp2k16g64c38u5w",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL38",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "crucial-cp2k16g64c32u5w",
+    "slug": "crucial-cp2k16g64c32u5w",
+    "name": "DDR5 Crucial Pro OC 32GB 2x16GB 6400MHz CL32",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CP2K16G64C32U5W",
+    "manufacturer_url": "https://www.crucial.com/memory/ddr5/cp2k16g64c32u5w",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL32",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "patriot-pvv564g600c30k",
+    "slug": "patriot-pvv564g600c30k",
+    "name": "DDR5 Patriot Viper Venom 64GB 2x32GB 6000MHz CL30",
+    "category_id": "ram",
+    "brand": "Patriot",
+    "mpn": "PVV564G600C30K",
+    "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30"
+    }
+  },
+  {
+    "id": "patriot-pvv564g600c36k",
+    "slug": "patriot-pvv564g600c36k",
+    "name": "DDR5 Patriot Viper Venom 64GB 2x32GB 6000MHz CL36",
+    "category_id": "ram",
+    "brand": "Patriot",
+    "mpn": "PVV564G600C36K",
+    "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL36"
+    }
+  },
+  {
+    "id": "patriot-pvv516g560c40k",
+    "slug": "patriot-pvv516g560c40k",
+    "name": "DDR5 Patriot Viper Venom 16GB 2x8GB 5600MHz CL40",
+    "category_id": "ram",
+    "brand": "Patriot",
+    "mpn": "PVV516G560C40K",
+    "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL40"
+    }
+  },
+  {
+    "id": "patriot-pver548g70c32kw",
+    "slug": "patriot-pver548g70c32kw",
+    "name": "DDR5 Patriot Viper Elite 5 RGB 48GB 2x24GB 7000MHz CL32",
+    "category_id": "ram",
+    "brand": "Patriot",
+    "mpn": "PVER548G70C32KW",
+    "manufacturer_url": "https://viper.patriotmemory.com/products/elite5-ddr5-performance-ram",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Módulos": "2 × 24 GB",
+      "Velocidad": "7000 MT/s",
+      "Latencia": "CL32"
+    }
+  },
+  {
+    "id": "gskill-f5-6400j3239g16gx2-tz5k",
+    "slug": "gskill-f5-6400j3239g16gx2-tz5k",
+    "name": "DDR5 G.Skill Trident Z5 32GB 2x16GB 6400MHz CL32",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F5-6400J3239G16GX2-TZ5K",
+    "manufacturer_url": "https://www.gskill.com/product/165/371/1642064625/F5-6400J3239G16GX2-TZ5K-F5-6400J3239G16GA2-TZ5K",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL32",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "gskill-f5-6000j3040g32gx2-tz5rw",
+    "slug": "gskill-f5-6000j3040g32gx2-tz5rw",
+    "name": "DDR5 G.Skill Trident Z5 RGB 64GB 2x32GB 6000MHz CL30",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F5-6000J3040G32GX2-TZ5RW",
+    "manufacturer_url": "https://www.gskill.com/product/165/374/1688607694/F5-6000J3040G32GX2-TZ5RW",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "gskill-f4-3200c16d-16gtzn",
+    "slug": "gskill-f4-3200c16d-16gtzn",
+    "name": "DDR4 G.Skill Trident Z Neo 16GB 2x8GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F4-3200C16D-16GTZN",
+    "manufacturer_url": "https://www.gskill.com/product/165/326/1562838776/F4-3200C16D-16GTZN",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "corsair-cmv16gx4m1a2666c18",
+    "slug": "corsair-cmv16gx4m1a2666c18",
+    "name": "DDR4 Corsair Value Select 16GB 1x16GB 2666MHz CL18",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMV16GX4M1A2666C18",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmv16gx4m1a2666c18/corsair-memory-a-16gb-1x16gb-ddr4-2666mhz-c18-dimm-cmv16gx4m1a2666c18",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "2666 MT/s",
+      "Latencia": "CL18"
+    }
+  },
+  {
+    "id": "teamgroup-ttced432g3600hc18jdc01",
+    "slug": "teamgroup-ttced432g3600hc18jdc01",
+    "name": "DDR4 Team Group T-Create Expert 32GB 2x16GB 3600MHz CL18",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "TTCED432G3600HC18JDC01",
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr4/expert-u-dimm-ddr4-TTCED432G3600HC18JDC01/",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18"
+    }
+  },
+  {
+    "id": "mushkin-mre5u480fffd16g",
+    "slug": "mushkin-mre5u480fffd16g",
+    "name": "DDR5 Mushkin Redline 16GB 1x16GB 4800MHz CL40",
+    "category_id": "ram",
+    "brand": "Mushkin",
+    "mpn": "MRE5U480FFFD16G",
+    "manufacturer_url": "https://mushkin.com/product/redline-16gb-ddr5-4800-udimm-pc5-4800-4800mhz-40-40-40-mre5u480fffd16g/",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "4800 MT/s",
+      "Latencia": "CL40"
+    }
+  },
+  {
+    "id": "lexar-ld5u16g60c28br-rgd",
+    "slug": "lexar-ld5u16g60c28br-rgd",
+    "name": "DDR5 Lexar Ares RGB 2nd Gen 32GB 2x16GB 6000MHz CL28",
+    "category_id": "ram",
+    "brand": "Lexar",
+    "mpn": "LD5U16G60C28BR-RGD",
+    "manufacturer_url": "https://www.lexar.com/global/products/Lexar-ARES-RGB-2nd-Gen-DDR5-Desktop-Memory/",
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL28"
+    }
+  }
+]

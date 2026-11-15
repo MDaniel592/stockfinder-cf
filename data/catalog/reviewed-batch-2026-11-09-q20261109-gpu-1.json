@@ -1,0 +1,66 @@
+[
+  {
+    "id": "sparkle-intel-arc-a380-elf-6gb",
+    "slug": "sparkle-intel-arc-a380-elf-6gb",
+    "name": "Sparkle Intel Arc A380 ELF 6GB",
+    "category_id": "gpu",
+    "brand": "Sparkle",
+    "mpn": "SA380E-6G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.sparkle.com.tw/en/A380-ELF",
+    "specs_verified_at": "2026-11-09T16:40:00Z",
+    "specs": {
+      "Chip gráfico": "Arc A380",
+      "Memoria": "6 GB",
+      "Tipo de memoria": "GDDR6",
+      "Salidas": "3 × DisplayPort; 1 × HDMI 2.0",
+      "Conectores de alimentación": "Sin alimentación PCIe externa",
+      "Refrigeración": "Un ventilador, doble slot"
+    }
+  },
+  {
+    "id": "sparkle-intel-arc-a310-omni-view-4gb",
+    "slug": "sparkle-intel-arc-a310-omni-view-4gb",
+    "name": "Sparkle Intel Arc A310 OMNI View 4GB",
+    "category_id": "gpu",
+    "brand": "Sparkle",
+    "mpn": "SA310F-4G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.sparkle.com.tw/en/A310-OMNIView",
+    "specs_verified_at": "2026-11-09T16:42:00Z",
+    "specs": {
+      "Chip gráfico": "Arc A310",
+      "Memoria": "4 GB",
+      "Tipo de memoria": "GDDR6",
+      "Salidas": "4 × HDMI",
+      "Consumo (TBP)": "50 W",
+      "Refrigeración": "Un ventilador, un slot"
+    }
+  },
+  {
+    "id": "xfx-swift-radeon-rx-9060-xt-oc-8gb",
+    "slug": "xfx-swift-radeon-rx-9060-xt-oc-8gb",
+    "name": "XFX Swift Radeon RX 9060 XT OC 8 GB",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-96TSW8GBQ",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-gaming-edition-8gb",
+    "specs_verified_at": "2026-11-09T16:50:00Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Velocidad de memoria": "20 Gbps",
+      "Bus de memoria": "128 bits",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "Hasta 3320 MHz",
+      "Frecuencia de juego": "Hasta 2780 MHz",
+      "Salidas": "1 × HDMI 2.1; 2 × DisplayPort 2.1",
+      "Conectores de alimentación": "1 × 8 pines",
+      "Fuente recomendada": "450 W (mínimo XFX)",
+      "Dimensiones": "270 × 124 × 48 mm",
+      "Refrigeración": "2 ventiladores"
+    }
+  }
+]

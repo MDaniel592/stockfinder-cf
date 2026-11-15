@@ -1,0 +1,23 @@
+[
+ {
+  "id": "zalman-p60-white-p60-white",
+  "slug": "zalman-p60-white-p60-white",
+  "name": "Zalman P60 White (P60 White)",
+  "category_id": "case",
+  "brand": "Zalman",
+  "mpn": "P60 White",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1735",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "435 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "5 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "475 × 290 × 478 mm"
+  }
+ }
+]

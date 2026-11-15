@@ -1,0 +1,185 @@
+[
+  {
+    "id": "asus-rog-crosshair-x870e-hero",
+    "slug": "asus-rog-crosshair-x870e-hero",
+    "name": "ASUS ROG Crosshair X870E Hero",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero/spec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Chipset": "AMD X870E",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "msi-mag-x870-tomahawk-wifi",
+    "slug": "msi-mag-x870-tomahawk-wifi",
+    "name": "MSI MAG X870 Tomahawk WiFi",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Motherboard/MAG-X870-TOMAHAWK-WIFI/Specification",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Chipset": "AMD X870",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-x870e-aorus-master",
+    "slug": "gigabyte-x870e-aorus-master",
+    "name": "Gigabyte X870E AORUS Master",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Chipset": "AMD X870E",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asrock-b850-steel-legend-wifi",
+    "slug": "asrock-b850-steel-legend-wifi",
+    "name": "ASRock B850 Steel Legend WiFi",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "manufacturer_url": "https://www.asrock.com/mb/AMD/B850%20Steel%20Legend%20WiFi/index.asp#Specification",
+    "specs_verified_at": "2026-11-01T23:46:10Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Chipset": "AMD B850",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-rog-strix-z890-e-gaming-wifi",
+    "slug": "asus-rog-strix-z890-e-gaming-wifi",
+    "name": "ASUS ROG Strix Z890-E Gaming WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z890-e-gaming-wifi/spec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Chipset": "Intel Z890",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-z890-aorus-elite-wifi7",
+    "slug": "gigabyte-z890-aorus-elite-wifi7",
+    "name": "Gigabyte Z890 AORUS Elite WiFi7",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-AORUS-ELITE-WIFI7/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Chipset": "Intel Z890",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gskill-trident-z5-neo-rgb-32gb-ddr5-6000-cl30",
+    "slug": "gskill-trident-z5-neo-rgb-32gb-ddr5-6000-cl30",
+    "name": "G.SKILL Trident Z5 Neo RGB 32 GB (2 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "G.SKILL",
+    "mpn": "F5-6000J3038F16GX2-TZ5NR",
+    "manufacturer_url": "https://www.gskill.com/specification/165/390/1661410135/F5-6000J3038F16GX2-TZ5NR-Specification",
+    "specs_verified_at": "2026-11-01T23:46:10Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Formato": "UDIMM",
+      "Perfil": "Intel XMP 3.0 y AMD EXPO"
+    }
+  },
+  {
+    "id": "gskill-trident-z5-neo-rgb-64gb-ddr5-6000-cl30",
+    "slug": "gskill-trident-z5-neo-rgb-64gb-ddr5-6000-cl30",
+    "name": "G.SKILL Trident Z5 Neo RGB 64 GB (2 × 32 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "G.SKILL",
+    "mpn": "F5-6000J3040G32GX2-TZ5NR",
+    "manufacturer_url": "https://www.gskill.com/specification/165/390/1665020865/F5-6000J3040G32GX2-TZ5NR-Specification",
+    "specs_verified_at": "2026-11-01T23:46:10Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Formato": "UDIMM",
+      "Perfil": "Intel XMP 3.0 y AMD EXPO"
+    }
+  },
+  {
+    "id": "kingston-fury-beast-32gb-ddr5-6400-cl32-expo",
+    "slug": "kingston-fury-beast-32gb-ddr5-6400-cl32-expo",
+    "name": "Kingston FURY Beast 32 GB (2 × 16 GB) DDR5-6400 CL32 EXPO",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF564C32BBEK2-32",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF564C32BBEK2-32.pdf",
+    "specs_verified_at": "2026-11-01T23:46:10Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL32",
+      "Formato": "UDIMM",
+      "Perfil": "AMD EXPO 1.1 e Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "corsair-vengeance-64gb-ddr5-6000-cl30",
+    "slug": "corsair-vengeance-64gb-ddr5-6000-cl30",
+    "name": "Corsair Vengeance 64 GB (2 × 32 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK64GX5M2B6000Z30",
+    "manufacturer_url": "https://www.corsair.com/ww/en/p/memory/cmk64gx5m2b6000z30/vengeance-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cmk64gx5m2b6000z30",
+    "specs_verified_at": "2026-11-01T23:46:10Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Formato": "UDIMM",
+      "Perfil": "AMD EXPO e Intel XMP"
+    }
+  }
+]

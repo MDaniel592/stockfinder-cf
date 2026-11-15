@@ -1,0 +1,506 @@
+[
+  {
+    "retailer_sku": "10657909",
+    "mpn": "FF3D532G6000HC30DC01",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-team-group-t-force-delta-rgb-ddr5-6000mhz-32gb-2x16gb-cl30-dual-amd-expo-e-intel-xmp-negro",
+    "product_id": "teamgroup-tforce-delta-rgb-32gb-ddr5-6000-cl30"
+  },
+  {
+    "retailer_sku": "10662597",
+    "mpn": "CMH32GX5M2B6000Z30K",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-corsair-vengeance-rgb-ddr5-6000mhz-pc5-48000-32gb-2x16gb-cl30-dual-intel-xmp-y-amd-expo",
+    "product_id": "corsair-vengeance-rgb-32gb-ddr5-6000-cl30-expo-xmp"
+  },
+  {
+    "retailer_sku": "10733997",
+    "mpn": "CMH64GX5M2B6000Z30",
+    "url_public": "https://www.pccomponentes.com/corsair-vengeance-rgb-ddr5-6000mhz-64gb-2x32gb-cl30-memoria-dual-amd-expo-e-intel-xmp",
+    "product_id": "corsair-vengeance-rgb-64gb-ddr5-6000-cl30"
+  },
+  {
+    "retailer_sku": "10764411",
+    "mpn": "CMK32GX5M2B6000Z30",
+    "url_public": "https://www.pccomponentes.com/corsair-vengeance-ddr5-6000mhz-32gb-2x16gb-cl30-memoria-dual-amd-expo-e-intel-xmp",
+    "product_id": "corsair-vengeance-32gb-ddr5-6000-cl30"
+  },
+  {
+    "retailer_sku": "10788198",
+    "mpn": "CMK32GX5M2E6000Z36",
+    "url_public": "https://www.pccomponentes.com/corsair-vengeance-ddr5-6000mhz-32-gb-2x16gb-cl36-memoria-dual-amd-expo-e-intel-xmp",
+    "product_id": "corsair-vengeance-32gb-ddr5-6000-cl36"
+  },
+  {
+    "retailer_sku": "10843609",
+    "mpn": "KF560C30BBEK2-64",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-kingston-fury-beast-ddr5-6000mhz-64gb-2x32gb-cl30-amd-expo",
+    "product_id": "kingston-fury-beast-64gb-ddr5-6000-cl30-expo"
+  },
+  {
+    "retailer_sku": "10845779",
+    "mpn": "100-100001277WOF",
+    "url_public": "https://www.pccomponentes.com/procesador-amd-ryzen-9-9950x-4-3-5-7ghz",
+    "product_id": "amd-ryzen-9-9950x"
+  },
+  {
+    "retailer_sku": "10845780",
+    "mpn": "100-100000662WOF",
+    "url_public": "https://www.pccomponentes.com/procesador-amd-ryzen-9-9900x-4-4-5-6ghz",
+    "product_id": "amd-ryzen-9-9900x"
+  },
+  {
+    "retailer_sku": "10845781",
+    "mpn": "100-100001404WOF",
+    "url_public": "https://www.pccomponentes.com/procesador-amd-ryzen-7-9700x-3-8-5-5ghz",
+    "product_id": "amd-ryzen-7-9700x"
+  },
+  {
+    "retailer_sku": "10845782",
+    "mpn": "100-100001405WOF",
+    "url_public": "https://www.pccomponentes.com/procesador-amd-ryzen-5-9600x-3-9-5-4ghz",
+    "product_id": "amd-ryzen-5-9600x"
+  },
+  {
+    "retailer_sku": "10855612",
+    "mpn": "90MB1IU0-M0EAY0",
+    "url_public": "https://www.pccomponentes.com/placa-base-asus-tuf-gaming-x870-plus-wifi",
+    "product_id": "asus-tuf-gaming-x870-plus-wifi"
+  },
+  {
+    "retailer_sku": "10855614",
+    "mpn": "90MB1IG0-M0EAY0",
+    "url_public": "https://www.pccomponentes.com/placa-base-asus-proart-x870e-creator-wifi",
+    "product_id": "asus-proart-x870e-creator-wifi"
+  },
+  {
+    "retailer_sku": "10855615",
+    "mpn": "90MB1IB0-M0EAY0",
+    "url_public": "https://www.pccomponentes.com/placa-base-asus-rog-strix-x870e-e-gaming-wifi",
+    "product_id": "asus-rog-strix-x870e-e-gaming-wifi"
+  },
+  {
+    "retailer_sku": "10860620",
+    "mpn": "BX80768285K",
+    "url_public": "https://www.pccomponentes.com/procesador-intel-core-ultra-9-285k-ia-integrada-3-2-5-7ghz-box",
+    "product_id": "intel-core-ultra-9-285k"
+  },
+  {
+    "retailer_sku": "10865295",
+    "mpn": "B850 GAMING PLUS WIFI",
+    "url_public": "https://www.pccomponentes.com/placa-base-msi-b850-gaming-plus-wifi",
+    "product_id": "msi-b850-gaming-plus-wifi"
+  },
+  {
+    "retailer_sku": "10865596",
+    "mpn": "90MB1J30-M0EAY0",
+    "url_public": "https://www.pccomponentes.com/placa-base-asus-tuf-gaming-b850-plus-wifi",
+    "product_id": "asus-tuf-gaming-b850-plus-wifi"
+  },
+  {
+    "retailer_sku": "10865749",
+    "mpn": "MAG X870E TOMAHAWK WIFI",
+    "url_public": "https://www.pccomponentes.com/placa-base-msi-mag-x870e-tomahawk-wifi",
+    "product_id": "msi-mag-x870e-tomahawk-wifi"
+  },
+  {
+    "retailer_sku": "10866607",
+    "mpn": "90YV0L70-M0NA00",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-asus-tuf-gaming-amd-radeon-rx-9070-xt-oc-16gb-gddr6-fsr-4",
+    "product_id": "asus-tuf-gaming-radeon-rx-9070-xt-oc-16gb"
+  },
+  {
+    "retailer_sku": "10866608",
+    "mpn": "90YV0L71-M0NA00",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-asus-prime-amd-radeon-rx-9070-xt-oc-16gb-gddr6-fsr-4",
+    "product_id": "asus-prime-radeon-rx-9070-xt-oc-16gb"
+  },
+  {
+    "retailer_sku": "10867129",
+    "mpn": "VCG508016TFXXPB1-O",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-pny-geforce-rtx-5080-argb-overclocked-triple-fan-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "pny-rtx-5080-argb-overclocked-triple-fan-16gb"
+  },
+  {
+    "retailer_sku": "10867130",
+    "mpn": "VCG508016TFXPB1-O",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-pny-geforce-rtx-5080-overclocked-triple-fan-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "pny-geforce-rtx-5080-overclocked-triple-fan-16gb"
+  },
+  {
+    "retailer_sku": "10867346",
+    "mpn": "GV-N5080GAMING OC-16GD",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "gigabyte-rtx-5080-gaming-oc-16g"
+  },
+  {
+    "retailer_sku": "10867364",
+    "mpn": "9MB85EL7E-00-G10",
+    "url_public": "https://www.pccomponentes.com/placa-base-gigabyte-b850-aorus-elite-wifi7-ice",
+    "product_id": "gigabyte-b850-aorus-elite-wifi7-ice"
+  },
+  {
+    "retailer_sku": "10867459",
+    "mpn": "11348-01-20G",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-sapphire-nitro-plus-amd-radeon-rx-9070-xt-gaming-oc-16gb-gddr6-fsr-4",
+    "product_id": "sapphire-nitro-plus-radeon-rx-9070-xt-oc-16gb"
+  },
+  {
+    "retailer_sku": "10867460",
+    "mpn": "11348-02-20G",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-sapphire-pure-amd-radeon-rx-9070-xt-16gb-gddr6-fsr-4",
+    "product_id": "sapphire-pure-radeon-rx-9070-xt-oc-16gb"
+  },
+  {
+    "retailer_sku": "10867461",
+    "mpn": "11348-03-20G",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-sapphire-pulse-amd-radeon-rx-9070-xt-16gb-gddr6-fsr-4",
+    "product_id": "sapphire-pulse-radeon-rx-9070-xt-16gb"
+  },
+  {
+    "retailer_sku": "10867876",
+    "mpn": "VCG509032TFXPB1-O",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-pny-geforce-rtx-5090-overclocked-triple-fan-32gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "pny-rtx-5090-overclocked-triple-fan-32gb"
+  },
+  {
+    "retailer_sku": "10868016",
+    "mpn": "90YV0LW0-M0NA00",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-asus-rog-astral-geforce-rtx-5090-oc-32gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "asus-rog-astral-rtx-5090-oc-32gb"
+  },
+  {
+    "retailer_sku": "10870443",
+    "mpn": "100-100000719WOF",
+    "url_public": "https://www.pccomponentes.com/procesador-amd-ryzen-9-9950x3d-4-3-5-7ghz-box",
+    "product_id": "amd-ryzen-9-9950x3d"
+  },
+  {
+    "retailer_sku": "10871509",
+    "mpn": "RX-97SWFB3W9",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-xfx-swift-amd-radeon-rx-9070-oc-triple-fan-16gb-gddr6-fsr-4-blanca",
+    "product_id": "xfx-swift-rx-9070-oc-white-triple-fan-16gb"
+  },
+  {
+    "retailer_sku": "10871512",
+    "mpn": "RX-97TRGBBB9",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-xfx-mercury-amd-radeon-rx-9070-xt-oc-triple-fan-16gb-gddr6-fsr-4",
+    "product_id": "xfx-mercury-radeon-rx-9070-xt-oc-rgb-16gb"
+  },
+  {
+    "retailer_sku": "10872398",
+    "mpn": "RX-97TSWF3B9",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-xfx-swift-amd-radeon-rx-9070-xt-triple-fan-16gb-gddr6-fsr-4",
+    "product_id": "xfx-swift-radeon-rx-9070-xt-16gb"
+  },
+  {
+    "retailer_sku": "10873105",
+    "mpn": "90-GA5DZZ-00UANF",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-asrock-steel-legend-amd-radeon-rx-9070-xt-16gb-gddr6-fsr-4",
+    "product_id": "asrock-rx-9070-xt-steel-legend-16gb"
+  },
+  {
+    "retailer_sku": "10874533",
+    "mpn": "90YV0MG0-M0NA00",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-asus-tuf-gaming-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "asus-tuf-rtx-5060-ti-oc-16gb"
+  },
+  {
+    "retailer_sku": "10874889",
+    "mpn": "VCG508016TFXPB1",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-pny-geforce-rtx-5080-triple-fan-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "pny-rtx-5080-triple-fan-16gb"
+  },
+  {
+    "retailer_sku": "10875112",
+    "mpn": "GEFORCE RTX 5060 TI 16G VENTUS 2X OC PLUS",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "msi-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus"
+  },
+  {
+    "retailer_sku": "10875114",
+    "mpn": "912-V536-001",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus"
+  },
+  {
+    "retailer_sku": "10875500",
+    "mpn": "CMK32GX5M2B6000Z30W",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-corsair-vengeance-ddr5-white-6000mhz-32gb-2x16gb-cl30-dual-intel-xmp-3-0-y-amd-expo",
+    "product_id": "corsair-vengeance-32gb-ddr5-6000-cl30-white"
+  },
+  {
+    "retailer_sku": "10875502",
+    "mpn": "CMH32GX5M2B6000Z30W",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-corsair-vengeance-rgb-ddr5-white-6000mhz-32gb-2x16gb-cl30-dual-intel-xmp-3-0-y-amd-expo",
+    "product_id": "corsair-vengeance-rgb-32gb-ddr5-6000-cl30-white"
+  },
+  {
+    "retailer_sku": "10875526",
+    "mpn": "ZT-B50610H-10M",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "zotac-rtx-5060-ti-twin-edge-oc-8gb"
+  },
+  {
+    "retailer_sku": "10875640",
+    "mpn": "9VN506TAO-00-G10",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5060-ti-aero-oc-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "gigabyte-rtx-5060-ti-aero-oc-16gb"
+  },
+  {
+    "retailer_sku": "10876376",
+    "mpn": "912-V531-286",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5070-ti-gaming-trio-oc-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "msi-geforce-rtx-5070-ti-16g-gaming-trio-oc"
+  },
+  {
+    "retailer_sku": "10876985",
+    "mpn": "911-7E70-05S",
+    "url_public": "https://www.pccomponentes.com/placa-base-msi-x870e-gaming-plus-wifi",
+    "product_id": "msi-x870e-gaming-plus-wifi"
+  },
+  {
+    "retailer_sku": "10877296",
+    "mpn": "NE7506T019T1-GB2061S",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "palit-geforce-rtx-5060-ti-infinity-3-16gb"
+  },
+  {
+    "retailer_sku": "10877297",
+    "mpn": "NE7506T019P1-GB2062D",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-palit-geforce-rtx-5060-ti-dual-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "palit-rtx-5060-ti-dual-8gb"
+  },
+  {
+    "retailer_sku": "10877316",
+    "mpn": "GV-N506TWF2OC-8GD",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5060-ti-windforce-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "gigabyte-rtx-5060-ti-windforce-oc-8gb"
+  },
+  {
+    "retailer_sku": "10877741",
+    "mpn": "9VR9068XGO-00-G10",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
+    "product_id": "gigabyte-rx-9060-xt-gaming-oc-8gb"
+  },
+  {
+    "retailer_sku": "10880058",
+    "mpn": "RX-96TS316B7",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-xfx-swift-amd-radeon-rx-9060-xt-oc-triple-fan-16gb-gddr6-fsr-4",
+    "product_id": "xfx-swift-rx-9060-xt-oc-triple-fan-16gb"
+  },
+  {
+    "retailer_sku": "10888294",
+    "mpn": "NE75080019T2-GB2031C",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-gainward-geforce-rtx-5080-phoenix-v1-16gb-gddr7-rgb-displayport-hdmi-overclocking",
+    "product_id": "gainward-rtx-5080-phoenix-v1-16gb"
+  },
+  {
+    "retailer_sku": "10888655",
+    "mpn": "11350-03-20G",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-sapphire-pulse-amd-radeon-rx-9060-xt-16gb-gddr6-fsr-4",
+    "product_id": "sapphire-pulse-rx-9060-xt-oc-16gb"
+  },
+  {
+    "retailer_sku": "10889214",
+    "mpn": "CMH32GX5M2E6000Z36W",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-corsair-32gb-ddr5-6000mhz-vengeance-rgb-cmh32gx5m2e6000z36w",
+    "product_id": "corsair-vengeance-rgb-32gb-ddr5-6000-cl36-white"
+  },
+  {
+    "retailer_sku": "10891008",
+    "mpn": "90-GA5LZZ-00UANF",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-asrock-arc-b580-challenger-12gb-gddr6-overclocking-vr-tri-displayport",
+    "product_id": "asrock-arc-b580-challenger-12gb-oc"
+  },
+  {
+    "retailer_sku": "10901341",
+    "mpn": "911-7E66-001",
+    "url_public": "https://www.pccomponentes.com/placa-base-msi-b850m-gaming-plus-wifi",
+    "product_id": "msi-b850m-gaming-plus-wifi"
+  },
+  {
+    "retailer_sku": "10918770",
+    "mpn": "B860M EAGLE V2",
+    "url_public": "https://www.pccomponentes.com/placa-base-gigabyte-b860m-eagle-v2-lga-1851-ddr5-128gb-m-2-pcie-5-0-4-0-lan-2-5gbe",
+    "product_id": "gigabyte-b860m-eagle-v2"
+  },
+  {
+    "retailer_sku": "10923887",
+    "mpn": "9VN5050WO-00-G10",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5050-windforce-oc-8gb-gddr6-reflex-2-rtx-ai-dlss4",
+    "product_id": "gigabyte-rtx-5050-windforce-oc-8gb"
+  },
+  {
+    "retailer_sku": "10932164",
+    "mpn": "912-V538-002",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5050-ventus-2x-oc-8gb-gddr6-pcie-5-0-2-ventiladores",
+    "product_id": "msi-geforce-rtx-5050-8g-ventus-2x-oc"
+  },
+  {
+    "retailer_sku": "10933901",
+    "mpn": "912-V531-438",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-msi-expert-geforce-rtx-5080-oc-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "msi-geforce-rtx-5080-16g-expert-oc"
+  },
+  {
+    "retailer_sku": "10944429",
+    "mpn": "90YV0LWA-M0NA00",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-asus-rog-astral-rtx-5090-32gb-gddr7-white-oc-iluminacion-rgb",
+    "product_id": "asus-rog-astral-rtx-5090-white-oc-32gb"
+  },
+  {
+    "retailer_sku": "10949783",
+    "mpn": "911-7E80-002",
+    "url_public": "https://www.pccomponentes.com/placa-base-msi-pro-b850-s-wifi6e-atx-am5-pro-ddr5-m-2-dual-lan-rgb",
+    "product_id": "msi-pro-b850-s-wifi6e"
+  },
+  {
+    "retailer_sku": "10953088",
+    "mpn": "GV-N506TWF2MAX OC-8GD",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5060-ti-windforce-max-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "gigabyte-rtx-5060-ti-windforce-max-oc-8gb"
+  },
+  {
+    "retailer_sku": "10956357",
+    "mpn": "C50903-32D7X-1759FBP",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-inno3d-geforce-rtx-5090-frostbite-pro-32gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "inno3d-rtx-5090-ichill-frostbite-pro-32gb"
+  },
+  {
+    "retailer_sku": "10967833",
+    "mpn": "F5-6000J3038F16GX2-TZ5N",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-g-skill-trident-z5-neo-32gb-2x16gb-ddr5-6000mhz-cl30-amd-expo",
+    "product_id": "gskill-trident-z5-neo-32gb-ddr5-6000-cl30"
+  },
+  {
+    "retailer_sku": "10970763",
+    "mpn": "911-7E53-001",
+    "url_public": "https://www.pccomponentes.com/placa-base-msi-mag-b850-tomahawk-wifi-am5-ddr5-atx-wifi-7-5g-lan-triple-m-2-pcie-5-0",
+    "product_id": "msi-mag-b850-tomahawk-wifi"
+  },
+  {
+    "retailer_sku": "10976954",
+    "mpn": "90YV0NR0-M0NA00",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-asus-proart-geforce-rtx-5070-ti-o16g-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "asus-proart-rtx-5070-ti-oc-16gb"
+  },
+  {
+    "retailer_sku": "10986286",
+    "mpn": "CMK64GX5M2D6000Z40",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-corsair-vengeance-64gb-2x32gb-ddr5-6000mhz-cl40-intel-xmp-amd-expo-disipador",
+    "product_id": "corsair-vengeance-64gb-ddr5-6000-cl40"
+  },
+  {
+    "retailer_sku": "10986544",
+    "mpn": "4X61U02755",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-lenovo-geforce-rtx-5080-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "lenovo-rtx-5080-16gb-4x61u02755"
+  },
+  {
+    "retailer_sku": "11000881",
+    "mpn": "RX9070XT CL 16G",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-asrock-radeon-rx-9070-xt-challenger-16gb-gddr6-pcie-5-0",
+    "product_id": "asrock-rx-9070-xt-challenger-16gb"
+  },
+  {
+    "retailer_sku": "11016739",
+    "mpn": "CMH16GX5M2E6000Z36",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-corsair-vengeance-rgb-16gb-2x8gb-ddr5-6000mhz-cl36-amd-expo-intel-xmp-gris",
+    "product_id": "corsair-vengeance-rgb-16gb-ddr5-6000-cl36"
+  },
+  {
+    "retailer_sku": "11016741",
+    "mpn": "CMK16GX5M2E6000Z36",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-corsair-vengeance-16gb-2x8gb-ddr5-6000mhz-cl36-amd-expo-intel-xmp-gris",
+    "product_id": "corsair-vengeance-16gb-ddr5-6000-cl36"
+  },
+  {
+    "retailer_sku": "11017348",
+    "mpn": "912-V536-004",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5060-ti-gaming-trio-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "msi-geforce-rtx-5060-ti-8g-gaming-trio-oc"
+  },
+  {
+    "retailer_sku": "11028712",
+    "mpn": "BX80768270K",
+    "url_public": "https://www.pccomponentes.com/procesador-intel-core-ultra-7-270k-plus-24-nucleos-3-7-ghz-frecuencia-base-5-5-ghz-frecuencia-turbo-graficos-integrados",
+    "product_id": "intel-core-ultra-7-270k-plus"
+  },
+  {
+    "retailer_sku": "11032662",
+    "mpn": "VCG5070T16TFXXPB1",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-pny-geforce-rtx-5070-ti-argb-epic-x-rgb-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "pny-rtx-5070-ti-argb-epic-x-rgb-16gb"
+  },
+  {
+    "retailer_sku": "11032706",
+    "mpn": "911-7E56-030",
+    "url_public": "https://www.pccomponentes.com/placa-base-msi-mag-b850-gaming-plus-max-wifi-amd-b850-am5-ddr5-atx-wifi-7-rgb",
+    "product_id": "msi-mag-b850-gaming-plus-max-wifi"
+  },
+  {
+    "retailer_sku": "11033315",
+    "mpn": "7E97-001R",
+    "url_public": "https://www.pccomponentes.com/placa-base-msi-pro-b850-s-evo-wifi-amd-b850-am5-ddr5-atx-wifi-7-pcie-5-0-2-5gbe-m-2-raid",
+    "product_id": "msi-pro-b850-s-evo-wifi"
+  },
+  {
+    "retailer_sku": "11041858",
+    "mpn": "AT807683B9B4886",
+    "url_public": "https://www.pccomponentes.com/procesador-intel-core-ultra-5-250k-plus-ia-integrada-18-nucleos-33-53-ghz-tray",
+    "product_id": "intel-core-ultra-5-250k-plus-tray"
+  },
+  {
+    "retailer_sku": "11047329",
+    "mpn": "900-1G144-2530-000",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-nvidia-geforce-rtx-5090-founders-edition-32gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "product_id": "nvidia-rtx-5090-founders-edition-32gb"
+  },
+  {
+    "retailer_sku": "11056617",
+    "mpn": "100-100001978WOF",
+    "url_public": "https://www.pccomponentes.com/procesador-amd-ryzen-9-9950x3d2-dual-edition-16-nucleos-43-ghz-base-56-ghz-turbo-box",
+    "product_id": "amd-ryzen-9-9950x3d2-dual-edition"
+  },
+  {
+    "retailer_sku": "11082823",
+    "mpn": "RX9070GRE 12G-A",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-powercolor-amd-radeon-rx-9070-gre-12gb-gddr6-triple-ventilador",
+    "product_id": "powercolor-reaper-radeon-rx-9070-gre-12gb"
+  },
+  {
+    "retailer_sku": "11117548",
+    "mpn": "NE75080019T2-GB2035T",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-gainward-geforce-rtx-5080-python-iii-16gb-gddr7-reflex-2-rtx-ai-dlss4-5",
+    "product_id": "gainward-rtx-5080-python-iii-16gb"
+  },
+  {
+    "retailer_sku": "11137436",
+    "mpn": "BX80768250K S A4UZ",
+    "url_public": "https://www.pccomponentes.com/procesador-intel-core-u5-250k-plus-ia-integrada-18-nucleos-dual-channel-lga-1851",
+    "product_id": "intel-core-ultra-5-250k-plus"
+  },
+  {
+    "retailer_sku": "11156802",
+    "mpn": "912-V531-681",
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5080-inspire-oc-3x-16gb-gddr7-dlss4-5-reflex-2-ia-rtx-ray-tracing",
+    "product_id": "msi-geforce-rtx-5080-16g-inspire-3x-oc"
+  },
+  {
+    "retailer_sku": "11156943",
+    "mpn": "CMH32GX5M2D6000Z38",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-corsair-vengeance-rgb-32gb-2x16gb-ddr5-6000mhz-cl38-amd-expo-gris",
+    "product_id": "corsair-vengeance-rgb-32gb-ddr5-6000-cl38-gray"
+  },
+  {
+    "retailer_sku": "11157781",
+    "mpn": "CMK32GX5M2D6000Z38",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-corsair-vengeance-32gb2x16gb-ddr5-6000mhz-cl38-intel-xmp-amd-expo-negra",
+    "product_id": "corsair-vengeance-32gb-ddr5-6000-cl38-gray"
+  },
+  {
+    "retailer_sku": "11160506",
+    "mpn": "FO-DDR-PRO-32GBCL36-B",
+    "url_public": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-pro-rgb-ddr5-6000-mhz-32gb-2x16gb-cl36-negra",
+    "product_id": "forgeon-cyclone-pro-rgb-32gb-ddr5-6000-cl36"
+  }
+]

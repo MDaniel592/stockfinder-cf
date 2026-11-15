@@ -1,0 +1,172 @@
+[
+  {
+    "product_id": "antec-cx-m2-argb-0-761345-10333-6",
+    "category_id": "case",
+    "key": "Altura disipador máxima",
+    "value": "155 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.antec.com/product/case/cxm2-argb",
+    "note": "Ficha Antec CX M2 ARGB: Max. CPU Cooler Height 155mm"
+  },
+  {
+    "product_id": "approx-appc-201f",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://approx.es/producto/caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+    "note": "La ficha oficial Approx de este modelo no describe el panel lateral."
+  },
+  {
+    "product_id": "approx-appc-203f",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://approx.es/producto/appc-203f-caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+    "note": "La ficha oficial Approx de este modelo no describe el panel lateral."
+  },
+  {
+    "product_id": "approx-appc-301f",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://approx.es/producto/appc-301f-caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+    "note": "La ficha oficial Approx de este modelo no describe el panel lateral."
+  },
+  {
+    "product_id": "approx-appc-401f",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://approx.es/producto/appc-401f-caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+    "note": "La ficha oficial Approx de este modelo no describe el panel lateral."
+  },
+  {
+    "product_id": "approx-appc-901f",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://approx.es/producto/appc-901f-caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+    "note": "La ficha oficial Approx de este modelo no describe el panel lateral."
+  },
+  {
+    "product_id": "chieftec-bx-mesh-bx-10b-m-op",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.chieftec.eu/products-detail/561/BX-10B-M-OP",
+    "note": "La tabla de especificaciones oficial de Chieftec (material, bahías, refrigeración, VGA, CPU) no indica el tipo de panel lateral."
+  },
+  {
+    "product_id": "chieftec-pro-mini-az-01b-op",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.chieftec.eu/products-detail/587/AZ-01B-OP",
+    "note": "La tabla de especificaciones oficial de Chieftec (material, bahías, refrigeración, VGA, CPU) no indica el tipo de panel lateral."
+  },
+  {
+    "product_id": "chieftec-the-cube-ci-03b-op",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.chieftec.eu/products-detail/658/CI-03B-OP",
+    "note": "La tabla de especificaciones oficial de Chieftec (material, bahías, refrigeración, VGA, CPU) no indica el tipo de panel lateral."
+  },
+  {
+    "product_id": "coolbox-m640c-coo-pcm640c-0",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "300 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+    "note": "Ficha CoolBox M640C: tarjetas gráficas de hasta 300 mm de longitud"
+  },
+  {
+    "product_id": "coolbox-m640c-coo-pcm640c-0",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "value": "Metal",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+    "note": "Ficha CoolBox M640C: chasis FULLMETAL de acero SPCC 0.6 mm con rejilla lateral de aireación (sin ventana)"
+  },
+  {
+    "product_id": "coolbox-m640c-coo-pcm640c-1",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "300 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+    "note": "Ficha CoolBox M640C: tarjetas gráficas de hasta 300 mm de longitud"
+  },
+  {
+    "product_id": "coolbox-m640c-coo-pcm640c-1",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "value": "Metal",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+    "note": "Ficha CoolBox M640C: chasis FULLMETAL de acero SPCC 0.6 mm con rejilla lateral de aireación (sin ventana)"
+  },
+  {
+    "product_id": "coolbox-gm350-darkface-coo-cha-gm350-0",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "315 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-micro-atx-gm350-darkface/",
+    "note": "Ficha CoolBox GM350: tarjetas gráficas de hasta 315 mm de longitud"
+  },
+  {
+    "product_id": "coolbox-m680-coo-pcm680-1",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "295 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m680/",
+    "note": "Ficha CoolBox M680: compatible con gráficas de hasta 295 mm"
+  },
+  {
+    "product_id": "coolbox-t450s-slim-cajcoot450s-bz",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atx-t450s-slim-usb-30/",
+    "note": "La ficha oficial CoolBox T450S Slim solo da dimensiones, USB y ventilador frontal; no indica este dato."
+  },
+  {
+    "product_id": "coolbox-t450s-slim-cajcoot450s-bz",
+    "category_id": "case",
+    "key": "Altura disipador máxima",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atx-t450s-slim-usb-30/",
+    "note": "La ficha oficial CoolBox T450S Slim solo da dimensiones, USB y ventilador frontal; no indica este dato."
+  }
+]

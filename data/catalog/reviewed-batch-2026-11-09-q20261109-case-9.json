@@ -1,0 +1,352 @@
+[
+ {
+  "id": "cougar-cfv235-mesh-vision-382da40-0007",
+  "slug": "cougar-cfv235-mesh-vision-382da40-0007",
+  "name": "Cougar CFV235 Mesh Vision (382DA40.0007)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "382DA40.0007",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/cfv235-mesh-vision/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "CEB, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "175 mm",
+   "Dimensiones": "235 × 493 × 460 mm"
+  }
+ },
+ {
+  "id": "cougar-cfv235-vision-white-382da40-0004",
+  "slug": "cougar-cfv235-vision-white-382da40-0004",
+  "name": "Cougar CFV235 Vision White (382DA40.0004)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "382DA40.0004",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/us/products/cases/cfv235-vision/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "CEB, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "430 mm",
+   "Altura disipador máxima": "175 mm",
+   "Dimensiones": "235 × 493 × 460 mm"
+  }
+ },
+ {
+  "id": "cougar-cfv235-mesh-white-382da40-0006",
+  "slug": "cougar-cfv235-mesh-white-382da40-0006",
+  "name": "Cougar CFV235 Mesh White (382DA40.0006)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "382DA40.0006",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/us/products/cases/cfv235-mesh/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "CEB, ATX, microATX, Mini-ITX",
+   "Ventiladores incluidos": "2 × 160 mm + 1 × 120 mm",
+   "Dimensiones": "235 × 493 × 460 mm"
+  }
+ },
+ {
+  "id": "cougar-duoface-rgb-385zd10-0001",
+  "slug": "cougar-duoface-rgb-385zd10-0001",
+  "name": "Cougar Duoface RGB (385ZD10.0001)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385ZD10.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/duoface-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, CEB, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "2 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "280 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "230 × 491 × 386 mm"
+  }
+ },
+ {
+  "id": "cougar-duoface-rgb-white-385zd10-0003",
+  "slug": "cougar-duoface-rgb-white-385zd10-0003",
+  "name": "Cougar Duoface RGB White (385ZD10.0003)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385ZD10.0003",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/us/products/cases/duoface-rgb-white/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, CEB, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "2 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "280 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "230 × 491 × 386 mm"
+  }
+ },
+ {
+  "id": "cougar-duoface-pro-rgb-385ad10-0001",
+  "slug": "cougar-duoface-pro-rgb-385ad10-0001",
+  "name": "Cougar Duoface Pro RGB (385AD10.0001)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385AD10.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/duoface-pro-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, CEB, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "390 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "240 × 496 × 465 mm"
+  }
+ },
+ {
+  "id": "cougar-duoface-pro-rgb-white-385ad10-0002",
+  "slug": "cougar-duoface-pro-rgb-white-385ad10-0002",
+  "name": "Cougar Duoface Pro RGB White (385AD10.0002)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385AD10.0002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/duoface-pro-rgb-white/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, CEB, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "390 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "240 × 496 × 465 mm"
+  }
+ },
+ {
+  "id": "cougar-airface-385zd10-0002",
+  "slug": "cougar-airface-385zd10-0002",
+  "name": "Cougar Airface (385ZD10.0002)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385ZD10.0002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/airface/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, CEB, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador frontal máximo": "280 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "230 × 491 × 386 mm"
+  }
+ },
+ {
+  "id": "cougar-airface-pro-rgb-385ad10-0003",
+  "slug": "cougar-airface-pro-rgb-385ad10-0003",
+  "name": "Cougar Airface Pro RGB (385AD10.0003)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385AD10.0003",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/airface-pro-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, CEB, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "390 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "240 × 496 × 465 mm"
+  }
+ },
+ {
+  "id": "cougar-airface-pro-rgb-white-385ad10-0004",
+  "slug": "cougar-airface-pro-rgb-white-385ad10-0004",
+  "name": "Cougar Airface Pro RGB White (385AD10.0004)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385AD10.0004",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/airface-pro-rgb-white/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, CEB, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "390 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "240 × 496 × 465 mm"
+  }
+ },
+ {
+  "id": "cougar-archon-2-rgb-385cc50-0003",
+  "slug": "cougar-archon-2-rgb-385cc50-0003",
+  "name": "Cougar Archon 2 RGB (385CC50.0003)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385CC50.0003",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/archon-2-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "315 mm",
+   "Altura disipador máxima": "170 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "210 × 470 × 380 mm"
+  }
+ },
+ {
+  "id": "cougar-archon-2-rgb-white-385cc50-0004",
+  "slug": "cougar-archon-2-rgb-white-385cc50-0004",
+  "name": "Cougar Archon 2 RGB White (385CC50.0004)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385CC50.0004",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/archon-2-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "315 mm",
+   "Altura disipador máxima": "170 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "210 × 470 × 380 mm"
+  }
+ },
+ {
+  "id": "cougar-archon-2-mesh-rgb-385cc50-0001",
+  "slug": "cougar-archon-2-mesh-rgb-385cc50-0001",
+  "name": "Cougar Archon 2 Mesh RGB (385CC50.0001)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385CC50.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/archon-2-mesh-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "315 mm",
+   "Altura disipador máxima": "170 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "210 × 470 × 380 mm"
+  }
+ },
+ {
+  "id": "cougar-mx410-mesh-g-rgb-385vm70-0004",
+  "slug": "cougar-mx410-mesh-g-rgb-385vm70-0004",
+  "name": "Cougar MX410 Mesh-G RGB (385VM70.0004)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385VM70.0004",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/mx410-mesh-g-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "300 mm",
+   "Altura disipador máxima": "165 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "210 × 455 × 380 mm"
+  }
+ },
+ {
+  "id": "cougar-mx600-rgb-white-3857c90-0002",
+  "slug": "cougar-mx600-rgb-white-3857c90-0002",
+  "name": "Cougar MX600 RGB White (3857C90.0002)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "3857C90.0002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/mx600-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, CEB, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "3 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "235 × 515 × 478 mm"
+  }
+ },
+ {
+  "id": "cougar-purity-rgb-385pc40-0001",
+  "slug": "cougar-purity-rgb-385pc40-0001",
+  "name": "Cougar Purity RGB (385PC40.0001)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385PC40.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/purity-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "305 mm",
+   "Altura disipador máxima": "160 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "200 × 392 × 360 mm"
+  }
+ },
+ {
+  "id": "cougar-uniface-white-385c780-0006",
+  "slug": "cougar-uniface-white-385c780-0006",
+  "name": "Cougar Uniface White (385C780.0006)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "385C780.0006",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cases/uniface/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, CEB, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "2 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "230 × 493 × 475 mm"
+  }
+ },
+ {
+  "id": "cougar-fv150-mini-white-382qa60-0002",
+  "slug": "cougar-fv150-mini-white-382qa60-0002",
+  "name": "Cougar FV150 MINI White (382QA60.0002)",
+  "category_id": "case",
+  "brand": "Cougar",
+  "mpn": "382QA60.0002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/us/products/cases/fv150-mini-rgb/",
+  "specs_verified_at": "2026-11-09T16:35:38Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Ventiladores incluidos": "3 × 120 mm"
+  }
+ }
+]

@@ -1,0 +1,672 @@
+[
+ {
+  "product_id": "patriot-pvvr516g600c36k",
+  "image_path": "/images/products/ram/patriot-pvvr516g600c36k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_RGB_A_3ce77dc150.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:17:35Z"
+ },
+ {
+  "product_id": "patriot-vvr532g60c28ak",
+  "image_path": "/images/products/ram/patriot-vvr532g60c28ak.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_RGB_A_1233e48415.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:17:41Z"
+ },
+ {
+  "product_id": "patriot-vv516g64c32ak",
+  "image_path": "/images/products/ram/patriot-vv516g64c32ak.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:17:49Z"
+ },
+ {
+  "product_id": "patriot-vv532g60c28ak",
+  "image_path": "/images/products/ram/patriot-vv532g60c28ak.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:17:59Z"
+ },
+ {
+  "product_id": "patriot-vv58g60c36a",
+  "image_path": "/images/products/ram/patriot-vv58g60c36a.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:06Z"
+ },
+ {
+  "product_id": "patriot-vv516g60c36ak",
+  "image_path": "/images/products/ram/patriot-vv516g60c36ak.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:14Z"
+ },
+ {
+  "product_id": "patriot-vv532g60c30ak",
+  "image_path": "/images/products/ram/patriot-vv532g60c30ak.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:22Z"
+ },
+ {
+  "product_id": "patriot-vv532g60c36ak",
+  "image_path": "/images/products/ram/patriot-vv532g60c36ak.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:28Z"
+ },
+ {
+  "product_id": "patriot-pvs464g320c6k",
+  "image_path": "/images/products/ram/patriot-pvs464g320c6k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Steel_A_web_0a0d9e6233.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:32Z"
+ },
+ {
+  "product_id": "patriot-pvs432g320c6k",
+  "image_path": "/images/products/ram/patriot-pvs432g320c6k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Steel_A_web_0a0d9e6233.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:33Z"
+ },
+ {
+  "product_id": "patriot-pvs432g360c8k",
+  "image_path": "/images/products/ram/patriot-pvs432g360c8k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Steel_A_web_0a0d9e6233.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:35Z"
+ },
+ {
+  "product_id": "patriot-pvs464g360c8k",
+  "image_path": "/images/products/ram/patriot-pvs464g360c8k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Steel_A_web_0a0d9e6233.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:36Z"
+ },
+ {
+  "product_id": "patriot-pvs416g360c7k",
+  "image_path": "/images/products/ram/patriot-pvs416g360c7k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Steel_A_web_0a0d9e6233.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:37Z"
+ },
+ {
+  "product_id": "patriot-pvsr416g360c8k",
+  "image_path": "/images/products/ram/patriot-pvsr416g360c8k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Steel_RGB_B_back_cfcc8b92d3.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-steel-rgb-ddr4-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:40Z"
+ },
+ {
+  "product_id": "patriot-pvsr432g320c6k",
+  "image_path": "/images/products/ram/patriot-pvsr432g320c6k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Steel_RGB_B_back_cfcc8b92d3.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-steel-rgb-ddr4-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:41Z"
+ },
+ {
+  "product_id": "patriot-veb516g6030w",
+  "image_path": "/images/products/ram/patriot-veb516g6030w.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Elite5_Non_RGB_A_8a28bdc85f.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/elite5-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:42Z"
+ },
+ {
+  "product_id": "patriot-veu564g6432k",
+  "image_path": "/images/products/ram/patriot-veu564g6432k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/ELITE_5_ULTRA_Non_RGB_image_A_e0fe5bd764.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/elite5-ultra-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:44Z"
+ },
+ {
+  "product_id": "patriot-veu596g6028k",
+  "image_path": "/images/products/ram/patriot-veu596g6028k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/ELITE_5_ULTRA_Non_RGB_image_A_e0fe5bd764.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/elite5-ultra-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:45Z"
+ },
+ {
+  "product_id": "patriot-pve2432g320c8k",
+  "image_path": "/images/products/ram/patriot-pve2432g320c8k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Elite_II_A_web_a948a0d250.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-elite-ii-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory-gamercertified",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:47Z"
+ },
+ {
+  "product_id": "patriot-psp516g56002h1",
+  "image_path": "/images/products/ram/patriot-psp516g56002h1.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Signature_Premium_DDR_5_Black_A_f1ee4e8cb5.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/signature-line-premium-ddr5",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:18:49Z"
+ },
+ {
+  "product_id": "patriot-pvv516g60c30",
+  "image_path": "/images/products/ram/patriot-pvv516g60c30.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:19:56Z"
+ },
+ {
+  "product_id": "patriot-pvv516g600c36k",
+  "image_path": "/images/products/ram/patriot-pvv516g600c36k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:20:03Z"
+ },
+ {
+  "product_id": "patriot-pvv532g56c38",
+  "image_path": "/images/products/ram/patriot-pvv532g56c38.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:20:10Z"
+ },
+ {
+  "product_id": "patriot-pvv516g600c36",
+  "image_path": "/images/products/ram/patriot-pvv516g600c36.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:20:16Z"
+ },
+ {
+  "product_id": "patriot-pvv532g700c32k",
+  "image_path": "/images/products/ram/patriot-pvv532g700c32k.webp",
+  "image_source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/Viper_Venom_DDR_5_Non_RGB_A_674a95eeb9.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Patriot Memory",
+  "fetched_at": "2026-11-10T22:20:21Z"
+ },
+ {
+  "product_id": "hyte-y70-touch-infinite-blanco-cs-hyte-y70tti-ww",
+  "image_path": "/images/products/case/hyte-y70-touch-infinite-blanco-cs-hyte-y70tti-ww.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/121_source_1716966778.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y70/cs-hyte-y70tti-ww",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:41Z"
+ },
+ {
+  "product_id": "hyte-y70-touch-infinite-panda-cs-hyte-y70tti-wb",
+  "image_path": "/images/products/case/hyte-y70-touch-infinite-panda-cs-hyte-y70tti-wb.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/122_source_1716966778.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y70/cs-hyte-y70tti-wb",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:43Z"
+ },
+ {
+  "product_id": "hyte-y70-touch-infinite-negro-cs-hyte-y70tti-bb",
+  "image_path": "/images/products/case/hyte-y70-touch-infinite-negro-cs-hyte-y70tti-bb.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/123_source_1716966778.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y70/cs-hyte-y70tti-bb",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:44Z"
+ },
+ {
+  "product_id": "hyte-y70-blanco-cs-hyte-y70-ww",
+  "image_path": "/images/products/case/hyte-y70-blanco-cs-hyte-y70-ww.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/82_source_1708009941.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y70/cs-hyte-y70-ww",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:46Z"
+ },
+ {
+  "product_id": "hyte-y70-blanco-negro-cs-hyte-y70-bw",
+  "image_path": "/images/products/case/hyte-y70-blanco-negro-cs-hyte-y70-bw.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/83_source_1708009941.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y70/cs-hyte-y70-bw",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:47Z"
+ },
+ {
+  "product_id": "hyte-y70-negro-cs-hyte-y70-b",
+  "image_path": "/images/products/case/hyte-y70-negro-cs-hyte-y70-b.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/84_source_1708009941.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y70/cs-hyte-y70-b",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:49Z"
+ },
+ {
+  "product_id": "hyte-y40-negro-cs-hyte-y40-b",
+  "image_path": "/images/products/case/hyte-y40-negro-cs-hyte-y40-b.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/53_source_1672344925.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y40/cs-hyte-y40-b",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:50Z"
+ },
+ {
+  "product_id": "hyte-y40-blanco-cs-hyte-y40-ww",
+  "image_path": "/images/products/case/hyte-y40-blanco-cs-hyte-y40-ww.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/65_source_1685021919.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y40/cs-hyte-y40-ww",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:52Z"
+ },
+ {
+  "product_id": "hyte-y40-blanco-negro-cs-hyte-y40-bw",
+  "image_path": "/images/products/case/hyte-y40-blanco-negro-cs-hyte-y40-bw.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/51_source_1672344925.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y40/cs-hyte-y40-bw",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:53Z"
+ },
+ {
+  "product_id": "hyte-y60-blanco-negro-cs-hyte-y60-bw",
+  "image_path": "/images/products/case/hyte-y60-blanco-negro-cs-hyte-y60-bw.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/45_source_1665524303.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y60/cs-hyte-y60-bw",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:54Z"
+ },
+ {
+  "product_id": "hyte-y60-negro-cs-hyte-y60-b",
+  "image_path": "/images/products/case/hyte-y60-negro-cs-hyte-y60-b.webp",
+  "image_source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/47_source_1665524303.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://hyte.com/store/y60/cs-hyte-y60-b",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: HYTE",
+  "fetched_at": "2026-11-10T22:22:56Z"
+ },
+ {
+  "product_id": "amd-ryzen-7-9700f",
+  "image_path": "/images/products/cpu/amd-ryzen-7-9700f.webp",
+  "image_source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-7-9700x.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9700x.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: AMD",
+  "fetched_at": "2026-11-10T22:23:58Z"
+ },
+ {
+  "product_id": "amd-ryzen-5-9500f",
+  "image_path": "/images/products/cpu/amd-ryzen-5-9500f.webp",
+  "image_source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-5-9600x.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: AMD",
+  "fetched_at": "2026-11-10T22:24:00Z"
+ },
+ {
+  "product_id": "amd-ryzen-9-7900x3d-boxed",
+  "image_path": "/images/products/cpu/amd-ryzen-9-7900x3d-boxed.webp",
+  "image_source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-9-7900x3d.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x3d.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: AMD",
+  "fetched_at": "2026-11-10T22:24:02Z"
+ },
+ {
+  "product_id": "amd-radeon-rx-9060-xt-8gb",
+  "image_path": "/images/products/gpu/amd-radeon-rx-9060-xt-8gb.webp",
+  "image_source_url": "https://www.amd.com/content/dam/amd/en/images/products/graphics/radeon-rx-9060xt/3248000-radeon-rx-9060xt-product.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt-8gb.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: AMD",
+  "fetched_at": "2026-11-10T22:24:03Z"
+ },
+ {
+  "product_id": "amd-radeon-rx-9060",
+  "image_path": "/images/products/gpu/amd-radeon-rx-9060.webp",
+  "image_source_url": "https://www.amd.com/content/dam/amd/en/images/products/graphics/radeon-rx-9060xt/3248000-radeon-rx-9060xt-product.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: AMD",
+  "fetched_at": "2026-11-10T22:24:05Z"
+ },
+ {
+  "product_id": "amd-radeon-rx-9050-8gb",
+  "image_path": "/images/products/gpu/amd-radeon-rx-9050-8gb.webp",
+  "image_source_url": "https://www.amd.com/content/dam/amd/en/images/products/graphics/radeon-rx-9060xt/3248000-radeon-rx-9060xt-product.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9050.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: AMD",
+  "fetched_at": "2026-11-10T22:24:07Z"
+ },
+ {
+  "product_id": "amd-radeon-rx-9050-4gb",
+  "image_path": "/images/products/gpu/amd-radeon-rx-9050-4gb.webp",
+  "image_source_url": "https://www.amd.com/content/dam/amd/en/images/products/graphics/radeon-rx-9060xt/3248000-radeon-rx-9060xt-product.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9050-4gb.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: AMD",
+  "fetched_at": "2026-11-10T22:24:08Z"
+ },
+ {
+  "product_id": "zalman-p60-white-p60-white",
+  "image_path": "/images/products/case/zalman-p60-white-p60-white.webp",
+  "image_source_url": "https://www.zalman.com/cmm/fms/getImage.do?atchFileId=FILE_000000000035410&fileSn=17",
+  "image_scope": "model",
+  "image_page_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1735",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Zalman",
+  "fetched_at": "2026-11-10T22:27:35Z"
+ },
+ {
+  "product_id": "zalman-alpha2-ds-a24-black",
+  "image_path": "/images/products/cooler/zalman-alpha2-ds-a24-black.webp",
+  "image_source_url": "https://www.zalman.com/cmm/fms/getImage.do?atchFileId=FILE_000000000030746&fileSn=21",
+  "image_scope": "model",
+  "image_page_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1616",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Zalman",
+  "fetched_at": "2026-11-10T22:27:38Z"
+ },
+ {
+  "product_id": "zalman-alpha2-ds-a36-black",
+  "image_path": "/images/products/cooler/zalman-alpha2-ds-a36-black.webp",
+  "image_source_url": "https://www.zalman.com/cmm/fms/getImage.do?atchFileId=FILE_000000000030785&fileSn=26",
+  "image_scope": "model",
+  "image_page_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1617",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Zalman",
+  "fetched_at": "2026-11-10T22:27:41Z"
+ },
+ {
+  "product_id": "zalman-alpha2-ds-a36-white",
+  "image_path": "/images/products/cooler/zalman-alpha2-ds-a36-white.webp",
+  "image_source_url": "https://www.zalman.com/cmm/fms/getImage.do?atchFileId=FILE_000000000030714&fileSn=21",
+  "image_scope": "model",
+  "image_page_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1615",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Zalman",
+  "fetched_at": "2026-11-10T22:27:45Z"
+ },
+ {
+  "product_id": "zalman-zm700-gv2se",
+  "image_path": "/images/products/psu/zalman-zm700-gv2se.webp",
+  "image_source_url": "https://www.zalman.com/cmm/fms/getImage.do?atchFileId=FILE_000000000030453&fileSn=21",
+  "image_scope": "model",
+  "image_page_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1606",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Zalman",
+  "fetched_at": "2026-11-10T22:28:00Z"
+ },
+ {
+  "product_id": "zalman-zm800-gv2se",
+  "image_path": "/images/products/psu/zalman-zm800-gv2se.webp",
+  "image_source_url": "https://www.zalman.com/cmm/fms/getImage.do?atchFileId=FILE_000000000030482&fileSn=24",
+  "image_scope": "model",
+  "image_page_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1607",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Zalman",
+  "fetched_at": "2026-11-10T22:28:15Z"
+ },
+ {
+  "product_id": "forgeon-fo-ddr-plus32gb-v2-b",
+  "image_path": "/images/products/ram/forgeon-fo-ddr-plus32gb-v2-b.webp",
+  "image_source_url": "https://thumb.pccomponentes.com/w-530-530/articles/1093/10931674/1348-forgeon-cyclone-plus-v2-ddr4-3200-mhz-32gb-2x16gb-cl16-negra.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-32gb-2x16gb-cl16-negra",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:31:19Z"
+ },
+ {
+  "product_id": "forgeon-fo-ddr-plus16gb-v2-b",
+  "image_path": "/images/products/ram/forgeon-fo-ddr-plus16gb-v2-b.webp",
+  "image_source_url": "https://thumb.pccomponentes.com/w-530-530/articles/1093/10931673/1751-forgeon-cyclone-plus-v2-ddr4-3200-mhz-16gb-2x8gb-cl16-negra-comprar.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-16gb-2x8gb-cl16-negra",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:31:21Z"
+ },
+ {
+  "product_id": "msi-mag-a1000gls-pcie5",
+  "image_path": "/images/products/psu/msi-mag-a1000gls-pcie5.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/06/25/27/LD0006252721_0006252767.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.ldlc.com/es-es/ficha/PB00690252.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:31:22Z"
+ },
+ {
+  "product_id": "adata-ax5u6000c3016g-dclarwh",
+  "image_path": "/images/products/ram/adata-ax5u6000c3016g-dclarwh.webp",
+  "image_source_url": "https://www.alternate.es/p/o/9/2/ADATA_LANCER_m_dulo_de_memoria_32_GB_2_x_16_GB_DDR5_288_pin_DIMM__Memoria_RAM@@1886329.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/LANCER-m%C3%B3dulo-de-memoria-32-GB-2-x-16-GB-DDR5-288-pin-DIMM-Memoria-RAM/html/product/1886329",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:17Z"
+ },
+ {
+  "product_id": "adata-ax4u320016g16a-dtbkd35g",
+  "image_path": "/images/products/ram/adata-ax4u320016g16a-dtbkd35g.webp",
+  "image_source_url": "https://www.alternate.es/p/o/3/3/ADATA_SPECTRIX_D35G_m_dulo_de_memoria_32_GB_2_x_16_GB_DDR4_288_pin_DIMM__Memoria_RAM@@100006433.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/SPECTRIX-D35G-m%C3%B3dulo-de-memoria-32-GB-2-x-16-GB-DDR4-288-pin-DIMM-Memoria-RAM/html/product/100006433",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:18Z"
+ },
+ {
+  "product_id": "adata-ax5u6000c3032g-slabbk",
+  "image_path": "/images/products/ram/adata-ax5u6000c3032g-slabbk.webp",
+  "image_source_url": "https://www.alternate.es/p/o/6/6/ADATA_LANCER_BLADE_DDR5_m_dulo_de_memoria_32_GB_1_x_32_GB_288_pin_DIMM_ECC__Memoria_RAM@@100035966.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/LANCER-BLADE-DDR5-m%C3%B3dulo-de-memoria-32-GB-1-x-32-GB-288-pin-DIMM-ECC-Memoria-RAM/html/product/100035966",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:20Z"
+ },
+ {
+  "product_id": "adata-ax5u6000c3032g-samrbk",
+  "image_path": "/images/products/ram/adata-ax5u6000c3032g-samrbk.webp",
+  "image_source_url": "https://www.alternate.es/p/o/6/2/ADATA_DIMM_32_GB_DDR5_6000__Memoria_RAM@@100179526.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/DIMM-32-GB-DDR5-6000-Memoria-RAM/html/product/100179526",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:21Z"
+ },
+ {
+  "product_id": "adata-ax5u6000c3016g-dtamrbk",
+  "image_path": "/images/products/ram/adata-ax5u6000c3016g-dtamrbk.webp",
+  "image_source_url": "https://www.alternate.es/p/o/3/3/ADATA_DIMM_32_GB_DDR5_6000__2x_16_GB__Kit_Dual__Memoria_RAM@@100179533.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/DIMM-32-GB-DDR5-6000-2x-16-GB-Kit-Dual-Memoria-RAM/html/product/100179533",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:22Z"
+ },
+ {
+  "product_id": "adata-ax5u6000c3032g-dtamrbk",
+  "image_path": "/images/products/ram/adata-ax5u6000c3032g-dtamrbk.webp",
+  "image_source_url": "https://www.alternate.es/p/o/2/4/ADATA_DIMM_64_GB_DDR5_6000__2x_32_GB__Kit_Dual__Memoria_RAM@@100179542.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/DIMM-64-GB-DDR5-6000-2x-32-GB-Kit-Dual-Memoria-RAM/html/product/100179542",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:24Z"
+ },
+ {
+  "product_id": "adata-ax5u6400c3216g-dtlabbk",
+  "image_path": "/images/products/ram/adata-ax5u6400c3216g-dtlabbk.webp",
+  "image_source_url": "https://www.alternate.es/p/o/9/6/ADATA_LANCER_BLADE_m_dulo_de_memoria_32_GB_2_x_16_GB_DDR5_288_pin_DIMM__Memoria_RAM@@100011569.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/LANCER-BLADE-m%C3%B3dulo-de-memoria-32-GB-2-x-16-GB-DDR5-288-pin-DIMM-Memoria-RAM/html/product/100011569",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:25Z"
+ },
+ {
+  "product_id": "adata-su650-256-gb-asu650ss-256gt-r",
+  "image_path": "/images/products/storage/adata-su650-256-gb-asu650ss-256gt-r.webp",
+  "image_source_url": "https://www.alternate.es/p/o/7/9/ADATA_Ultimate_SU650_256_GB_2_5__Serial_ATA_III_3D_NAND__Unidad_de_estado_s_lido@@1705697.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/Ultimate-SU650-256-GB-2-Zoll-Serial-ATA-III-3D-NAND-Unidad-de-estado-s%C3%B3lido/html/product/1705697",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:27Z"
+ },
+ {
+  "product_id": "adata-su650-512-gb-asu650ss-512gt-r",
+  "image_path": "/images/products/storage/adata-su650-512-gb-asu650ss-512gt-r.webp",
+  "image_source_url": "https://www.alternate.es/p/o/8/9/ADATA_ASU650SS_512GT_R_unidad_de_estado_s_lido_512_GB_2_5__Serial_ATA_III_3D_NAND@@1705698.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/ASU650SS-512GT-R-unidad-de-estado-s%C3%B3lido-512-GB-2-Zoll-Serial-ATA-III-3D-NAND/html/product/1705698",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:28Z"
+ },
+ {
+  "product_id": "adata-su630-960gb-asu630ss-960gq-r",
+  "image_path": "/images/products/storage/adata-su630-960gb-asu630ss-960gq-r.webp",
+  "image_source_url": "https://www.alternate.es/p/o/i/ADATA_ULTIMATE_SU630_960_GB_2_5__SATA_3D2_QLC__Unidad_de_estado_s_lido@@imkmvb04.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/ULTIMATE-SU630-960-GB-2-Zoll-SATA-3D2-QLC-Unidad-de-estado-s%C3%B3lido/html/product/1500299",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:30Z"
+ },
+ {
+  "product_id": "adata-xpg-mars-980-blade-1tb",
+  "image_path": "/images/products/storage/adata-xpg-mars-980-blade-1tb.webp",
+  "image_source_url": "https://www.alternate.es/p/o/0/8/ADATA_SMAR_980B_1TCS_unidad_de_estado_s_lido_1_TB_M_2_PCI_Express_5_0_NVMe_3D_NAND@@100124680.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/SMAR-980B-1TCS-unidad-de-estado-s%C3%B3lido-1-TB-M-2-PCI-Express-5-0-NVMe-3D-NAND/html/product/100124680",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:31Z"
+ },
+ {
+  "product_id": "adata-xpg-gammix-s70-blade-2tb",
+  "image_path": "/images/products/storage/adata-xpg-gammix-s70-blade-2tb.webp",
+  "image_source_url": "https://www.alternate.es/p/o/3/6/ADATA_GAMMIX_S70_Blade_2_TB_M_2_PCI_Express_4_0_NVMe_3D_NAND__Unidad_de_estado_s_lido@@1871863.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/GAMMIX-S70-Blade-2-TB-M-2-PCI-Express-4-0-NVMe-3D-NAND-Unidad-de-estado-s%C3%B3lido/html/product/1871863",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:33Z"
+ },
+ {
+  "product_id": "adata-ax5u6000c3616g-dtlabrwh",
+  "image_path": "/images/products/ram/adata-ax5u6000c3616g-dtlabrwh.webp",
+  "image_source_url": "https://www.alternate.es/p/o/7/6/ADATA_DIMM_32_GB_DDR5_6000__2x_16_GB__Dual_Kit__Memoria_RAM@@100011567.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.alternate.es/ADATA/DIMM-32-GB-DDR5-6000-2x-16-GB-Dual-Kit-Memoria-RAM/html/product/100011567",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:34Z"
+ },
+ {
+  "product_id": "adata-ax5u6400c3216g-dtlabwh",
+  "image_path": "/images/products/ram/adata-ax5u6400c3216g-dtlabwh.webp",
+  "image_source_url": "https://www.alternate.es/p/o/4/7/ADATA_Lancer_Blade_m_dulo_de_memoria_32_GB_2_x_16_GB_DDR5_6400_MT_s_288_pin_DIMM_ECC__Memoria_RAM@@100011574.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/ADATA/Lancer-Blade-m%C3%B3dulo-de-memoria-32-GB-2-x-16-GB-DDR5-6400-MT-s-288-pin-DIMM-ECC-Memoria-RAM/html/product/100011574",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:36Z"
+ },
+ {
+  "product_id": "adata-ax4u360016g18i-dtbkd35",
+  "image_path": "/images/products/ram/adata-ax4u360016g18i-dtbkd35.webp",
+  "image_source_url": "https://www.alternate.es/p/o/0/8/ADATA_GAMMIX_D35_m_dulo_de_memoria_32_GB_2_x_16_GB_DDR4_288_pin_DIMM__Memoria_RAM@@100006580.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.alternate.es/ADATA/GAMMIX-D35-m%C3%B3dulo-de-memoria-32-GB-2-x-16-GB-DDR4-288-pin-DIMM-Memoria-RAM/html/product/100006580",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:34:37Z"
+ }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "key": "gpu",
+    "path": "apps/web/image-src/gpu.png",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset type: illustrative category image for a high-quality dark PC hardware catalogue. Photorealistic studio product photograph, precise manufactured geometry, crisp metal and plastic detail, neutral charcoal materials with restrained soft pink rim light matching a magenta gaming-PC hero. Center the complete object with comfortable even margins, entire product in frame. Transparent background with genuine clean alpha. No logos, text, numbers, watermark, backdrop or baked-in floor shadow. This is an illustrative generic component, not an exact commercial SKU. Subject: A premium unbranded desktop graphics card, black and brushed metal cooling shroud, three large realistic fans, visible PCIe gold connector and rear mounting bracket; gentle three-quarter angle showing cooler and edge, perfectly rigid realistic proportions."
+  },
+  {
+    "key": "cpu",
+    "path": "apps/web/image-src/cpu.png",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset type: illustrative category image for a high-quality dark PC hardware catalogue. Photorealistic studio product photograph, precise manufactured geometry, crisp metal and plastic detail, neutral charcoal materials with restrained soft pink rim light matching a magenta gaming-PC hero. Center the complete object with comfortable even margins, entire product in frame. Transparent background with genuine clean alpha. No logos, text, numbers, watermark, backdrop or baked-in floor shadow. This is an illustrative generic component, not an exact commercial SKU. Subject: One unbranded desktop CPU processor, silver rectangular heat spreader on a dark green substrate, realistic fine contact pads along the underside edge; three-quarter view from above, no retail packaging."
+  },
+  {
+    "key": "motherboard",
+    "path": "apps/web/image-src/motherboard.png",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset type: illustrative category image for a high-quality dark PC hardware catalogue. Photorealistic studio product photograph, precise manufactured geometry, crisp metal and plastic detail, neutral charcoal materials with restrained soft pink rim light matching a magenta gaming-PC hero. Center the complete object with comfortable even margins, entire product in frame. Transparent background with genuine clean alpha. No logos, text, numbers, watermark, backdrop or baked-in floor shadow. This is an illustrative generic component, not an exact commercial SKU. Subject: One premium black ATX desktop motherboard, clearly empty CPU socket with retention bracket, four DIMM slots, PCIe slots, rear IO heatsink and M.2 heatsinks, realistic professional hardware layout; three-quarter view from above."
+  },
+  {
+    "key": "ram",
+    "path": "apps/web/image-src/ram.png",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset type: illustrative category image for a high-quality dark PC hardware catalogue. Photorealistic studio product photograph, precise manufactured geometry, crisp metal and plastic detail, neutral charcoal materials with restrained soft pink rim light matching a magenta gaming-PC hero. Center the complete object with comfortable even margins, entire product in frame. Transparent background with genuine clean alpha. No logos, text, numbers, watermark, backdrop or baked-in floor shadow. This is an illustrative generic component, not an exact commercial SKU. Subject: Two premium black desktop DDR5 memory modules as a matched pair, subtle magenta diffused light strips on their tops, realistic long thin rigid proportions and gold contacts, neatly staggered in a three-quarter product view."
+  },
+  {
+    "key": "storage",
+    "path": "apps/web/image-src/storage.png",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset type: illustrative category image for a high-quality dark PC hardware catalogue. Photorealistic studio product photograph, precise manufactured geometry, crisp metal and plastic detail, neutral charcoal materials with restrained soft pink rim light matching a magenta gaming-PC hero. Center the complete object with comfortable even margins, entire product in frame. Transparent background with genuine clean alpha. No logos, text, numbers, watermark, backdrop or baked-in floor shadow. This is an illustrative generic component, not an exact commercial SKU. Subject: One black M.2 2280 NVMe SSD, realistic 22 mm by 80 mm long narrow proportions, black heat spreader, gold edge connector and screw notch, three-quarter view from above; no large external hard drive or packaging."
+  },
+  {
+    "key": "psu",
+    "path": "apps/web/image-src/psu.png",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset type: illustrative category image for a high-quality dark PC hardware catalogue. Photorealistic studio product photograph, precise manufactured geometry, crisp metal and plastic detail, neutral charcoal materials with restrained soft pink rim light matching a magenta gaming-PC hero. Center the complete object with comfortable even margins, entire product in frame. Transparent background with genuine clean alpha. No logos, text, numbers, watermark, backdrop or baked-in floor shadow. This is an illustrative generic component, not an exact commercial SKU. Subject: One premium black modular ATX desktop power supply, realistic compact metal rectangular chassis, circular fan grille on upper face, modular connector sockets on visible side, black braided cables neatly coiled beside it, three-quarter product view."
+  },
+  {
+    "key": "cooler",
+    "path": "apps/web/image-src/cooler.png",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset type: illustrative category image for a high-quality dark PC hardware catalogue. Photorealistic studio product photograph, precise manufactured geometry, crisp metal and plastic detail, neutral charcoal materials with restrained soft pink rim light matching a magenta gaming-PC hero. Center the complete object with comfortable even margins, entire product in frame. Transparent background with genuine clean alpha. No logos, text, numbers, watermark, backdrop or baked-in floor shadow. This is an illustrative generic component, not an exact commercial SKU. Subject: One premium black desktop 360mm all-in-one liquid CPU cooler, three aligned cooling fans attached to a rectangular radiator, subtle magenta RGB fan rings, two realistic flexible tubes connected to a small circular CPU water block; product photograph with tidy natural arrangement, no PC case."
+  },
+  {
+    "key": "hero",
+    "path": "apps/web/image-src/pc-hero.png",
+    "mode": "built-in image_gen",
+    "prompt": "Photorealistic black mid-tower PC, coherent three-quarter perspective, tempered glass, realistic assembled components, restrained magenta RGB, transparent background, no logos or text."
+  }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "id": "kingston-kf560c30bwek2-32",
+  "slug": "kingston-kf560c30bwek2-32",
+  "name": "Kingston FURY Beast 32 GB (2 × 16 GB) DDR5-6000 CL30 (KF560C30BWEK2-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF560C30BWEK2-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF560C30BWEK2-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF560C30BWEK2-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf560c32rs-48",
+  "slug": "kingston-kf560c32rs-48",
+  "name": "Kingston FURY Renegade 48 GB (1 × 48 GB) DDR5-6000 CL32 (KF560C32RS-48)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF560C32RS-48",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF560C32RS-48.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF560C32RS-48.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Renegade",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "48 GB",
+   "Módulos": "1 × 48 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL32",
+   "Perfil": "Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf440c19rb2-8",
+  "slug": "kingston-kf440c19rb2-8",
+  "name": "Kingston FURY Renegade 8 GB (1 × 8 GB) DDR4-4000 CL19 (KF440C19RB2/8)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF440C19RB2/8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF440C19RB2_8.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF440C19RB2_8.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Renegade",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "4000 MT/s",
+   "Latencia": "CL19",
+   "Perfil": "Intel XMP"
+  }
+ },
+ {
+  "id": "kingston-kvr64a52bs8-16",
+  "slug": "kingston-kvr64a52bs8-16",
+  "name": "Kingston ValueRAM 16 GB (1 × 16 GB) DDR5-6400 CL52 (KVR64A52BS8-16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KVR64A52BS8-16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KVR64A52BS8-16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KVR64A52BS8-16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "ValueRAM",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6400 MT/s",
+   "Latencia": "CL52",
+   "Formato": "CUDIMM"
+  }
+ },
+ {
+  "id": "lexar-ld4au032g-b3200gsst",
+  "slug": "lexar-ld4au032g-b3200gsst",
+  "name": "Lexar DDR4-3200 UDIMM 32 GB (1 × 32 GB) CL22 (LD4AU032G-B3200GSST)",
+  "category_id": "ram",
+  "brand": "Lexar",
+  "mpn": "LD4AU032G-B3200GSST",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/",
+  "manufacturer_sources": [
+   "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/"
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Línea": "DDR4-3200 UDIMM",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL22"
+  }
+ },
+ {
+  "id": "klevv-kd5agua80-56g460a",
+  "slug": "klevv-kd5agua80-56g460a",
+  "name": "Klevv DDR5 UDIMM 16 GB (1 × 16 GB) 5600 CL46 (KD5AGUA80-56G460A)",
+  "category_id": "ram",
+  "brand": "Klevv",
+  "mpn": "KD5AGUA80-56G460A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/D5_UDIMM",
+  "manufacturer_sources": [
+   "https://www.klevv.com/ken/products_details/memory/D5_UDIMM"
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL46"
+  }
+ },
+ {
+  "id": "klevv-kd5bgua80-60a300g",
+  "slug": "klevv-kd5bgua80-60a300g",
+  "name": "Klevv CRAS V RGB 64 GB (2 × 32 GB) DDR5-6000 CL30 (KD5BGUA80-60A300G)",
+  "category_id": "ram",
+  "brand": "Klevv",
+  "mpn": "KD5BGUA80-60A300G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/Klevv_CrasVRGB",
+  "manufacturer_sources": [
+   "https://www.klevv.com/ken/products_details/memory/Klevv_CrasVRGB"
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Perfil": "Intel XMP 3.0, AMD EXPO"
+  }
+ },
+ {
+  "id": "klevv-kd5agua80-60b280g",
+  "slug": "klevv-kd5agua80-60b280g",
+  "name": "Klevv CRAS V RGB 32 GB (2 × 16 GB) DDR5-6000 CL28 (KD5AGUA80-60B280G)",
+  "category_id": "ram",
+  "brand": "Klevv",
+  "mpn": "KD5AGUA80-60B280G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/Klevv_CrasVRGB",
+  "manufacturer_sources": [
+   "https://www.klevv.com/ken/products_details/memory/Klevv_CrasVRGB"
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL28",
+   "Perfil": "Intel XMP 3.0, AMD EXPO"
+  }
+ },
+ {
+  "id": "klevv-kd58gu880-56g4600",
+  "slug": "klevv-kd58gu880-56g4600",
+  "name": "Klevv DDR5 UDIMM 8 GB (1 × 8 GB) 5600 CL46 Bulk (KD58GU880-56G4600)",
+  "category_id": "ram",
+  "brand": "Klevv",
+  "mpn": "KD58GU880-56G4600",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/D5_UDIMM",
+  "manufacturer_sources": [
+   "https://www.klevv.com/ken/products_details/memory/D5_UDIMM"
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL46"
+  }
+ },
+ {
+  "id": "klevv-kd5agua80-60b280m",
+  "slug": "klevv-kd5agua80-60b280m",
+  "name": "Klevv URBANE V RGB 32 GB (2 × 16 GB) DDR5-6000 CL28 (KD5AGUA80-60B280M)",
+  "category_id": "ram",
+  "brand": "Klevv",
+  "mpn": "KD5AGUA80-60B280M",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/Klevv_UrbaneVRGB",
+  "manufacturer_sources": [
+   "https://www.klevv.com/ken/products_details/memory/Klevv_UrbaneVRGB"
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL28",
+   "Perfil": "Intel XMP 3.0, AMD EXPO"
+  }
+ },
+ {
+  "id": "synology-d4er01-16g",
+  "slug": "synology-d4er01-16g",
+  "name": "Synology D4ER01-16G 16 GB DDR4 ECC RDIMM",
+  "category_id": "ram",
+  "brand": "Synology",
+  "mpn": "D4ER01-16G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.synology.com/en-global/products/DDR4",
+  "manufacturer_sources": [
+   "https://www.synology.com/en-global/products/DDR4"
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Formato": "RDIMM",
+   "ECC": "Sí"
+  }
+ },
+ {
+  "id": "synology-d4ec-2666-8g",
+  "slug": "synology-d4ec-2666-8g",
+  "name": "Synology D4EC-2666-8G 8 GB DDR4 ECC UDIMM",
+  "category_id": "ram",
+  "brand": "Synology",
+  "mpn": "D4EC-2666-8G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.synology.com/en-global/products/DDR4",
+  "manufacturer_sources": [
+   "https://www.synology.com/en-global/products/DDR4",
+   "https://global.download.synology.com/download/Document/Hardware/ProductSpec/RAM%20module/17-year/D4EC-2666-8G/enu/Product_Spec_D4EC-2666-8G_enu.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Formato": "UDIMM",
+   "ECC": "Sí",
+   "Velocidad": "2666 MT/s"
+  }
+ },
+ {
+  "id": "synology-d4ec-2666-16g",
+  "slug": "synology-d4ec-2666-16g",
+  "name": "Synology D4EC-2666-16G 16 GB DDR4 ECC UDIMM",
+  "category_id": "ram",
+  "brand": "Synology",
+  "mpn": "D4EC-2666-16G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.synology.com/en-global/products/DDR4",
+  "manufacturer_sources": [
+   "https://www.synology.com/en-global/products/DDR4",
+   "https://global.download.synology.com/download/Document/Hardware/ProductSpec/RAM%20module/17-year/D4EC-2666-16G/enu/Product_Spec_D4EC-2666-16G_enu.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Formato": "UDIMM",
+   "ECC": "Sí",
+   "Velocidad": "2666 MT/s"
+  }
+ },
+ {
+  "id": "forgeon-fo-ddr-plus32gb-v2-b",
+  "slug": "forgeon-fo-ddr-plus32gb-v2-b",
+  "name": "Forgeon Cyclone PLUS V2 32 GB (2 × 16 GB) DDR4-3200 CL16 Negra",
+  "category_id": "ram",
+  "brand": "Forgeon",
+  "mpn": "FO-DDR-PLUS32GB-V2-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-32gb-2x16gb-cl16-negra",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-32gb-2x16gb-cl16-negra",
+    "supports": "Ficha PcComponentes de su marca propia Forgeon: imprime el P/N exacto, kit, 3200 MHz, CL16 y compatibilidad Intel XMP. Forgeon es marca de PcComponentes."
+   }
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Línea": "Cyclone PLUS V2",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Perfil": "Intel XMP"
+  }
+ },
+ {
+  "id": "forgeon-fo-ddr-plus16gb-v2-b",
+  "slug": "forgeon-fo-ddr-plus16gb-v2-b",
+  "name": "Forgeon Cyclone PLUS V2 16 GB (2 × 8 GB) DDR4-3200 CL16 Negra",
+  "category_id": "ram",
+  "brand": "Forgeon",
+  "mpn": "FO-DDR-PLUS16GB-V2-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-16gb-2x8gb-cl16-negra",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-16gb-2x8gb-cl16-negra",
+    "supports": "Ficha PcComponentes de su marca propia Forgeon: imprime el P/N exacto, kit, 3200 MHz, CL16 y compatibilidad Intel XMP. Forgeon es marca de PcComponentes."
+   }
+  ],
+  "specs_verified_at": "2026-11-08T21:52:24Z",
+  "specs": {
+   "Línea": "Cyclone PLUS V2",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Perfil": "Intel XMP"
+  }
+ }
+]

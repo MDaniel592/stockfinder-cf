@@ -1,0 +1,417 @@
+[
+ {
+  "id": "noctua-nh-d15-g2-lbc",
+  "slug": "noctua-nh-d15-g2-lbc",
+  "name": "Noctua NH-D15 G2 LBC",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D15 G2 LBC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.noctua.at/en/products/nh-d15-g2-lbc",
+  "manufacturer_sources": [
+   "https://www.noctua.at/en/products/nh-d15-g2-lbc"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA1156",
+   "Altura": "168 mm",
+   "Heatpipes": "8",
+   "Ventiladores": "2 × 140 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-l9i",
+  "slug": "noctua-nh-l9i",
+  "name": "Noctua NH-L9i",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-L9i",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.noctua.at/en/products/nh-l9i",
+  "manufacturer_sources": [
+   "https://www.noctua.at/en/products/nh-l9i"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA1200, LGA1151, LGA1150, LGA1155, LGA1156",
+   "Altura": "37 mm",
+   "Ventiladores": "1 × 92 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-l9i-17xx",
+  "slug": "noctua-nh-l9i-17xx",
+  "name": "Noctua NH-L9i-17xx",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-L9i-17xx",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.noctua.at/en/products/nh-l9i-17xx",
+  "manufacturer_sources": [
+   "https://www.noctua.at/en/products/nh-l9i-17xx"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA1851, LGA1700",
+   "Altura": "37 mm",
+   "Ventiladores": "1 × 92 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-l9a-am5",
+  "slug": "noctua-nh-l9a-am5",
+  "name": "Noctua NH-L9a-AM5",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-L9a-AM5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.noctua.at/en/products/nh-l9a-am5",
+  "manufacturer_sources": [
+   "https://www.noctua.at/en/products/nh-l9a-am5"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5",
+   "Altura": "37 mm",
+   "Ventiladores": "1 × 92 mm"
+  }
+ },
+ {
+  "id": "noctua-nl-lc1-24",
+  "slug": "noctua-nl-lc1-24",
+  "name": "Noctua NL-LC1-24",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NL-LC1-24",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.noctua.at/en/products/nl-lc1-24",
+  "manufacturer_sources": [
+   "https://www.noctua.at/en/products/nl-lc1-24"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1700, LGA1851",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "noctua-nl-lc1-36",
+  "slug": "noctua-nl-lc1-36",
+  "name": "Noctua NL-LC1-36",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NL-LC1-36",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.noctua.at/en/products/nl-lc1-36",
+  "manufacturer_sources": [
+   "https://www.noctua.at/en/products/nl-lc1-36"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1700, LGA1851",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "noctua-nl-lc1-42",
+  "slug": "noctua-nl-lc1-42",
+  "name": "Noctua NL-LC1-42",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NL-LC1-42",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.noctua.at/en/products/nl-lc1-42",
+  "manufacturer_sources": [
+   "https://www.noctua.at/en/products/nl-lc1-42"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "420 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1700, LGA1851",
+   "Ventiladores": "3 × 140 mm"
+  }
+ },
+ {
+  "id": "deepcool-r-ag500-bkammn-gjd",
+  "slug": "deepcool-r-ag500-bkammn-gjd",
+  "name": "DeepCool AG500 BK ARGB V2 (R-AG500-BKAMMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AG500-BKAMMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AG500-BK-ARGB-V2-CPU-Cooler-with-Top-Cover-Light-1851-1700-AM5/2025/20914.shtml",
+  "manufacturer_sources": [
+   "https://www.deepcool.com/products/Cooling/cpuaircoolers/AG500-BK-ARGB-V2-CPU-Cooler-with-Top-Cover-Light-1851-1700-AM5/2025/20914.shtml"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Altura": "160 mm",
+   "Heatpipes": "5",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "deepcool-r-ak500g2-bknnmn-gjd",
+  "slug": "deepcool-r-ak500g2-bknnmn-gjd",
+  "name": "DeepCool AK500 G2 Wood Grain (R-AK500G2-BKNNMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK500G2-BKNNMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK500-G2-Wood-Grain-Top-Cover-CPU-Cooler/2025/21986.shtml",
+  "manufacturer_sources": [
+   "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK500-G2-Wood-Grain-Top-Cover-CPU-Cooler/2025/21986.shtml"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Altura": "159 mm",
+   "Heatpipes": "5",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "deepcool-r-lq240-bklsmw-g-1",
+  "slug": "deepcool-r-lq240-bklsmw-g-1",
+  "name": "DeepCool LQ240 (R-LQ240-BKLSMW-G-1)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-LQ240-BKLSMW-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LQ240-240mm-Dashboard-Display-Liquid-Cooler-1851-1700-AM5/2024/19630.shtml",
+  "manufacturer_sources": [
+   "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LQ240-240mm-Dashboard-Display-Liquid-Cooler-1851-1700-AM5/2024/19630.shtml"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "deepcool-r-le240-bkammc-g-2",
+  "slug": "deepcool-r-le240-bkammc-g-2",
+  "name": "DeepCool LE240 V2 (R-LE240-BKAMMC-G-2)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-LE240-BKAMMC-G-2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LE240-V2-Liquid-CPU-Cooler-1851-1700-AM5/2025/20136.shtml",
+  "manufacturer_sources": [
+   "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LE240-V2-Liquid-CPU-Cooler-1851-1700-AM5/2025/20136.shtml"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "deepcool-r-ls720-bknnmm-g-1",
+  "slug": "deepcool-r-ls720-bknnmm-g-1",
+  "name": "DeepCool LS720S Zero Dark (R-LS720-BKNNMM-G-1)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-LS720-BKNNMM-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LS720S-ZERO-DARK-360mm-Pure-Performance-Liquid-Cooler-1851-1700-AM5/2024/17571.shtml",
+  "manufacturer_sources": [
+   "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LS720S-ZERO-DARK-360mm-Pure-Performance-Liquid-Cooler-1851-1700-AM5/2024/17571.shtml"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "endorfy-ey3a010",
+  "slug": "endorfy-ey3a010",
+  "name": "ENDORFY Fortis 5 ARGB (EY3A010)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A010",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/kb/EY3A010/",
+  "manufacturer_sources": [
+   "https://endorfy.com/en/kb/EY3A010/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Heatpipes": "6",
+   "Ventiladores": "1 × 140 mm"
+  }
+ },
+ {
+  "id": "endorfy-ey3a002",
+  "slug": "endorfy-ey3a002",
+  "name": "ENDORFY Spartan 5 ARGB (EY3A002)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/kb/EY3A002/",
+  "manufacturer_sources": [
+   "https://endorfy.com/en/kb/EY3A002/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Altura": "146 mm",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "endorfy-ey3a004",
+  "slug": "endorfy-ey3a004",
+  "name": "ENDORFY Spartan 5 MAX ARGB (EY3A004)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A004",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/kb/EY3A004/",
+  "manufacturer_sources": [
+   "https://endorfy.com/en/kb/EY3A004/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Altura": "146 mm",
+   "Heatpipes": "4",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "endorfy-ey3a012",
+  "slug": "endorfy-ey3a012",
+  "name": "ENDORFY Fera 5 Black ARGB (EY3A012)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A012",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/kb/EY3A012/",
+  "manufacturer_sources": [
+   "https://endorfy.com/en/kb/EY3A012/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Heatpipes": "4",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "endorfy-ey3a014",
+  "slug": "endorfy-ey3a014",
+  "name": "ENDORFY Fortis 5 Black ARGB (EY3A014)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A014",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/kb/EY3A014/",
+  "manufacturer_sources": [
+   "https://endorfy.com/en/kb/EY3A014/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Heatpipes": "6",
+   "Ventiladores": "1 × 140 mm"
+  }
+ },
+ {
+  "id": "endorfy-ey3a008",
+  "slug": "endorfy-ey3a008",
+  "name": "ENDORFY Fortis 5 (EY3A008)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A008",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/kb/EY3A008/",
+  "manufacturer_sources": [
+   "https://endorfy.com/en/kb/EY3A008/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Heatpipes": "6",
+   "Ventiladores": "1 × 140 mm"
+  }
+ },
+ {
+  "id": "endorfy-ey3a003",
+  "slug": "endorfy-ey3a003",
+  "name": "ENDORFY Spartan 5 MAX (EY3A003)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A003",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/kb/EY3A003/",
+  "manufacturer_sources": [
+   "https://endorfy.com/en/kb/EY3A003/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Altura": "146 mm",
+   "Heatpipes": "4",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "endorfy-ey3a007",
+  "slug": "endorfy-ey3a007",
+  "name": "ENDORFY Fera 5 ARGB (EY3A007)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A007",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/kb/EY3A007/",
+  "manufacturer_sources": [
+   "https://endorfy.com/en/kb/EY3A007/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Heatpipes": "4",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "endorfy-ey3b003",
+  "slug": "endorfy-ey3b003",
+  "name": "ENDORFY Navis F360 (EY3B003)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3B003",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/kb/EY3B003/",
+  "manufacturer_sources": [
+   "https://endorfy.com/en/kb/EY3B003/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ }
+]

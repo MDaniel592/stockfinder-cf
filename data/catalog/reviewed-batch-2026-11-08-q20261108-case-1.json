@@ -1,0 +1,44 @@
+[
+ {
+  "id": "msi-mag-forge-m100r",
+  "slug": "msi-mag-forge-m100r",
+  "name": "MSI MAG FORGE M100R",
+  "category_id": "case",
+  "brand": "MSI",
+  "mpn": "MAG FORGE M100R",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/PC-Case/MAG-FORGE-M100R/Specification",
+  "specs_verified_at": "2026-11-08T16:30:00Z",
+  "specs": {
+   "Formatos compatibles": "Micro-ATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "300 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "3 × 120 mm (frontal) + 1 × 120 mm (trasero), ARGB",
+   "Radiador frontal máximo": "240 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "388 × 200 × 423 mm"
+  }
+ },
+ {
+  "id": "msi-mag-forge-112r",
+  "slug": "msi-mag-forge-112r",
+  "name": "MSI MAG FORGE 112R",
+  "category_id": "case",
+  "brand": "MSI",
+  "mpn": "MAG FORGE 112R",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/PC-Case/MAG-FORGE-112R/Specification",
+  "specs_verified_at": "2026-11-08T16:30:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, Micro-ATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "3 × 120 mm (frontal) + 1 × 120 mm (trasero), ARGB",
+   "Radiador frontal máximo": "240 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "409 × 214 × 485 mm"
+  }
+ }
+]

@@ -1,0 +1,69 @@
+[
+ {
+  "id": "zalman-alpha2-ds-a24-black",
+  "slug": "zalman-alpha2-ds-a24-black",
+  "name": "Zalman ALPHA2 DS A24 Black (ALPHA2 DS A24 BLACK)",
+  "category_id": "cooler",
+  "brand": "Zalman",
+  "mpn": "ALPHA2 DS A24 BLACK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1616",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Dimensiones radiador": "120 x 277 x 27 mm"
+  }
+ },
+ {
+  "id": "zalman-alpha2-ds-a36-black",
+  "slug": "zalman-alpha2-ds-a36-black",
+  "name": "Zalman ALPHA2 DS A36 Black (ALPHA2 DS A36 BLACK)",
+  "category_id": "cooler",
+  "brand": "Zalman",
+  "mpn": "ALPHA2 DS A36 BLACK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1617",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Dimensiones radiador": "120 x 397 x 27 mm"
+  }
+ },
+ {
+  "id": "zalman-alpha2-ds-a36-white",
+  "slug": "zalman-alpha2-ds-a36-white",
+  "name": "Zalman ALPHA2 DS A36 White (ALPHA2 DS A36 WHITE)",
+  "category_id": "cooler",
+  "brand": "Zalman",
+  "mpn": "ALPHA2 DS A36 WHITE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1615",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Dimensiones radiador": "120 x 397 x 27 mm"
+  }
+ },
+ {
+  "id": "hiditec-c40-pro-cpuh10003",
+  "slug": "hiditec-c40-pro-cpuh10003",
+  "name": "Hiditec C40 Pro (CPUH10003)",
+  "category_id": "cooler",
+  "brand": "Hiditec",
+  "mpn": "CPUH10003",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/refrigeracion-de-aire/63-c40-pro.html",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Heatpipes": "6",
+   "Ventiladores": "2 × 140 mm"
+  }
+ }
+]

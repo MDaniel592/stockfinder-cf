@@ -1,0 +1,174 @@
+[
+ {
+  "id": "thermaltake-toughpower-gt-1000w-atx31",
+  "slug": "thermaltake-toughpower-gt-1000w-atx31",
+  "name": "Thermaltake Toughpower GT 1000W (ATX 3.1)",
+  "category_id": "psu",
+  "brand": "Thermaltake",
+  "mpn": "PS-TPT-1000FNFAGE-3",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.thermaltake.com/toughpower-gt-1000w.html",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6 (12+4 pin)"
+  }
+ },
+ {
+  "id": "thermaltake-toughpower-gt-1200w-atx31",
+  "slug": "thermaltake-toughpower-gt-1200w-atx31",
+  "name": "Thermaltake Toughpower GT 1200W (ATX 3.1)",
+  "category_id": "psu",
+  "brand": "Thermaltake",
+  "mpn": "PS-TPT-1200FNFAGE-3",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.thermaltake.com/toughpower-gt-1200w.html",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Potencia": "1200 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6 (12+4 pin)"
+  }
+ },
+ {
+  "id": "thermaltake-toughpower-gt-750w-atx31",
+  "slug": "thermaltake-toughpower-gt-750w-atx31",
+  "name": "Thermaltake Toughpower GT 750W (ATX 3.1)",
+  "category_id": "psu",
+  "brand": "Thermaltake",
+  "mpn": "PS-TPT-0750FNFAGE-3",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.thermaltake.com/toughpower-gt-750w-atx31.html",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6 (12+4 pin)"
+  }
+ },
+ {
+  "id": "thermaltake-toughpower-gt-850w-atx31",
+  "slug": "thermaltake-toughpower-gt-850w-atx31",
+  "name": "Thermaltake Toughpower GT 850W (ATX 3.1)",
+  "category_id": "psu",
+  "brand": "Thermaltake",
+  "mpn": "PS-TPT-0850FNFAGE-3",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.thermaltake.com/toughpower-gt-850w-atx31.html",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6 (12+4 pin)"
+  }
+ },
+ {
+  "id": "thermaltake-toughpower-gf3-1000w-gold",
+  "slug": "thermaltake-toughpower-gf3-1000w-gold",
+  "name": "Thermaltake Toughpower GF3 1000W Gold",
+  "category_id": "psu",
+  "brand": "Thermaltake",
+  "mpn": "PS-TPD-1000FNFAGE-4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es.thermaltake.com/toughpower-gf3-1000w-gold-tt-premium-edition.html",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.0",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "PCIe 12+4 pin (PCIe Gen 5.0)"
+  }
+ },
+ {
+  "id": "thermaltake-toughpower-gf3-1200w-gold",
+  "slug": "thermaltake-toughpower-gf3-1200w-gold",
+  "name": "Thermaltake Toughpower GF3 1200W Gold",
+  "category_id": "psu",
+  "brand": "Thermaltake",
+  "mpn": "PS-TPD-1200FNFAGE-4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es.thermaltake.com/toughpower-gf3-1200w-gold-tt-premium-edition.html",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Potencia": "1200 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.0",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "PCIe 12+4 pin (PCIe Gen 5.0)"
+  }
+ },
+ {
+  "id": "thermaltake-toughpower-gf3-1350w-gold",
+  "slug": "thermaltake-toughpower-gf3-1350w-gold",
+  "name": "Thermaltake Toughpower GF3 1350W Gold",
+  "category_id": "psu",
+  "brand": "Thermaltake",
+  "mpn": "PS-TPD-1350FNFAGE-4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es.thermaltake.com/toughpower-gf3-1350w-gold-tt-premium-edition.html",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Potencia": "1350 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.0",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "PCIe 12+4 pin (PCIe Gen 5.0)"
+  }
+ },
+ {
+  "id": "xpg-corereactor-ii-ve-650w",
+  "slug": "xpg-corereactor-ii-ve-650w",
+  "name": "XPG CORE REACTOR II VE 650W",
+  "category_id": "psu",
+  "brand": "XPG",
+  "mpn": "75261413",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.xpg.com/index.php/ca/xpg/pc-components-core-reactor-ii-ve?tab=spec",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6 (12+4 pin)",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "xpg-corereactor-ii-850w",
+  "slug": "xpg-corereactor-ii-850w",
+  "name": "XPG CORE REACTOR II 850W",
+  "category_id": "psu",
+  "brand": "XPG",
+  "mpn": "75261197",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.xpg.com/index.php/us/xpg/pc-components-core-reactor-ii",
+  "specs_verified_at": "2026-11-03T00:00:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6 (12+4 pin)"
+  }
+ }
+]

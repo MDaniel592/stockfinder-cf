@@ -1,0 +1,847 @@
+[
+ {
+  "id": "msi-mag-coreliquid-a13-240-white-306-7zwca21-l80",
+  "slug": "msi-mag-coreliquid-a13-240-white-306-7zwca21-l80",
+  "name": "MSI MAG CoreLiquid A13 240 White (306-7ZWCA21-L80)",
+  "category_id": "cooler",
+  "brand": "MSI",
+  "mpn": "306-7ZWCA21-L80",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Liquid-Cooling/MAG-CORELIQUID-A13-240",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "277 × 119,6 × 27,2 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "msi-mag-coreliquid-a13-240-306-7zwca11-l80",
+  "slug": "msi-mag-coreliquid-a13-240-306-7zwca11-l80",
+  "name": "MSI MAG CoreLiquid A13 240 (306-7ZWCA11-L80)",
+  "category_id": "cooler",
+  "brand": "MSI",
+  "mpn": "306-7ZWCA11-L80",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Liquid-Cooling/MAG-CORELIQUID-A13-240",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "277 × 119,6 × 27,2 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "msi-mag-coreliquid-a15-240-306-7zwaa11-l80",
+  "slug": "msi-mag-coreliquid-a15-240-306-7zwaa11-l80",
+  "name": "MSI MAG CoreLiquid A15 240 (306-7ZWAA11-L80)",
+  "category_id": "cooler",
+  "brand": "MSI",
+  "mpn": "306-7ZWAA11-L80",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Liquid-Cooling/MAG-CORELIQUID-A15-240",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "277 × 119,6 × 27,2 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "msi-mag-coreliquid-a13-360-white-306-7zwda21-l80",
+  "slug": "msi-mag-coreliquid-a13-360-white-306-7zwda21-l80",
+  "name": "MSI MAG CoreLiquid A13 360 White (306-7ZWDA21-L80)",
+  "category_id": "cooler",
+  "brand": "MSI",
+  "mpn": "306-7ZWDA21-L80",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Liquid-Cooling/MAG-CORELIQUID-A13-360",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "394 × 119,6 × 27 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "msi-mpg-coreliquid-p13-360-306-7zwga11-l80",
+  "slug": "msi-mpg-coreliquid-p13-360-306-7zwga11-l80",
+  "name": "MSI MPG CoreLiquid P13 360 (306-7ZWGA11-L80)",
+  "category_id": "cooler",
+  "brand": "MSI",
+  "mpn": "306-7ZWGA11-L80",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Liquid-Cooling/MPG-CORELIQUID-P13-360",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "394 × 119,6 × 27,2 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Negro",
+   "Pantalla": "IPS de 2,1 pulgadas"
+  }
+ },
+ {
+  "id": "nzxt-kraken-elite-360-rgb-2024-black-rl-kr36e-b2",
+  "slug": "nzxt-kraken-elite-360-rgb-2024-black-rl-kr36e-b2",
+  "name": "NZXT Kraken Elite 360 RGB (2024) Black (RL-KR36E-B2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KR36E-B2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://support.nzxt.com/hc/en-us/articles/47306825106459-Kraken-Elite-2024-Specs",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "401 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm (marco único F360 RGB Core)",
+   "Color": "Negro",
+   "Pantalla": "IPS LCD de 2,72 pulgadas, 640 × 640"
+  }
+ },
+ {
+  "id": "nzxt-kraken-elite-360-2024-black-rl-kn36e-b2",
+  "slug": "nzxt-kraken-elite-360-2024-black-rl-kn36e-b2",
+  "name": "NZXT Kraken Elite 360 (2024) Black (RL-KN36E-B2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KN36E-B2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://support.nzxt.com/hc/en-us/articles/47306825106459-Kraken-Elite-2024-Specs",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "401 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm (F120P)",
+   "Color": "Negro",
+   "Pantalla": "IPS LCD de 2,72 pulgadas, 640 × 640"
+  }
+ },
+ {
+  "id": "nzxt-kraken-elite-240-rgb-2023-black-rl-kr24e-b1",
+  "slug": "nzxt-kraken-elite-240-rgb-2023-black-rl-kr24e-b1",
+  "name": "NZXT Kraken Elite 240 RGB (2023) Black (RL-KR24E-B1)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KR24E-B1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://support.nzxt.com/hc/en-us/articles/47357851031579-Kraken-Elite-2023-Specs",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "275 × 123 × 30 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro",
+   "Pantalla": "LCD de 2,36 pulgadas, 640 × 640"
+  }
+ },
+ {
+  "id": "nzxt-kraken-plus-360-rgb-white-rl-kr360-w2",
+  "slug": "nzxt-kraken-plus-360-rgb-white-rl-kr360-w2",
+  "name": "NZXT Kraken Plus 360 RGB White (RL-KR360-W2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KR360-W2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/products/kraken-plus-360-rgb",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "401 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm (marco único F360 RGB Core)",
+   "Color": "Blanco",
+   "Pantalla": "TFT de 1,5 pulgadas, 240 × 240"
+  }
+ },
+ {
+  "id": "nzxt-kraken-plus-360-rgb-black-rl-kr360-b2",
+  "slug": "nzxt-kraken-plus-360-rgb-black-rl-kr360-b2",
+  "name": "NZXT Kraken Plus 360 RGB Black (RL-KR360-B2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KR360-B2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/products/kraken-plus-360-rgb",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "401 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm (marco único F360 RGB Core)",
+   "Color": "Negro",
+   "Pantalla": "TFT de 1,5 pulgadas, 240 × 240"
+  }
+ },
+ {
+  "id": "nzxt-kraken-plus-360-black-rl-kn360-b2",
+  "slug": "nzxt-kraken-plus-360-black-rl-kn360-b2",
+  "name": "NZXT Kraken Plus 360 Black (RL-KN360-B2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KN360-B2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/en-intl/products/kraken-plus-360",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "401 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm (F120P)",
+   "Color": "Negro",
+   "Pantalla": "TFT de 1,5 pulgadas, 240 × 240"
+  }
+ },
+ {
+  "id": "nzxt-kraken-plus-240-black-rl-kn240-b2",
+  "slug": "nzxt-kraken-plus-240-black-rl-kn240-b2",
+  "name": "NZXT Kraken Plus 240 Black (RL-KN240-B2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KN240-B2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/products/kraken-plus-240",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "281 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm (F120P)",
+   "Color": "Negro",
+   "Pantalla": "TFT de 1,5 pulgadas, 240 × 240"
+  }
+ },
+ {
+  "id": "fractal-design-lumen-s24-v2-rgb-fd-w-l1-s2412",
+  "slug": "fractal-design-lumen-s24-v2-rgb-fd-w-l1-s2412",
+  "name": "Fractal Design Lumen S24 v2 RGB (FD-W-L1-S2412)",
+  "category_id": "cooler",
+  "brand": "Fractal Design",
+  "mpn": "FD-W-L1-S2412",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.fractal-design.com/products/water-cooling/lumen-series/lumen-s24/lumen-s24-v2-rgb/",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "272 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "deepcool-mystique-240-r-lx550-bkdsnc-g-1",
+  "slug": "deepcool-mystique-240-r-lx550-bkdsnc-g-1",
+  "name": "DeepCool MYSTIQUE 240 (R-LX550-BKDSNC-G-1)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-LX550-BKDSNC-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es.deepcool.com/products/Cooling/cpuliquidcoolers/MYSTIQUE-240-5th-Gen-Liquid-Cooler-with-LCD-1700-AM5/2024/18072.shtml",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "282 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro",
+   "Pantalla": "TFT LCD de 2,83 pulgadas, 480 × 640"
+  }
+ },
+ {
+  "id": "tryx-panorama-se-360-argb-white-l-p360l-am3m-g0w",
+  "slug": "tryx-panorama-se-360-argb-white-l-p360l-am3m-g0w",
+  "name": "TRYX Panorama SE 360 ARGB White (L-P360L-AM3M-G0W)",
+  "category_id": "cooler",
+  "brand": "Tryx",
+  "mpn": "L-P360L-AM3M-G0W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.tryx.com/en/products/cooling/panorama/panorama-se/white-360",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Color": "Blanco",
+   "Pantalla": "AMOLED curva giratoria"
+  }
+ },
+ {
+  "id": "unykach-aquastorm-neo-360-uk363101",
+  "slug": "unykach-aquastorm-neo-360-uk363101",
+  "name": "UNYKAch AquaStorm Neo 360 (UK363101)",
+  "category_id": "cooler",
+  "brand": "UNYKAch",
+  "mpn": "UK363101",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/fans/fans-cpu/liquid-cooler-cpu-aquastorm-neo-360-uk363101/",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA1151, LGA1155, LGA1156, LGA2011",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "393 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "unykach-aquastorm-240-uk352101",
+  "slug": "unykach-aquastorm-240-uk352101",
+  "name": "UNYKAch AquaStorm 240 (UK352101)",
+  "category_id": "cooler",
+  "brand": "UNYKAch",
+  "mpn": "UK352101",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/fans/fans-cpu/liquid-cooler-cpu-aquastorm-240-uk352101/",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1155, LGA1156, LGA2011",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "275 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "nox-hummer-m-360-lcd-black-nxhummerm360lcdbk",
+  "slug": "nox-hummer-m-360-lcd-black-nxhummerm360lcdbk",
+  "name": "NOX Hummer M-360 LCD Black (NXHUMMERM360LCDBK)",
+  "category_id": "cooler",
+  "brand": "NOX",
+  "mpn": "NXHUMMERM360LCDBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/m-360-lcd-black",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "397 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Negro",
+   "Pantalla": "LCD magnética de 3,4 pulgadas"
+  }
+ },
+ {
+  "id": "nox-hummer-m-360-lcd-white-nxhummerm360lcdwh",
+  "slug": "nox-hummer-m-360-lcd-white-nxhummerm360lcdwh",
+  "name": "NOX Hummer M-360 LCD White (NXHUMMERM360LCDWH)",
+  "category_id": "cooler",
+  "brand": "NOX",
+  "mpn": "NXHUMMERM360LCDWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/m-360-lcd-white",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "397 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Blanco",
+   "Pantalla": "LCD magnética de 3,4 pulgadas"
+  }
+ },
+ {
+  "id": "nox-hummer-m-240-argb-black-nxhummerm240argb",
+  "slug": "nox-hummer-m-240-argb-black-nxhummerm240argb",
+  "name": "NOX Hummer M-240 ARGB Black (NXHUMMERM240ARGB)",
+  "category_id": "cooler",
+  "brand": "NOX",
+  "mpn": "NXHUMMERM240ARGB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/m-240-argb-black",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "275 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "nox-hummer-m-240-argb-white-nxhummerm240argbw",
+  "slug": "nox-hummer-m-240-argb-white-nxhummerm240argbw",
+  "name": "NOX Hummer M-240 ARGB White (NXHUMMERM240ARGBW)",
+  "category_id": "cooler",
+  "brand": "NOX",
+  "mpn": "NXHUMMERM240ARGBW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/m-240-argb-white",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "275 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "nox-hummer-x-240-lcd-black-nxhummerx240lcdbk",
+  "slug": "nox-hummer-x-240-lcd-black-nxhummerx240lcdbk",
+  "name": "NOX Hummer X-240 LCD Black (NXHUMMERX240LCDBK)",
+  "category_id": "cooler",
+  "brand": "NOX",
+  "mpn": "NXHUMMERX240LCDBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/x-240-lcd-black",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "277 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro",
+   "Pantalla": "LCD"
+  }
+ },
+ {
+  "id": "nox-hummer-m-360-argb-white-nxhummerm360argbw",
+  "slug": "nox-hummer-m-360-argb-white-nxhummerm360argbw",
+  "name": "NOX Hummer M-360 ARGB White (NXHUMMERM360ARGBW)",
+  "category_id": "cooler",
+  "brand": "NOX",
+  "mpn": "NXHUMMERM360ARGBW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/m-360-argb-white",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "394 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-vision240-white-mlvision240w",
+  "slug": "mars-gaming-ml-vision240-white-mlvision240w",
+  "name": "Mars Gaming ML-VISION240 White (MLVISION240W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISION240W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-ml-vision240",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "275 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Blanco",
+   "Pantalla": "IPS personalizable, 320 × 240"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-lcdpro360-white-mllcdpro360w",
+  "slug": "mars-gaming-ml-lcdpro360-white-mllcdpro360w",
+  "name": "Mars Gaming ML-LCDPRO360 White (MLLCDPRO360W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLLCDPRO360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-lcdpro360",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "395 × 120 × 28 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Blanco",
+   "Pantalla": "Solo monitorización"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-lcdpro360-mllcdpro360",
+  "slug": "mars-gaming-ml-lcdpro360-mllcdpro360",
+  "name": "Mars Gaming ML-LCDPRO360 (MLLCDPRO360)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLLCDPRO360",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-lcdpro360",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "395 × 120 × 28 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Negro",
+   "Pantalla": "Solo monitorización"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-two120-mltwo120",
+  "slug": "mars-gaming-ml-two120-mltwo120",
+  "name": "Mars Gaming ML-TWO120 (MLTWO120)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLTWO120",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-two120",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "120 mm",
+   "Dimensiones radiador": "158 × 120 × 28 mm",
+   "Ventiladores": "1 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-proii120-white-mlproii120w",
+  "slug": "mars-gaming-ml-proii120-white-mlproii120w",
+  "name": "Mars Gaming ML-PROII120 White (MLPROII120W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLPROII120W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-proii120",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "120 mm",
+   "Dimensiones radiador": "158 × 120 × 28 mm",
+   "Ventiladores": "1 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-one240-white-mlone240w",
+  "slug": "mars-gaming-ml-one240-white-mlone240w",
+  "name": "Mars Gaming ML-ONE240 White (MLONE240W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLONE240W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-ml-one240",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "275 × 120 × 27 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-proii360-white-mlproii360w",
+  "slug": "mars-gaming-ml-proii360-white-mlproii360w",
+  "name": "Mars Gaming ML-PROII360 White (MLPROII360W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLPROII360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-proii360",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "395 × 120 × 28 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-proii240-mlproii240",
+  "slug": "mars-gaming-ml-proii240-mlproii240",
+  "name": "Mars Gaming ML-PROII240 (MLPROII240)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLPROII240",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-proii240",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "278 × 120 × 28 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-proii360-mlproii360",
+  "slug": "mars-gaming-ml-proii360-mlproii360",
+  "name": "Mars Gaming ML-PROII360 (MLPROII360)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLPROII360",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-proii360",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "395 × 120 × 28 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "mars-gaming-ml-visionii240-white-mlvisionii240w",
+  "slug": "mars-gaming-ml-visionii240-white-mlvisionii240w",
+  "name": "Mars Gaming ML-VISIONII240 White (MLVISIONII240W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISIONII240W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-visionii240",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "278 × 120 × 28 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Blanco",
+   "Pantalla": "IPS personalizable"
+  }
+ },
+ {
+  "id": "forgeon-solum-360-argb-black-fo-sol-360-b",
+  "slug": "forgeon-solum-360-argb-black-fo-sol-360-b",
+  "name": "Forgeon Solum 360 ARGB Black (FO-SOL-360-B)",
+  "category_id": "cooler",
+  "brand": "Forgeon",
+  "mpn": "FO-SOL-360-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/forgeon-solum-refrigeracion-liquida-360-argb-kit-liquid-cooler-negra",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "397 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "forgeon-solum-240-argb-black-fo-sol-240-b",
+  "slug": "forgeon-solum-240-argb-black-fo-sol-240-b",
+  "name": "Forgeon Solum 240 ARGB Black (FO-SOL-240-B)",
+  "category_id": "cooler",
+  "brand": "Forgeon",
+  "mpn": "FO-SOL-240-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/forgeon-solum-refrigeracion-liquida-240-argb-kit-liquid-cooler-negro",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "277 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "forgeon-solum-240-argb-white-fo-sol-240-w",
+  "slug": "forgeon-solum-240-argb-white-fo-sol-240-w",
+  "name": "Forgeon Solum 240 ARGB White (FO-SOL-240-W)",
+  "category_id": "cooler",
+  "brand": "Forgeon",
+  "mpn": "FO-SOL-240-W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/forgeon-solum-refrigeracion-liquida-240-argb-kit-liquid-cooler-blanca",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "277 × 120 × 27 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "tempest-darken-240-black-tp-lco-dar-240w-b",
+  "slug": "tempest-darken-240-black-tp-lco-dar-240w-b",
+  "name": "Tempest Darken 240 Black (TP-LCO-DAR-240W-B)",
+  "category_id": "cooler",
+  "brand": "Tempest",
+  "mpn": "TP-LCO-DAR-240W-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/tempest-darken-240-kit-refrigeracion-liquida-240mm-negro",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "tempest-darken-240-white-tp-lco-dar-240w-w",
+  "slug": "tempest-darken-240-white-tp-lco-dar-240w-w",
+  "name": "Tempest Darken 240 White (TP-LCO-DAR-240W-W)",
+  "category_id": "cooler",
+  "brand": "Tempest",
+  "mpn": "TP-LCO-DAR-240W-W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/tempest-darken-240-kit-refrigeracion-liquida-240mm-blanco",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "tempest-darken-360-white-tp-lco-dar-360w-w",
+  "slug": "tempest-darken-360-white-tp-lco-dar-360w-w",
+  "name": "Tempest Darken 360 White (TP-LCO-DAR-360W-W)",
+  "category_id": "cooler",
+  "brand": "Tempest",
+  "mpn": "TP-LCO-DAR-360W-W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/tempest-liquid-cooler-darken-360mm-kit-refrigeracion-liquida-blanco",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "tempest-liquid-cooler-360-rgb-white-tp-lco-360w",
+  "slug": "tempest-liquid-cooler-360-rgb-white-tp-lco-360w",
+  "name": "Tempest Liquid Cooler 360 RGB White (TP-LCO-360W)",
+  "category_id": "cooler",
+  "brand": "Tempest",
+  "mpn": "TP-LCO-360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/tempest-liquid-cooler-360-rgb-kit-de-refrigeracion-liquida-blanco",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1700, LGA1200, LGA115X",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "394 × 120 × 27 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "tempest-iceflow-240-argb-black-tp-lco-ice-240w-b",
+  "slug": "tempest-iceflow-240-argb-black-tp-lco-ice-240w-b",
+  "name": "Tempest Iceflow 240 ARGB Black (TP-LCO-ICE-240W-B)",
+  "category_id": "cooler",
+  "brand": "Tempest",
+  "mpn": "TP-LCO-ICE-240W-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/tempest-iceflow-refrigeracion-liquida-240-argb-kit-liquid-cooler-negra",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "274 × 120 × 27 mm",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "tempest-iceflow-240-argb-white-tp-lco-ice-240w-w",
+  "slug": "tempest-iceflow-240-argb-white-tp-lco-ice-240w-w",
+  "name": "Tempest Iceflow 240 ARGB White (TP-LCO-ICE-240W-W)",
+  "category_id": "cooler",
+  "brand": "Tempest",
+  "mpn": "TP-LCO-ICE-240W-W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/tempest-iceflow-refrigeracion-liquida-240-argb-kit-liquid-cooler-blanca",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "240 mm",
+   "Dimensiones radiador": "274 × 120 × 27 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "tempest-liquid-cooler-120-argb-white-tp-lco-120wargb",
+  "slug": "tempest-liquid-cooler-120-argb-white-tp-lco-120wargb",
+  "name": "Tempest Liquid Cooler 120 ARGB White (TP-LCO-120WARGB)",
+  "category_id": "cooler",
+  "brand": "Tempest",
+  "mpn": "TP-LCO-120WARGB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/tempest-liquid-cooler-120-argb-kit-refrigeracion-liquida-blanco",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1700, LGA1200, LGA115X, LGA2011, LGA2066",
+   "Radiador": "120 mm",
+   "Dimensiones radiador": "154 × 120 × 27 mm",
+   "Ventiladores": "1 × 120 mm",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "tempest-liquid-cooler-120-white-tp-lco-s120w",
+  "slug": "tempest-liquid-cooler-120-white-tp-lco-s120w",
+  "name": "Tempest Liquid Cooler 120 White (TP-LCO-S120W)",
+  "category_id": "cooler",
+  "brand": "Tempest",
+  "mpn": "TP-LCO-S120W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/tempest-liquid-cooler-120-kit-refrigeracion-liquida-blanco",
+  "specs_verified_at": "2026-11-08T20:14:56Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3, LGA1700, LGA1200, LGA115X, LGA2011, LGA2066",
+   "Radiador": "120 mm",
+   "Dimensiones radiador": "154 × 120 × 27 mm",
+   "Ventiladores": "1 × 120 mm",
+   "Color": "Blanco"
+  }
+ }
+]

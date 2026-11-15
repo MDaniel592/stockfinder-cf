@@ -1,0 +1,317 @@
+[
+ {
+  "id": "mars-gaming-mpb850psid-850w",
+  "slug": "mars-gaming-mpb850psid-850w",
+  "name": "Mars Gaming MPB850PSID 850W",
+  "category_id": "psu",
+  "brand": "Mars Gaming",
+  "mpn": "MPB850PSID",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/power-supplies/mpb850psid",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "mars-gaming-mpb1200psi",
+  "slug": "mars-gaming-mpb1200psi",
+  "name": "Mars Gaming MPB1200PSI 1200W",
+  "category_id": "psu",
+  "brand": "Mars Gaming",
+  "mpn": "MPB1200PSI",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/power-supplies/mpb1200psi",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "1200 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "mars-gaming-mpb750psi",
+  "slug": "mars-gaming-mpb750psi",
+  "name": "Mars Gaming MPB750PSI 750W",
+  "category_id": "psu",
+  "brand": "Mars Gaming",
+  "mpn": "MPB750PSI",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/power-supplies/mpb750psi",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "mars-gaming-mpb1000si",
+  "slug": "mars-gaming-mpb1000si",
+  "name": "Mars Gaming MPB1000SI 1000W",
+  "category_id": "psu",
+  "brand": "Mars Gaming",
+  "mpn": "MPB1000SI",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/power-supplies/mpb1000si",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Modular": "Cables fijos",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "PCIe 8 pines"
+  }
+ },
+ {
+  "id": "mars-gaming-mpb1000sim",
+  "slug": "mars-gaming-mpb1000sim",
+  "name": "Mars Gaming MPB1000SIM 1000W",
+  "category_id": "psu",
+  "brand": "Mars Gaming",
+  "mpn": "MPB1000SIM",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/power-supplies/mpb1000sim",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "msi-mag-a750gls-pcie5",
+  "slug": "msi-mag-a750gls-pcie5",
+  "name": "MSI MAG A750GLS PCIE5",
+  "category_id": "psu",
+  "brand": "MSI",
+  "mpn": "MAG A750GLS PCIE5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A750GLS-PCIE5/Specification",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "msi-mag-a850gls-pcie5",
+  "slug": "msi-mag-a850gls-pcie5",
+  "name": "MSI MAG A850GLS PCIE5",
+  "category_id": "psu",
+  "brand": "MSI",
+  "mpn": "MAG A850GLS PCIE5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A850GLS-PCIE5/Specification",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "msi-mag-a850gl-pcie5-ii",
+  "slug": "msi-mag-a850gl-pcie5-ii",
+  "name": "MSI MAG A850GL PCIE5 II",
+  "category_id": "psu",
+  "brand": "MSI",
+  "mpn": "MAG A850GL PCIE5 II",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A850GL-PCIE5-II/Specification",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "msi-mag-a750bn-pcie5",
+  "slug": "msi-mag-a750bn-pcie5",
+  "name": "MSI MAG A750BN PCIE5",
+  "category_id": "psu",
+  "brand": "MSI",
+  "mpn": "MAG A750BN PCIE5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A750BN-PCIE5/Specification",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Modular": "Cables fijos",
+   "Eficiencia": "80 PLUS Bronze",
+   "Conector GPU": "12VHPWR",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "sharkoon-rebel-p20-sfx-1000w",
+  "slug": "sharkoon-rebel-p20-sfx-1000w",
+  "name": "Sharkoon Rebel P20 SFX 1000W",
+  "category_id": "psu",
+  "brand": "Sharkoon",
+  "mpn": "4044951040674",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://de.sharkoon.com/product/RebelP20SFX",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "SFX",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "100 mm"
+  }
+ },
+ {
+  "id": "sharkoon-rebel-p20-white-1200w",
+  "slug": "sharkoon-rebel-p20-white-1200w",
+  "name": "Sharkoon Rebel P20 White 1200W",
+  "category_id": "psu",
+  "brand": "Sharkoon",
+  "mpn": "4044951042432",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://en.sharkoon.com/product/RebelP20White",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "1200 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "sharkoon-rebel-p10-750w",
+  "slug": "sharkoon-rebel-p10-750w",
+  "name": "Sharkoon Rebel P10 750W",
+  "category_id": "psu",
+  "brand": "Sharkoon",
+  "mpn": "4044951043750",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://de.sharkoon.com/product/RebelP10",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia": "Cybenetics Silver",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "thermaltake-toughpower-tf1-1550w-ps-tpd-1550fnfate-1",
+  "slug": "thermaltake-toughpower-tf1-1550w-ps-tpd-1550fnfate-1",
+  "name": "Thermaltake Toughpower TF1 1550W (PS-TPD-1550FNFATE-1)",
+  "category_id": "psu",
+  "brand": "Thermaltake",
+  "mpn": "PS-TPD-1550FNFATE-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es.thermaltake.com/pub/toughpower-tf1-1550w-tt-premium-edition.html",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "1550 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Titanium / Cybenetics Titanium",
+   "Longitud": "180 mm"
+  }
+ },
+ {
+  "id": "zalman-gigamax-iii-850w-zm850-gv3",
+  "slug": "zalman-gigamax-iii-850w-zm850-gv3",
+  "name": "Zalman GigaMax III 850W (ZM850-GV3)",
+  "category_id": "psu",
+  "brand": "Zalman",
+  "mpn": "ZM850-GV3",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1492",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Semimodular",
+   "Eficiencia": "80 PLUS Bronze / Cybenetics Silver",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "tempest-pulse-750w-pcie-5-1-tp-pul-750-pcie5-1-b",
+  "slug": "tempest-pulse-750w-pcie-5-1-tp-pul-750-pcie5-1-b",
+  "name": "Tempest Pulse PSU 750W PCIe 5.1 (TP-PUL-750-PCIE5.1-B)",
+  "category_id": "psu",
+  "brand": "Tempest",
+  "mpn": "TP-PUL-750-PCIE5.1-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-750w-cybenetics-bronze-atx-3-1-fuente-de-alimentacion-negra",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Estándar ATX": "3.1",
+   "Eficiencia": "Cybenetics Bronze",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "tempest-pulse-750w-full-modular-tp-pul-750-b",
+  "slug": "tempest-pulse-750w-full-modular-tp-pul-750-b",
+  "name": "Tempest Pulse PSU 750W Full Modular (TP-PUL-750-B)",
+  "category_id": "psu",
+  "brand": "Tempest",
+  "mpn": "TP-PUL-750-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-pulse-750w-cybenetics-bronze-atx-3-1-full-modular-fuente-de-alimentacion-negra",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Bronze"
+  }
+ },
+ {
+  "id": "tempest-pulse-650w-tp-pul-650-b",
+  "slug": "tempest-pulse-650w-tp-pul-650-b",
+  "name": "Tempest Pulse PSU 650W (TP-PUL-650 -B)",
+  "category_id": "psu",
+  "brand": "Tempest",
+  "mpn": "TP-PUL-650 -B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-650w-cybenetics-silver-atx-31-fuente-de-alimentacion-negra",
+  "specs_verified_at": "2026-11-08T20:23:40Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Estándar ATX": "3.1",
+   "Eficiencia": "Cybenetics Silver"
+  }
+ }
+]

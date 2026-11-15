@@ -1,0 +1,44 @@
+[
+  {
+    "ean": null,
+    "mpn": "FO-DDR-PRO-32GBCL36-B",
+    "name": "Forgeon Cyclone PRO RGB DDR5 6000 MHz 32GB 2x16GB CL36 Intel XMP AMD Expo Negra",
+    "brand": "Forgeon",
+    "shop_id": "pccomponentes",
+    "in_stock": true,
+    "url_public": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-pro-rgb-ddr5-6000-mhz-32gb-2x16gb-cl36-negra",
+    "price_cents": 54990,
+    "retailer_sku": "11160506",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "discovery_method",
+        "value": "public_category_link_and_product_page"
+      },
+      {
+        "key": "seller",
+        "value": "PcComponentes"
+      },
+      {
+        "key": "identity_line",
+        "value": "P/N: FO-DDR-PRO-32GBCL36-B|Cod. Artículo: 11160506"
+      },
+      {
+        "key": "source_transport",
+        "value": "public_web_reader"
+      },
+      {
+        "key": "review_state",
+        "value": "pending_agent_review"
+      },
+      {
+        "key": "verification",
+        "value": "2026-11-02: P/N FO-DDR-PRO-32GBCL36-B, SKU11160506, EUR549.90, vendido y enviado por PcComponentes, compra habilitada y entrega mañana. La página declara Forgeon como marca propia de PcComponentes: fuente primaria del titular."
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:37:44.223812+00:00"
+  }
+]

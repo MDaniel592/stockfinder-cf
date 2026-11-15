@@ -1,0 +1,695 @@
+[
+  {
+    "id": "tempest-airflow-umbra-argb-black",
+    "slug": "tempest-airflow-umbra-argb-black",
+    "name": "Tempest Airflow Umbra ARGB Negra (TP-ATX-CS-UMB)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-ATX-CS-UMB",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-airflow-umbra-rgb-atx-negra",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "310 mm",
+      "Altura disipador máxima": "165 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "240 mm",
+      "Dimensiones": "365 × 210 × 447 mm"
+    }
+  },
+  {
+    "id": "tempest-airflow-umbra-rgb-white",
+    "slug": "tempest-airflow-umbra-rgb-white",
+    "name": "Tempest Airflow Umbra RGB Blanca (TP-ATX-CS-UMW)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-ATX-CS-UMW",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-airflow-umbra-rgb-atx-blanca",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "310 mm",
+      "Altura disipador máxima": "165 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "240 mm",
+      "Dimensiones": "365 × 210 × 447 mm"
+    }
+  },
+  {
+    "id": "tempest-airflow-rampart-argb-black",
+    "slug": "tempest-airflow-rampart-argb-black",
+    "name": "Tempest Airflow Rampart ARGB M-ATX Negra (TP-CAS-RAB)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-CAS-RAB",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-airflow-rampart-argb-m-atx-negra",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "325 mm",
+      "Altura disipador máxima": "160 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "240 mm",
+      "Radiador superior máximo": "240 mm",
+      "Dimensiones": "365 × 200 × 422 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "tempest-airflow-rampart-argb-white",
+    "slug": "tempest-airflow-rampart-argb-white",
+    "name": "Tempest Airflow Rampart ARGB M-ATX Blanca (TP-CAS-RAW)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-CAS-RAW",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-airflow-rampart-argb-m-atx-blanca",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "325 mm",
+      "Altura disipador máxima": "160 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "240 mm",
+      "Radiador superior máximo": "240 mm",
+      "Dimensiones": "365 × 200 × 422 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "tempest-airflow-garrison-argb-white",
+    "slug": "tempest-airflow-garrison-argb-white",
+    "name": "Tempest Airflow Garrison ARGB ATX Blanca (TP-CAS-GAW)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-CAS-GAW",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-airflow-garrison-argb-atx-blanca",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "330 mm",
+      "Altura disipador máxima": "175 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "360 mm",
+      "Radiador superior máximo": "240 mm",
+      "Dimensiones": "367 × 216 × 465 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "tempest-airflow-mirage-rgb-mesh-black",
+    "slug": "tempest-airflow-mirage-rgb-mesh-black",
+    "name": "Tempest Airflow Mirage RGB Mesh ATX Negra (TP-ATX-CS-MI)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-ATX-CS-MI",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-airflow-mirage-rgb-mesh-atx-negra",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "340 mm",
+      "Altura disipador máxima": "165 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "360 mm",
+      "Radiador superior máximo": "280 mm",
+      "Dimensiones": "360 × 210 × 470 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "tempest-airflow-bastion-argb-black",
+    "slug": "tempest-airflow-bastion-argb-black",
+    "name": "Tempest Airflow Bastion ARGB ATX Negra (TP-CAS-BAB)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-CAS-BAB",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-airflow-bastion-argb-atx-negra",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "395 mm",
+      "Altura disipador máxima": "181 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "360 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "479 × 233 × 493 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "tempest-airflow-stronghold-argb-black",
+    "slug": "tempest-airflow-stronghold-argb-black",
+    "name": "Tempest Airflow Stronghold ARGB M-ATX Negra (TP-CAS-SGB)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-CAS-SGB",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-airflow-stronghold-argb-m-atx-negra",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "390 mm",
+      "Altura disipador máxima": "175 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "240 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "450 × 235 × 410 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "tempest-compact-shade-rgb-black",
+    "slug": "tempest-compact-shade-rgb-black",
+    "name": "Tempest Compact Shade RGB ATX Negra (TP-ATX-CS-SHAB)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-ATX-CS-SHAB",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-compact-shade-rgb-atx-negra",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "330 mm",
+      "Altura disipador máxima": "150 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Dimensiones": "360 × 181 × 430 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "tempest-compact-shade-rgb-white",
+    "slug": "tempest-compact-shade-rgb-white",
+    "name": "Tempest Compact Shade RGB ATX Blanca (TP-ATX-CS-SHAW)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-ATX-CS-SHAW",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-compact-shade-rgb-atx-blanca",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "330 mm",
+      "Altura disipador máxima": "150 mm",
+      "Ventiladores incluidos": "3 × 120 mm",
+      "Dimensiones": "360 × 181 × 430 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "tempest-compact-shade-rgb-joker-ii",
+    "slug": "tempest-compact-shade-rgb-joker-ii",
+    "name": "Tempest Compact Shade RGB Negra Joker II Edition",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-ATX-CS-SHABJKR",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-shade-rgb-torre-atx-negra-joker-ii-edition-by-pccom",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "330 mm",
+      "Altura disipador máxima": "150 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Dimensiones": "360 × 181 × 430 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "tempest-compact-lumina-argb-black",
+    "slug": "tempest-compact-lumina-argb-black",
+    "name": "Tempest Compact Lumina ARGB M-ATX Negra (TP-CAS-LUM-B)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-CAS-LUM-B",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-compact-lumina-argb-m-atx-negra",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "400 mm",
+      "Altura disipador máxima": "165 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "425 × 212 × 420 mm"
+    }
+  },
+  {
+    "id": "tempest-compact-lumina-argb-white",
+    "slug": "tempest-compact-lumina-argb-white",
+    "name": "Tempest Compact Lumina ARGB M-ATX Blanca (TP-CAS-LUM-W)",
+    "category_id": "case",
+    "brand": "Tempest",
+    "mpn": "TP-CAS-LUM-W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-tempest-compact-lumina-argb-m-atx-blanca",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "400 mm",
+      "Altura disipador máxima": "165 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "425 × 212 × 420 mm"
+    }
+  },
+  {
+    "id": "nox-hummer-galaxy-black",
+    "slug": "nox-hummer-galaxy-black",
+    "name": "NOX Hummer Galaxy Negra (NXHUMMERGALAXYBK)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERGALAXYBK",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-galaxy-black",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "420 mm",
+      "Altura disipador máxima": "165 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "280 × 445 × 442 mm (ancho × alto × largo)"
+    }
+  },
+  {
+    "id": "nox-hummer-galaxy-white",
+    "slug": "nox-hummer-galaxy-white",
+    "name": "NOX Hummer Galaxy Blanca (NXHUMMERGALAXYWH)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERGALAXYWH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-galaxy-white",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "420 mm",
+      "Altura disipador máxima": "165 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "280 × 445 × 442 mm (ancho × alto × largo)"
+    }
+  },
+  {
+    "id": "nox-hummer-glock-black",
+    "slug": "nox-hummer-glock-black",
+    "name": "NOX Hummer Glock Negra (NXHUMMERGLOCKBK)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERGLOCKBK",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-glock-black",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "410 mm",
+      "Altura disipador máxima": "180 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "235 × 501 × 441 mm (ancho × alto × profundidad)"
+    }
+  },
+  {
+    "id": "nox-hummer-glock-white",
+    "slug": "nox-hummer-glock-white",
+    "name": "NOX Hummer Glock Blanca (NXHUMMERGLOCKWH)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERGLOCKWH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-glock-white",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "410 mm",
+      "Altura disipador máxima": "180 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "235 × 501 × 441 mm (ancho × alto × profundidad)"
+    }
+  },
+  {
+    "id": "nox-hummer-aero-black",
+    "slug": "nox-hummer-aero-black",
+    "name": "NOX Hummer Aero Negra (NXHUMMERAEROBK)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERAEROBK",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-aero-black",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "420 mm",
+      "Altura disipador máxima": "174 mm",
+      "Ventiladores incluidos": "4 × 140 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "486 × 221 × 459 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "nox-hummer-aero-white",
+    "slug": "nox-hummer-aero-white",
+    "name": "NOX Hummer Aero Blanca (NXHUMMERAEROWH)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERAEROWH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-aero-white",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "420 mm",
+      "Altura disipador máxima": "174 mm",
+      "Ventiladores incluidos": "4 × 140 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "486 × 221 × 459 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "nox-hummer-astra-black",
+    "slug": "nox-hummer-astra-black",
+    "name": "NOX Hummer Astra Negra (NXHUMMERASTRABK)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERASTRABK",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-astra-black",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "420 mm",
+      "Altura disipador máxima": "160 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador superior máximo": "360 mm"
+    }
+  },
+  {
+    "id": "nox-hummer-astra-white",
+    "slug": "nox-hummer-astra-white",
+    "name": "NOX Hummer Astra Blanca (NXHUMMERASTRAWH)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERASTRAWH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-astra-white",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "420 mm",
+      "Altura disipador máxima": "160 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador superior máximo": "360 mm"
+    }
+  },
+  {
+    "id": "nox-hummer-vision-black",
+    "slug": "nox-hummer-vision-black",
+    "name": "NOX Hummer Vision Negra (NXHUMMERVSNBK)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERVSNBK",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-vision-black",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "300 mm",
+      "Altura disipador máxima": "165 mm",
+      "Radiador superior máximo": "240 mm",
+      "Dimensiones": "212 × 487 × 346 mm (ancho × alto × profundidad)"
+    }
+  },
+  {
+    "id": "nox-hummer-bios-black",
+    "slug": "nox-hummer-bios-black",
+    "name": "NOX Hummer BIOS Negra (NXHUMMERBIOS)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERBIOS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-bios",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "395 mm",
+      "Altura disipador máxima": "185 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "230 × 456 × 470 mm (ancho × alto × largo)",
+      "Radiador frontal máximo": "360 mm"
+    }
+  },
+  {
+    "id": "nox-hummer-bios-white",
+    "slug": "nox-hummer-bios-white",
+    "name": "NOX Hummer BIOS Blanca (NXHUMMERBIOSWH)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERBIOSWH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-bios-white",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "395 mm",
+      "Altura disipador máxima": "185 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "230 × 456 × 470 mm (ancho × alto × largo)",
+      "Radiador frontal máximo": "360 mm"
+    }
+  },
+  {
+    "id": "nox-hummer-element",
+    "slug": "nox-hummer-element",
+    "name": "NOX Hummer Element Blanca y Madera (NXHUMMERELEMENT)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXHUMMERELEMENT",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-element",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "410 mm",
+      "Altura disipador máxima": "181 mm",
+      "Ventiladores incluidos": "3 × 140 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "235 × 450 × 456 mm (ancho × alto × largo)",
+      "Radiador frontal máximo": "360 mm"
+    }
+  },
+  {
+    "id": "nox-lite030-500w",
+    "slug": "nox-lite030-500w",
+    "name": "NOX Lite030 con fuente 500W (NXLITE030)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXLITE030",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/lite-030",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "microATX, Mini-ITX",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "315 mm",
+      "Dimensiones": "330 × 170 × 350 mm"
+    }
+  },
+  {
+    "id": "nox-lite010-500w",
+    "slug": "nox-lite010-500w",
+    "name": "NOX Lite010 con fuente 500W (NXLITE010)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXLITE010",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/lite-010",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "345 mm",
+      "Dimensiones": "350 × 200 × 410 mm"
+    }
+  },
+  {
+    "id": "nox-infinity-zeta",
+    "slug": "nox-infinity-zeta",
+    "name": "NOX Infinity Zeta ARGB M-ATX (NXINFTYZETA)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXINFTYZETA",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/infinity-zeta",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "310 mm",
+      "Altura disipador máxima": "160 mm",
+      "Ventiladores incluidos": "1 × 120 mm",
+      "Radiador superior máximo": "240 mm",
+      "Dimensiones": "385 × 205 × 425 mm"
+    }
+  },
+  {
+    "id": "nox-infinity-iota-black",
+    "slug": "nox-infinity-iota-black",
+    "name": "NOX Infinity Iota Negra (NXINFTYIOTABK)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXINFTYIOTABK",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/infinity-iota-black",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "330 mm",
+      "Altura disipador máxima": "170 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador superior máximo": "240 mm",
+      "Dimensiones": "370 × 220 × 446 mm (largo × ancho × alto)"
+    }
+  },
+  {
+    "id": "nox-infinity-beta",
+    "slug": "nox-infinity-beta",
+    "name": "NOX Infinity Beta Negra (NXINFTYBETA)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXINFTYBETA",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/infinity-beta",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "300 mm",
+      "Altura disipador máxima": "165 mm",
+      "Radiador superior máximo": "240 mm",
+      "Dimensiones": "384 × 216 × 487 mm (largo × ancho × alto)",
+      "Radiador frontal máximo": "360 mm"
+    }
+  },
+  {
+    "id": "nox-coolbay-mx2",
+    "slug": "nox-coolbay-mx2",
+    "name": "NOX Coolbay MX2 Micro ATX Negra (NXCBAYMX2)",
+    "category_id": "case",
+    "brand": "NOX",
+    "mpn": "NXCBAYMX2",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/cajas/coolbay-mx2",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "microATX",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "350 mm",
+      "Altura disipador máxima": "160 mm",
+      "Ventiladores incluidos": "1 × 120 mm",
+      "Dimensiones": "198 × 396 × 400 mm (ancho × alto × profundidad)"
+    }
+  },
+  {
+    "id": "nzxt-h9-flow-black",
+    "slug": "nzxt-h9-flow-black",
+    "name": "NZXT H9 Flow Negra (CM-H92FB-01)",
+    "category_id": "case",
+    "brand": "NZXT",
+    "mpn": "CM-H92FB-01",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://nzxt.com/product/h9-flow",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado oscuro",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "459 mm",
+      "Altura disipador máxima": "165 mm",
+      "Ventiladores incluidos": "3 × 140 mm + 1 × 120 mm",
+      "Radiador superior máximo": "420 mm",
+      "Dimensiones": "506 × 315 × 481 mm (alto × ancho × fondo)",
+      "Radiador frontal máximo": "420 mm"
+    }
+  },
+  {
+    "id": "nzxt-h6-flow-rgb-white",
+    "slug": "nzxt-h6-flow-rgb-white",
+    "name": "NZXT H6 Flow RGB Blanca (CC-H61FW-R1)",
+    "category_id": "case",
+    "brand": "NZXT",
+    "mpn": "CC-H61FW-R1",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://nzxt.com/product/h6-flow-rgb",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "365 mm",
+      "Altura disipador máxima": "163 mm",
+      "Ventiladores incluidos": "3 × 120 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "435 × 287 × 415 mm (alto × ancho × fondo)"
+    }
+  },
+  {
+    "id": "unykach-mir-100-uk511303",
+    "slug": "unykach-mir-100-uk511303",
+    "name": "UNYKAch Gaming MIR 100 ATX Negra (UK511303)",
+    "category_id": "case",
+    "brand": "UNYKAch",
+    "mpn": "UK511303",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://unykach.com/es/consumo/cajas-pc/cajas-atx/caja-atx-gaming-mir-100-uk511303/",
+    "specs_verified_at": "2026-11-08T21:30:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "340 mm",
+      "Altura disipador máxima": "165 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Dimensiones": "385 × 195 × 450 mm (largo × ancho × alto)",
+      "Radiador frontal máximo": "360 mm"
+    }
+  }
+]

@@ -1,0 +1,1652 @@
+[
+  {
+    "product_id": "sus-90yv0lg3-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx9060xt-16g-white/techspec/",
+    "note": "ficha ASUS DUAL-RX9060XT-16G-WHITE (modelo del MPN): Bus Standard = PCI Express 5.0"
+  },
+  {
+    "product_id": "sus-90yv0lg3-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "202 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx9060xt-16g-white/techspec/",
+    "note": "ficha ASUS DUAL-RX9060XT-16G-WHITE (modelo del MPN): Dimensions = 202 x 120 x 49mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0l75-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070xt-o16g-white/techspec/",
+    "note": "ficha ASUS PRIME-RX9070XT-O16G-WHITE (modelo del MPN): Bus Standard = PCI Express 5.0"
+  },
+  {
+    "product_id": "sus-90yv0l75-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "312 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070xt-o16g-white/techspec/",
+    "note": "ficha ASUS PRIME-RX9070XT-O16G-WHITE (modelo del MPN): Dimensions = 312 x 130 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0mh2-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5060ti-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RTX5060TI-O16G (modelo del MPN): Dimensions = 304 x 120 x 50mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0m17-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "249 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5070-o12g/techspec/",
+    "note": "ficha ASUS DUAL-RTX5070-O12G (modelo del MPN): Dimensions = 249 x 126 x 50.6 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0m10-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5070-o12g/techspec/",
+    "note": "ficha ASUS PRIME-RTX5070-O12G (modelo del MPN): Dimensions = 304 x 126 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0n10-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "268.3 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5060-o8g/techspec/",
+    "note": "ficha ASUS PRIME-RTX5060-O8G (modelo del MPN): Dimensions = 268.3 x 120 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0n00-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "302 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5060-o8g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5060-O8G-GAMING (modelo del MPN): Dimensions = 302 x 133.5 x 62mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0md3-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "329 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/es/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-white-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5070TI-O16G-WHITE-GAMING (modelo del MPN): Dimensions = 329 x 140 x 62.5 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0md3-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/es/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-white-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5070TI-O16G-WHITE-GAMING (modelo del MPN): Recommended PSU = 850W"
+  },
+  {
+    "product_id": "sus-90yv0md3-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/es/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-white-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5070TI-O16G-WHITE-GAMING (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0md0-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "329 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/il/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5070TI-O16G-GAMING (modelo del MPN): Dimensions = 329 x 140 x 62.5 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0md0-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/il/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5070TI-O16G-GAMING (modelo del MPN): Recommended PSU = 850W"
+  },
+  {
+    "product_id": "sus-90yv0md0-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/il/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5070TI-O16G-GAMING (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0m30-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "348 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/fr/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5080-o16g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5080-O16G-GAMING (modelo del MPN): Dimensions = 348 x 146 x 72 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0m30-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/fr/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5080-o16g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5080-O16G-GAMING (modelo del MPN): Recommended PSU = 850W"
+  },
+  {
+    "product_id": "sus-90yv0m30-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/fr/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5080-o16g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5080-O16G-GAMING (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0lf1-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9060xt-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RX9060XT-O16G (modelo del MPN): Bus Standard = PCI Express 5.0"
+  },
+  {
+    "product_id": "sus-90yv0lf1-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9060xt-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RX9060XT-O16G (modelo del MPN): Dimensions = 304 x 126 x 50mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0lf1-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9060xt-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RX9060XT-O16G (modelo del MPN): Recommended PSU = 550W"
+  },
+  {
+    "product_id": "sus-90yv0lf1-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9060xt-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RX9060XT-O16G (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0lx0-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5080-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RTX5080-O16G (modelo del MPN): Dimensions = 304 x 126 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0lx0-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5080-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RTX5080-O16G (modelo del MPN): Recommended PSU = 850W"
+  },
+  {
+    "product_id": "sus-90yv0lx0-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5080-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RTX5080-O16G (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0nf0-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "357.6 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-o32g-btf-gaming/spec/",
+    "note": "ficha ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 BTF OC Edition (modelo del MPN): Dimensions = 357.6 x 149.3 x 76 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0nf0-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "1000 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-o32g-btf-gaming/spec/",
+    "note": "ficha ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 BTF OC Edition (modelo del MPN): Recommended PSU = 1000W"
+  },
+  {
+    "product_id": "sus-90yv0nf0-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-o32g-btf-gaming/spec/",
+    "note": "ficha ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 BTF OC Edition (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0n30-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/proart/proart-rtx5080-o16g/techspec/",
+    "note": "ficha ASUS PROART-RTX5080-O16G (modelo del MPN): Dimensions = 304 x 126 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0n30-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/proart/proart-rtx5080-o16g/techspec/",
+    "note": "ficha ASUS PROART-RTX5080-O16G (modelo del MPN): Recommended PSU = 850W"
+  },
+  {
+    "product_id": "sus-90yv0n30-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/proart/proart-rtx5080-o16g/techspec/",
+    "note": "ficha ASUS PROART-RTX5080-O16G (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0n15-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "228 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060-o8g-white/techspec/",
+    "note": "ficha ASUS DUAL-RTX5060-O8G-WHITE (modelo del MPN): Dimensions = 228 x 123 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0n15-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060-o8g-white/techspec/",
+    "note": "ficha ASUS DUAL-RTX5060-O8G-WHITE (modelo del MPN): Recommended PSU = 550W"
+  },
+  {
+    "product_id": "sus-90yv0n15-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060-o8g-white/techspec/",
+    "note": "ficha ASUS DUAL-RTX5060-O8G-WHITE (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0mq0-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070-o16g-evo/techspec/",
+    "note": "ficha ASUS PRIME-RX9070-O16G-EVO (modelo del MPN): Bus Standard = PCI Express 5.0"
+  },
+  {
+    "product_id": "sus-90yv0mq0-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070-o16g-evo/techspec/",
+    "note": "ficha ASUS PRIME-RX9070-O16G-EVO (modelo del MPN): Dimensions = 304 x 126 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0mq0-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070-o16g-evo/techspec/",
+    "note": "ficha ASUS PRIME-RX9070-O16G-EVO (modelo del MPN): Recommended PSU = 650W"
+  },
+  {
+    "product_id": "sus-90yv0mq0-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070-o16g-evo/techspec/",
+    "note": "ficha ASUS PRIME-RX9070-O16G-EVO (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0n72-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "203 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5050-o8g/techspec/",
+    "note": "ficha ASUS DUAL-RTX5050-O8G (modelo del MPN): Dimensions = 203 x 120.2 x 40 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0n72-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5050-o8g/techspec/",
+    "note": "ficha ASUS DUAL-RTX5050-O8G (modelo del MPN): Recommended PSU = 550W"
+  },
+  {
+    "product_id": "sus-90yv0n72-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5050-o8g/techspec/",
+    "note": "ficha ASUS DUAL-RTX5050-O8G (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "sus-90yv0lz0-m0na00",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "329 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070-o12g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5070-O12G-GAMING (modelo del MPN): Dimensions = 329 x 140 x 62.5 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sus-90yv0lz0-m0na00",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "750 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070-o12g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5070-O12G-GAMING (modelo del MPN): Recommended PSU = 750W"
+  },
+  {
+    "product_id": "sus-90yv0lz0-m0na00",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070-o12g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5070-O12G-GAMING (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "asus-dual-geforce-rtx-5060-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "228 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060-o8g/techspec/",
+    "note": "ficha ASUS DUAL-RTX5060-O8G (modelo del MPN): Dimensions = 228 x 123 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-tuf-geforce-rtx-5090-oc-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "348 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5090-o32g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5090-O32G-GAMING (modelo del MPN): Dimensions = 348 x 146 x 72 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-prime-radeon-rx-9070-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "312 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RX9070-O16G (modelo del MPN): Dimensions = 312 x 130 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-prime-radeon-rx-9070-gre-oc-12gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "312 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070gre-o12g/techspec/",
+    "note": "ficha ASUS PRIME-RX9070GRE-O12G (modelo del MPN): Dimensions = 312 x 130 x 50mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-prime-radeon-rx-9070-gre-oc-12gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070gre-o12g/techspec/",
+    "note": "ficha ASUS PRIME-RX9070GRE-O12G (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-7800-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "279.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx7800xt-o16g/techspec/",
+    "note": "ficha ASUS DUAL-RX7800XT-O16G (modelo del MPN): Dimensions = 279.9 x 133.9 x 49.3 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-7800-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx7800xt-o16g/techspec/",
+    "note": "ficha ASUS DUAL-RX7800XT-O16G (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "asus-dual-rtx-3050-v2-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "200 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx3050-o8g-v2/techspec/",
+    "note": "ficha ASUS DUAL-RTX3050-O8G-V2 (modelo del MPN): Dimensions = 200 x 123 x 38 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-dual-rtx-3050-v2-oc-8gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "450 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx3050-o8g-v2/techspec/",
+    "note": "ficha ASUS DUAL-RTX3050-O8G-V2 (modelo del MPN): Recommended PSU = 450W"
+  },
+  {
+    "product_id": "asus-dual-rtx-3050-v2-oc-8gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx3050-o8g-v2/techspec/",
+    "note": "ficha ASUS DUAL-RTX3050-O8G-V2 (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "asus-dual-rx-9060-xt-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "202 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx9060xt-16g/techspec/",
+    "note": "ficha ASUS DUAL-RX9060XT-16G (modelo del MPN): Dimensions = 202 x 120 x 49mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-dual-rtx-5060-ti-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "229 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060ti-o8g/techspec/",
+    "note": "ficha ASUS DUAL-RTX5060TI-O8G (modelo del MPN): Dimensions = 229 x 120 x 50mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-dual-rtx-5060-ti-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "229 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060ti-o16g/techspec/",
+    "note": "ficha ASUS DUAL-RTX5060TI-O16G (modelo del MPN): Dimensions = 229 x 120 x 50mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-prime-rtx-5070-ti-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5070ti-o16g/techspec/",
+    "note": "ficha ASUS PRIME-RTX5070TI-O16G (modelo del MPN): Dimensions = 304 x 126 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-tuf-rtx-5060-ti-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "302 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5060ti-o16g-gaming/techspec/",
+    "note": "ficha ASUS TUF-RTX5060TI-O16G-GAMING (modelo del MPN): Dimensions = 302 x 133.5 x 62mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-proart-rtx-5070-ti-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/graphics-cards/proart/proart-rtx5070ti-o16g/techspec/",
+    "note": "ficha ASUS PROART-RTX5070TI-O16G (modelo del MPN): Dimensions = 304 x 126 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-dual-rtx-5060-oc-advanced-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "228 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/ie/motherboards-components/graphics-cards/dual/dual-rtx5060-o8g-a/techspec/",
+    "note": "ficha ASUS DUAL-RTX5060-O8G-A (modelo del MPN): Dimensions = 228 x 123 x 50 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-7600-evo-oc-edition-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "229 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx7600-o8g-evo/techspec/",
+    "note": "ficha ASUS DUAL-RX7600-O8G-EVO (modelo del MPN): Dimensions = 22.9 x 12.3 x 4.9 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "202 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx9060xt-8g/techspec/",
+    "note": "ficha ASUS DUAL-RX9060XT-8G (modelo del MPN): Dimensions = 202 x 120 x 49mm; longitud = primer valor"
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx9060xt-8g/techspec/",
+    "note": "ficha ASUS DUAL-RX9060XT-8G (modelo del MPN): Recommended PSU = 550W"
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx9060xt-8g/techspec/",
+    "note": "ficha ASUS DUAL-RX9060XT-8G (modelo del MPN): la ficha técnica no publica TBP/TGP de la tarjeta"
+  },
+  {
+    "product_id": "asus-prime-geforce-rtx-5050-oc-edition-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "268.3 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5050-o8g/techspec/",
+    "note": "ficha ASUS PRIME-RTX5050-O8G (modelo del MPN): Dimensions = 268.3 x 120 x 50mm; longitud = primer valor"
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9060-xt-oc-white-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://helpdesk.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9060-xt-oc-white-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TMERCW9 (en la web figura «RRX-96TMERCW9»): Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9060-xt-oc-white-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "320 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://helpdesk.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9060-xt-oc-white-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TMERCW9 (en la web figura «RRX-96TMERCW9»): Card Dimension = 32 x 12.7 x 5.3 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "xfx-swift-radeon-rx-9060-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TSW16BQ: Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "xfx-swift-radeon-rx-9060-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "270 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TSW16BQ: Card Dimension = 27 x 12.4 x 4.8 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "xfx-quicksilver-radeon-rx-9070-xt-white-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "350 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-quicksilver-amd-radeon-rx-9070xt-white-gaming-edition",
+    "note": "ficha XFX RX-97TQICKW9: Card Dimension = 35 x 14 x 6.7 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "rx-97tswf3w9",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070xt-white-triple-fan-gaming-edition",
+    "note": "ficha XFX RX-97TSWF3W9: Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "rx-97tswf3w9",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "325 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070xt-white-triple-fan-gaming-edition",
+    "note": "ficha XFX RX-97TSWF3W9: Card Dimension = 32.5 x 15 x 6.5 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "rx-97swfb3b9",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070-oc-triple-fan-gaming-edition",
+    "note": "ficha XFX RX-97SWFB3B9: Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "rx-97swfb3b9",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "325 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070-oc-triple-fan-gaming-edition",
+    "note": "ficha XFX RX-97SWFB3B9: Card Dimension = 32.5 x 15 x 6.5 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "rx-96ts316w7",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-white-triple-fan-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TS316W7: Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "rx-96ts316w7",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "290 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-white-triple-fan-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TS316W7: Card Dimension = 29 x 12.4 x 4.9 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "rx-96ts316w7",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "450 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-white-triple-fan-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TS316W7: Minimum Power Supply Requirement = 450 watt (mínimo del fabricante)"
+  },
+  {
+    "product_id": "rx-96ts316w7",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-white-triple-fan-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TS316W7: la ficha no publica TBP/TGP"
+  },
+  {
+    "product_id": "rx-96tmercb9",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9060xt-oc-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TMERCB9: Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "rx-96tmercb9",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "320 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9060xt-oc-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TMERCB9: Card Dimension = 32 x 12.7 x 5.3 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "rx-96tmercb9",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "450 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9060xt-oc-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TMERCB9: Minimum Power Supply Requirement = 450 watt (mínimo del fabricante)"
+  },
+  {
+    "product_id": "rx-96tmercb9",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9060xt-oc-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TMERCB9: la ficha no publica TBP/TGP"
+  },
+  {
+    "product_id": "rx-97tqickb9",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-quicksilver-amd-radeon-rx-9070xt-gaming-edition",
+    "note": "ficha XFX RX-97TQICKB9: Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "rx-97tqickb9",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "350 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-quicksilver-amd-radeon-rx-9070xt-gaming-edition",
+    "note": "ficha XFX RX-97TQICKB9: Card Dimension = 35 x 14 x 6.7 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "rx-97tqickb9",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-quicksilver-amd-radeon-rx-9070xt-gaming-edition",
+    "note": "ficha XFX RX-97TQICKB9: Minimum Power Supply Requirement = 850 watt (mínimo del fabricante)"
+  },
+  {
+    "product_id": "rx-97tqickb9",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-quicksilver-amd-radeon-rx-9070xt-gaming-edition",
+    "note": "ficha XFX RX-97TQICKB9: la ficha no publica TBP/TGP"
+  },
+  {
+    "product_id": "xfx-swift-rx-9060-xt-oc-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://helpdesk.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-triple-fan-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TS316B7: Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "xfx-swift-rx-9060-xt-oc-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "290 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://helpdesk.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-triple-fan-gaming-edition-16gb",
+    "note": "ficha XFX RX-96TS316B7: Card Dimension = 29 x 12.4 x 4.9 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "xfx-swift-rx-9070-oc-white-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://uk.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070-oc-white-triple-fan-gaming-edition",
+    "note": "ficha XFX RX-97SWFB3W9: Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "xfx-swift-rx-9070-oc-white-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "325 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://uk.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070-oc-white-triple-fan-gaming-edition",
+    "note": "ficha XFX RX-97SWFB3W9: Card Dimension = 32.5 x 15 x 6.5 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "xfx-swift-rx-9070-gre-12gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "301 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://uk.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070gre-triple-fan-gaming-edition",
+    "note": "ficha XFX RX-97GRE29B7: Card Dimension = 30.1 x 15.3 x 5.9 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "xfx-swift-rx-9070-gre-12gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://uk.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070gre-triple-fan-gaming-edition",
+    "note": "ficha XFX RX-97GRE29B7: la ficha no publica TBP/TGP"
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9070-xt-oc-white-gaming-edition-rgb-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9070xt-oc-white-gaming-edition-with-rgb",
+    "note": "ficha XFX RX-97TRGBBW9: Bus Type = PCI-E 5.0"
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9070-xt-oc-white-gaming-edition-rgb-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "360 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9070xt-oc-white-gaming-edition-with-rgb",
+    "note": "ficha XFX RX-97TRGBBW9: Card Dimension = 36 x 15.5 x 7.2 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9070-xt-oc-white-gaming-edition-rgb-16gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9070xt-oc-white-gaming-edition-with-rgb",
+    "note": "ficha XFX RX-97TRGBBW9: Minimum Power Supply Requirement = 850 watt (mínimo del fabricante)"
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9070-xt-oc-white-gaming-edition-rgb-16gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9070xt-oc-white-gaming-edition-with-rgb",
+    "note": "ficha XFX RX-97TRGBBW9: la ficha no publica TBP/TGP"
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9070-xt-oc-white-magnetic-air-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "360 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9070xt-oc-white-magnetic-air-edition-with-rgb",
+    "note": "ficha XFX RX-97TMARGW9: Card Dimension = 36 x 15.5 x 7.2 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "xfx-swift-radeon-rx-9060-xt-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "270 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-gaming-edition-8gb",
+    "note": "ficha XFX RX-96TSW8GBQ: Card Dimension = 27 x 12.4 x 4.8 cm; longitud = primer valor"
+  },
+  {
+    "product_id": "xfx-swift-radeon-rx-9060-xt-oc-8gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-gaming-edition-8gb",
+    "note": "ficha XFX RX-96TSW8GBQ: la ficha no publica TBP/TGP"
+  },
+  {
+    "product_id": "sapphire-pulse-radeon-rx-7600-8gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 4.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-7600-8g-gddr6",
+    "note": "ficha Sapphire SKU 11324-01-20G: Interface = PCI-Express 4.0 x8"
+  },
+  {
+    "product_id": "sapphire-nitro-plus-radeon-rx-9070-oc-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/nitro-radeon-rx-9070-16g-gddr6",
+    "note": "ficha Sapphire SKU 11349-01-20G: Interface = PCI-Express 5.0 x16"
+  },
+  {
+    "product_id": "sapphire-nitro-plus-radeon-rx-9070-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "330.8 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/nitro-radeon-rx-9070-16g-gddr6",
+    "note": "ficha Sapphire SKU 11349-01-20G: Dimension = 330.8(L)X 128.5(W)X 65.68(H)mm"
+  },
+  {
+    "product_id": "sapphire-pure-radeon-rx-9060-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/es-es/consumer/pure-radeon-rx-9060-xt-16g-gddr6",
+    "note": "ficha Sapphire SKU 11350-02-20G: Interface = PCI-Express 5.0 x16"
+  },
+  {
+    "product_id": "sapphire-pure-radeon-rx-9060-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "240 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/es-es/consumer/pure-radeon-rx-9060-xt-16g-gddr6",
+    "note": "ficha Sapphire SKU 11350-02-20G: Dimension = 240(L) X 124(W) X 46.1(H)mm"
+  },
+  {
+    "product_id": "sapphire-pure-radeon-rx-9070-oc-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/de-de/consumer/pure-radeon-rx-9070-16g-gddr6",
+    "note": "ficha Sapphire SKU 11349-02-20G: Interface = PCI-Express 5.0 x16"
+  },
+  {
+    "product_id": "sapphire-pure-radeon-rx-9070-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "320 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/de-de/consumer/pure-radeon-rx-9070-16g-gddr6",
+    "note": "ficha Sapphire SKU 11349-02-20G: Dimension = 320(L)x120,25(B)x61,6(H) mm"
+  },
+  {
+    "product_id": "apphire-11349-03-20g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9070-16g-gddr6",
+    "note": "ficha Sapphire SKU 11349-03-20G: Interface = PCI-Express 5.0 x16"
+  },
+  {
+    "product_id": "apphire-11349-03-20g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "280 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9070-16g-gddr6",
+    "note": "ficha Sapphire SKU 11349-03-20G: Dimension = 280(L)X 120.25(W)X 51.5(H)mm"
+  },
+  {
+    "product_id": "apphire-11350-01-20g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/nitro-radeon-rx-9060-xt-16g-gddr6",
+    "note": "ficha Sapphire SKU 11350-01-20G: Interface = PCI-Express 5.0 x16"
+  },
+  {
+    "product_id": "sapphire-nitro-plus-radeon-rx-9070-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "330.8 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/nitro-radeon-rx-9070-xt-16g-gddr6",
+    "note": "ficha Sapphire SKU 11348-01-20G: Dimension = 330.8(L)X 128.5(W)X 65.68(H)mm"
+  },
+  {
+    "product_id": "sapphire-pulse-rx-9060-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-16g-gddr6",
+    "note": "ficha Sapphire SKU 11350-03-20G: Interface = PCI-Express 5.0 x16"
+  },
+  {
+    "product_id": "sapphire-pulse-rx-9060-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "240 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-16g-gddr6",
+    "note": "ficha Sapphire SKU 11350-03-20G: Dimension = 240(L) X 111.25(W) X 46.08(H)mm"
+  },
+  {
+    "product_id": "sapphire-nitro-plus-rx-9070-xt-crimson-desert-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "330.8 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/nitro-radeon-rx-9070-xt-cde-16g-gddr6",
+    "note": "ficha Sapphire SKU 11348-10-20G: Dimension = 330.8(L)X 128.5(W)X 65.68(H)mm"
+  },
+  {
+    "product_id": "sapphire-pulse-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-8g-m-gddr6",
+    "note": "ficha Sapphire SKU 11350-05-20G: Interface = PCI-Express 5.0 x16"
+  },
+  {
+    "product_id": "sapphire-pulse-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "200 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-8g-m-gddr6",
+    "note": "ficha Sapphire SKU 11350-05-20G: Dimension = 200(L) X 109.25(W) X 40.6(H)mm"
+  },
+  {
+    "product_id": "sapphire-pulse-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "150 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-8g-m-gddr6",
+    "note": "ficha Sapphire SKU 11350-05-20G: Power Consumption = 150W Typical Board Power"
+  },
+  {
+    "product_id": "sapphire-pulse-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "450 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-8g-m-gddr6",
+    "note": "ficha Sapphire SKU 11350-05-20G: System Requirement = Minimum 450 Watt Power Supply (mínimo del fabricante)"
+  },
+  {
+    "product_id": "palit-geforce-rtx-5060-ti-infinity-3-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "291.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5495&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE7506T019T1-GB2061S: Board/Product Size = 291.9 x 116.6 x 41.3 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "palit-rtx-5060-ti-dual-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "262.1 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5545&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE7506T019P1-GB2062D: Board/Product Size = 262.1 x 126.3 x 40.1 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "palit-geforce-rtx-5070-ti-gamingpro-s-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "331.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5605&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE7507T019T2-GB2031U: Board/Product Size = 331.9 x 127.1 x 49.7 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "palit-geforce-rtx-5070-ti-gamingpro-s-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "331.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5615&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE7507TS19T2-GB2031U: Board/Product Size = 331.9 x 127.1 x 49.7 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "palit-geforce-rtx-5060-ti-infinity-3-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "291.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5485&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE7506TS19T1-GB2061S: Board/Product Size = 291.9 x 116.6 x 41.3 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "palit-geforce-rtx-5050-stormx-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "169.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5695&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE65050019P1-GB2070F: Board/Product Size = 169.9 x 118 x 39.8 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "palit-geforce-rtx-5090-gamerock-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "331.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5345&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE75090019R5-GB2020G: Board/Product Size = 331.9 x 150 x 70.4 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "palit-geforce-rtx-5090-gamerock-oc-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "331.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5335&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE75090S19R5-GB2020G: Board/Product Size = 331.9 x 150 x 70.4 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "palit-geforce-rtx-5050-dual-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "262.1 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5685&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE65050019P1-GB2070D: Board/Product Size = 262.1 x 126.3 x 40.1 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "palit-geforce-rtx-5060-ti-ritona-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "233.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.palit.com/palit/vgapro.php?id=5850&lang=en&tab=sp",
+    "note": "ficha Palit P/N NE7506TH19P1-B67DR: Board/Product Size = 233.9 x 125.8 x 40 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "ainward-ne7506t019p1-gb2062b",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "262.1 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1248&lang=en",
+    "note": "ficha Gainward P/N NE7506T019P1-GB2062B: Board/Product Size = 262.1 x 126.3 x 40.1 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "ainward-ne75060019p1-gb2063b",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "262.1 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1250&lang=en",
+    "note": "ficha Gainward P/N NE75060019P1-GB2063B: Board/Product Size = 262.1 x 126.3 x 40.1 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "ainward-ne75070s19k9-gb2050t",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "291.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1238&lang=en",
+    "note": "ficha Gainward P/N NE75070S19K9-GB2050T: Board/Product Size = 291.9 x 116.5 x 41.3 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "gainward-rtx-5080-phoenix-v1-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "331.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1252&lang=en",
+    "note": "ficha Gainward P/N NE75080019T2-GB2031C: Board/Product Size = 331.9 x 133.1 x 60 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "gainward-rtx-5080-python-iii-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "331.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1265&lang=en",
+    "note": "ficha Gainward P/N NE75080019T2-GB2035T: Board/Product Size = 331.9 x 127.1 x 56.8 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "gainward-geforce-rtx-5070-python-iii-12gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "291.9 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1237&lang=en",
+    "note": "ficha Gainward P/N NE75070019K9-GB2050T: Board/Product Size = 291.9 x 116.5 x 41.3 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "ainward-ne75070s19k9-gb2050t",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1238&lang=en",
+    "note": "ficha Gainward: la ficha (Product Size, Power Connector 16-pin x1, P/N) no publica TBP/TGP"
+  },
+  {
+    "product_id": "ainward-ne75070s19k9-gb2050t",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1238&lang=en",
+    "note": "ficha Gainward: la ficha no publica fuente recomendada"
+  },
+  {
+    "product_id": "gainward-geforce-rtx-5070-python-iii-12gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1237&lang=en",
+    "note": "ficha Gainward: la ficha (Product Size, Power Connector 16-pin x1, P/N) no publica TBP/TGP"
+  },
+  {
+    "product_id": "gainward-geforce-rtx-5070-python-iii-12gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gainward.com/main/vgapro.php?id=1237&lang=en",
+    "note": "ficha Gainward: la ficha no publica fuente recomendada"
+  },
+  {
+    "product_id": "vcg5060t16dfxpb1-o",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5060-ti-16gb-models?sku=VCG5060T16DFXPB1-O",
+    "note": "ficha PNY P/N VCG5060T16DFXPB1-O: System Requirements = Total graphics power 180W"
+  },
+  {
+    "product_id": "vcg5060t16dfxpb1-o",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "245.1 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5060-ti-16gb-models?sku=VCG5060T16DFXPB1-O",
+    "note": "ficha PNY P/N VCG5060T16DFXPB1-O: Card Dimensions = 9.65\" x 4.72\" x 1.57\"; longitud convertida de pulgadas"
+  },
+  {
+    "product_id": "vcg5060t16dfxpb1-o",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "600 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5060-ti-16gb-models?sku=VCG5060T16DFXPB1-O",
+    "note": "ficha PNY P/N VCG5060T16DFXPB1-O: Required system power 600W"
+  },
+  {
+    "product_id": "vcg5070t16tfxpb1",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "300 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5070-ti-models?sku=VCG5070T16TFXPB1",
+    "note": "ficha PNY P/N VCG5070T16TFXPB1: System Requirements = Total graphics power 300W"
+  },
+  {
+    "product_id": "vcg5070t16tfxpb1",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "299.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5070-ti-models?sku=VCG5070T16TFXPB1",
+    "note": "ficha PNY P/N VCG5070T16TFXPB1: Card Dimensions = 11.80\" x 4.73\" x 2.35\"; longitud convertida de pulgadas"
+  },
+  {
+    "product_id": "vcg5070t16tfxpb1",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "750 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5070-ti-models?sku=VCG5070T16TFXPB1",
+    "note": "ficha PNY P/N VCG5070T16TFXPB1: Required system power 750W"
+  },
+  {
+    "product_id": "pny-geforce-rtx-5080-overclocked-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "328.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5080-series?sku=VCG508016TFXPB1-O",
+    "note": "ficha PNY P/N VCG508016TFXPB1-O: Card Dimensions = 12.94\" x 5.42\" x 2.35\"; longitud convertida de pulgadas"
+  },
+  {
+    "product_id": "pny-rtx-5090-overclocked-triple-fan-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "328.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5090-models?sku=VCG509032TFXPB1-O",
+    "note": "ficha PNY P/N VCG509032TFXPB1-O: Card Dimensions = 12.94\" x 5.42\" x 2.8\"; longitud convertida de pulgadas"
+  },
+  {
+    "product_id": "pny-rtx-5080-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "328.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5080-models?sku=VCG508016TFXPB1",
+    "note": "ficha PNY P/N VCG508016TFXPB1: Card Dimensions = 12.94\" x 5.42\" x 2.35\"; longitud convertida de pulgadas"
+  },
+  {
+    "product_id": "pny-rtx-5070-ti-argb-epic-x-rgb-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "299.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5070-ti-models?sku=VCG5070T16TFXXPB1",
+    "note": "ficha PNY P/N VCG5070T16TFXXPB1: Card Dimensions = 11.80\" x 4.73\" x 2.35\"; longitud convertida de pulgadas"
+  },
+  {
+    "product_id": "pny-geforce-rtx-5070-ti-oc-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "300 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/file%20library/company/support/product%20brochures/geforce%20graphics/english/rtx-5070-ti-16gb-triple-fan-oc-brochure.pdf",
+    "note": "folleto PNY P/N VCG5070T16TFXPB1-O: TDP = 300 W"
+  },
+  {
+    "product_id": "pny-geforce-rtx-5070-ti-oc-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "299.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/file%20library/company/support/product%20brochures/geforce%20graphics/english/rtx-5070-ti-16gb-triple-fan-oc-brochure.pdf",
+    "note": "folleto PNY P/N VCG5070T16TFXPB1-O: Card Dimensions = 299.5 x 120.0 x 59.6mm"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-eco-4gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 4.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240729114820639.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA310C-4G: PCI Express Configurations = PCI Express 4.0 x8"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-eco-4gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "156 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240729114820639.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA310C-4G: Dimension = 156 x 69 x 15mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-eco-4gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "50 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240729114820639.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA310C-4G: TBP = 50 Watt"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-eco-4gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "350 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240729114820639.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA310C-4G: 350 Watt or greater power supply"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a750-roc-oc-edition-8gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 4.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240729114722783.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA750R-8GOC: PCI Express Configurations = PCI Express 4.0 x8"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a750-roc-oc-edition-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240729114722783.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA750R-8GOC: Dimension = 281 x131 x 51 mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a750-roc-oc-edition-8gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "225 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240729114722783.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA750R-8GOC: TBP = 225 Watt"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a750-roc-oc-edition-8gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240729114722783.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA750R-8GOC: 650 Watt or greater power supply"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a380-elf-6gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 4.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240202124124576.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA380E-6G: PCI Express Configurations = PCI Express 4.0 x8"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a380-elf-6gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "152.6 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240202124124576.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA380E-6G: Dimension = 152.6 x 100 x 35.7mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a380-elf-6gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "75 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240202124124576.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA380E-6G: TBP = 75 Watt"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a380-elf-6gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "350 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20240202124124576.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA380E-6G: 350 Watt or greater power supply"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-omni-view-4gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 4.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20241112102350501.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA310F-4G: PCI Express Configurations = PCI Express 4.0 x8"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-omni-view-4gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "145 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20241112102350501.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA310F-4G: Dimension = 145 x 107 x 18mm; longitud = primer valor"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-omni-view-4gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "350 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sparkle.com.tw/files/20241112102350501.pdf",
+    "note": "ficha técnica PDF Sparkle P/N SA310F-4G: 350 Watt or greater power supply"
+  }
+]

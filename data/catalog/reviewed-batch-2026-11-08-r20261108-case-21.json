@@ -1,0 +1,523 @@
+[
+ {
+  "id": "unykach-mir-b200-micro-atx-gaming-uk113011",
+  "slug": "unykach-mir-b200-micro-atx-gaming-uk113011",
+  "name": "UNYKAch MIR B200 Micro ATX Gaming (UK113011)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK113011",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-micro-atx-gaming-mir-b200-uk113011/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "280 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Dimensiones": "350 × 200 × 385 mm"
+  }
+ },
+ {
+  "id": "unykach-revelat-madeira-black-uk121804",
+  "slug": "unykach-revelat-madeira-black-uk121804",
+  "name": "UNYKAch Revelat Madeira Black (UK121804)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK121804",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-case-atx/pc-case-atx-revelat-madeira-black-uk121804/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "425 mm",
+   "Altura disipador máxima": "170 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "454 × 218 × 470 mm"
+  }
+ },
+ {
+  "id": "unykach-revelat-mesh-compact-edition-uk121805",
+  "slug": "unykach-revelat-mesh-compact-edition-uk121805",
+  "name": "UNYKAch Revelat Mesh Compact Edition (UK121805)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK121805",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-case-atx/pc-case-atx-revelat-mesh-compact-edition-uk121805/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "340 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "388 × 218 × 448 mm"
+  }
+ },
+ {
+  "id": "unykach-aero-c25-micro-atx-con-fuente-atx-500w-uk52125",
+  "slug": "unykach-aero-c25-micro-atx-con-fuente-atx-500w-uk52125",
+  "name": "UNYKAch Aero C25 Micro ATX con fuente ATX 500W (UK52125)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK52125",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-micro-atx-aero-c25-uk52125/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "390 mm",
+   "Altura disipador máxima": "156 mm",
+   "Dimensiones": "371 × 205 × 392 mm"
+  }
+ },
+ {
+  "id": "unykach-numen-500-pro-type-c-uk52115",
+  "slug": "unykach-numen-500-pro-type-c-uk52115",
+  "name": "UNYKAch Numen 500 Pro Type C (UK52115)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK52115",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-micro-atx-numen-500-pro-type-c-17-litres-uk52115/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "250 mm",
+   "Altura disipador máxima": "150 mm",
+   "Dimensiones": "295 × 168 × 353 mm"
+  }
+ },
+ {
+  "id": "unykach-numen-300-pro-uk52121",
+  "slug": "unykach-numen-300-pro-uk52121",
+  "name": "UNYKAch Numen 300 Pro (UK52121)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK52121",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-micro-atx-numen-300-pro-uk52121/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "250 mm",
+   "Altura disipador máxima": "160 mm",
+   "Dimensiones": "308 × 185 × 350 mm"
+  }
+ },
+ {
+  "id": "unykach-desktop-slim-uk-3001-uk52168",
+  "slug": "unykach-desktop-slim-uk-3001-uk52168",
+  "name": "UNYKAch Desktop Slim UK 3001 (UK52168)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK52168",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-case-desktop-slim-uk-3001-black-uk52168/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Formato fuente": "TFX",
+   "Longitud GPU máxima": "180 mm",
+   "Altura disipador máxima": "85 mm",
+   "Dimensiones": "400 × 340 × 102 mm"
+  }
+ },
+ {
+  "id": "unykach-uk2010-slim-micro-atx-con-fuente-450w-52084",
+  "slug": "unykach-uk2010-slim-micro-atx-con-fuente-450w-52084",
+  "name": "UNYKAch UK2010 Slim Micro-ATX con fuente 450W (52084)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "52084",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-matx-uk-2010-52084/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Formato fuente": "SFX",
+   "Longitud GPU máxima": "190 mm",
+   "Altura disipador máxima": "60 mm",
+   "Dimensiones": "405 × 100 × 305 mm"
+  }
+ },
+ {
+  "id": "unykach-uk6023-u3-micro-atx-con-fuente-atx-500w-51992",
+  "slug": "unykach-uk6023-u3-micro-atx-con-fuente-atx-500w-51992",
+  "name": "UNYKAch UK6023 U3 Micro ATX con fuente ATX 500W (51992)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "51992",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-matx-uk-6023-u3-51992/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "320 mm",
+   "Altura disipador máxima": "140 mm",
+   "Dimensiones": "405 × 175 × 370 mm"
+  }
+ },
+ {
+  "id": "unykach-mini-glayze-micro-atx-uk113021",
+  "slug": "unykach-mini-glayze-micro-atx-uk113021",
+  "name": "UNYKAch Mini Glayze Micro ATX (UK113021)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK113021",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-micro-atx-mini-glayze-uk113021/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "280 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador superior máximo": "120 mm",
+   "Dimensiones": "350 × 200 × 385 mm"
+  }
+ },
+ {
+  "id": "unykach-aero-c12-v2-micro-atx-uk52110v2",
+  "slug": "unykach-aero-c12-v2-micro-atx-uk52110v2",
+  "name": "UNYKAch Aero C12 V2 Micro ATX (UK52110V2)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK52110V2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-micro-atx-aero-c12-v2-uk52110v2/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "295 mm",
+   "Altura disipador máxima": "140 mm",
+   "Dimensiones": "372 × 178 × 353 mm"
+  }
+ },
+ {
+  "id": "unykach-caviar-itx-1k-52092",
+  "slug": "unykach-caviar-itx-1k-52092",
+  "name": "UNYKAch Caviar ITX 1K (52092)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "52092",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-itx/pc-case-itx-1k-caviar-52092/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "Mini-ITX",
+   "Formato fuente": "TFX",
+   "Longitud GPU máxima": "150 mm",
+   "Altura disipador máxima": "60 mm",
+   "Dimensiones": "295 × 95 × 290 mm"
+  }
+ },
+ {
+  "id": "unykach-grey-rain-evo-micro-atx-con-fuente-atx-500w-52088",
+  "slug": "unykach-grey-rain-evo-micro-atx-con-fuente-atx-500w-52088",
+  "name": "UNYKAch Grey Rain EVO Micro ATX con fuente ATX 500W (52088)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "52088",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-matx-grey-rain-evo-52088/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "320 mm",
+   "Altura disipador máxima": "150 mm",
+   "Dimensiones": "390 × 175 × 350 mm"
+  }
+ },
+ {
+  "id": "unykach-uk1007-mini-itx-con-fuente-150w-52061",
+  "slug": "unykach-uk1007-mini-itx-con-fuente-150w-52061",
+  "name": "UNYKAch UK1007 Mini-ITX con fuente 150W (52061)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "52061",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-itx/pc-case-mini-itx-uk-1007-52061/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "Mini-ITX",
+   "Formato fuente": "ATX",
+   "Dimensiones": "215 × 80 × 235 mm"
+  }
+ },
+ {
+  "id": "unykach-uk2011-type-c-slim-micro-atx-con-fuente-sfx-450w-uk52112",
+  "slug": "unykach-uk2011-type-c-slim-micro-atx-con-fuente-sfx-450w-uk52112",
+  "name": "UNYKAch UK2011 Type-C Slim Micro-ATX con fuente SFX 450W (UK52112)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK52112",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-micro-atx-uk2011-type-c-uk52112/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Formato fuente": "SFX",
+   "Longitud GPU máxima": "190 mm",
+   "Altura disipador máxima": "60 mm",
+   "Dimensiones": "405 × 99 × 314 mm"
+  }
+ },
+ {
+  "id": "unykach-aero-c15-micro-atx-con-fuente-atx-500w-uk52015",
+  "slug": "unykach-aero-c15-micro-atx-con-fuente-atx-500w-uk52015",
+  "name": "UNYKAch Aero C15 Micro-ATX con fuente ATX 500W (UK52015)",
+  "category_id": "case",
+  "brand": "UNYKAch",
+  "mpn": "UK52015",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-micro-atx-aero-c15-uk52015/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "300 mm",
+   "Altura disipador máxima": "130 mm",
+   "Ventiladores incluidos": "1 × 80 mm",
+   "Dimensiones": "365 × 173 × 370 mm"
+  }
+ },
+ {
+  "id": "tacens-anima-acslim500-slim-microatx-con-fuente-tfx-500w-acslim500",
+  "slug": "tacens-anima-acslim500-slim-microatx-con-fuente-tfx-500w-acslim500",
+  "name": "Tacens Anima ACSLIM500 Slim MicroATX con fuente TFX 500W (ACSLIM500)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "ACSLIM500",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/acslim500",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Formato fuente": "TFX"
+  }
+ },
+ {
+  "id": "tacens-anima-ac4500-microatx-con-fuente-500w-ac4500",
+  "slug": "tacens-anima-ac4500-microatx-con-fuente-500w-ac4500",
+  "name": "Tacens Anima AC4500 MicroATX con fuente 500W (AC4500)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "AC4500",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/ac4500",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "tacens-aerom-micro-atx-2aerom",
+  "slug": "tacens-aerom-micro-atx-2aerom",
+  "name": "Tacens AEROM Micro ATX (2AEROM)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "2AEROM",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/2aerom",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "tacens-anima-ac4-ac4",
+  "slug": "tacens-anima-ac4-ac4",
+  "name": "Tacens Anima AC4 (AC4)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "AC4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/ac4",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "tacens-anima-ac6500-microatx-con-fuente-500w-ac6500",
+  "slug": "tacens-anima-ac6500-microatx-con-fuente-500w-ac6500",
+  "name": "Tacens Anima AC6500 MicroATX con fuente 500W (AC6500)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "AC6500",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/ac6500",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "tacens-ferrox-atx-2ferrox",
+  "slug": "tacens-ferrox-atx-2ferrox",
+  "name": "Tacens Ferrox ATX (2FERROX)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "2FERROX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/ferrox",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "tacens-fortis-ii-microatx-2fortisii",
+  "slug": "tacens-fortis-ii-microatx-2fortisii",
+  "name": "Tacens Fortis II MicroATX (2FORTISII)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "2FORTISII",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/fortisii",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "tacens-novax550br-microatx-con-fuente-550w-2novax550br",
+  "slug": "tacens-novax550br-microatx-con-fuente-550w-2novax550br",
+  "name": "Tacens Novax550BR MicroATX con fuente 550W (2NOVAX550BR)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "2NOVAX550BR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/novax550br",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "tacens-novax-microatx-2novax",
+  "slug": "tacens-novax-microatx-2novax",
+  "name": "Tacens Novax MicroATX (2NOVAX)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "2NOVAX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/novax",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "tacens-anima-acm500-microatx-con-fuente-500w-acm500",
+  "slug": "tacens-anima-acm500-microatx-con-fuente-500w-acm500",
+  "name": "Tacens Anima ACM500 MicroATX con fuente 500W (ACM500)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "ACM500",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/acm500",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "tacens-anima-ac7500-micro-atx-ac7500",
+  "slug": "tacens-anima-ac7500-micro-atx-ac7500",
+  "name": "Tacens Anima AC7500 Micro ATX (AC7500)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "AC7500",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/ac7500",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "tacens-anima-ac8500-microatx-con-fuente-500w-ac8500",
+  "slug": "tacens-anima-ac8500-microatx-con-fuente-500w-ac8500",
+  "name": "Tacens Anima AC8500 MicroATX con fuente 500W (AC8500)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "AC8500",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/ac8500",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "tacens-anima-acx-microatx-acx",
+  "slug": "tacens-anima-acx-microatx-acx",
+  "name": "Tacens Anima ACX MicroATX (ACX)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "ACX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/acx",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "tacens-ensis-atx-2ensis",
+  "slug": "tacens-ensis-atx-2ensis",
+  "name": "Tacens Ensis ATX (2ENSIS)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "2ENSIS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/ensis",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX"
+  }
+ },
+ {
+  "id": "tacens-initiox-atx-2initiox",
+  "slug": "tacens-initiox-atx-2initiox",
+  "name": "Tacens Initiox ATX (2INITIOX)",
+  "category_id": "case",
+  "brand": "Tacens",
+  "mpn": "2INITIOX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/componentes/initiox",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ }
+]

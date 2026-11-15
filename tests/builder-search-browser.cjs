@@ -1,0 +1,25 @@
+const {chromium}=require('@playwright/test');
+const assert=require('node:assert/strict');
+(async()=>{
+ const browser=await chromium.launch({args:['--no-sandbox']});const page=await browser.newPage();
+ page.setDefaultTimeout(15000);const base=process.env.TEST_BASE_URL||'http://127.0.0.1:8800';
+ const mpn='CMH32GX4M2E3200C16W';
+ const first=await (await page.request.get(`${base}/api/v1/builder/options?category=ram`)).json();
+ assert(!first.data.some(p=>p.mpn===mpn),'regression fixture must be outside the initial page');
+ await page.goto(`${base}/configurador`,{waitUntil:'networkidle'});
+ await page.locator('#builder-slot-ram').click();
+ await page.getByRole('combobox',{name:'Buscar por nombre, marca o referencia'}).fill(mpn);
+ await page.locator(`.part-picker.is-open [role=option]:has-text("Corsair Vengeance RGB Pro SL Blanca 32 GB")`).waitFor();
+ await page.getByRole('combobox',{name:'Buscar por nombre, marca o referencia'}).press('Escape');
+ await page.locator('#builder-slot-cpu').click();
+ await page.getByRole('combobox',{name:'Buscar por nombre, marca o referencia'}).fill('9800');
+ await page.locator('.part-picker.is-open [role=option]').first().click();
+ await page.locator('#builder-slot-ram').click();
+ const search=page.getByRole('combobox',{name:'Buscar por nombre, marca o referencia'});
+ await search.fill(mpn);
+ await page.getByText(`Ningún componente compatible coincide con «${mpn}».`,{exact:true}).waitFor();
+ assert.match(await page.locator('.part-picker.is-open .part-picker-scope').innerText(),/DDR5/);
+ await page.locator('.part-picker.is-open .part-picker-scope').getByRole('button',{name:'Ver todos',exact:true}).click();
+ await page.locator(`.part-picker.is-open [role=option]:has-text("Corsair Vengeance RGB Pro SL Blanca 32 GB")`).waitFor();
+ await browser.close();console.log('Builder search QA passed: finds unloaded MPN globally, explains DDR5 filter, and reveals DDR4 with Show all.');
+})().catch(e=>{console.error(e);process.exit(1)});

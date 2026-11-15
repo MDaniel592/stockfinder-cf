@@ -1,0 +1,971 @@
+[
+  {
+    "id": "coolmod-ram-md16gsd43200-tb",
+    "slug": "coolmod-ram-md16gsd43200-tb",
+    "name": "PNY Performance 16 GB (1 × 16 GB) DDR4-3200 CL22",
+    "category_id": "ram",
+    "brand": "PNY",
+    "mpn": "MD16GSD43200-TB",
+    "manufacturer_url": "https://cs.pny.com.tw/en/upload/download_files/en_download_list_21i02_yhwt83humb.pdf",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Performance",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://cs.pny.com.tw/en/upload/download_files/en_download_list_21i02_yhwt83humb.pdf",
+        "supports": "El PDF oficial de PNY publica el MPN MD16GSD43200-TB como módulo Performance de escritorio de 16 GB DDR4-3200 CL22. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmh64gx4m4e3200c16w",
+    "slug": "coolmod-ram-cmh64gx4m4e3200c16w",
+    "name": "CORSAIR VENGEANCE RGB PRO SL 64 GB (4 × 16 GB) DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH64GX4M4E3200C16W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/null/cmh64gx4m4e3200c16w/vengeance-rgb-pro-sl-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh64gx4m4e3200c16w",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE RGB PRO SL",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "64 GB",
+      "Módulos": "4 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Perfil de memoria": "XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/null/cmh64gx4m4e3200c16w/vengeance-rgb-pro-sl-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh64gx4m4e3200c16w",
+        "supports": "La ficha oficial de CORSAIR muestra el SKU CMH64GX4M4E3200C16W y el kit blanco de 64 GB (4 × 16 GB) DDR4-3200 CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-ctcwd532g6000hc30dc01",
+    "slug": "coolmod-ram-ctcwd532g6000hc30dc01",
+    "name": "TEAMGROUP T-CREATE EXPERT 32 GB (2 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "CTCWD532G6000HC30DC01",
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr5-white/expert-u-dimm-ddr5-white-CTCWD532G6000HC30DC01/",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "T-CREATE EXPERT",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr5-white/expert-u-dimm-ddr5-white-CTCWD532G6000HC30DC01/",
+        "supports": "La página oficial TEAMGROUP identifica CTCWD532G6000HC30DC01 y publica el kit EXPERT blanco de 32 GB (2 × 16 GB) DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-flbd532g6000hc30dc01",
+    "slug": "coolmod-ram-flbd532g6000hc30dc01",
+    "name": "TEAMGROUP T-FORCE VULCAN 32 GB (2 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "FLBD532G6000HC30DC01",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "T-FORCE VULCAN",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+        "supports": "La hoja oficial TEAMGROUP lista FLBD532G6000HC30DC01 como kit de 2 × 16 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmp48gx5m2x7200c36",
+    "slug": "coolmod-ram-cmp48gx5m2x7200c36",
+    "name": "CORSAIR DOMINATOR TITANIUM RGB 48 GB (2 × 24 GB) DDR5-7200 CL36",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMP48GX5M2X7200C36",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/CMP48GX5M2X7200C36/dominator-titanium-rgb-2x16gb-ddr5-dram-7200mt-s-c34-intel-xmp-memory-kit-CMP48GX5M2X7200C36",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "DOMINATOR TITANIUM RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Módulos": "2 × 24 GB",
+      "Velocidad": "7200 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/CMP48GX5M2X7200C36/dominator-titanium-rgb-2x16gb-ddr5-dram-7200mt-s-c34-intel-xmp-memory-kit-CMP48GX5M2X7200C36",
+        "supports": "La ficha CORSAIR publica el SKU CMP48GX5M2X7200C36 y en las especificaciones renderizadas indica 48 GB (2 × 24 GB) DDR5-7200 CL36. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f5-5600j3636c8gh2-fx5",
+    "slug": "coolmod-ram-f5-5600j3636c8gh2-fx5",
+    "name": "G.Skill Flare X5 16 GB (2 × 8 GB) DDR5-5600 CL36",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F5-5600J3636C8GH2-FX5",
+    "manufacturer_url": "https://www.gskill.com/specification/165/396/1765260800/F5-5600J3636C8GH2-FX5-Specification",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Flare X5",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/specification/165/396/1765260800/F5-5600J3636C8GH2-FX5-Specification",
+        "supports": "La especificación G.SKILL publica el MPN F5-5600J3636C8GH2-FX5 como kit Flare X5 de 16 GB (2 × 8 GB) DDR5-5600 CL36. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f5-5200j4040a32gx2-is",
+    "slug": "coolmod-ram-f5-5200j4040a32gx2-is",
+    "name": "G.Skill Aegis 5 64 GB (2 × 32 GB) DDR5-5200 CL40",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F5-5200J4040A32GX2-IS",
+    "manufacturer_url": "https://www.gskill.com/specification/165/440/1734407772/F5-5200J4040A32GX2-IS-Specification",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Aegis 5",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/specification/165/440/1734407772/F5-5200J4040A32GX2-IS-Specification",
+        "supports": "La especificación G.SKILL publica el MPN exacto y 64 GB (2 × 32 GB) DDR5-5200 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f5-6000j3636f32gx2-is",
+    "slug": "coolmod-ram-f5-6000j3636f32gx2-is",
+    "name": "G.Skill Aegis 5 64 GB (2 × 32 GB) DDR5-6000 CL36",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F5-6000J3636F32GX2-IS",
+    "manufacturer_url": "https://www.gskill.com/product/165/440/1734414401/F5-6000J3636F32GX2-IS",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Aegis 5",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/product/165/440/1734414401/F5-6000J3636F32GX2-IS",
+        "supports": "La página oficial G.SKILL identifica el MPN y especifica Aegis 5, 64 GB (2 × 32 GB), DDR5-6000 CL36. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmh16gx5m2b5200z40",
+    "slug": "coolmod-ram-cmh16gx5m2b5200z40",
+    "name": "CORSAIR VENGEANCE RGB 16 GB (2 × 8 GB) DDR5-5200 CL40",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH16GX5M2B5200Z40",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m2b5200z40/vengeance-rgb-16gb-2x8gb-ddr5-dram-5200mt-s-c40-amd-expo-memory-kit-cmh16gx5m2b5200z40",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m2b5200z40/vengeance-rgb-16gb-2x8gb-ddr5-dram-5200mt-s-c40-amd-expo-memory-kit-cmh16gx5m2b5200z40",
+        "supports": "La página CORSAIR confirma SKU CMH16GX5M2B5200Z40, capacidad 16 GB (2 × 8 GB), DDR5-5200 CL40 y perfil AMD EXPO. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-sp008gxlzu320bsi",
+    "slug": "coolmod-ram-sp008gxlzu320bsi",
+    "name": "Silicon Power XPOWER Pulse 8 GB (1 × 8 GB) DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "Silicon Power",
+    "mpn": "SP008GXLZU320BSI",
+    "manufacturer_url": "https://www.silicon-power.com/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "XPOWER Pulse",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.silicon-power.com/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+        "supports": "La página oficial Silicon Power publica P/N SP008GXLZU320BSI y 8 GB DDR4-3200, timings CL16-18-18-38. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cb8gu3200",
+    "slug": "coolmod-ram-cb8gu3200",
+    "name": "Crucial Crucial Basics 4 GB (1 × 4 GB) DDR4-3200 CL22",
+    "category_id": "ram",
+    "brand": "Crucial",
+    "mpn": "CB8GU3200",
+    "manufacturer_url": "https://content.crucial.com/content/dam/crucial/dram-products/basics/flyer/crucial-basics-memory-productflyer.pdf",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Crucial Basics",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "4 GB",
+      "Módulos": "1 × 4 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://content.crucial.com/content/dam/crucial/dram-products/basics/flyer/crucial-basics-memory-productflyer.pdf",
+        "supports": "La hoja oficial Crucial Basics lista CB8GU3200 como UDIMM DDR4 de 4 GB, 3200 MT/s y CL22. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-flabd516g6000hc3001",
+    "slug": "coolmod-ram-flabd516g6000hc3001",
+    "name": "TEAMGROUP T-FORCE VULCANα 16 GB (1 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "FLABD516G6000HC3001",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan-alpha/spec-sheet/vulcan-alpha-en.pdf",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "T-FORCE VULCANα",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan-alpha/spec-sheet/vulcan-alpha-en.pdf",
+        "supports": "La hoja oficial TEAMGROUP publica FLABD516G6000HC3001 como módulo de 16 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-flbd516g6000hc3001",
+    "slug": "coolmod-ram-flbd516g6000hc3001",
+    "name": "TEAMGROUP T-FORCE VULCAN 16 GB (1 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "FLBD516G6000HC3001",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "T-FORCE VULCAN",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+        "supports": "La hoja oficial TEAMGROUP publica FLBD516G6000HC3001 como módulo de 16 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-ff7d532g6000hc30dc01",
+    "slug": "coolmod-ram-ff7d532g6000hc30dc01",
+    "name": "TEAMGROUP T-FORCE DELTAα RGB 32 GB (2 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "FF7D532G6000HC30DC01",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-alpha-rgb/spec-sheet/delta-alpha-rgb-en.pdf",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "T-FORCE DELTAα RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-alpha-rgb/spec-sheet/delta-alpha-rgb-en.pdf",
+        "supports": "La hoja oficial TEAMGROUP identifica FF7D532G6000HC30DC01 como kit de 32 GB (2 × 16 GB) DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f5-5600j4040d48gx2-fx5",
+    "slug": "coolmod-ram-f5-5600j4040d48gx2-fx5",
+    "name": "G.Skill Flare X5 96 GB (2 × 48 GB) DDR5-5600 CL40",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F5-5600J4040D48GX2-FX5",
+    "manufacturer_url": "https://www.gskill.com/specification/165/396/1683011081/F5-5600J4040D48GX2-FX5-Specification",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Flare X5",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "96 GB",
+      "Módulos": "2 × 48 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/specification/165/396/1683011081/F5-5600J4040D48GX2-FX5-Specification",
+        "supports": "La ficha G.SKILL confirma F5-5600J4040D48GX2-FX5 como kit Flare X5 de 96 GB (2 × 48 GB) DDR5-5600 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-ld5u32g56c46st-bgs",
+    "slug": "coolmod-ram-ld5u32g56c46st-bgs",
+    "name": "Lexar Lexar DDR5 UDIMM 32 GB (1 × 32 GB) DDR5-5600 CL46",
+    "category_id": "ram",
+    "brand": "Lexar",
+    "mpn": "LD5U32G56C46ST-BGS",
+    "manufacturer_url": "https://americas.lexar.com/product/lexar-ddr5-udimm-desktop-memory/",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Lexar DDR5 UDIMM",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "1 × 32 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL46"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://americas.lexar.com/product/lexar-ddr5-udimm-desktop-memory/",
+        "supports": "La página oficial Lexar identifica LD5U32G56C46ST-BGS como módulo de 32 GB DDR5-5600 CL46. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-flbd516g6000hc38j01",
+    "slug": "coolmod-ram-flbd516g6000hc38j01",
+    "name": "TEAMGROUP T-FORCE VULCAN 16 GB (1 × 16 GB) DDR5-6000 CL38",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "FLBD516G6000HC38J01",
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/vulcan-ddr5-black/vulcan-ddr5-black-FLBD516G6000HC3001/",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "T-FORCE VULCAN",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL38",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/vulcan-ddr5-black/vulcan-ddr5-black-FLBD516G6000HC3001/",
+        "supports": "La página oficial de comparación/especificaciones TEAMGROUP lista FLBD516G6000HC38J01 como módulo de 16 GB DDR5-6000 CL38. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-kcp432ns8-16",
+    "slug": "coolmod-ram-kcp432ns8-16",
+    "name": "Kingston ValueRAM 16 GB (1 × 16 GB) DDR4-3200 CL22",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KCP432NS8/16",
+    "manufacturer_url": "https://www.kingston.com/br/memory/search?partId=KCP432NS8%2F16",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "ValueRAM",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.kingston.com/br/memory/search?partId=KCP432NS8%2F16",
+        "supports": "La búsqueda oficial Kingston por KCP432NS8/16 confirma 16 GB DDR4-3200 CL22. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-kcp432ns8-8",
+    "slug": "coolmod-ram-kcp432ns8-8",
+    "name": "Kingston ValueRAM 8 GB (1 × 8 GB) DDR4-3200 CL22",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KCP432NS8/8",
+    "manufacturer_url": "https://www.kingston.com/es/memory/search?partId=KCP432NS8%2F8",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "ValueRAM",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.kingston.com/es/memory/search?partId=KCP432NS8%2F8",
+        "supports": "La búsqueda oficial Kingston por KCP432NS8/8 confirma 8 GB DDR4-3200 CL22. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-ctced532g6400hc32adc01",
+    "slug": "coolmod-ram-ctced532g6400hc32adc01",
+    "name": "TEAMGROUP T-CREATE EXPERT 32 GB (2 × 16 GB) DDR5-6400 CL32",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "CTCED532G6400HC32ADC01",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/expert/spec-sheet/expert-en.pdf",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "T-CREATE EXPERT",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL32",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/expert/spec-sheet/expert-en.pdf",
+        "supports": "La hoja oficial TEAMGROUP lista CTCED532G6400HC32ADC01 como kit 2 × 16 GB DDR5-6400 CL32. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f5-7200j3445g16gx2-tz5rs",
+    "slug": "coolmod-ram-f5-7200j3445g16gx2-tz5rs",
+    "name": "G.Skill Trident Z5 RGB 32 GB (2 × 16 GB) DDR5-7200 CL34",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F5-7200J3445G16GX2-TZ5RS",
+    "manufacturer_url": "https://www.gskill.com/specification/165/374/1665644713/F5-7200J3445G16GX2-TZ5RS-Specification",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Trident Z5 RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "7200 MT/s",
+      "Latencia": "CL34",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/specification/165/374/1665644713/F5-7200J3445G16GX2-TZ5RS-Specification",
+        "supports": "La especificación oficial G.SKILL confirma F5-7200J3445G16GX2-TZ5RS como kit de 32 GB (2 × 16 GB) DDR5-7200 CL34. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmkc48gx5m2x8400c40",
+    "slug": "coolmod-ram-cmkc48gx5m2x8400c40",
+    "name": "CORSAIR VENGEANCE CUDIMM 48 GB (2 × 24 GB) DDR5-8400 CL40",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMKC48GX5M2X8400C40",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmkc48gx5m2x8400c40/vengeance-48gb-2x24gb-ddr5-cudimm-8400mts-cl40-memory-kit-silver-cmkc48gx5m2x8400c40",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE CUDIMM",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Módulos": "2 × 24 GB",
+      "Velocidad": "8400 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmkc48gx5m2x8400c40/vengeance-48gb-2x24gb-ddr5-cudimm-8400mts-cl40-memory-kit-silver-cmkc48gx5m2x8400c40",
+        "supports": "La página CORSAIR identifica CMKC48GX5M2X8400C40 como kit CUDIMM de 48 GB (2 × 24 GB), DDR5-8400 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmh32gx5m2b6000c30w",
+    "slug": "coolmod-ram-cmh32gx5m2b6000c30w",
+    "name": "Corsair Vengeance RGB White 32 GB (2 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH32GX5M2B6000C30W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-memory-kit-white-cmh32gx5m2b6000c30w",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-memory-kit-white-cmh32gx5m2b6000c30w",
+        "supports": "La página CORSAIR confirma SKU CMH32GX5M2B6000C30W, kit blanco de 32 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmk48gx5m2e6000c36",
+    "slug": "coolmod-ram-cmk48gx5m2e6000c36",
+    "name": "CORSAIR VENGEANCE 48 GB (2 × 24 GB) DDR5-6000 CL36",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK48GX5M2E6000C36",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk48gx5m2e6000c36/vengeance-48gb-2x24gb-ddr5-dram-6000mt-s-cl36-memory-kit-black-cmk48gx5m2e6000c36",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Módulos": "2 × 24 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmk48gx5m2e6000c36/vengeance-48gb-2x24gb-ddr5-dram-6000mt-s-cl36-memory-kit-black-cmk48gx5m2e6000c36",
+        "supports": "La página CORSAIR identifica CMK48GX5M2E6000C36 como kit negro de 48 GB (2 × 24 GB) DDR5-6000 CL36. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f5-6000j3238g32gx2-tz5nr",
+    "slug": "coolmod-ram-f5-6000j3238g32gx2-tz5nr",
+    "name": "G.Skill Trident Z5 Neo RGB 64 GB (2 × 32 GB) DDR5-6000 CL32",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F5-6000J3238G32GX2-TZ5NR",
+    "manufacturer_url": "https://www.gskill.com/product/165/390/1665020956/F5-6000J3238G32GX2-TZ5NR",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Trident Z5 Neo RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL32",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/product/165/390/1665020956/F5-6000J3238G32GX2-TZ5NR",
+        "supports": "La página oficial G.SKILL identifica F5-6000J3238G32GX2-TZ5NR como kit de 64 GB DDR5-6000 CL32. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f5-6400j3239g32gx2-tz5rk",
+    "slug": "coolmod-ram-f5-6400j3239g32gx2-tz5rk",
+    "name": "G.Skill Trident Z5 RGB 64 GB (2 × 32 GB) DDR5-6400 CL32",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F5-6400J3239G32GX2-TZ5RK",
+    "manufacturer_url": "https://www.gskill.com/specification/165/374/1665644504/F5-6400J3239G32GX2-TZ5RK-Specification",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Trident Z5 RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL32",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/specification/165/374/1665644504/F5-6400J3239G32GX2-TZ5RK-Specification",
+        "supports": "La especificación oficial G.SKILL identifica el kit Trident Z5 RGB de 64 GB DDR5-6400 CL32. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmh32gx5m2b6400c36w",
+    "slug": "coolmod-ram-cmh32gx5m2b6400c36w",
+    "name": "CORSAIR VENGEANCE RGB 32 GB (2 × 16 GB) DDR5-6400 CL36",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH32GX5M2B6400C36W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6400c36w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-cl36-memory-kit-white-cmh32gx5m2b6400c36w",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6400c36w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-cl36-memory-kit-white-cmh32gx5m2b6400c36w",
+        "supports": "La página CORSAIR confirma CMH32GX5M2B6400C36W, 32 GB (2 × 16 GB), DDR5-6400 CL36 y color blanco. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmh32gx5m2b6000c30",
+    "slug": "coolmod-ram-cmh32gx5m2b6000c30",
+    "name": "Corsair Vengeance RGB Black 32 GB (2 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH32GX5M2B6000C30",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-c30-memory-kit-black-cmh32gx5m2b6000c30",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-c30-memory-kit-black-cmh32gx5m2b6000c30",
+        "supports": "La página CORSAIR confirma CMH32GX5M2B6000C30 como kit RGB de 32 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f4-3600c16d-16gvkc",
+    "slug": "coolmod-ram-f4-3600c16d-16gvkc",
+    "name": "G.Skill Ripjaws V 16 GB (2 × 8 GB) DDR4-3600 CL16",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F4-3600C16D-16GVKC",
+    "manufacturer_url": "https://www.gskill.com/specification/165/184/1562831134/F4-3600C16D-16GVKC-Specification",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Ripjaws V",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL16",
+      "Perfil de memoria": "Intel XMP 2.0"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/specification/165/184/1562831134/F4-3600C16D-16GVKC-Specification",
+        "supports": "La ficha oficial G.SKILL confirma F4-3600C16D-16GVKC como kit DDR4-3600 de 16 GB (2 × 8 GB) CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmh48gx5m2b5600c40",
+    "slug": "coolmod-ram-cmh48gx5m2b5600c40",
+    "name": "CORSAIR VENGEANCE RGB 48 GB (2 × 24 GB) DDR5-5600 CL40",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH48GX5M2B5600C40",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh48gx5m2b5600c40/vengeance-rgb-48gb-2x24gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmh48gx5m2b5600c40",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Módulos": "2 × 24 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmh48gx5m2b5600c40/vengeance-rgb-48gb-2x24gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmh48gx5m2b5600c40",
+        "supports": "La página CORSAIR confirma CMH48GX5M2B5600C40 como kit RGB de 48 GB DDR5-5600 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-ff3d532g7200hc34adc01",
+    "slug": "coolmod-ram-ff3d532g7200hc34adc01",
+    "name": "TEAMGROUP T-FORCE DELTA RGB 32 GB (2 × 16 GB) DDR5-7200 CL34",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "FF3D532G7200HC34ADC01",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "T-FORCE DELTA RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "7200 MT/s",
+      "Latencia": "CL34",
+      "Perfil de memoria": "Intel XMP / AMD EXPO"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+        "supports": "La hoja oficial TEAMGROUP identifica FF3D532G7200HC34ADC01 como kit de 32 GB (2 × 16 GB) DDR5-7200 CL34. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmt64gx5m2b5600c40",
+    "slug": "coolmod-ram-cmt64gx5m2b5600c40",
+    "name": "CORSAIR DOMINATOR PLATINUM RGB 64 GB (2 × 32 GB) DDR5-5600 CL40",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMT64GX5M2B5600C40",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmt64gx5m2b5600c40/dominator-platinum-rgb-64gb-2x32gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmt64gx5m2b5600c40",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "DOMINATOR PLATINUM RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmt64gx5m2b5600c40/dominator-platinum-rgb-64gb-2x32gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmt64gx5m2b5600c40",
+        "supports": "La página CORSAIR confirma CMT64GX5M2B5600C40 como kit Dominator Platinum RGB de 64 GB (2 × 32 GB) DDR5-5600 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmt32gx5m2b5200c40w",
+    "slug": "coolmod-ram-cmt32gx5m2b5200c40w",
+    "name": "CORSAIR DOMINATOR PLATINUM RGB 32 GB (2 × 16 GB) DDR5-5200 CL40",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMT32GX5M2B5200C40W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmt32gx5m2b5200c40w/dominatora-platinum-rgb-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-a-white-cmt32gx5m2b5200c40w",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "DOMINATOR PLATINUM RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmt32gx5m2b5200c40w/dominatora-platinum-rgb-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-a-white-cmt32gx5m2b5200c40w",
+        "supports": "La página CORSAIR confirma CMT32GX5M2B5200C40W como kit blanco de 32 GB (2 × 16 GB) DDR5-5200 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmn32gx4m2z3600c18w",
+    "slug": "coolmod-ram-cmn32gx4m2z3600c18w",
+    "name": "CORSAIR VENGEANCE RGB RT 32 GB (2 × 16 GB) DDR4-3600 CL18",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMN32GX4M2Z3600C18W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmn32gx4m2z3600c18w/vengeancea-rgb-rt-32gb-2-x-16gb-ddr4-dram-3600mhz-c18-memory-kit-a-white-cmn32gx4m2z3600c18w",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE RGB RT",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18",
+      "Perfil de memoria": "Intel XMP 2.0"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmn32gx4m2z3600c18w/vengeancea-rgb-rt-32gb-2-x-16gb-ddr4-dram-3600mhz-c18-memory-kit-a-white-cmn32gx4m2z3600c18w",
+        "supports": "La página CORSAIR confirma CMN32GX4M2Z3600C18W como kit blanco Vengeance RGB RT de 32 GB DDR4-3600 CL18. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmg16gx4m2e3200c16",
+    "slug": "coolmod-ram-cmg16gx4m2e3200c16",
+    "name": "CORSAIR VENGEANCE RGB RS 16 GB (2 × 8 GB) DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMG16GX4M2E3200C16",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmg16gx4m2e3200c16/vengeancea-rgb-rs-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-cmg16gx4m2e3200c16",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE RGB RS",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmg16gx4m2e3200c16/vengeancea-rgb-rs-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-cmg16gx4m2e3200c16",
+        "supports": "La página CORSAIR confirma CMG16GX4M2E3200C16 como kit RGB RS de 16 GB (2 × 8 GB) DDR4-3200 CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-cmk64gx5m2b5200c40",
+    "slug": "coolmod-ram-cmk64gx5m2b5200c40",
+    "name": "CORSAIR VENGEANCE 64 GB (2 × 32 GB) DDR5-5200 CL40",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK64GX5M2B5200C40",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk64gx5m2b5200c40/vengeancea-64gb-2x32gb-ddr5-dram-5200mhz-c40-memory-kit-a-black-cmk64gx5m2b5200c40",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "VENGEANCE",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/memory/cmk64gx5m2b5200c40/vengeancea-64gb-2x32gb-ddr5-dram-5200mhz-c40-memory-kit-a-black-cmk64gx5m2b5200c40",
+        "supports": "La página CORSAIR confirma CMK64GX5M2B5200C40 como kit de 64 GB (2 × 32 GB) DDR5-5200 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-tf13d416g3200hc16cdc01",
+    "slug": "coolmod-ram-tf13d416g3200hc16cdc01",
+    "name": "TEAMGROUP T-FORCE XTREEM ARGB White 16 GB (2 × 8 GB) DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "TF13D416G3200HC16CDC01",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/xtreem-argb-white/spec-sheet/xtreem-argb-white-en.pdf",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "T-FORCE XTREEM ARGB White",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/xtreem-argb-white/spec-sheet/xtreem-argb-white-en.pdf",
+        "supports": "La hoja oficial TEAMGROUP publica TF13D416G3200HC16CDC01 como kit XTREEM ARGB White de 16 GB (2 × 8 GB) DDR4-3200 CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f4-3000c16s-8gisb",
+    "slug": "coolmod-ram-f4-3000c16s-8gisb",
+    "name": "G.Skill Aegis 8 GB (1 × 8 GB) DDR4-3000 CL16",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F4-3000C16S-8GISB",
+    "manufacturer_url": "https://www.gskill.com/specification/165/185/1535968498/F4-3000C16S-8GISB-Specification",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Línea": "Aegis",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3000 MT/s",
+      "Latencia": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/specification/165/185/1535968498/F4-3000C16S-8GISB-Specification",
+        "supports": "La especificación oficial G.SKILL identifica F4-3000C16S-8GISB como módulo Aegis de 8 GB DDR4-3000 CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  },
+  {
+    "id": "coolmod-ram-f4-3600c18d-32gtzr",
+    "slug": "coolmod-ram-f4-3600c18d-32gtzr",
+    "name": "G.Skill Trident Z RGB 32 GB (2 × 16 GB) DDR4-3600 CL18",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F4-3600C18D-32GTZR",
+    "manufacturer_url": "https://www.gskill.com/specification/165/166/1562823993/F4-3600C18D-32GTZR-Specification",
+    "specs_verified_at": "2026-11-02T19:24:47Z",
+    "specs": {
+      "Línea": "Trident Z RGB",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18",
+      "Perfil de memoria": "Intel XMP 2.0"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/specification/165/166/1562823993/F4-3600C18D-32GTZR-Specification",
+        "supports": "La ficha oficial G.SKILL confirma F4-3600C18D-32GTZR como kit de 32 GB (2 × 16 GB) DDR4-3600 CL18. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante."
+      }
+    ]
+  }
+]

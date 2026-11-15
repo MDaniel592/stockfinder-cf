@@ -1,0 +1,362 @@
+[
+  {
+    "product_id": "powercolor-rx907016g-a",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail215.htm",
+    "note": "INFERIDO: mismo chip (radeon rx 9070) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "powercolor-rx907016g-a",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "220 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail215.htm",
+    "note": "INFERIDO: mismo chip (radeon rx 9070) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "asrock-intel-arc-a310-low-profile-4gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "50 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20A310%20Low%20Profile%204GB/",
+    "note": "INFERIDO: mismo chip (arc a310) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "owercolor-rx9070xt16g-l-oc",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail211.htm",
+    "note": "INFERIDO: mismo chip (radeon rx 9070 xt) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "igabyte-gv-n506teaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Graphics-Card/GV-N506TEAGLEMAX-OC-8GD/sp",
+    "note": "INFERIDO: mismo chip (geforce rtx 5060 ti) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "igabyte-gv-n5080wf3ocv2-16gd",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "360 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/in/Graphics-Card/GV-N5080WF3OCV2-16GD/sp",
+    "note": "INFERIDO: mismo chip (geforce rtx 5080) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "3-n506t2-16d7-191073n",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://inno3d.com/news/inno3d-geforce-rtx-5060-ti-16gb-twin-x2-gets-91-stars-out-10-award-gadget-pilipinas",
+    "note": "INFERIDO: mismo chip (geforce rtx 5060 ti) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "3-n50803-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "360 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/news/inno3d-geforce-rtx-5080-x3-gets-recommended-award-tweaktown",
+    "note": "INFERIDO: mismo chip (geforce rtx 5080) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "srock-rx7600-cl-8go",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "165 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%207600%20Challenger%208GB%20OC/index.asp",
+    "note": "INFERIDO: mismo chip (radeon rx 7600) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "otac-zt-b50600q-10m",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/product/graphics_card/all",
+    "note": "INFERIDO: mismo chip (geforce rtx 5060) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "igabyte-gv-n5050oc-8gl",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "130 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050OC-8GL/sp",
+    "note": "INFERIDO: mismo chip (geforce rtx 5050) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "igabyte-gv-n5070wf3-12gd",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "250 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/id/Graphics-Card/GV-N5070WF3-12GD/sp",
+    "note": "INFERIDO: mismo chip (geforce rtx 5070) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "srock-rx9070xt-sl-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%2016GB/index.us.asp",
+    "note": "INFERIDO: mismo chip (radeon rx 9070 xt) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "3-n506t2-08d7x-193075w",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "note": "INFERIDO: mismo chip (geforce rtx 5060 ti) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "srock-rx9070-cl-16g",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "220 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20Challenger%2016GB/",
+    "note": "INFERIDO: mismo chip (radeon rx 9070) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "3-n50702-12d7-195064n",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "250 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://inno3d.com/news/inno3d-geforce-rtx-5070-twin-x2-gets-gold-recommended-award-professional-review",
+    "note": "INFERIDO: mismo chip (geforce rtx 5070) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "3-n507t3-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "300 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/news/inno3d-geforce-rtx-5080-x3-5070-ti-x3-5070-twin-x2-gets-stars-award-gadget-pilipinas",
+    "note": "INFERIDO: mismo chip (geforce rtx 5070 ti) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "powercolor-reaper-radeon-rx-9070-gre-12gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail280.htm",
+    "note": "INFERIDO: mismo chip (radeon rx 9070 gre) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "powercolor-reaper-rx-9070-xt-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product--95.htm",
+    "note": "INFERIDO: mismo chip (radeon rx 9070 xt) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "powercolor-hellhound-reva-rx-9070-xt-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail267.htm",
+    "note": "INFERIDO: mismo chip (radeon rx 9070 xt) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "powercolor-red-devil-rx-9070-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product--95.htm",
+    "note": "INFERIDO: mismo chip (radeon rx 9070 xt) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "asrock-arc-b580-challenger-12gb-oc",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "190 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/Graphics-Card/Intel/Intel%20Arc%20B580%20Challenger%2012GB%20OC/",
+    "note": "INFERIDO: mismo chip (arc b580) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-9070-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R9070GAMING-OC-16GD",
+    "note": "INFERIDO: mismo chip (radeon rx 9070) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "note": "INFERIDO: mismo chip (geforce rtx 5060 ti) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "note": "INFERIDO: mismo chip (geforce rtx 5060 ti) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "note": "INFERIDO: mismo chip (geforce rtx 5060 ti) que otros productos del catálogo con ese valor; es el valor de referencia del chip, no de esta variante."
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-windforce-max-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "208 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/il/Graphics-Card/GV-N506TWF2MAX-OC-16GD/sp",
+    "note": "INFERIDO: mismo valor en 1 producto(s) hermano(s) de la misma serie (gigabyte-rtx-5060-ti-windforce-max-oc-8gb); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "otac-zt-b50700h-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "241.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700H-10P-brochure.pdf",
+    "note": "INFERIDO: mismo valor en 2 producto(s) hermano(s) de la misma serie (otac-zt-b50700q-10p, otac-zt-b50700e-10p); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "3-n506t2-16d7-191073n",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://inno3d.com/news/inno3d-geforce-rtx-5060-ti-16gb-twin-x2-gets-91-stars-out-10-award-gadget-pilipinas",
+    "note": "INFERIDO: mismo valor en 1 producto(s) hermano(s) de la misma serie (3-n506t2-08d7-193075n); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "otac-zt-b50600q-10m",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/product/graphics_card/all",
+    "note": "INFERIDO: mismo valor en 1 producto(s) hermano(s) de la misma serie (otac-zt-b50600h-10m); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "otac-zt-b50600q-10m",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "145 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/product/graphics_card/all",
+    "note": "INFERIDO: mismo valor en 1 producto(s) hermano(s) de la misma serie (otac-zt-b50600h-10m); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "3-n506t2-08d7x-193075w",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "note": "INFERIDO: mismo valor en 1 producto(s) hermano(s) de la misma serie (3-n506t2-08d7-193075n); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "gigabyte-rx-9060-xt-gaming-oc-8gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "160 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R9060XTGAMING-OC-8GD/sp",
+    "note": "INFERIDO: mismo valor en 1 producto(s) hermano(s) de la misma serie (gigabyte-rx-9060-xt-gaming-oc-16gb); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "gigabyte-rx-9060-xt-gaming-oc-8gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "450 W (referencia AMD)",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R9060XTGAMING-OC-8GD/sp",
+    "note": "INFERIDO: mismo valor en 1 producto(s) hermano(s) de la misma serie (gigabyte-rx-9060-xt-gaming-oc-16gb); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-9070-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "288 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R9070GAMING-OC-16GD",
+    "note": "INFERIDO: mismo valor en 1 producto(s) hermano(s) de la misma serie (gigabyte-radeon-rx-9070-gaming-16gb); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-8g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "215 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TEAGLEOC-ICE-8GD",
+    "note": "INFERIDO: mismo valor en 1 producto(s) hermano(s) de la misma serie (gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-16g); no es dato de ficha de este modelo."
+  }
+]

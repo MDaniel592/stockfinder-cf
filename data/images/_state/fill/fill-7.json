@@ -1,0 +1,672 @@
+[
+ {
+  "product_id": "goodram-ir-6000d564l30s-32gdc",
+  "image_path": "/images/products/ram/goodram-ir-6000d564l30s-32gdc.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/irdm-dram-ddr5-2-2-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:01Z"
+ },
+ {
+  "product_id": "goodram-gr5600d564l46s-16g",
+  "image_path": "/images/products/ram/goodram-gr5600d564l46s-16g.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ddr5-dimm-1-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/goodram-ddr5-dimm/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:04Z"
+ },
+ {
+  "product_id": "goodram-ir-6400d564l32s-32gdc",
+  "image_path": "/images/products/ram/goodram-ir-6400d564l32s-32gdc.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/irdm-dram-ddr5-2-2-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:05Z"
+ },
+ {
+  "product_id": "goodram-gr3200d464l22-16g",
+  "image_path": "/images/products/ram/goodram-gr3200d464l22-16g.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ddr4-dimm-3.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:07Z"
+ },
+ {
+  "product_id": "goodram-gr2666d464l19-16g",
+  "image_path": "/images/products/ram/goodram-gr2666d464l19-16g.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ddr4-dimm-3.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:07Z"
+ },
+ {
+  "product_id": "goodram-gr2666d464l19s-8g",
+  "image_path": "/images/products/ram/goodram-gr2666d464l19s-8g.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ddr4-dimm-3.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:08Z"
+ },
+ {
+  "product_id": "goodram-ir-x3200d464l16a-16g",
+  "image_path": "/images/products/ram/goodram-ir-x3200d464l16a-16g.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/dram-irdm-x-ddr4-dimm-1.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:10Z"
+ },
+ {
+  "product_id": "goodram-gr3200d464l22s-8g",
+  "image_path": "/images/products/ram/goodram-gr3200d464l22s-8g.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ddr4-dimm-3.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:10Z"
+ },
+ {
+  "product_id": "goodram-irg-60d5l30s-32gdc",
+  "image_path": "/images/products/ram/goodram-irg-60d5l30s-32gdc.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/irdm-dram-ddr5-rgb-2-1-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/irdm-rgb-ddr5/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:12Z"
+ },
+ {
+  "product_id": "goodram-ir-7200d564l34s-32gdc",
+  "image_path": "/images/products/ram/goodram-ir-7200d564l34s-32gdc.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/irdm-dram-ddr5-2-2-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:13Z"
+ },
+ {
+  "product_id": "goodram-ir-7600d564l36s-32gdc",
+  "image_path": "/images/products/ram/goodram-ir-7600d564l36s-32gdc.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/irdm-dram-ddr5-2-2-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:13Z"
+ },
+ {
+  "product_id": "goodram-ir-x3200d464l16sa-8g",
+  "image_path": "/images/products/ram/goodram-ir-x3200d464l16sa-8g.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/dram-irdm-x-ddr4-dimm-1.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:14Z"
+ },
+ {
+  "product_id": "goodram-ir-7200d564l34s-16g",
+  "image_path": "/images/products/ram/goodram-ir-7200d564l34s-16g.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/irdm-dram-ddr5-2-2-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:14Z"
+ },
+ {
+  "product_id": "goodram-ggrrd4-32l16sa-16gdc",
+  "image_path": "/images/products/ram/goodram-ggrrd4-32l16sa-16gdc.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ddr4-radiant-1-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:15Z"
+ },
+ {
+  "product_id": "goodram-ggrrd4-32l16sa-8g",
+  "image_path": "/images/products/ram/goodram-ggrrd4-32l16sa-8g.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ddr4-radiant-1-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:19Z"
+ },
+ {
+  "product_id": "goodram-cx400-gen2-256-gb-ssdpr-cx400-256-g2",
+  "image_path": "/images/products/storage/goodram-cx400-gen2-256-gb-ssdpr-cx400-256-g2.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ssd-cx400-gen2-1-1920x960.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.goodram.com/en/products/ssd-cx400-gen-2-sata-iii-25/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:21Z"
+ },
+ {
+  "product_id": "goodram-cx400-gen2-512-gb-ssdpr-cx400-512-g2",
+  "image_path": "/images/products/storage/goodram-cx400-gen2-512-gb-ssdpr-cx400-512-g2.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ssd-cx400-gen2-3-1.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.goodram.com/en/products/ssd-cx400-gen-2-sata-iii-25/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:24Z"
+ },
+ {
+  "product_id": "goodram-cx400-gen2-1-tb-ssdpr-cx400-01t-g2",
+  "image_path": "/images/products/storage/goodram-cx400-gen2-1-tb-ssdpr-cx400-01t-g2.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ssd-cx400-gen2-2-1920x960.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.goodram.com/en/products/ssd-cx400-gen-2-sata-iii-25/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:26Z"
+ },
+ {
+  "product_id": "goodram-px600-500gb-ssdpr-px600-500-80",
+  "image_path": "/images/products/storage/goodram-px600-500gb-ssdpr-px600-500-80.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/goodram-ssd-PX600-1-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/goodram-px600-ssd/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:29Z"
+ },
+ {
+  "product_id": "goodram-px600-1tb-ssdpr-px600-1k0-80",
+  "image_path": "/images/products/storage/goodram-px600-1tb-ssdpr-px600-1k0-80.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/goodram-ssd-PX600-1-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/goodram-px600-ssd/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:29Z"
+ },
+ {
+  "product_id": "goodram-px700-1tb-ssdpr-px700-01t-80",
+  "image_path": "/images/products/storage/goodram-px700-1tb-ssdpr-px700-01t-80.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/goodram-ssd-PX700-2-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/goodram-px700-ssd/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:32Z"
+ },
+ {
+  "product_id": "goodram-ggrgd4-32l16sa-16gdc",
+  "image_path": "/images/products/ram/goodram-ggrgd4-32l16sa-16gdc.webp",
+  "image_source_url": "https://www.goodram.com/wp-content/uploads/ddr4-radiant-3-1920x960.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: GOODRAM",
+  "fetched_at": "2026-11-10T22:18:57Z"
+ },
+ {
+  "product_id": "toshiba-mg09aca18te",
+  "image_path": "/images/products/storage/toshiba-mg09aca18te.webp",
+  "image_source_url": "https://storage.toshiba.com/images/enterprise-hdd/mg091b6c242a78f067aea317ff00009a3f7a.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg09-series",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:49Z"
+ },
+ {
+  "product_id": "toshiba-hdwg780ezsta",
+  "image_path": "/images/products/storage/toshiba-hdwg780ezsta.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/N300_Gallery_Images_01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:49Z"
+ },
+ {
+  "product_id": "toshiba-hdwg740ezstc",
+  "image_path": "/images/products/storage/toshiba-hdwg740ezstc.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/N300_Gallery_Images_01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:49Z"
+ },
+ {
+  "product_id": "toshiba-hdwg51cezsta",
+  "image_path": "/images/products/storage/toshiba-hdwg51cezsta.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/N300_Gallery_Images_01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:49Z"
+ },
+ {
+  "product_id": "toshiba-hdwg760ezsta",
+  "image_path": "/images/products/storage/toshiba-hdwg760ezsta.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/N300_Gallery_Images_01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:50Z"
+ },
+ {
+  "product_id": "toshiba-hdwt720uzsva",
+  "image_path": "/images/products/storage/toshiba-hdwt720uzsva.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/S300_Highlihgt_Product_Image.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/s300-surveillance-hard-drive-2020/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:51Z"
+ },
+ {
+  "product_id": "toshiba-mn10ada400es",
+  "image_path": "/images/products/storage/toshiba-mn10ada400es.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/N300_Gallery_Images_01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:52Z"
+ },
+ {
+  "product_id": "toshiba-mn10ada800s",
+  "image_path": "/images/products/storage/toshiba-mn10ada800s.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/N300_Gallery_Images_01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:52Z"
+ },
+ {
+  "product_id": "toshiba-hdwt840uzsva",
+  "image_path": "/images/products/storage/toshiba-hdwt840uzsva.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/S300_Highlihgt_Product_Image.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/s300-surveillance-hard-drive-2020/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:52Z"
+ },
+ {
+  "product_id": "toshiba-mg09aca12te",
+  "image_path": "/images/products/storage/toshiba-mg09aca12te.webp",
+  "image_source_url": "https://storage.toshiba.com/images/enterprise-hdd/mg091b6c242a78f067aea317ff00009a3f7a.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg09-series",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:52Z"
+ },
+ {
+  "product_id": "toshiba-mg10ada10te",
+  "image_path": "/images/products/storage/toshiba-mg10ada10te.webp",
+  "image_source_url": "https://storage.toshiba.com/images/enterprise-hdd/mg-10d.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://storage.toshiba.com/enterprise-hdd/enterprise-capacity/mg10-d-series",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:54Z"
+ },
+ {
+  "product_id": "toshiba-mg10ada800e",
+  "image_path": "/images/products/storage/toshiba-mg10ada800e.webp",
+  "image_source_url": "https://storage.toshiba.com/images/enterprise-hdd/mg-10d.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://storage.toshiba.com/enterprise-hdd/enterprise-capacity/mg10-d-series",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:54Z"
+ },
+ {
+  "product_id": "toshiba-mg11aca16te",
+  "image_path": "/images/products/storage/toshiba-mg11aca16te.webp",
+  "image_source_url": "https://storage.toshiba.com/images/enterprise-hdd/mg-24-14.png",
+  "image_scope": "family",
+  "image_page_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:58Z"
+ },
+ {
+  "product_id": "toshiba-mg11aca18te",
+  "image_path": "/images/products/storage/toshiba-mg11aca18te.webp",
+  "image_source_url": "https://storage.toshiba.com/images/enterprise-hdd/mg-24-14.png",
+  "image_scope": "family",
+  "image_page_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:58Z"
+ },
+ {
+  "product_id": "toshiba-mg11aca20te",
+  "image_path": "/images/products/storage/toshiba-mg11aca20te.webp",
+  "image_source_url": "https://storage.toshiba.com/images/enterprise-hdd/mg-24-14.png",
+  "image_scope": "family",
+  "image_page_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:58Z"
+ },
+ {
+  "product_id": "toshiba-mg11aca22te",
+  "image_path": "/images/products/storage/toshiba-mg11aca22te.webp",
+  "image_source_url": "https://storage.toshiba.com/images/enterprise-hdd/mg-24-14.png",
+  "image_scope": "family",
+  "image_page_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:59Z"
+ },
+ {
+  "product_id": "toshiba-mg11aca24te",
+  "image_path": "/images/products/storage/toshiba-mg11aca24te.webp",
+  "image_source_url": "https://storage.toshiba.com/images/enterprise-hdd/mg-24-14.png",
+  "image_scope": "family",
+  "image_page_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:59Z"
+ },
+ {
+  "product_id": "toshiba-mn10ada10ts",
+  "image_path": "/images/products/storage/toshiba-mn10ada10ts.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/N300_Gallery_Images_01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:59Z"
+ },
+ {
+  "product_id": "toshiba-hdwg71aezsta",
+  "image_path": "/images/products/storage/toshiba-hdwg71aezsta.webp",
+  "image_source_url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2019/09/N300_Gallery_Images_01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Toshiba",
+  "fetched_at": "2026-11-10T22:20:59Z"
+ },
+ {
+  "product_id": "be-quiet-pure-power-13-m-850w-bp027eu",
+  "image_path": "/images/products/psu/be-quiet-pure-power-13-m-850w-bp027eu.webp",
+  "image_source_url": "https://www.bequiet.com/volumes/pim/powersupply/purepower/purepower13m/XR/750W-1000W/005.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/5933",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:42Z"
+ },
+ {
+  "product_id": "be-quiet-pure-power-13-m-750w-bp026eu",
+  "image_path": "/images/products/psu/be-quiet-pure-power-13-m-750w-bp026eu.webp",
+  "image_source_url": "https://www.bequiet.com/volumes/pim/powersupply/purepower/purepower13m/XR/750W-1000W/005.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/5934",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:42Z"
+ },
+ {
+  "product_id": "be-quiet-straight-power-12-750w-bn336",
+  "image_path": "/images/products/psu/be-quiet-straight-power-12-750w-bn336.webp",
+  "image_source_url": "https://www.bequiet.com/volumes/pim/powersupply/straightpower/straightpower12/XR/750W-1000W/005.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/4102",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:44Z"
+ },
+ {
+  "product_id": "be-quiet-straight-power-12-850w-bn337",
+  "image_path": "/images/products/psu/be-quiet-straight-power-12-850w-bn337.webp",
+  "image_source_url": "https://www.bequiet.com/volumes/pim/powersupply/straightpower/straightpower12/XR/750W-1000W/005.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/4103",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:45Z"
+ },
+ {
+  "product_id": "be-quiet-straight-power-12-1000w-bn338",
+  "image_path": "/images/products/psu/be-quiet-straight-power-12-1000w-bn338.webp",
+  "image_source_url": "https://www.bequiet.com/volumes/pim/powersupply/straightpower/straightpower12/XR/750W-1000W/005.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/4104",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:45Z"
+ },
+ {
+  "product_id": "be-quiet-power-zone-2-850w-bp007eu",
+  "image_path": "/images/products/psu/be-quiet-power-zone-2-850w-bp007eu.webp",
+  "image_source_url": "https://www.bequiet.com/volumes/pim/powersupply/powerzone/Power%20Zone%202/360/005.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/5584",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:47Z"
+ },
+ {
+  "product_id": "be-quiet-power-zone-2-1000w-bp008eu",
+  "image_path": "/images/products/psu/be-quiet-power-zone-2-1000w-bp008eu.webp",
+  "image_source_url": "https://www.bequiet.com/volumes/pim/powersupply/powerzone/Power%20Zone%202/360/005.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/5583",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:47Z"
+ },
+ {
+  "product_id": "be-quiet-system-power-11-550w-bp010eu",
+  "image_path": "/images/products/psu/be-quiet-system-power-11-550w-bp010eu.webp",
+  "image_source_url": "https://www.bequiet.com/admin/ImageServer.php?ID=1b5b5a65075@be-quiet.net&omitPreview=true&width=1000",
+  "image_scope": "family",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/5904",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:50Z"
+ },
+ {
+  "product_id": "be-quiet-system-power-11-650w-bp011eu",
+  "image_path": "/images/products/psu/be-quiet-system-power-11-650w-bp011eu.webp",
+  "image_source_url": "https://www.bequiet.com/admin/ImageServer.php?ID=1b5b5a65075@be-quiet.net&omitPreview=true&width=1000",
+  "image_scope": "family",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/5903",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:51Z"
+ },
+ {
+  "product_id": "be-quiet-system-power-11-750w-bp012eu",
+  "image_path": "/images/products/psu/be-quiet-system-power-11-750w-bp012eu.webp",
+  "image_source_url": "https://www.bequiet.com/admin/ImageServer.php?ID=1b5b5a65075@be-quiet.net&omitPreview=true&width=1000",
+  "image_scope": "family",
+  "image_page_url": "https://www.bequiet.com/en/powersupply/5906",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: be quiet!",
+  "fetched_at": "2026-11-10T22:23:51Z"
+ },
+ {
+  "product_id": "palit-geforce-rtx-5070-ti-gamingpro-s-16gb",
+  "image_path": "/images/products/gpu/palit-geforce-rtx-5070-ti-gamingpro-s-16gb.webp",
+  "image_source_url": "https://www.palit.com/product/vga/picture/p05605/p05605_propng_80768342e6cf136d.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.palit.com/palit/vgapro.php?id=5605&lang=en",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Palit",
+  "fetched_at": "2026-11-10T22:25:02Z"
+ },
+ {
+  "product_id": "palit-geforce-rtx-5070-ti-gamingpro-s-oc-16gb",
+  "image_path": "/images/products/gpu/palit-geforce-rtx-5070-ti-gamingpro-s-oc-16gb.webp",
+  "image_source_url": "https://www.palit.com/product/vga/picture/p05615/p05615_propng_82868342d55bff5f.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.palit.com/palit/vgapro.php?id=5615&lang=en",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Palit",
+  "fetched_at": "2026-11-10T22:25:05Z"
+ },
+ {
+  "product_id": "palit-geforce-rtx-5060-ti-infinity-3-oc-16gb",
+  "image_path": "/images/products/gpu/palit-geforce-rtx-5060-ti-infinity-3-oc-16gb.webp",
+  "image_source_url": "https://www.palit.com/product/vga/picture/p05485/p05485_propng_185667dbaae26e586.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.palit.com/palit/vgapro.php?id=5485&lang=en",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Palit",
+  "fetched_at": "2026-11-10T22:25:08Z"
+ },
+ {
+  "product_id": "palit-geforce-rtx-5050-stormx-8gb",
+  "image_path": "/images/products/gpu/palit-geforce-rtx-5050-stormx-8gb.webp",
+  "image_source_url": "https://www.palit.com/product/vga/picture/p05695/p05695_propng_16276866185ac51a3.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.palit.com/palit/vgapro.php?id=5695&lang=en",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Palit",
+  "fetched_at": "2026-11-10T22:25:11Z"
+ },
+ {
+  "product_id": "palit-geforce-rtx-5090-gamerock-32gb",
+  "image_path": "/images/products/gpu/palit-geforce-rtx-5090-gamerock-32gb.webp",
+  "image_source_url": "https://www.palit.com/product/vga/picture/p05345/p05345_propng_1269685e54d9664c9.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.palit.com/palit/vgapro.php?id=5345&lang=en",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Palit",
+  "fetched_at": "2026-11-10T22:25:14Z"
+ },
+ {
+  "product_id": "palit-geforce-rtx-5090-gamerock-oc-32gb",
+  "image_path": "/images/products/gpu/palit-geforce-rtx-5090-gamerock-oc-32gb.webp",
+  "image_source_url": "https://www.palit.com/product/vga/picture/p05335/p05335_propng_154685e555fdda48.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.palit.com/palit/vgapro.php?id=5335&lang=en",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Palit",
+  "fetched_at": "2026-11-10T22:25:18Z"
+ },
+ {
+  "product_id": "palit-geforce-rtx-5050-dual-8gb",
+  "image_path": "/images/products/gpu/palit-geforce-rtx-5050-dual-8gb.webp",
+  "image_source_url": "https://www.palit.com/product/vga/picture/p05685/p05685_propng_1211685ba1cd3b414.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.palit.com/palit/vgapro.php?id=5685&lang=en",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Palit",
+  "fetched_at": "2026-11-10T22:25:21Z"
+ },
+ {
+  "product_id": "kioxia-exceria-sata-480-gb-ltc10z480gg8",
+  "image_path": "/images/products/storage/kioxia-exceria-sata-480-gb-ltc10z480gg8.webp",
+  "image_source_url": "https://europe.kioxia.com/content/dam/kioxia/shared/personal/ssd/img/exceria-sata-ssd_img_prd001.png",
+  "image_scope": "family",
+  "image_page_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-sata-ssd.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: KIOXIA",
+  "fetched_at": "2026-11-10T22:28:32Z"
+ },
+ {
+  "product_id": "kioxia-exceria-sata-960-gb-ltc10z960gg8",
+  "image_path": "/images/products/storage/kioxia-exceria-sata-960-gb-ltc10z960gg8.webp",
+  "image_source_url": "https://europe.kioxia.com/content/dam/kioxia/shared/personal/ssd/img/exceria-sata-ssd_img_prd001.png",
+  "image_scope": "family",
+  "image_page_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-sata-ssd.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: KIOXIA",
+  "fetched_at": "2026-11-10T22:28:32Z"
+ },
+ {
+  "product_id": "kioxia-exceria-basic-1-tb-lsf10z001tg8",
+  "image_path": "/images/products/storage/kioxia-exceria-basic-1-tb-lsf10z001tg8.webp",
+  "image_source_url": "https://europe.kioxia.com/content/dam/kioxia/shared/personal/ssd/exceria-basic/exceria_basic_ssd_gallery_01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-basic.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: KIOXIA",
+  "fetched_at": "2026-11-10T22:28:34Z"
+ },
+ {
+  "product_id": "kioxia-exceria-basic-2-tb-lsf10z002tg8",
+  "image_path": "/images/products/storage/kioxia-exceria-basic-2-tb-lsf10z002tg8.webp",
+  "image_source_url": "https://europe.kioxia.com/content/dam/kioxia/shared/personal/ssd/exceria-basic/exceria_basic_ssd_gallery_01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-basic.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: KIOXIA",
+  "fetched_at": "2026-11-10T22:28:34Z"
+ },
+ {
+  "product_id": "hiditec-h3-pro-blanco-cha010060",
+  "image_path": "/images/products/case/hiditec-h3-pro-blanco-cha010060.webp",
+  "image_source_url": "https://hiditec.com/1264-square_large_default/h3-pro.webp",
+  "image_scope": "model",
+  "image_page_url": "https://hiditec.com/es/mid-tower/74-35-h3-pro.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Hiditec",
+  "fetched_at": "2026-11-10T22:28:35Z"
+ },
+ {
+  "product_id": "hiditec-sky-blanco-cha010057",
+  "image_path": "/images/products/case/hiditec-sky-blanco-cha010057.webp",
+  "image_source_url": "https://hiditec.com/1119-square_large_default/sky.webp",
+  "image_scope": "model",
+  "image_page_url": "https://hiditec.com/es/mid-tower/58-33-sky.html",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Hiditec",
+  "fetched_at": "2026-11-10T22:28:38Z"
+ },
+ {
+  "product_id": "nfortec-sagitta-x2-850w-nf-psu-sagittax2-fm-850w",
+  "image_path": "/images/products/psu/nfortec-sagitta-x2-850w-nf-psu-sagittax2-fm-850w.webp",
+  "image_source_url": "https://newskillgaming.com/cdn/shop/files/850W_0002.png?width=1000",
+  "image_scope": "model",
+  "image_page_url": "https://newskillgaming.com/en/products/sagitta-x2",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Nfortec (Newskill)",
+  "fetched_at": "2026-11-10T22:29:22Z"
+ },
+ {
+  "product_id": "goodram-cx400-gen2-2-tb-ssdpr-cx400-02t-g2",
+  "image_path": "/images/products/storage/goodram-cx400-gen2-2-tb-ssdpr-cx400-02t-g2.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4416291/SSDPRCX40002TG2_IMG_DEF.jpg?v=639255538147230000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/ssdprcx40002tg2-ssd--2tb-cx400-g-2-2-5-sata-iii/p",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PCBox",
+  "fetched_at": "2026-11-10T22:30:05Z"
+ },
+ {
+  "product_id": "goodram-cx400-gen2-128-gb-ssdpr-cx400-128-g2",
+  "image_path": "/images/products/storage/goodram-cx400-gen2-128-gb-ssdpr-cx400-128-g2.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/511918/SSDPR-CX400-128-G2_IMG_DEF.jpg?v=638339426734770000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/ssdpr-cx400-128-g2-good-ram--cx400-gen-2--ssd-128gb-2-5---550mb-s-6gbit-s--seri/p",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PCBox",
+  "fetched_at": "2026-11-10T22:30:08Z"
+ }
+]

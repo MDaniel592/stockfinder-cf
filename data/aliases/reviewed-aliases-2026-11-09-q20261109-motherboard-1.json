@@ -1,0 +1,16 @@
+[
+ {
+  "product_id": "gigabyte-x870-aorus-elite-wifi7",
+  "kind": "mpn",
+  "value": "9MX87EL7-00-G10",
+  "source_url": "https://www.pccomponentes.com/placa-base-gigabyte-x870-a-elite-wifi7",
+  "note": "Código comercial de tienda de la Gigabyte X870 A ELITE WIFI7. Ficha oficial https://www.gigabyte.com/Motherboard/X870-AORUS-ELITE-WIFI7-rev-12/sp (nombre corto X870 A ELITE WIFI7) coincide en socket AM5, chipset X870, formato ATX y Wi-Fi 7. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "msi-b760m-project-zero",
+  "kind": "mpn",
+  "value": "911-7E14-004",
+  "source_url": "https://www.pccomponentes.com/placa-base-msi-b760m-project-zero-wifi",
+  "note": "Código comercial de tienda de la MSI B760M PROJECT ZERO (la tienda añade WIFI). Ficha oficial https://www.msi.com/Motherboard/B760M-PROJECT-ZERO/Specification coincide en socket LGA1700, chipset B760, formato mATX y Wi-Fi 6E integrado; no existe un modelo PROJECT ZERO WIFI separado (404 en msi.com). No se presenta como dato del fabricante."
+ }
+]

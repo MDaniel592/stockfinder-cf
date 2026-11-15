@@ -1,0 +1,746 @@
+[
+ {
+  "id": "arctic-freezer-36-acfre00121a",
+  "slug": "arctic-freezer-36-acfre00121a",
+  "name": "ARCTIC Freezer 36 (ACFRE00121A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00121A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-36/ACFRE00121A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "159 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "arctic-freezer-36-co-acfre00122a",
+  "slug": "arctic-freezer-36-co-acfre00122a",
+  "name": "ARCTIC Freezer 36 CO (ACFRE00122A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00122A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-36-CO/ACFRE00122A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "159 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "arctic-freezer-36-black-acfre00123a",
+  "slug": "arctic-freezer-36-black-acfre00123a",
+  "name": "ARCTIC Freezer 36 Black (ACFRE00123A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00123A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-36-Black/ACFRE00123A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Negro",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "159 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "arctic-freezer-36-a-rgb-acfre00124a",
+  "slug": "arctic-freezer-36-a-rgb-acfre00124a",
+  "name": "ARCTIC Freezer 36 A-RGB (ACFRE00124A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00124A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-36-A-RGB/ACFRE00124A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "159 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "arctic-freezer-36-a-rgb-white-acfre00125a",
+  "slug": "arctic-freezer-36-a-rgb-white-acfre00125a",
+  "name": "ARCTIC Freezer 36 A-RGB White (ACFRE00125A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00125A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-36-A-RGB-White/ACFRE00125A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Blanco",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "159 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "arctic-freezer-8a-acfre00161a",
+  "slug": "arctic-freezer-8a-acfre00161a",
+  "name": "ARCTIC Freezer 8A (ACFRE00161A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00161A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-8A/ACFRE00161A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4",
+   "Ventiladores": "1 × 100 mm",
+   "Altura": "136 mm",
+   "Heatpipes": "2"
+  }
+ },
+ {
+  "id": "arctic-freezer-8a-co-acfre00162a",
+  "slug": "arctic-freezer-8a-co-acfre00162a",
+  "name": "ARCTIC Freezer 8A CO (ACFRE00162A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00162A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-8A-CO/ACFRE00162A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4",
+   "Ventiladores": "1 × 100 mm",
+   "Altura": "136 mm",
+   "Heatpipes": "2"
+  }
+ },
+ {
+  "id": "arctic-freezer-8i-co-acfre00191a",
+  "slug": "arctic-freezer-8i-co-acfre00191a",
+  "name": "ARCTIC Freezer 8i CO (ACFRE00191A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00191A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-8i-CO/ACFRE00191A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA1851, LGA1700",
+   "Ventiladores": "1 × 100 mm",
+   "Altura": "136 mm",
+   "Heatpipes": "2"
+  }
+ },
+ {
+  "id": "arctic-alpine-17-acalp00040a",
+  "slug": "arctic-alpine-17-acalp00040a",
+  "name": "ARCTIC Alpine 17 (ACALP00040A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACALP00040A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Alpine-17/ACALP00040A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA1851, LGA1700",
+   "Altura": "77 mm"
+  }
+ },
+ {
+  "id": "arctic-alpine-23-acalp00035a",
+  "slug": "arctic-alpine-23-acalp00035a",
+  "name": "ARCTIC Alpine 23 (ACALP00035A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACALP00035A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Alpine-23/ACALP00035A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4",
+   "Ventiladores": "1 × 90 mm",
+   "Altura": "65 mm"
+  }
+ },
+ {
+  "id": "arctic-alpine-23-co-acalp00036a",
+  "slug": "arctic-alpine-23-co-acalp00036a",
+  "name": "ARCTIC Alpine 23 CO (ACALP00036A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACALP00036A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Alpine-23-CO/ACALP00036A",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4",
+   "Ventiladores": "1 × 90 mm",
+   "Altura": "65 mm"
+  }
+ },
+ {
+  "id": "be-quiet-dark-rock-5-bk035",
+  "slug": "be-quiet-dark-rock-5-bk035",
+  "name": "be quiet! Dark Rock 5 (BK035)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK035",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/5110",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Negro",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "161 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "be-quiet-dark-rock-elite-bk037",
+  "slug": "be-quiet-dark-rock-elite-bk037",
+  "name": "be quiet! Dark Rock Elite (BK037)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK037",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/4468",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Negro",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 135 mm",
+   "Altura": "168 mm",
+   "Heatpipes": "7"
+  }
+ },
+ {
+  "id": "be-quiet-pure-rock-3-black-bk039",
+  "slug": "be-quiet-pure-rock-3-black-bk039",
+  "name": "be quiet! Pure Rock 3 Black (BK039)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK039",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/5591",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Negro",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "154 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "be-quiet-pure-rock-pro-3-bk041",
+  "slug": "be-quiet-pure-rock-pro-3-bk041",
+  "name": "be quiet! Pure Rock Pro 3 (BK041)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK041",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/5599",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Plata",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "155 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "be-quiet-pure-rock-pro-3-black-bk042",
+  "slug": "be-quiet-pure-rock-pro-3-black-bk042",
+  "name": "be quiet! Pure Rock Pro 3 Black (BK042)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK042",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/5600",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Negro",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "155 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "be-quiet-pure-rock-pro-3-lx-bk043",
+  "slug": "be-quiet-pure-rock-pro-3-lx-bk043",
+  "name": "be quiet! Pure Rock Pro 3 LX (BK043)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK043",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/5601",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Negro",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "155 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "deepcool-ak620-zero-dark-r-ak620-bknnmt-g-1",
+  "slug": "deepcool-ak620-zero-dark-r-ak620-bknnmt-g-1",
+  "name": "DeepCool AK620 ZERO DARK (R-AK620-BKNNMT-G-1)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK620-BKNNMT-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK620-ZERO-DARK-High-Performance-CPU-Cooler-1851-1700-AM5/2024/16124.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA2066, LGA2011, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "160 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "deepcool-ak620-digital-se-r-ak620-bkadmn-gjd",
+  "slug": "deepcool-ak620-digital-se-r-ak620-bkadmn-gjd",
+  "name": "DeepCool AK620 DIGITAL SE (R-AK620-BKADMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK620-BKADMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK620-DIGITAL-SE-Performance-CPU-Cooler-With-A-Status-Display/2025/21605.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "161 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "deepcool-ag400-bk-argb-v2-r-ag400-bkammn-gjd",
+  "slug": "deepcool-ag400-bk-argb-v2-r-ag400-bkammn-gjd",
+  "name": "DeepCool AG400 BK ARGB V2 (R-AG400-BKAMMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AG400-BKAMMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AG400-BK-ARGB-V2-CPU-Cooler-with-Top-Cover-Light-1851-1700-AM5/2025/20061.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "154 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "deepcool-ag400-wh-argb-v2-r-ag400-whammn-gjd",
+  "slug": "deepcool-ag400-wh-argb-v2-r-ag400-whammn-gjd",
+  "name": "DeepCool AG400 WH ARGB V2 (R-AG400-WHAMMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AG400-WHAMMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AG400-WH-ARGB-V2-CPU-Cooler-with-Top-Cover-Light-1851-1700-AM5/2025/20062.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "154 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "deepcool-ag620-bk-argb-v2-r-ag620-bkammn-gjd",
+  "slug": "deepcool-ag620-bk-argb-v2-r-ag620-bkammn-gjd",
+  "name": "DeepCool AG620 BK ARGB V2 (R-AG620-BKAMMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AG620-BKAMMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AG620-BK-ARGB-V2-CPU-Cooler-with-Top-Cover-Light-1851-1700-AM5/2025/20004.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "161 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "deepcool-ag620-wh-argb-v2-r-ag620-whammn-gjd",
+  "slug": "deepcool-ag620-wh-argb-v2-r-ag620-whammn-gjd",
+  "name": "DeepCool AG620 WH ARGB V2 (R-AG620-WHAMMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AG620-WHAMMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AG620-WH-ARGB-V2-CPU-Cooler-with-Top-Cover-Light-1851-1700-AM5/2025/20005.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "161 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "deepcool-ak400-digital-se-wh-r-ak400-whadmn-gjd",
+  "slug": "deepcool-ak400-digital-se-wh-r-ak400-whadmn-gjd",
+  "name": "DeepCool AK400 DIGITAL SE WH (R-AK400-WHADMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK400-WHADMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK400-DIGITAL-SE-WH-CPU-Cooler-With-A-Status-Display/2025/21646.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "157 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "deepcool-ak500s-digital-se-r-ak500s-bkadmn-gjd",
+  "slug": "deepcool-ak500s-digital-se-r-ak500s-bkadmn-gjd",
+  "name": "DeepCool AK500S DIGITAL SE (R-AK500S-BKADMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK500S-BKADMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK500S-DIGITAL-SE-CPU-Cooler-With-A-Status-Display/2025/21631.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "160 mm",
+   "Heatpipes": "5"
+  }
+ },
+ {
+  "id": "deepcool-ak620-g2-r-ak620g2-bknnmn-gjd",
+  "slug": "deepcool-ak620-g2-r-ak620g2-bknnmn-gjd",
+  "name": "DeepCool AK620 G2 (R-AK620G2-BKNNMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK620G2-BKNNMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK620-G2-Wood-Grain-Top-Cover-CPU-Cooler/2025/21864.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "159 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "deepcool-ak400-g2-r-ak400g2-bknnmn-gjd",
+  "slug": "deepcool-ak400-g2-r-ak400g2-bknnmn-gjd",
+  "name": "DeepCool AK400 G2 (R-AK400G2-BKNNMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK400G2-BKNNMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK400-G2-Wood-Grain-Top-Cover-CPU-Cooler/2025/21908.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "156 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "deepcool-ak400-g2-wh-r-ak400g2-whnnmn-gjd",
+  "slug": "deepcool-ak400-g2-wh-r-ak400g2-whnnmn-gjd",
+  "name": "DeepCool AK400 G2 WH (R-AK400G2-WHNNMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK400G2-WHNNMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK400-G2-WH-Wood-Grain-Top-Cover-CPU-Cooler/2025/21909.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "156 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "deepcool-ag300-r-ag300-bknnmn-g",
+  "slug": "deepcool-ag300-r-ag300-bknnmn-g",
+  "name": "DeepCool AG300 (R-AG300-BKNNMN-G)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AG300-BKNNMN-G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AG300-Single-Tower-CPU-Cooler/2022/16202.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 92 mm",
+   "Altura": "129 mm",
+   "Heatpipes": "3"
+  }
+ },
+ {
+  "id": "deepcool-ag200-r-ag200-bknnmn-g",
+  "slug": "deepcool-ag200-r-ag200-bknnmn-g",
+  "name": "DeepCool AG200 (R-AG200-BKNNMN-G)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AG200-BKNNMN-G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AG200-Single-Tower-CPU-Cooler/2022/16203.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 92 mm",
+   "Altura": "133 mm",
+   "Heatpipes": "2"
+  }
+ },
+ {
+  "id": "deepcool-assassin-iv-vc-vision-r-asn4-bknvmd-g",
+  "slug": "deepcool-assassin-iv-vc-vision-r-asn4-bknvmd-g",
+  "name": "DeepCool ASSASSIN IV VC VISION (R-ASN4-BKNVMD-G)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-ASN4-BKNVMD-G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/ASSASSIN-IV-VC-VISION-Digital-Air-Cooler-1851-1700-AM5/2024/18964.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA2066, LGA2011, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 140 mm + 1 × 120 mm",
+   "Altura": "172 mm",
+   "Heatpipes": "7"
+  }
+ },
+ {
+  "id": "deepcool-ak500-zero-dark-r-ak500-bknnmt-g-1",
+  "slug": "deepcool-ak500-zero-dark-r-ak500-bknnmt-g-1",
+  "name": "DeepCool AK500 ZERO DARK (R-AK500-BKNNMT-G-1)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK500-BKNNMT-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK500-ZERO-DARK-High-Performance-CPU-Cooler-1851-1700-AM5/2022/16396.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA2066, LGA2011, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "158 mm",
+   "Heatpipes": "5"
+  }
+ },
+ {
+  "id": "deepcool-ak700-digital-wh-r-ak700-whndmn-gjd",
+  "slug": "deepcool-ak700-digital-wh-r-ak700-whndmn-gjd",
+  "name": "DeepCool AK700 DIGITAL WH (R-AK700-WHNDMN-GJD)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK700-WHNDMN-GJD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK700-DIGITAL-WH-AI-Dynamic-Adjustment-CPU-Cooler-with-Digital-Display/2025/22166.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "157 mm",
+   "Heatpipes": "7"
+  }
+ },
+ {
+  "id": "deepcool-ak620-g2-digital-nyx-r-ak620g2-bknnmn-gjd-1",
+  "slug": "deepcool-ak620-g2-digital-nyx-r-ak620g2-bknnmn-gjd-1",
+  "name": "DeepCool AK620 G2 DIGITAL NYX (R-AK620G2-BKNNMN-GJD-1)",
+  "category_id": "cooler",
+  "brand": "DeepCool",
+  "mpn": "R-AK620G2-BKNNMN-GJD-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK620-G2-DIGITAL-NYX-AI-Dynamic-Adjustment-CPU-Cooler-with-Digital-Display/2025/21894.shtml",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "159 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "cooler-master-hyper-212-black-rr-s4kk-25sn-r1",
+  "slug": "cooler-master-hyper-212-black-rr-s4kk-25sn-r1",
+  "name": "Cooler Master Hyper 212 Black (RR-S4KK-25SN-R1)",
+  "category_id": "cooler",
+  "brand": "Cooler Master",
+  "mpn": "RR-S4KK-25SN-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/hyper-212-black.html",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Negro",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA1156",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "152 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "cooler-master-hyper-212-3dhp-black-may-t2hp-217pk-r1",
+  "slug": "cooler-master-hyper-212-3dhp-black-may-t2hp-217pk-r1",
+  "name": "Cooler Master Hyper 212 3DHP Black (MAY-T2HP-217PK-R1)",
+  "category_id": "cooler",
+  "brand": "Cooler Master",
+  "mpn": "MAY-T2HP-217PK-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/hyper-212-3dhp-black.html",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Negro",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA1156",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "158 mm",
+   "Heatpipes": "2"
+  }
+ },
+ {
+  "id": "cougar-forza-50-essential-3mfze50-0001",
+  "slug": "cougar-forza-50-essential-3mfze50-0001",
+  "name": "Cougar Forza 50 Essential (3MFZE50.0001)",
+  "category_id": "cooler",
+  "brand": "Cougar",
+  "mpn": "3MFZE50.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cooling/forza-50-essential/",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA2066, LGA2011, LGA1366",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "155 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "endorfy-fera-5-dual-fan-ey3a006",
+  "slug": "endorfy-fera-5-dual-fan-ey3a006",
+  "name": "ENDORFY Fera 5 Dual Fan (EY3A006)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A006",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/products/fera-5-dual-fan",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "155 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "endorfy-fortis-5-dual-fan-ey3a009",
+  "slug": "endorfy-fortis-5-dual-fan-ey3a009",
+  "name": "ENDORFY Fortis 5 Dual Fan (EY3A009)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A009",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/products/fortis-5-dual-fan",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 140 mm + 1 × 120 mm",
+   "Altura": "159 mm",
+   "Heatpipes": "6"
+  }
+ },
+ {
+  "id": "endorfy-spartan-5-ey3a001",
+  "slug": "endorfy-spartan-5-ey3a001",
+  "name": "ENDORFY Spartan 5 (EY3A001)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/products/spartan-5",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "146 mm"
+  }
+ },
+ {
+  "id": "endorfy-fortis-5-black-ey3a013",
+  "slug": "endorfy-fortis-5-black-ey3a013",
+  "name": "ENDORFY Fortis 5 Black (EY3A013)",
+  "category_id": "cooler",
+  "brand": "ENDORFY",
+  "mpn": "EY3A013",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/products/fortis-5-black",
+  "specs_verified_at": "2026-11-08T20:17:45Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Color": "Negro",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155",
+   "Ventiladores": "1 × 140 mm",
+   "Altura": "159 mm",
+   "Heatpipes": "6"
+  }
+ }
+]

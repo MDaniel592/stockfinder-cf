@@ -1,0 +1,90 @@
+[
+  {
+    "id": "corsair-vengeance-lpx-16gb-ddr4-3200-cl16",
+    "slug": "corsair-vengeance-lpx-16gb-ddr4-3200-cl16",
+    "name": "Corsair Vengeance LPX 16 GB (1 × 16 GB) DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m1e3200c16/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m1e3200c16",
+    "specs_verified_at": "2026-11-02T10:28:02.108328+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    },
+    "mpn": "CMK16GX4M1E3200C16"
+  },
+  {
+    "id": "gskill-aegis-8gb-ddr4-3200-cl16",
+    "slug": "gskill-aegis-8gb-ddr4-3200-cl16",
+    "name": "G.SKILL Aegis 8 GB (1 × 8 GB) DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "G.SKILL",
+    "manufacturer_url": "https://www.gskill.com/specification/165/185/1567584456/F4-3200C16S-8GIS-Specification",
+    "specs_verified_at": "2026-11-02T10:28:02.108328+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    },
+    "mpn": "F4-3200C16S-8GIS"
+  },
+  {
+    "id": "teamgroup-elite-8gb-ddr4-3200-cl22",
+    "slug": "teamgroup-elite-8gb-ddr4-3200-cl22",
+    "name": "TEAMGROUP Elite 8 GB (1 × 8 GB) DDR4-3200 CL22",
+    "category_id": "ram",
+    "brand": "TEAMGROUP",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/elite/spec-sheet/elite-en.pdf",
+    "specs_verified_at": "2026-11-02T10:28:02.108328+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22"
+    },
+    "mpn": "TED48G3200C2201"
+  },
+  {
+    "id": "lexar-thor-2nd-gen-32gb-ddr5-6000-cl38",
+    "slug": "lexar-thor-2nd-gen-32gb-ddr5-6000-cl38",
+    "name": "Lexar THOR 2nd Gen 32 GB (2 × 16 GB) DDR5-6000 CL38",
+    "category_id": "ram",
+    "brand": "Lexar",
+    "manufacturer_url": "https://americas.lexar.com/product/lexar-thor-2nd-gen-ddr5-desktop-memory-blk/",
+    "specs_verified_at": "2026-11-02T10:28:02.108328+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL38",
+      "Perfil": "Intel XMP 3.0 y AMD EXPO"
+    },
+    "mpn": "LD5U16G60C380V-RGD"
+  },
+  {
+    "id": "teamgroup-tforce-delta-rgb-32gb-ddr5-6000-cl30",
+    "slug": "teamgroup-tforce-delta-rgb-32gb-ddr5-6000-cl30",
+    "name": "TEAMGROUP T-Force Delta RGB 32 GB (2 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "TEAMGROUP",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "specs_verified_at": "2026-11-02T10:28:02.108328+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30"
+    },
+    "mpn": "FF3D532G6000HC30DC01"
+  }
+]

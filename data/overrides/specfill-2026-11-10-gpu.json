@@ -1,0 +1,242 @@
+[
+  {
+    "product_id": "srock-rx9070xt-sl-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "298 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%2016GB/index.us.asp",
+    "note": "Ficha ASRock: Dimensions 298 x 131 x 58 mm, 2.9-slot"
+  },
+  {
+    "product_id": "srock-rx9070xt-sl-16g",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "800 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%2016GB/index.us.asp",
+    "note": "Ficha ASRock: Recommended PSU - 800W"
+  },
+  {
+    "product_id": "asrock-arc-pro-b70-creator-32gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20Pro%20B70%20Creator%2032GB/",
+    "note": "La ficha oficial ASRock (especificaciones completas) no indica TBP/TGP ni PSU recomendada; solo conector 12V-2x6 y dimensiones."
+  },
+  {
+    "product_id": "asrock-arc-pro-b70-creator-32gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20Pro%20B70%20Creator%2032GB/",
+    "note": "La ficha oficial ASRock (especificaciones completas) no indica TBP/TGP ni PSU recomendada; solo conector 12V-2x6 y dimensiones."
+  },
+  {
+    "product_id": "gigabyte-aorus-rtx-5060-ti-ai-box-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "243.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TIXEB-16GD/sp",
+    "note": "Ficha Gigabyte: dimensiones 243.7 x 117.4 x 48.2 mm (caja externa AI BOX, no tarjeta interna)"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5050-d6-8g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "145 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050D6-8GD",
+    "note": "Ficha Gigabyte: \"Measuring just 145mm in length\""
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-eagle-max-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/uk/Graphics-Card/GV-N506TEAGLEMAX-OC-16GD/sp",
+    "note": "Ficha Gigabyte: Card size L=281 W=115 H=40 mm"
+  },
+  {
+    "product_id": "gigabyte-gv-n5090aorus-m-32gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "360 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5090AORUS-M-32GD/sp",
+    "note": "Ficha Gigabyte: Card size L=360 W=150 H=75 mm"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5070",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "242 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "Ficha NVIDIA (Founders Edition): Card Dimensions Length 242 mm"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5080",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "Ficha NVIDIA (Founders Edition): Card Dimensions Length 304 mm"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5090",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "Ficha NVIDIA (Founders Edition): Card Dimensions Length 304 mm"
+  },
+  {
+    "product_id": "otac-zt-b50600f-10m",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/emeai/product/graphics_card/zotac-gaming-geforce-rtx-5060-amp-0",
+    "note": "Ficha ZOTAC: Card Length 220.5mm x 120.25mm x 41.6mm"
+  },
+  {
+    "product_id": "pny-rtx-5080-argb-overclocked-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "328.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/geforce-rtx-5080-models?sku=VCG508016TFXXPB1-O",
+    "note": "Ficha PNY: Card Dimensions 12.94\" x 5.42\" x 2.35\"; convertido a mm (12.94 x 25.4)"
+  },
+  {
+    "product_id": "powercolor-hellhound-reva-rx-9070-xt-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "332 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail267.htm",
+    "note": "Ficha PowerColor: Board Dimensions 332mm*122mm*57mm (con soporte: 346mm*151mm*57mm)"
+  },
+  {
+    "product_id": "powercolor-hellhound-rx-9070-gre-12gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "327 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail281.htm",
+    "note": "Ficha PowerColor: Board Dimensions 327mm*128mm*41mm (con soporte: 340mm*142mm*42mm)"
+  },
+  {
+    "product_id": "powercolor-hellhound-rx-9070-xt-resonance-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "327 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail288.htm",
+    "note": "Ficha PowerColor: Board Dimensions 327mm*128mm*49mm (con soporte: 340mm*142mm*49mm)"
+  },
+  {
+    "product_id": "powercolor-reaper-rx-9060-xt-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "200 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail248.htm",
+    "note": "Ficha PowerColor: Board Dimensions 200mm*100mm*39mm (con soporte: 220mm*120mm*40mm)"
+  },
+  {
+    "product_id": "powercolor-red-devil-rx-9070-gre-12gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "340 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail282.htm",
+    "note": "Ficha PowerColor: Board Dimensions 340mm*132mm*69mm (con soporte: 352mm*149mm*69mm)"
+  },
+  {
+    "product_id": "powercolor-rx907016g-a",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "289 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail215.htm",
+    "note": "Ficha PowerColor: Board Dimensions 289mm*111mm*41mm (con soporte: 304mm*127mm*42mm)"
+  },
+  {
+    "product_id": "powercolor-hellhound-radeon-rx-7900-xtx-oc-24gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "320 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail72.htm",
+    "note": "Ficha PowerColor: Board Dimensions 320mm*118.5mm*62mm (con soporte: 338mm*147mm*62mm)"
+  },
+  {
+    "product_id": "owercolor-rx9070xt16g-l-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "327 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail211.htm",
+    "note": "Ficha PowerColor: Board Dimensions 327mm*128mm*49mm (con soporte: 340mm*142mm*49mm)"
+  },
+  {
+    "product_id": "powercolor-hellhound-radeon-rx-7900-xtx-oc-24gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 4.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail72.htm",
+    "note": "Ficha PowerColor: PCIE 4.0"
+  },
+  {
+    "product_id": "intel-arc-b570",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241676/intel-arc-b570-graphics/specifications.html",
+    "note": "Intel Ark solo publica TBP 150 W; no indica longitud de tarjeta ni PSU recomendada (diseños de socios)."
+  },
+  {
+    "product_id": "intel-arc-b570",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241676/intel-arc-b570-graphics/specifications.html",
+    "note": "Intel Ark solo publica TBP 150 W; no indica longitud de tarjeta ni PSU recomendada (diseños de socios)."
+  }
+]

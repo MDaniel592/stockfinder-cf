@@ -1,0 +1,510 @@
+[
+ {
+  "id": "gigabyte-p550ss",
+  "key": "Modular",
+  "reason": "HTTP 403 (Akamai Access Denied) en curl y WebFetch sobre la ficha oficial; sin ficha alternativa accesible",
+  "tried": [
+   "curl",
+   "https://www.gigabyte.com/Power-Supply/GP-P550SS/sp"
+  ]
+ },
+ {
+  "id": "gigabyte-p650ss-ice",
+  "key": "Modular",
+  "reason": "HTTP 403 (Akamai Access Denied) en curl y WebFetch sobre la ficha oficial; sin ficha alternativa accesible",
+  "tried": [
+   "curl",
+   "https://www.gigabyte.com/Power-Supply/GP-P650SS-ICE/sp"
+  ]
+ },
+ {
+  "id": "gigabyte-p650ss",
+  "key": "Modular",
+  "reason": "HTTP 403 (Akamai Access Denied) en curl y WebFetch sobre la ficha oficial; sin ficha alternativa accesible",
+  "tried": [
+   "curl",
+   "https://www.gigabyte.com/Power-Supply/GP-P650SS/sp"
+  ]
+ },
+ {
+  "id": "forgeon-reactor-1000w-white-fo-reac-1000-w",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Forgeon",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1000w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-blanca"
+  ]
+ },
+ {
+  "id": "forgeon-reactor-1000w-black-fo-reac-1000-b",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Forgeon",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1000w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-negra"
+  ]
+ },
+ {
+  "id": "forgeon-reactor-850w-white-fo-reac-850-w",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Forgeon",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-850w-cybenetics-platinum-atx-31-pcie-51-full-modular-fuente-de-alimentacion-blanca"
+  ]
+ },
+ {
+  "id": "forgeon-reactor-850w-black-fo-reac-850-b",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Forgeon",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-850w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra"
+  ]
+ },
+ {
+  "id": "forgeon-reactor-1200w-black-fo-reac-1200-b",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Forgeon",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1200w-cybenetics-gold-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra"
+  ]
+ },
+ {
+  "id": "forgeon-reactor-750w-white-fo-reac-750-w",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Forgeon",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-750w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-blanca"
+  ]
+ },
+ {
+  "id": "forgeon-reactor-750w-black-fo-reac-750-b",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Forgeon",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-750w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra"
+  ]
+ },
+ {
+  "id": "forgeon-bolt-1000w-white-fo-psu-bol1001w",
+  "key": "Estándar ATX",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Forgeon",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-forgeon-bolt-psu-1000w-80-plus-gold-full-modular-blanca"
+  ]
+ },
+ {
+  "id": "forgeon-bolt-850w-white-fo-psu-bol851w",
+  "key": "Estándar ATX",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Forgeon",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-forgeon-bolt-psu-850w-80-plus-gold-full-modular-fuente-de-alimentacion-blanca"
+  ]
+ },
+ {
+  "id": "tacens-valeo-v-800m-1vv800m",
+  "key": "Modular",
+  "reason": "La ficha oficial dice solo «Connector type: Modular»/«modular cabling» sin distinguir totalmente modular de semimodular",
+  "tried": [
+   "tacens.es"
+  ]
+ },
+ {
+  "id": "xpg-kyber-750w-75261250",
+  "key": "Modular",
+  "reason": "La pestana de especificaciones de xpg.com (KYBER) no incluye tipo de cableado; descripcion posiblemente dinamica y datasheet PDF con HTTP 403",
+  "tried": [
+   "xpg.com spec tab",
+   "webapi3.adata.com datasheet 403"
+  ]
+ },
+ {
+  "id": "modecom-volcano-hex-850-platinum-zas-mc-hex-0850-plat",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "HTTP 429 (rate limited) en la ficha oficial de Modecom, tambien en un reintento tras 45 s",
+  "tried": [
+   "curl",
+   "https://modecom.com/en/products/modecom-volcano-hex-850w-atx-31"
+  ]
+ },
+ {
+  "id": "gigabyte-p550b",
+  "key": "Modular",
+  "reason": "HTTP 403 (Akamai Access Denied) en curl y WebFetch sobre la ficha oficial; sin ficha alternativa accesible",
+  "tried": [
+   "curl",
+   "https://www.gigabyte.com/Power-Supply/GP-P550B/sp"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fapw3-650",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-650w-powerline3/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fapw3-650",
+  "key": "Modular",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-650w-powerline3/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fapw3-750",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-750w-powerline3/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fapw3-750",
+  "key": "Modular",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-750w-powerline3/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fapw3-550",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-powerline3-550w/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fapw3-550",
+  "key": "Modular",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-powerline3-550w/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-facpo-750",
+  "key": "Modular",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/gaming/fuentes-alimentacion/coolpower-750w/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-facpo-750",
+  "key": "Estándar ATX",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/gaming/fuentes-alimentacion/coolpower-750w/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fa550tgr",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-tfx-basic-550gr-t-550w/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fa550tgr",
+  "key": "Modular",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-tfx-basic-550gr-t-550w/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fa550tgr",
+  "key": "Estándar ATX",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-tfx-basic-550gr-t-550w/"
+  ]
+ },
+ {
+  "id": "coolbox-coo-fa550tgr",
+  "key": "Conector GPU",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-tfx-basic-550gr-t-550w/"
+  ]
+ },
+ {
+  "id": "zalman-zm700-gv2se",
+  "key": "Conector GPU",
+  "reason": "La ficha indica 2 cables PCI Express de 2 conectores cada uno sin especificar pines (6+2/8)",
+  "tried": [
+   "zalman.com"
+  ]
+ },
+ {
+  "id": "zalman-zm800-gv2se",
+  "key": "Conector GPU",
+  "reason": "La ficha indica 2 cables PCI Express de 2 conectores cada uno sin especificar pines (6+2/8)",
+  "tried": [
+   "zalman.com"
+  ]
+ },
+ {
+  "id": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Tempest",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx"
+  ]
+ },
+ {
+  "id": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+  "key": "Modular",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Tempest",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx"
+  ]
+ },
+ {
+  "id": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+  "key": "Estándar ATX",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Tempest",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx"
+  ]
+ },
+ {
+  "id": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+  "key": "Conector GPU",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Tempest",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx"
+  ]
+ },
+ {
+  "id": "abysm-morpheo-gx5-1000w-ab211001",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "La ficha de Abysm es contradictoria: titulo/tabla indican Cybenetics Platinum mientras un apartado habla de «80 PLUS» (Gold/Platinum); sin certificado 80 PLUS verificable",
+  "tried": [
+   "web oficial abysmgaming.com"
+  ]
+ },
+ {
+  "id": "abysm-morpheo-gx5-1300w-ab231301",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "La ficha de Abysm es contradictoria: titulo/tabla indican Cybenetics Platinum mientras un apartado habla de «80 PLUS» (Gold/Platinum); sin certificado 80 PLUS verificable",
+  "tried": [
+   "web oficial abysmgaming.com"
+  ]
+ },
+ {
+  "id": "msi-mag-a750bn-pcie5",
+  "key": "Estándar ATX",
+  "reason": "HTTP 403 en la ficha oficial de MSI; sin fuente oficial alternativa accesible",
+  "tried": [
+   "curl",
+   "https://www.msi.com/Power-Supply/MAG-A750BN-PCIE5/Specification"
+  ]
+ },
+ {
+  "id": "tempest-pulse-750w-pcie-5-1-tp-pul-750-pcie5-1-b",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Tempest",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-750w-cybenetics-bronze-atx-3-1-fuente-de-alimentacion-negra"
+  ]
+ },
+ {
+  "id": "tempest-pulse-750w-full-modular-tp-pul-750-b",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Tempest",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-pulse-750w-cybenetics-bronze-atx-3-1-full-modular-fuente-de-alimentacion-negra"
+  ]
+ },
+ {
+  "id": "tempest-pulse-650w-tp-pul-650-b",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Tempest",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-650w-cybenetics-silver-atx-31-fuente-de-alimentacion-negra"
+  ]
+ },
+ {
+  "id": "tempest-pulse-650w-tp-pul-650-b",
+  "key": "Modular",
+  "reason": "manufacturer_url es una tienda (PcComponentes, HTTP 403/Cloudflare); no se encontro ficha oficial de Tempest",
+  "tried": [
+   "curl",
+   "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-650w-cybenetics-silver-atx-31-fuente-de-alimentacion-negra"
+  ]
+ },
+ {
+  "id": "gigabyte-gp-p750bs",
+  "key": "Modular",
+  "reason": "HTTP 403 (Akamai Access Denied) en curl y WebFetch sobre la ficha oficial; sin ficha alternativa accesible",
+  "tried": [
+   "curl",
+   "https://www.gigabyte.com/Power-Supply/GP-P750BS/sp"
+  ]
+ },
+ {
+  "id": "gigabyte-gp-p750bs",
+  "key": "Estándar ATX",
+  "reason": "HTTP 403 (Akamai Access Denied) en curl y WebFetch sobre la ficha oficial; sin ficha alternativa accesible",
+  "tried": [
+   "curl",
+   "https://www.gigabyte.com/Power-Supply/GP-P750BS/sp"
+  ]
+ },
+ {
+  "id": "gigabyte-gp-ud1000gm-pg5",
+  "key": "Estándar ATX",
+  "reason": "HTTP 403 (Akamai Access Denied) en curl y WebFetch sobre la ficha oficial; sin ficha alternativa accesible",
+  "tried": [
+   "curl",
+   "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5/sp"
+  ]
+ },
+ {
+  "id": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-t/"
+  ]
+ },
+ {
+  "id": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+  "key": "Modular",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-t/"
+  ]
+ },
+ {
+  "id": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+  "key": "Estándar ATX",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-t/"
+  ]
+ },
+ {
+  "id": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+  "key": "Conector GPU",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-t/"
+  ]
+ },
+ {
+  "id": "coolbox-coolpower-650w-coo-facpo-650",
+  "key": "Estándar ATX",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/gaming/fuentes-alimentacion/coolpower-650w/"
+  ]
+ },
+ {
+  "id": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-s/"
+  ]
+ },
+ {
+  "id": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+  "key": "Modular",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-s/"
+  ]
+ },
+ {
+  "id": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+  "key": "Estándar ATX",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-s/"
+  ]
+ },
+ {
+  "id": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+  "key": "Conector GPU",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-s/"
+  ]
+ },
+ {
+  "id": "coolbox-powerline-iii-850w-coo-fapw3-850",
+  "key": "Eficiencia 80 PLUS",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-850w-powerline3/"
+  ]
+ },
+ {
+  "id": "coolbox-powerline-iii-850w-coo-fapw3-850",
+  "key": "Modular",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-850w-powerline3/"
+  ]
+ },
+ {
+  "id": "coolbox-powerline-iii-850w-coo-fapw3-850",
+  "key": "Estándar ATX",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-850w-powerline3/"
+  ]
+ },
+ {
+  "id": "coolbox-force-br-500-500w-coo-pwep500-85s",
+  "key": "Modular",
+  "reason": "la web oficial de CoolBox responde con desafio sgcaptcha (HTTP 202); no se elude",
+  "tried": [
+   "curl",
+   "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-forcebr-500-80plusbronze/"
+  ]
+ }
+]

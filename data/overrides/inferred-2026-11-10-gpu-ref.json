@@ -1,0 +1,132 @@
+[
+  {
+    "product_id": "powercolor-rx907016g-a",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail215.htm",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "powercolor-hellhound-radeon-rx-7900-xtx-oc-24gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "355 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail72.htm",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "powercolor-hellhound-radeon-rx-7900-xtx-oc-24gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "800 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail72.htm",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "igabyte-gv-n506teaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "600 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Graphics-Card/GV-N506TEAGLEMAX-OC-8GD/sp",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "igabyte-gv-n5060eaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "145 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/es/Graphics-Card/GV-N5060EAGLEMAX-OC-8GD/sp",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "srock-rx9070xt-sld-16g",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "304 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%20Dark%2016GB/",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "igabyte-gv-n5060wf2max-oc-8gd",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "value": "145 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5060WF2MAX-OC-8GD/sp",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "srock-rx9060xt-cl-16go",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "160 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209060%20XT%20Challenger%2016GB%20OC/index.us.asp",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "srock-rx9070xt-sl-16g",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "304 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%2016GB/index.us.asp",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "powercolor-reaper-radeon-rx-9070-gre-12gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "220 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail280.htm",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "powercolor-hellhound-rx-9070-gre-12gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "220 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail281.htm",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "powercolor-red-devil-rx-9070-gre-12gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "220 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail282.htm",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  },
+  {
+    "product_id": "gigabyte-gv-r907gregaming-oc-12gd",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "220 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R907GREGAMING-OC-12GD/sp",
+    "note": "INFERIDO: valor oficial de referencia del chip (NVIDIA/AMD); las variantes de los fabricantes de tarjetas pueden diferir ligeramente."
+  }
+]

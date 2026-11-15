@@ -1,0 +1,47 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "www",
+  "main": "apps/edge-api/src/index.ts",
+  "compatibility_date": "2026-01-01",
+  // Producción usa D1: el adaptador Postgres (apps/edge-api/src/pgdb.ts + postgres.js) queda fuera del bundle y,
+  // con él, la necesidad de nodejs_compat. wrangler.staging.jsonc (Hyperdrive) define __SF_PG__ como true.
+  "define": { "__SF_PG__": "false" },
+  "workers_dev": true,
+  "assets": {
+    "directory": "apps/web/dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": [
+      "/api/*",
+      "/internal/*",
+      "/",
+      "/p/*",
+      "/c/*",
+      "/configurador",
+      "/ofertas",
+      "/acerca",
+      "/privacidad",
+      "/sitemap.xml",
+      "/robots.txt"
+    ]
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "stockfinder-v2-catalog",
+      "database_id": "a0d0cf0d-55d8-461a-9299-f8b9bec0c11d",
+      "migrations_dir": "db/d1-migrations"
+    }
+  ],
+  "vars": {
+    "FEATURES_URL": "https://yasasecrkqudvuwhwgmx.supabase.co",
+    "DATA_MODE": "manufacturer-catalog",
+    "STALE_AFTER_SECONDS": "86400"
+  },
+  "version_metadata": { "binding": "CF_VERSION_METADATA" },
+  // Igual que en el dashboard (Workers Logs); si no se declara aquí, cada deploy lo sobrescribe.
+  "observability": {
+    "logs": { "enabled": true, "head_sampling_rate": 1, "invocation_logs": true, "persist": true },
+    "traces": { "enabled": false, "head_sampling_rate": 1, "persist": true }
+  }
+}

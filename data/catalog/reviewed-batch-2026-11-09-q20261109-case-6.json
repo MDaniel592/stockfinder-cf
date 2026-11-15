@@ -1,0 +1,96 @@
+[
+ {
+  "id": "msi-mag-pano-100r-pz-306-7g26r21-hh9",
+  "slug": "msi-mag-pano-100r-pz-306-7g26r21-hh9",
+  "name": "MSI MAG PANO 100R PZ (306-7G26R21-HH9)",
+  "category_id": "case",
+  "brand": "MSI",
+  "mpn": "306-7G26R21-HH9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es-store.msi.com/products/mag-pano-100r-pz-cajas-de-pc",
+  "specs_verified_at": "2026-11-09T16:39:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "166 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "msi-mag-pano-100r-pz-white-306-7g26w22-hh9",
+  "slug": "msi-mag-pano-100r-pz-white-306-7g26w22-hh9",
+  "name": "MSI MAG PANO 100R PZ WHITE (306-7G26W22-HH9)",
+  "category_id": "case",
+  "brand": "MSI",
+  "mpn": "306-7G26W22-HH9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es-store.msi.com/products/mag-pano-100r-pz-white-cajas-de-pc",
+  "specs_verified_at": "2026-11-09T16:39:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "166 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "msi-mag-pano-110r-pz-306-7g28r21-ja4",
+  "slug": "msi-mag-pano-110r-pz-306-7g28r21-ja4",
+  "name": "MSI MAG PANO 110R PZ (306-7G28R21-JA4)",
+  "category_id": "case",
+  "brand": "MSI",
+  "mpn": "306-7G28R21-JA4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es-store.msi.com/products/mag-pano-110r-pz-cajas-de-pc",
+  "specs_verified_at": "2026-11-09T16:39:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "msi-mag-pano-110r-pz-white-306-7g28w21-ja4",
+  "slug": "msi-mag-pano-110r-pz-white-306-7g28w21-ja4",
+  "name": "MSI MAG PANO 110R PZ WHITE (306-7G28W21-JA4)",
+  "category_id": "case",
+  "brand": "MSI",
+  "mpn": "306-7G28W21-JA4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es-store.msi.com/products/mag-pano-110r-pz-white-cajas-de-pc",
+  "specs_verified_at": "2026-11-09T16:39:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "msi-mpg-velox-300r-airflow-pz-white-306-7g27w21-ja4",
+  "slug": "msi-mpg-velox-300r-airflow-pz-white-306-7g27w21-ja4",
+  "name": "MSI MPG VELOX 300R AIRFLOW PZ WHITE (306-7G27W21-JA4)",
+  "category_id": "case",
+  "brand": "MSI",
+  "mpn": "306-7G27W21-JA4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es-store.msi.com/products/mpg-velox-300r-airflow-pz-white-cajas-de-pc",
+  "specs_verified_at": "2026-11-09T16:39:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "165 mm",
+   "Dimensiones": "485 × 235 × 518 mm"
+  }
+ }
+]

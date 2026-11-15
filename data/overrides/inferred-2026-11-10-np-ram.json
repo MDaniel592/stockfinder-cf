@@ -1,0 +1,42 @@
+[
+  {
+    "product_id": "coolmod-ram-cb8gu3200",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://content.crucial.com/content/dam/crucial/dram-products/basics/flyer/crucial-basics-memory-productflyer.pdf",
+    "note": "INFERIDO: módulo Crucial estándar a velocidad JEDEC: no lleva perfil XMP/EXPO."
+  },
+  {
+    "product_id": "crucial-ct32g48c40u5",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct32g48c40u5",
+    "note": "INFERIDO: módulo Crucial estándar a velocidad JEDEC: no lleva perfil XMP/EXPO."
+  },
+  {
+    "product_id": "crucial-ct8g48c40u5",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct8g48c40u5",
+    "note": "INFERIDO: módulo Crucial estándar a velocidad JEDEC: no lleva perfil XMP/EXPO."
+  },
+  {
+    "product_id": "crucial-ct2k16g48c40u5",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/memory/ddr5/ct2k16g48c40u5",
+    "note": "INFERIDO: módulo Crucial estándar a velocidad JEDEC: no lleva perfil XMP/EXPO."
+  }
+]

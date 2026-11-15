@@ -1,0 +1,793 @@
+[
+ {
+  "id": "wd-wd40efzz",
+  "slug": "wd-wd40efzz",
+  "name": "WD Red Plus 4 TB (WD40EFZZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD40EFZZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd?sku=WD40EFZZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "128 MB"
+  }
+ },
+ {
+  "id": "wd-wd40efpx",
+  "slug": "wd-wd40efpx",
+  "name": "WD Red Plus 4 TB (WD40EFPX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD40EFPX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd?sku=WD40EFPX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-wd80efpx",
+  "slug": "wd-wd80efpx",
+  "name": "WD Red Plus 8 TB (WD80EFPX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD80EFPX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd?sku=WD80EFPX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5640 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-wd20efpx",
+  "slug": "wd-wd20efpx",
+  "name": "WD Red Plus 2 TB (WD20EFPX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD20EFPX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd?sku=WD20EFPX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "64 MB"
+  }
+ },
+ {
+  "id": "wd-wd122kfbx",
+  "slug": "wd-wd122kfbx",
+  "name": "WD Red Pro 12 TB (WD122KFBX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD122KFBX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd?sku=WD122KFBX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "12 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd23purz",
+  "slug": "wd-wd23purz",
+  "name": "WD Purple 2 TB (WD23PURZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD23PURZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd?sku=WD23PURZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm"
+  }
+ },
+ {
+  "id": "wd-wd100efgx",
+  "slug": "wd-wd100efgx",
+  "name": "WD Red Plus 10 TB (WD100EFGX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD100EFGX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd?sku=WD100EFGX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd60efpx",
+  "slug": "wd-wd60efpx",
+  "name": "WD Red Plus 6 TB (WD60EFPX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD60EFPX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd?sku=WD60EFPX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "6 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-wd44purz",
+  "slug": "wd-wd44purz",
+  "name": "WD Purple 4 TB (WD44PURZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD44PURZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd?sku=WD44PURZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "128 MB"
+  }
+ },
+ {
+  "id": "wd-wd181kfgx",
+  "slug": "wd-wd181kfgx",
+  "name": "WD Red Pro 18 TB (WD181KFGX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD181KFGX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd?sku=WD181KFGX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "18 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd122purp",
+  "slug": "wd-wd122purp",
+  "name": "WD Purple Pro 12 TB (WD122PURP)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD122PURP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-pro-sata-hdd?sku=WD122PURP",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "12 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd221kryz",
+  "slug": "wd-wd221kryz",
+  "name": "WD Gold 22 TB (WD221KRYZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD221KRYZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd?sku=WD221KRYZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "22 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd85purz",
+  "slug": "wd-wd85purz",
+  "name": "WD Purple 8 TB (WD85PURZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD85PURZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd?sku=WD85PURZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5640 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-wd11purz",
+  "slug": "wd-wd11purz",
+  "name": "WD Purple 1 TB (WD11PURZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD11PURZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd?sku=WD11PURZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "64 MB"
+  }
+ },
+ {
+  "id": "wd-wd4006ffbx",
+  "slug": "wd-wd4006ffbx",
+  "name": "WD Red Pro 4 TB (WD4006FFBX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD4006FFBX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd?sku=WD4006FFBX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-wd142kfgx",
+  "slug": "wd-wd142kfgx",
+  "name": "WD Red Pro 14 TB (WD142KFGX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD142KFGX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd?sku=WD142KFGX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "14 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd102purp",
+  "slug": "wd-wd102purp",
+  "name": "WD Purple Pro 10 TB (WD102PURP)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD102PURP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-pro-sata-hdd?sku=WD102PURP",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd64purz",
+  "slug": "wd-wd64purz",
+  "name": "WD Purple 6 TB (WD64PURZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD64PURZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd?sku=WD64PURZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "6 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-wd120efgx",
+  "slug": "wd-wd120efgx",
+  "name": "WD Red Plus 12 TB (WD120EFGX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD120EFGX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd?sku=WD120EFGX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "12 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd8002purp",
+  "slug": "wd-wd8002purp",
+  "name": "WD Purple Pro 8 TB (WD8002PURP)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD8002PURP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-pro-sata-hdd?sku=WD8002PURP",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-wd161kfgx",
+  "slug": "wd-wd161kfgx",
+  "name": "WD Red Pro 16 TB (WD161KFGX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD161KFGX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd?sku=WD161KFGX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "16 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd260kfgx",
+  "slug": "wd-wd260kfgx",
+  "name": "WD Red Pro 26 TB (WD260KFGX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD260KFGX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd?sku=WD260KFGX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "26 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd103kryz",
+  "slug": "wd-wd103kryz",
+  "name": "WD Gold 10 TB (WD103KRYZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD103KRYZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd?sku=WD103KRYZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd261kryz",
+  "slug": "wd-wd261kryz",
+  "name": "WD Gold 26 TB (WD261KRYZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD261KRYZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd?sku=WD261KRYZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "26 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd260purp",
+  "slug": "wd-wd260purp",
+  "name": "WD Purple Pro 26 TB (WD260PURP)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD260PURP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-pro-sata-hdd?sku=WD260PURP",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "26 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd241purp",
+  "slug": "wd-wd241purp",
+  "name": "WD Purple Pro 24 TB (WD241PURP)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD241PURP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-pro-sata-hdd?sku=WD241PURP",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "24 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd202kfgx",
+  "slug": "wd-wd202kfgx",
+  "name": "WD Red Pro 20 TB (WD202KFGX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD202KFGX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd?sku=WD202KFGX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "20 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd142kryz",
+  "slug": "wd-wd142kryz",
+  "name": "WD Gold 14 TB (WD142KRYZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD142KRYZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd?sku=WD142KRYZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "14 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd181kryz",
+  "slug": "wd-wd181kryz",
+  "name": "WD Gold 18 TB (WD181KRYZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD181KRYZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd?sku=WD181KRYZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "18 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd161kryz",
+  "slug": "wd-wd161kryz",
+  "name": "WD Gold 16 TB (WD161KRYZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD161KRYZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd?sku=WD161KRYZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "16 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd181purp",
+  "slug": "wd-wd181purp",
+  "name": "WD Purple Pro 18 TB (WD181PURP)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD181PURP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-pro-sata-hdd?sku=WD181PURP",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "18 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-wd20ezbx",
+  "slug": "wd-wd20ezbx",
+  "name": "WD Blue 2 TB (WD20EZBX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD20EZBX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-blue-desktop-sata-hdd?sku=WD20EZBX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-wd60ezax",
+  "slug": "wd-wd60ezax",
+  "name": "WD Blue 6 TB (WD60EZAX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD60EZAX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-blue-desktop-sata-hdd?sku=WD60EZAX",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "6 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-wd80eaaz",
+  "slug": "wd-wd80eaaz",
+  "name": "WD Blue 8 TB (WD80EAAZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD80EAAZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-blue-desktop-sata-hdd?sku=WD80EAAZ",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5640 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-0b36404",
+  "slug": "wd-0b36404",
+  "name": "WD Ultrastar DC HC320 8 TB (0B36404)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "0B36404",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-dc-hc320-hdd?sku=0B36404",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "wd-0f48155",
+  "slug": "wd-0f48155",
+  "name": "WD Ultrastar DC HC570 22 TB (0F48155)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "0F48155",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-dc-hc570-hdd?sku=0F48155",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "22 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-0f62796",
+  "slug": "wd-0f62796",
+  "name": "WD Ultrastar DC HC580 24 TB (0F62796)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "0F62796",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-dc-hc580-hdd?sku=0F62796",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "24 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-0f65684",
+  "slug": "wd-0f65684",
+  "name": "WD Ultrastar DC HC590 24 TB (0F65684)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "0F65684",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-dc-hc590-hdd?sku=0F65684",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "24 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "wd-0b47063",
+  "slug": "wd-0b47063",
+  "name": "WD Ultrastar DC HA340 12 TB (0B47063)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "0B47063",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-dc-ha340-hdd?sku=0B47063",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "12 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "wd-0b47078",
+  "slug": "wd-0b47078",
+  "name": "WD Ultrastar DC HA340 8 TB (0B47078)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "0B47078",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-dc-ha340-hdd?sku=0B47078",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "wd-0b48721",
+  "slug": "wd-0b48721",
+  "name": "WD Ultrastar DC HC555 14 TB (0B48721)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "0B48721",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-data-center-hc555-hdd?sku=0B48721",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "14 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-0b48724",
+  "slug": "wd-0b48724",
+  "name": "WD Ultrastar DC HC555 20 TB (0B48724)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "0B48724",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-data-center-hc555-hdd?sku=0B48724",
+  "specs_verified_at": "2026-11-08T17:30:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "20 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ }
+]

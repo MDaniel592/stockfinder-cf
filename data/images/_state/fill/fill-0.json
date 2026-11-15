@@ -1,0 +1,562 @@
+[
+  {
+    "product_id": "antec-ax20-0-761345-10060-1",
+    "image_path": "/images/products/case/antec-ax20-0-761345-10060-1.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-ax20-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/ax20",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-ax61-0-761345-10069-4",
+    "image_path": "/images/products/case/antec-ax61-0-761345-10069-4.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-ax61-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/ax61",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-c5-argb-negra-0-761345-10033-5",
+    "image_path": "/images/products/case/antec-c5-argb-negra-0-761345-10033-5.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-c5-argb-black-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/c5",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-flux-m-0-761345-10253-7",
+    "image_path": "/images/products/case/antec-flux-m-0-761345-10253-7.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-flux-m-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/flux-m",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-c3-0-761345-10029-8",
+    "image_path": "/images/products/case/antec-c3-0-761345-10029-8.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-c3-argb-black-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/c3",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-vsk2000-u3-0-761345-92003-2",
+    "image_path": "/images/products/case/antec-vsk2000-u3-0-761345-92003-2.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-vsk2000-u3-1.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/vsk2000-u3",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-ax85-0-761345-10173-8",
+    "image_path": "/images/products/case/antec-ax85-0-761345-10173-8.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-ax85-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/ax85",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-c8-0-761345-10019-9",
+    "image_path": "/images/products/case/antec-c8-0-761345-10019-9.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-c8-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/c8",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-flux-blanca-0-761345-10134-9",
+    "image_path": "/images/products/case/antec-flux-blanca-0-761345-10134-9.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-flux-white-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/flux-white",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-p30-argb-0-761345-10255-1",
+    "image_path": "/images/products/case/antec-p30-argb-0-761345-10255-1.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-p30-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/p30-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-csk650dc-ec",
+    "image_path": "/images/products/psu/antec-csk650dc-ec.webp",
+    "image_source_url": "https://www.antec.com/product/power/images/gallery-csk-dc-650-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/power/csk-dc-650",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-csk750dc-ec",
+    "image_path": "/images/products/psu/antec-csk750dc-ec.webp",
+    "image_source_url": "https://www.antec.com/product/power/images/gallery-csk-dc-750-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/power/csk-dc-750w",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-gsk850-v2-ec",
+    "image_path": "/images/products/psu/antec-gsk850-v2-ec.webp",
+    "image_source_url": "https://www.antec.com/product/power/images/gallery-gsk-v2-850-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/power/gsk-v2-850",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-flux-pro-0-761345-10154-7",
+    "image_path": "/images/products/case/antec-flux-pro-0-761345-10154-7.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-flux-pro-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/flux-pro",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-flux-pro-white-0-761345-10156-1",
+    "image_path": "/images/products/case/antec-flux-pro-white-0-761345-10156-1.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-flux-pro-white-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/flux-pro-white",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-flux-0-761345-10133-2",
+    "image_path": "/images/products/case/antec-flux-0-761345-10133-2.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-flux-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/flux",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-flux-se-0-761345-10177-6",
+    "image_path": "/images/products/case/antec-flux-se-0-761345-10177-6.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-flux-se-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/flux-se",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-performance-1-m-black-0-761345-10168-4",
+    "image_path": "/images/products/case/antec-performance-1-m-black-0-761345-10168-4.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-performance-1-m-black-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/performance-1-m-black",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-performance-1-m-aventurine-0-761345-10169-1",
+    "image_path": "/images/products/case/antec-performance-1-m-aventurine-0-761345-10169-1.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-performance-1-m-aventurine-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/performance-1-m-aventurine",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-performance-1-ft-white-0-761345-10091-5",
+    "image_path": "/images/products/case/antec-performance-1-ft-white-0-761345-10091-5.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-performance-1-ft-white-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/performance-1-ft-white",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-nx410-0-761345-81041-8",
+    "image_path": "/images/products/case/antec-nx410-0-761345-81041-8.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-nx410-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/nx410",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-dark-cube-0-761345-80034-1",
+    "image_path": "/images/products/case/antec-dark-cube-0-761345-80034-1.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-dark-cube-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/dark-cube",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-p20c-white-0-761345-80108-9",
+    "image_path": "/images/products/case/antec-p20c-white-0-761345-80108-9.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-p20c-white-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/p20c-white",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-p6-neo-argb-0-761345-10286-5",
+    "image_path": "/images/products/case/antec-p6-neo-argb-0-761345-10286-5.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-p6-neo-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/p6-neo-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-c5-curve-argb-0-761345-10225-4",
+    "image_path": "/images/products/case/antec-c5-curve-argb-0-761345-10225-4.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-c5-curve-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/c5-curve-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-cx-m3-argb-0-761345-10334-3",
+    "image_path": "/images/products/case/antec-cx-m3-argb-0-761345-10334-3.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-cxm3-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/cxm3-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-cx60m-argb-0-761345-10217-9",
+    "image_path": "/images/products/case/antec-cx60m-argb-0-761345-10217-9.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-cx60m-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/cx60m-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-cx60m-argb-white-0-761345-10218-6",
+    "image_path": "/images/products/case/antec-cx60m-argb-white-0-761345-10218-6.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-cx60m-argb-11.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/cx60m-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-cx-m2-argb-0-761345-10333-6",
+    "image_path": "/images/products/case/antec-cx-m2-argb-0-761345-10333-6.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-cxm2-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/cxm2-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-c7-argb-0-761345-10135-6",
+    "image_path": "/images/products/case/antec-c7-argb-0-761345-10135-6.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-c7-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/c7-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-c8-argb-0-761345-10022-9",
+    "image_path": "/images/products/case/antec-c8-argb-0-761345-10022-9.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-c8-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/c8-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-c6-curve-argb-0-761345-10287-2",
+    "image_path": "/images/products/case/antec-c6-curve-argb-0-761345-10287-2.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-c6-curve-argb-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/c6-curve-argb",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "antec-c6-curve-air-0-761345-10275-9",
+    "image_path": "/images/products/case/antec-c6-curve-air-0-761345-10275-9.webp",
+    "image_source_url": "https://www.antec.com/product/case/images/gallery-c6-curve-air-01.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.antec.com/product/case/c6-curve-air",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Antec",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-90rc0132-m0eay0",
+    "image_path": "/images/products/cooler/asus-90rc0132-m0eay0.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/9AAEAA39-06C1-4F2D-89D5-8F5D3231C13D/w800",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryujin/rog-ryujin-iii-360-argb-extreme-white-edition/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-90rc0131-m0eay0",
+    "image_path": "/images/products/cooler/asus-90rc0131-m0eay0.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/A1D6D78A-00BE-4F89-A360-2790312CDDAD/w800",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryujin/rog-ryujin-iii-360-argb-extreme/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-90rc00k1-m0uay0",
+    "image_path": "/images/products/cooler/asus-90rc00k1-m0uay0.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/DEFF549F-AE6C-429F-B28E-DFAC6FA55B2F/w800",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryujin/rog-ryujin-iii-240-argb/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-90rc00t1-m0uay0",
+    "image_path": "/images/products/cooler/asus-90rc00t1-m0uay0.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/85608C27-B01A-4721-98B4-5CCEFFC630F1/w800",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-strix-lc/rog-strix-lc-iii-360-argb/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-90rc00j2-m0uay0",
+    "image_path": "/images/products/cooler/asus-90rc00j2-m0uay0.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/05F1F0E1-DC73-4E59-B253-D6EFD388A52E/w800",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryuo/rog-ryuo-iii-240-argb-white-edition-model/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-90rc01a1-b0eay0",
+    "image_path": "/images/products/cooler/asus-90rc01a1-b0eay0.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/8c892dd6-f28e-4694-b7be-7e0a5c2ccb3b/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/cooling/tuf-gaming/tuf-gaming-lc-iii-360-argb-lcd/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-90rc01a2-b0eay0",
+    "image_path": "/images/products/cooler/asus-90rc01a2-b0eay0.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/30885f79-faee-48c7-9bcf-8d546274e047/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/cooling/tuf-gaming/tuf-gaming-lc-iii-360-argb-lcd-white-edition/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-90rc0101-b0eay0",
+    "image_path": "/images/products/cooler/asus-90rc0101-b0eay0.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/f730fe62-2680-4610-9af5-4818a5d7a025/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/cooling/prime/prime-lc-360-argb/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-90rc0120-m0uay0",
+    "image_path": "/images/products/cooler/asus-90rc0120-m0uay0.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/e762e33c-2149-4f6e-8cad-de6dca2792e7/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/cooling/proart/proart-lc-360/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-prime-radeon-rx-9070-gre-oc-12gb",
+    "image_path": "/images/products/gpu/asus-prime-radeon-rx-9070-gre-oc-12gb.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/2b826ec9-8d51-4436-ac75-d059d22125f8/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070gre-o12g/techspec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-7800-xt-oc-16gb",
+    "image_path": "/images/products/gpu/asus-dual-radeon-rx-7800-xt-oc-16gb.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/14c78fa4-b737-4bc1-9d74-cd74ef0889ad/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx7800xt-o16g/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-7600-evo-oc-edition-8gb",
+    "image_path": "/images/products/gpu/asus-dual-radeon-rx-7600-evo-oc-edition-8gb.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/e36c178d-d777-48c1-8188-626f8892f08f/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx7600-o8g-evo/techspec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-9060-xt-8gb",
+    "image_path": "/images/products/gpu/asus-dual-radeon-rx-9060-xt-8gb.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/d2125d7d-adb2-4fdd-b7bf-934a429778c6/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx9060xt-8g/techspec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-rog-maximus-z890-extreme",
+    "image_path": "/images/products/motherboard/asus-rog-maximus-z890-extreme.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/BE083FFC-11E2-4BBC-A4FB-18C5C5880C1A",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-extreme/spec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-tuf-gaming-b760-plus-wifi-d4",
+    "image_path": "/images/products/motherboard/asus-tuf-gaming-b760-plus-wifi-d4.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/7863d737-c623-4cbc-8f67-f492f6e26ad1/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b760-plus-wifi-d4/techspec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-rog-strix-b760-f-gaming-wifi",
+    "image_path": "/images/products/motherboard/asus-rog-strix-b760-f-gaming-wifi.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/69159885-AADB-444B-B17B-C1809F91A343",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-f-gaming-wifi-model/spec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-prime-x670e-pro-wifi",
+    "image_path": "/images/products/motherboard/asus-prime-x670e-pro-wifi.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/25c02cba-dbea-4503-bbce-71c132348f06/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-x670e-pro-wifi/techspec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-prime-z790-a-wifi",
+    "image_path": "/images/products/motherboard/asus-prime-z790-a-wifi.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/5bc8ad71-902a-4879-9ab4-9e93f784ef45/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z790-a-wifi/techspec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-rog-crosshair-x670e-hero",
+    "image_path": "/images/products/motherboard/asus-rog-crosshair-x670e-hero.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/F17834FA-586C-40FA-A2AD-24D07A3431A0",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x670e-hero-model/spec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-rog-strix-x670e-e-gaming-wifi",
+    "image_path": "/images/products/motherboard/asus-rog-strix-x670e-e-gaming-wifi.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/BADFA920-702B-451B-9592-8279ACD6857B",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x670e-e-gaming-wifi-model/spec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-rog-strix-z790-a-gaming-wifi",
+    "image_path": "/images/products/motherboard/asus-rog-strix-z790-a-gaming-wifi.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/B3BA5FF7-28FF-447D-972E-1641C610ED40",
+    "image_scope": "model",
+    "image_page_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi-model/spec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-tuf-gaming-x670e-plus-wifi",
+    "image_path": "/images/products/motherboard/asus-tuf-gaming-x670e-plus-wifi.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/ad8d8b21-88f6-47ea-873b-403ad6e70f16/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x670e-plus-wifi/techspec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  },
+  {
+    "product_id": "asus-prime-b760m-f",
+    "image_path": "/images/products/motherboard/asus-prime-b760m-f.webp",
+    "image_source_url": "https://dlcdnwebimgs.asus.com/gain/1efbc45f-15b8-45d3-986f-a23d672f5498/w800",
+    "image_scope": "model",
+    "image_page_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-f/techspec/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: ASUS",
+    "fetched_at": "2026-11-10T22:31:58Z"
+  }
+]

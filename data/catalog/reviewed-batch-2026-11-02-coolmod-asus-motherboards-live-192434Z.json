@@ -1,0 +1,165 @@
+[
+  {
+    "id": "asus-prime-b760m-a-d4-csm",
+    "slug": "asus-prime-b760m-a-d4-csm",
+    "name": "ASUS PRIME B760M-A D4-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1D00-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-a-d4-csm/techspec/",
+    "specs_verified_at": "2026-11-02T19:24:34Z",
+    "specs": {
+      "Socket": "LGA 1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR4",
+      "Formato": "mATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "asus-prime-b850m-a-csm",
+    "slug": "asus-prime-b850m-a-csm",
+    "name": "ASUS PRIME B850M-A-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1LQ0-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/motherboards/csm/prime-b850m-a-csm/techspec/",
+    "specs_verified_at": "2026-11-02T19:24:34Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "mATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-pro-b860m-c-csm",
+    "slug": "asus-pro-b860m-c-csm",
+    "name": "ASUS Pro B860M-C-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1MCP-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/pro-b860m-c-csm/techspec/",
+    "specs_verified_at": "2026-11-02T19:24:34Z",
+    "specs": {
+      "Socket": "LGA 1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "mATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-prime-h810m-e-csm",
+    "slug": "asus-prime-h810m-e-csm",
+    "name": "ASUS PRIME H810M-E-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1N20-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/prime-h810m-e-csm/techspec/",
+    "specs_verified_at": "2026-11-02T19:24:34Z",
+    "specs": {
+      "Socket": "LGA 1851",
+      "Chipset": "Intel H810",
+      "Tipo de memoria": "DDR5",
+      "Formato": "mATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "asus-pro-ws-w680m-ace-se",
+    "slug": "asus-pro-ws-w680m-ace-se",
+    "name": "ASUS Pro WS W680M-ACE SE",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1FA0-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/motherboards/workstation/pro-ws-w680m-ace-se/techspec/",
+    "specs_verified_at": "2026-11-02T19:24:34Z",
+    "specs": {
+      "Socket": "LGA 1700",
+      "Chipset": "Intel W680",
+      "Tipo de memoria": "DDR5",
+      "Formato": "mATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    }
+  },
+  {
+    "id": "asus-prime-b860-plus-wifi",
+    "slug": "asus-prime-b860-plus-wifi",
+    "name": "ASUS PRIME B860-PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1K50-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/fi-fi/90MB1K50-M0EAY0/PRIME-B860-PLUS-WIFI",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA 1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-prime-b860m-a-csm",
+    "slug": "asus-prime-b860m-a-csm",
+    "name": "ASUS PRIME B860M-A-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1K00-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/prime-b860m-a-csm/techspec/",
+    "specs_verified_at": "2026-11-02T19:24:34Z",
+    "specs": {
+      "Socket": "LGA 1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "mATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-prime-b860-plus-csm",
+    "slug": "asus-prime-b860-plus-csm",
+    "name": "ASUS PRIME B860-PLUS-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1KA0-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/prime-b860-plus-csm/techspec/",
+    "specs_verified_at": "2026-11-02T19:24:34Z",
+    "specs": {
+      "Socket": "LGA 1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-prime-a620am-a-csm",
+    "slug": "asus-prime-a620am-a-csm",
+    "name": "ASUS PRIME A620AM-A-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1MY0-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/prime-a620am-a-csm/techspec/",
+    "specs_verified_at": "2026-11-02T19:24:34Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620A",
+      "Tipo de memoria": "DDR5",
+      "Formato": "mATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  }
+]

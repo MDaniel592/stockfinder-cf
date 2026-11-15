@@ -1,0 +1,970 @@
+[
+ {
+  "id": "coolmod-ram-cb8gu3200",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://content.crucial.com/content/dam/crucial/dram-products/basics/flyer/crucial-basics-memory-productflyer.pdf"
+  ]
+ },
+ {
+  "id": "coolmod-ram-cb8gu3200",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://content.crucial.com/content/dam/crucial/dram-products/basics/flyer/crucial-basics-memory-productflyer.pdf"
+  ]
+ },
+ {
+  "id": "crucial-ct32g56c46u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct32g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct32g56c46u5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct32g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct32g56c46u5",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct32g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct16g56c46u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct16g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct16g56c46u5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct16g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct16g56c46u5",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct16g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct8g56c46u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct8g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct8g56c46u5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct8g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct8g56c46u5",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct8g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct2k16g56c46u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct2k16g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct2k16g56c46u5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct2k16g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct2k16g56c46u5",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct2k16g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-cp2k16g56c46u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp2k16g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-cp2k16g56c46u5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp2k16g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-cp2k32g56c46u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp2k32g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-cp2k32g56c46u5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp2k32g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct32g48c40u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct32g48c40u5"
+  ]
+ },
+ {
+  "id": "crucial-ct32g48c40u5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct32g48c40u5"
+  ]
+ },
+ {
+  "id": "crucial-ct32g48c40u5",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct32g48c40u5"
+  ]
+ },
+ {
+  "id": "crucial-ct8g48c40u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct8g48c40u5"
+  ]
+ },
+ {
+  "id": "crucial-ct8g48c40u5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct8g48c40u5"
+  ]
+ },
+ {
+  "id": "crucial-ct8g48c40u5",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct8g48c40u5"
+  ]
+ },
+ {
+  "id": "crucial-ct2k16g48c40u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct2k16g48c40u5"
+  ]
+ },
+ {
+  "id": "crucial-ct2k16g48c40u5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct2k16g48c40u5"
+  ]
+ },
+ {
+  "id": "crucial-ct2k16g48c40u5",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct2k16g48c40u5"
+  ]
+ },
+ {
+  "id": "crucial-ct32g64c52cu5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://uk.crucial.com/memory/ddr5/ct32g64c52cu5"
+  ]
+ },
+ {
+  "id": "crucial-ct32g64c52cu5",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://uk.crucial.com/memory/ddr5/ct32g64c52cu5"
+  ]
+ },
+ {
+  "id": "crucial-ct32g64c52cu5",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://uk.crucial.com/memory/ddr5/ct32g64c52cu5"
+  ]
+ },
+ {
+  "id": "crucial-ct8g4dfra32a",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct8g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-ct8g4dfra32a",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct8g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-ct8g4dfra32a",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct8g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-ct16g4dfra32a",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-ct16g4dfra32a",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-ct16g4dfra32a",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-ct2k16g4dfra32a",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct2k16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-ct2k16g4dfra32a",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct2k16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-ct2k16g4dfra32a",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct2k16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-ct32g4dfd832a",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct32g4dfd832a"
+  ]
+ },
+ {
+  "id": "crucial-ct32g4dfd832a",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct32g4dfd832a"
+  ]
+ },
+ {
+  "id": "crucial-ct32g4dfd832a",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/ct32g4dfd832a"
+  ]
+ },
+ {
+  "id": "crucial-cp32g4dfra32a",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/cp32g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-cp32g4dfra32a",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/cp32g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-cp16g4dfra32a",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/cp16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-cp16g4dfra32a",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/cp16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-cp2k16g4dfra32a",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/cp2k16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-cp2k16g4dfra32a",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/cp2k16g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-cp2k32g4dfra32a",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/cp2k32g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-cp2k32g4dfra32a",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr4/cp2k32g4dfra32a"
+  ]
+ },
+ {
+  "id": "crucial-cp2k16g60c36u5b",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp2k16g60c36u5b"
+  ]
+ },
+ {
+  "id": "crucial-cp2k16g60c36u5b",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp2k16g60c36u5b"
+  ]
+ },
+ {
+  "id": "crucial-cp16g60c36u5b",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp16g60c36u5b"
+  ]
+ },
+ {
+  "id": "crucial-cp16g60c36u5b",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp16g60c36u5b"
+  ]
+ },
+ {
+  "id": "crucial-cp2k16g64c38u5w",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp2k16g64c38u5w"
+  ]
+ },
+ {
+  "id": "crucial-cp2k16g64c32u5w",
+  "key": "Formato",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp2k16g64c32u5w"
+  ]
+ },
+ {
+  "id": "crucial-cp2k24g56c46u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp2k24g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct2k32g56c46u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct2k32g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-ct2k32g56c46u5",
+  "key": "Perfil",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/ct2k32g56c46u5"
+  ]
+ },
+ {
+  "id": "crucial-cp16g56c46u5",
+  "key": "Latencia",
+  "reason": "Crucial/Micron bloquea el acceso automatizado (HTTP 403 Request Rejected en curl y WebFetch); sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.crucial.com/memory/ddr5/cp16g56c46u5"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3016g-dclarwh",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.adata.com/storage/downloadfile/datasheet_xpg_lancer_rgb_ddr5_memory_v5.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3016g-dclarwh",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.adata.com/storage/downloadfile/datasheet_xpg_lancer_rgb_ddr5_memory_v5.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c4816g-slabrwh",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260520.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c4816g-slabbk",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_v3.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax4u320016g16a-sbkd35",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory_20260402.pdf"
+  ]
+ },
+ {
+  "id": "adata-ad5u480016g-s",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_ddr5_4800_u_dimm_v2.pdf"
+  ]
+ },
+ {
+  "id": "adata-ad4u266616g19-sgn",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_premier_ddr4_2666_u_dimm_20260129.pdf"
+  ]
+ },
+ {
+  "id": "adata-ad5u560016g-s",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.adata.com/storage/downloadfile/datasheet_ddr5_5600_u_dimm_memory_module_v1.pdf"
+  ]
+ },
+ {
+  "id": "adata-ad5u48008g-s",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_ddr5_4800_u_dimm_v2.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax4u32008g16a-sbkd35",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory_20260402.pdf"
+  ]
+ },
+ {
+  "id": "adata-ad4u26668g19-sgn",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_premier_ddr4_2666_u_dimm_20260129.pdf"
+  ]
+ },
+ {
+  "id": "adata-ad4u32008g22-sgn",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.adata.com/storage/downloadfile/datasheet_premier_ddr4_3200_u_dimm_v2.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3016g-clabk",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_ddr5_memory_20250919_v11.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3624g-slabrbk",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260430.pdf"
+  ]
+ },
+ {
+  "id": "adata-ad4u320016g22-sgn",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.adata.com/storage/downloadfile/datasheet_premier_ddr4_3200_u_dimm_v2.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax4u320032g16a-dtbkd35",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory.pdf"
+  ]
+ },
+ {
+  "id": "adata-ad5u480016g-r",
+  "key": "Latencia",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.adata.com/en/consumer/category/computer-memory/dram-module-ddr5-4800-u-dimm/"
+  ]
+ },
+ {
+  "id": "adata-ad5u480016g-r",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.adata.com/en/consumer/category/computer-memory/dram-module-ddr5-4800-u-dimm/"
+  ]
+ },
+ {
+  "id": "adata-ax4u320016g16a-dtbkd35g",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.xpg.com/en/xpg/dram-modules-spectrix-d35g-rgb-ddr4"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3032g-slabbk",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.xpg.com/en/xpg/dram-modules-lancer-blade-ddr5"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3032g-samrbk",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.xpg.com/en/xpg/dram-modules-armax-rgb-ddr5"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3016g-dtamrbk",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.xpg.com/en/xpg/dram-modules-armax-rgb-ddr5"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3032g-dtamrbk",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.xpg.com/en/xpg/dram-modules-armax-rgb-ddr5"
+  ]
+ },
+ {
+  "id": "adata-ax5u6400c3216g-dtlabbk",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.xpg.com/en/xpg/dram-modules-lancer-blade-ddr5"
+  ]
+ },
+ {
+  "id": "adata-ax4u360016g18i-dtbkd35",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://www.xpg.com/en/xpg/dram-modules-gammix-d35-ddr4"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3616g-dtlabrwh",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260520.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax5u6000c3616g-dtlabrwh",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260520.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax5u6400c3216g-dtlabwh",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://assets.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20260930.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax5u6400c3216g-dtlabwh",
+  "key": "Perfil",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://assets.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20260930.pdf"
+  ]
+ },
+ {
+  "id": "goodram-rival-deep-black-16gb-ddr4-3600-cl18",
+  "key": "Perfil",
+  "reason": "La ficha oficial no menciona perfil XMP/EXPO para este kit gaming ni lista el P/N; no se declara not_published por no poder comprobarlo",
+  "tried": [
+   "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/"
+  ]
+ },
+ {
+  "id": "goodram-rival-deep-black-16gb-2x8gb-ddr4-3600-cl18",
+  "key": "Perfil",
+  "reason": "La ficha oficial no menciona perfil XMP/EXPO para este kit gaming ni lista el P/N; no se declara not_published por no poder comprobarlo",
+  "tried": [
+   "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/"
+  ]
+ },
+ {
+  "id": "goodram-rival-deep-black-32gb-2x16gb-ddr4-3600-cl18",
+  "key": "Perfil",
+  "reason": "La ficha oficial no menciona perfil XMP/EXPO para este kit gaming ni lista el P/N; no se declara not_published por no poder comprobarlo",
+  "tried": [
+   "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/"
+  ]
+ },
+ {
+  "id": "goodram-rival-radiant-32gb-ddr4-3200-cl16",
+  "key": "Perfil",
+  "reason": "La ficha oficial no menciona perfil XMP/EXPO para este kit gaming ni lista el P/N; no se declara not_published por no poder comprobarlo",
+  "tried": [
+   "https://www.goodram.com/de/produkte/goodram-rival-ddr4-radiant/"
+  ]
+ },
+ {
+  "id": "goodram-ir-x3200d464l16a-16g",
+  "key": "Perfil",
+  "reason": "La ficha oficial no menciona perfil XMP/EXPO para este kit gaming ni lista el P/N; no se declara not_published por no poder comprobarlo",
+  "tried": [
+   "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/"
+  ]
+ },
+ {
+  "id": "goodram-ir-x3200d464l16sa-8g",
+  "key": "Perfil",
+  "reason": "La ficha oficial no menciona perfil XMP/EXPO para este kit gaming ni lista el P/N; no se declara not_published por no poder comprobarlo",
+  "tried": [
+   "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/"
+  ]
+ },
+ {
+  "id": "goodram-ggrrd4-32l16sa-16gdc",
+  "key": "Perfil",
+  "reason": "La ficha oficial no menciona perfil XMP/EXPO para este kit gaming ni lista el P/N; no se declara not_published por no poder comprobarlo",
+  "tried": [
+   "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/"
+  ]
+ },
+ {
+  "id": "goodram-ggrgd4-32l16sa-16gdc",
+  "key": "Perfil",
+  "reason": "La ficha oficial no menciona perfil XMP/EXPO para este kit gaming ni lista el P/N; no se declara not_published por no poder comprobarlo",
+  "tried": [
+   "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/"
+  ]
+ },
+ {
+  "id": "goodram-ggrrd4-32l16sa-8g",
+  "key": "Perfil",
+  "reason": "La ficha oficial no menciona perfil XMP/EXPO para este kit gaming ni lista el P/N; no se declara not_published por no poder comprobarlo",
+  "tried": [
+   "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/"
+  ]
+ },
+ {
+  "id": "g-skill-f5-5200j4040a32gx2-rm5rw",
+  "key": "Formato",
+  "reason": "La ficha G.SKILL DDR5 solo indica la categoria U-DIMM/CU-DIMM, sin tipo de modulo explicito; no se infiere",
+  "tried": [
+   "https://www.gskill.com/product/165/421/1716885274/F5-5200J4040A32GX2-RM5RW"
+  ]
+ },
+ {
+  "id": "g-skill-f5-6000j3238f16gx2-tz5rk",
+  "key": "Formato",
+  "reason": "La ficha G.SKILL DDR5 solo indica la categoria U-DIMM/CU-DIMM, sin tipo de modulo explicito; no se infiere",
+  "tried": [
+   "https://www.gskill.com/cn/specification/204/376/1641798782/F5-6000J3238F16GX2-TZ5RK-Specification"
+  ]
+ },
+ {
+  "id": "g-skill-f5-6000j2836g16gx2-fx5w",
+  "key": "Formato",
+  "reason": "La ficha G.SKILL DDR5 solo indica la categoria U-DIMM/CU-DIMM, sin tipo de modulo explicito; no se infiere",
+  "tried": [
+   "https://www.gskill.com/qvl/165/396/1729505414/F5-6000J2836G16GX2-FX5-QVL"
+  ]
+ },
+ {
+  "id": "g-skill-f5-6000j2836g32gx2-rm5nrw",
+  "key": "Formato",
+  "reason": "La ficha G.SKILL DDR5 solo indica la categoria U-DIMM/CU-DIMM, sin tipo de modulo explicito; no se infiere",
+  "tried": [
+   "https://www.gskill.com/qvl/165/428/1731653954/F5-6000J2836G32GX2-RM5NRW-QVL"
+  ]
+ },
+ {
+  "id": "g-skill-f5-6000j2836g32gx2-rm5nrk",
+  "key": "Formato",
+  "reason": "La ficha G.SKILL DDR5 solo indica la categoria U-DIMM/CU-DIMM, sin tipo de modulo explicito; no se infiere",
+  "tried": [
+   "https://www.gskill.com/product/165/428/1731653613/F5-6000J2836G32GX2-RM5NRK"
+  ]
+ },
+ {
+  "id": "g-skill-f5-6000j2836g16gx2-fx5",
+  "key": "Formato",
+  "reason": "La ficha G.SKILL DDR5 solo indica la categoria U-DIMM/CU-DIMM, sin tipo de modulo explicito; no se infiere",
+  "tried": [
+   "https://www.gskill.com/qvl/165/396/1729505414/F5-6000J2836G16GX2-FX5-QVL"
+  ]
+ },
+ {
+  "id": "g-skill-f5-7200j3445g16gx2-tz5rk",
+  "key": "Formato",
+  "reason": "La ficha G.SKILL DDR5 solo indica la categoria U-DIMM/CU-DIMM, sin tipo de modulo explicito; no se infiere",
+  "tried": [
+   "https://www.gskill.com/qvl/165/374/1665644656/F5-7200J3445G16GX2-TZ5RK-QVL"
+  ]
+ },
+ {
+  "id": "g-skill-f5-5200j4040a16gx2-rm5rw",
+  "key": "Formato",
+  "reason": "La ficha G.SKILL DDR5 solo indica la categoria U-DIMM/CU-DIMM, sin tipo de modulo explicito; no se infiere",
+  "tried": [
+   "https://www.gskill.com/tw/specification/203/422/1716885128/F5-5200J4040A16GX2-RM5RW-Specification"
+  ]
+ },
+ {
+  "id": "gskill-f5-6000j3636f16gx2-tz5k",
+  "key": "Formato",
+  "reason": "La ficha G.SKILL DDR5 solo indica la categoria U-DIMM/CU-DIMM, sin tipo de modulo explicito; no se infiere",
+  "tried": [
+   "https://www.gskill.com/product/165/371/1640229700/F5-6000J3636F16GX2-TZ5K-F5-6000J3636F16GA2-TZ5K"
+  ]
+ },
+ {
+  "id": "lexar-ld5u16g60c30br-rgd",
+  "key": "Formato",
+  "reason": "Paginas Lexar (Ares/Thor) tras Cloudflare o solo indican 288PIN sin UDIMM explicito; sin datasheet por P/N",
+  "tried": [
+   "https://americas.lexar.com/product/lexar-ares-rgb-2nd-gen-ddr5-desktop-memory/"
+  ]
+ },
+ {
+  "id": "lexar-ld5u16g68c34la-rgd",
+  "key": "Formato",
+  "reason": "Paginas Lexar (Ares/Thor) tras Cloudflare o solo indican 288PIN sin UDIMM explicito; sin datasheet por P/N",
+  "tried": [
+   "https://americas.lexar.com/product/lexar-ares-rgb-ddr5-desktop-memory/"
+  ]
+ },
+ {
+  "id": "lexar-thor-2nd-gen-32gb-ddr5-6000-cl38",
+  "key": "Formato",
+  "reason": "Paginas Lexar (Ares/Thor) tras Cloudflare o solo indican 288PIN sin UDIMM explicito; sin datasheet por P/N",
+  "tried": [
+   "https://americas.lexar.com/product/lexar-thor-2nd-gen-ddr5-desktop-memory-blk/"
+  ]
+ },
+ {
+  "id": "lexar-ld5u16g60c28br-rgd",
+  "key": "Formato",
+  "reason": "Paginas Lexar (Ares/Thor) tras Cloudflare o solo indican 288PIN sin UDIMM explicito; sin datasheet por P/N",
+  "tried": [
+   "https://www.lexar.com/global/products/Lexar-ARES-RGB-2nd-Gen-DDR5-Desktop-Memory/"
+  ]
+ },
+ {
+  "id": "apacer-ah5u16g60c622mbaa-1",
+  "key": "Formato",
+  "reason": "La ficha oficial Apacer no da el dato por P/N en texto accesible (hoja solo indica 288-pin / tabla cargada por JS)",
+  "tried": [
+   "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Gaming/Data%20Sheet_NOX%20DDR5.pdf"
+  ]
+ },
+ {
+  "id": "apacer-ah5u16g60c622mbaa-1",
+  "key": "Perfil",
+  "reason": "La ficha oficial Apacer no da el dato por P/N en texto accesible (hoja solo indica 288-pin / tabla cargada por JS)",
+  "tried": [
+   "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Gaming/Data%20Sheet_NOX%20DDR5.pdf"
+  ]
+ },
+ {
+  "id": "apacer-ah5u16g56c522mbaa-1",
+  "key": "Latencia",
+  "reason": "La ficha oficial Apacer no da el dato por P/N en texto accesible (hoja solo indica 288-pin / tabla cargada por JS)",
+  "tried": [
+   "https://www.apacer.com/en/product/zadak-product/detail/zadak_memory/nox_ddr5"
+  ]
+ },
+ {
+  "id": "apacer-ah4u16g32c28ytbaa-1",
+  "key": "Formato",
+  "reason": "La ficha oficial Apacer no da el dato por P/N en texto accesible (hoja solo indica 288-pin / tabla cargada por JS)",
+  "tried": [
+   "https://www.apacer.com/upload/media/download/ZADAK/Data%20Sheet_TEX%20DDR4.pdf"
+  ]
+ },
+ {
+  "id": "forgeon-cyclone-pro-rgb-32gb-ddr5-6000-cl36",
+  "key": "Formato",
+  "reason": "Solo hay ficha de tienda (Cloudflare challenge, no se elude); no hay pagina del fabricante accesible",
+  "tried": [
+   "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-pro-rgb-ddr5-6000-mhz-32gb-2x16gb-cl36-negra"
+  ]
+ },
+ {
+  "id": "forgeon-fo-ddr-plus32gb-v2-b",
+  "key": "Formato",
+  "reason": "Solo hay ficha de tienda (Cloudflare challenge, no se elude); no hay pagina del fabricante accesible",
+  "tried": [
+   "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-32gb-2x16gb-cl16-negra"
+  ]
+ },
+ {
+  "id": "forgeon-fo-ddr-plus16gb-v2-b",
+  "key": "Formato",
+  "reason": "Solo hay ficha de tienda (Cloudflare challenge, no se elude); no hay pagina del fabricante accesible",
+  "tried": [
+   "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-plus-v2-ddr4-3200-mhz-16gb-2x8gb-cl16-negra"
+  ]
+ },
+ {
+  "id": "coolmod-ram-md16gsd43200-tb",
+  "key": "Formato",
+  "reason": "El PDF oficial PNY descargado no contiene contenido legible",
+  "tried": [
+   "https://cs.pny.com.tw/en/upload/download_files/en_download_list_21i02_yhwt83humb.pdf"
+  ]
+ },
+ {
+  "id": "coolmod-ram-md16gsd43200-tb",
+  "key": "Perfil",
+  "reason": "El PDF oficial PNY descargado no contiene contenido legible",
+  "tried": [
+   "https://cs.pny.com.tw/en/upload/download_files/en_download_list_21i02_yhwt83humb.pdf"
+  ]
+ },
+ {
+  "id": "adata-ax4u320016g16a-sbkd35g",
+  "key": "Formato",
+  "reason": "ADATA/XPG devuelve 403 (CloudFront) a curl y WebFetch; sin otra fuente oficial accesible",
+  "tried": [
+   "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_spectrix_d35g_ddr4_rgb_memory_20260402.pdf"
+  ]
+ }
+]

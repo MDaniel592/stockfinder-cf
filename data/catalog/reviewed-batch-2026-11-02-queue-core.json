@@ -1,0 +1,118 @@
+[
+  {
+    "id": "asus-prime-radeon-rx-9070-gre-oc-12gb",
+    "slug": "asus-prime-radeon-rx-9070-gre-oc-12gb",
+    "name": "ASUS Prime Radeon RX 9070 GRE OC Edition 12 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "PRIME-RX9070GRE-O12G",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070gre-o12g/techspec/",
+    "specs_verified_at": "2026-11-02T18:36:03Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 GRE",
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "192 bits",
+      "Velocidad de memoria": "18 Gbps",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "Hasta 2880 MHz (OC) / 2860 MHz (estándar)",
+      "Frecuencia de juego": "Hasta 2300 MHz (OC) / 2280 MHz (estándar)",
+      "Procesadores de flujo": "3072",
+      "Dimensiones": "312 × 130 × 50 mm",
+      "Ranuras": "2,5",
+      "Fuente recomendada": "650 W",
+      "Conectores de alimentación": "2 × 8 pines"
+    }
+  },
+  {
+    "id": "asus-dual-radeon-rx-7800-xt-oc-16gb",
+    "slug": "asus-dual-radeon-rx-7800-xt-oc-16gb",
+    "name": "ASUS Dual Radeon RX 7800 XT OC Edition 16 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "DUAL-RX7800XT-O16G",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx7800xt-o16g/",
+    "specs_verified_at": "2026-11-02T18:36:03Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 7800 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Velocidad de memoria": "19,5 Gbps",
+      "Interfaz": "PCIe 4.0",
+      "Frecuencia turbo": "Hasta 2520 MHz (OC) / 2475 MHz (estándar)",
+      "Frecuencia de juego": "Hasta 2213 MHz (OC) / 2169 MHz (estándar)",
+      "Procesadores de flujo": "3840",
+      "Dimensiones": "279,9 × 133,9 × 49,3 mm",
+      "Ranuras": "2,47",
+      "Fuente recomendada": "750 W",
+      "Conectores de alimentación": "2 × 8 pines"
+    }
+  },
+  {
+    "id": "amd-ryzen-5-7600x",
+    "slug": "amd-ryzen-5-7600x",
+    "name": "AMD Ryzen 5 7600X",
+    "category_id": "cpu",
+    "brand": "AMD",
+    "mpn": "100-000000593",
+    "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600x.html",
+    "specs_verified_at": "2026-11-08T21:42:37Z",
+    "specs": {
+      "Socket": "AM5",
+      "Arquitectura": "Zen 4",
+      "Núcleos": "6",
+      "Hilos": "12",
+      "Frecuencia base": "4,7 GHz",
+      "Frecuencia turbo": "Hasta 5,3 GHz",
+      "Caché L2": "6 MB",
+      "Caché L3": "32 MB",
+      "TDP": "105 W",
+      "Memoria": "DDR5",
+      "Gráfica integrada": "AMD Radeon Graphics, 2 núcleos, 2200 MHz",
+      "Memoria compatible": "DDR5",
+      "Memoria máxima": "128 GB",
+      "Gráficos integrados": "AMD Radeon Graphics"
+    }
+  },
+  {
+    "id": "asrock-b850m-challenger",
+    "slug": "asrock-b850m-challenger",
+    "name": "ASRock B850M Challenger",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "manufacturer_url": "https://www.asrock.com/MB/AMD/B850M%20Challenger/index.us.asp",
+    "specs_verified_at": "2026-11-02T18:36:03Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX (24,4 × 24,4 cm)",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "PCIe principal": "PCIe 5.0 x16",
+      "Red": "2,5 GbE"
+    }
+  },
+  {
+    "id": "asrock-intel-arc-a310-low-profile-4gb",
+    "slug": "asrock-intel-arc-a310-low-profile-4gb",
+    "name": "ASRock Intel Arc A310 Low Profile 4 GB",
+    "category_id": "gpu",
+    "brand": "ASRock",
+    "mpn": "A310 LP 4G",
+    "manufacturer_url": "https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20A310%20Low%20Profile%204GB/",
+    "specs_verified_at": "2026-11-02T18:36:03Z",
+    "specs": {
+      "Chip gráfico": "Arc A310",
+      "Memoria": "4 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "64 bits",
+      "Interfaz": "PCIe 4.0",
+      "Formato": "Low Profile",
+      "Refrigeración": "Doble ventilador",
+      "Dimensiones": "169 × 69 × 39 mm",
+      "Salidas": "1 × DisplayPort 2.0; 1 × HDMI 2.0b"
+    }
+  }
+]

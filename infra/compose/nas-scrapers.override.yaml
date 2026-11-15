@@ -1,0 +1,10 @@
+# NAS tras mover el nucleo a Azure: los scrapers con BD usan el sidecar Tailscale y la BD de Azure.
+services:
+  pccomponentes-offers: &azure-db
+    network_mode: "container:stockfinder-ts"
+    environment:
+      DATABASE_URL: postgresql://stockfinder:${POSTGRES_PASSWORD}@100.80.73.54:5432/stockfinder
+    depends_on: !override
+      pccomponentes-init: {condition: service_completed_successfully}
+  pccomponentes-discovery:
+    <<: *azure-db

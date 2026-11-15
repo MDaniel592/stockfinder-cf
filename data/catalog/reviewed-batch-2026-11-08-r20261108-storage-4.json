@@ -1,0 +1,663 @@
+[
+ {
+  "id": "kingston-sa400s37-480g",
+  "slug": "kingston-sa400s37-480g",
+  "name": "Kingston A400 480 GB (SA400S37/480G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SA400S37/480G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/a400-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SA400S37_en.pdf",
+    "supports": "Datasheet Kingston A400: tabla de part numbers 2.5\" lista SA400S37/480G; 480 GB, 500/450 MB/s, 160 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "480 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "500 MB/s",
+   "Escritura secuencial": "450 MB/s",
+   "Resistencia": "160 TBW"
+  }
+ },
+ {
+  "id": "kingston-sa400s37-960g",
+  "slug": "kingston-sa400s37-960g",
+  "name": "Kingston A400 960 GB (SA400S37/960G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SA400S37/960G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/a400-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SA400S37_en.pdf",
+    "supports": "Datasheet Kingston A400: tabla de part numbers 2.5\" lista SA400S37/960G; 960 GB, 500/450 MB/s, 300 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "960 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "500 MB/s",
+   "Escritura secuencial": "450 MB/s",
+   "Resistencia": "300 TBW"
+  }
+ },
+ {
+  "id": "kingston-sedc600m-960g",
+  "slug": "kingston-sedc600m-960g",
+  "name": "Kingston DC600M 960 GB (SEDC600M/960G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC600M/960G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc600m-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC600M_en.pdf",
+    "supports": "Datasheet Kingston DC600M/DC600ME: seccion Part Numbers lista SEDC600M/960G; 960 GB, 560/530 MB/s, 1752 TBW, 3D TLC."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "960 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Resistencia": "1752 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-skc600-1024g",
+  "slug": "kingston-skc600-1024g",
+  "name": "Kingston KC600 1 TB (SKC600/1024G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SKC600/1024G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/kc600-sata-ssd",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/KC600_en.pdf",
+    "supports": "Datasheet Kingston KC600: Part Numbers KC600 lista SKC600/1024G; 1 TB, 550/520 MB/s, 600 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "520 MB/s",
+   "Resistencia": "600 TBW",
+   "Controlador": "SM2259",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-sa400s37-240g",
+  "slug": "kingston-sa400s37-240g",
+  "name": "Kingston A400 240 GB (SA400S37/240G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SA400S37/240G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/a400-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SA400S37_en.pdf",
+    "supports": "Datasheet Kingston A400: tabla de part numbers 2.5\" lista SA400S37/240G; 240 GB, 500/350 MB/s, 80 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "240 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "500 MB/s",
+   "Escritura secuencial": "350 MB/s",
+   "Resistencia": "80 TBW"
+  }
+ },
+ {
+  "id": "kingston-sedc2000bm8-480g",
+  "slug": "kingston-sedc2000bm8-480g",
+  "name": "Kingston DC2000B 480 GB (SEDC2000BM8/480G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC2000BM8/480G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc2000b-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC2000B_en.pdf",
+    "supports": "Datasheet Kingston DC2000B: Part Numbers Heatsink lista SEDC2000BM8/480G; 480 GB, 7000/800 MB/s, 350 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "480 GB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "Sí",
+   "Lectura secuencial": "7000 MB/s",
+   "Escritura secuencial": "800 MB/s",
+   "Resistencia": "350 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-skc600ms-256g",
+  "slug": "kingston-skc600ms-256g",
+  "name": "Kingston KC600 mSATA 256 GB (SKC600MS/256G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SKC600MS/256G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/kc600-sata-ssd",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/KC600_en.pdf",
+    "supports": "Datasheet Kingston KC600: Part Numbers mSATA lista SKC600MS/256G; 256 GB, 550/500 MB/s, 150 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "256 GB",
+   "Interfaz": "SATA III",
+   "Formato": "mSATA",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s",
+   "Resistencia": "150 TBW",
+   "Controlador": "SM2259",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-skc600-512g",
+  "slug": "kingston-skc600-512g",
+  "name": "Kingston KC600 512 GB (SKC600/512G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SKC600/512G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/kc600-sata-ssd",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/KC600_en.pdf",
+    "supports": "Datasheet Kingston KC600: Part Numbers KC600 lista SKC600/512G; 512 GB, 550/520 MB/s, 300 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "512 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "520 MB/s",
+   "Resistencia": "300 TBW",
+   "Controlador": "SM2259",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-skc600-256g",
+  "slug": "kingston-skc600-256g",
+  "name": "Kingston KC600 256 GB (SKC600/256G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SKC600/256G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/kc600-sata-ssd",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/KC600_en.pdf",
+    "supports": "Datasheet Kingston KC600: Part Numbers KC600 lista SKC600/256G; 256 GB, 550/500 MB/s, 150 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "256 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s",
+   "Resistencia": "150 TBW",
+   "Controlador": "SM2259",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-sedc600m-480g",
+  "slug": "kingston-sedc600m-480g",
+  "name": "Kingston DC600M 480 GB (SEDC600M/480G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC600M/480G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc600m-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC600M_en.pdf",
+    "supports": "Datasheet Kingston DC600M/DC600ME: seccion Part Numbers lista SEDC600M/480G; 480 GB, 560/470 MB/s, 876 TBW, 3D TLC."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "480 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "470 MB/s",
+   "Resistencia": "876 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-sedc600me-1920g",
+  "slug": "kingston-sedc600me-1920g",
+  "name": "Kingston DC600ME 1.92 TB (SEDC600ME/1920G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC600ME/1920G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc600m-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC600M_en.pdf",
+    "supports": "Datasheet Kingston DC600M/DC600ME: seccion Part Numbers lista SEDC600ME/1920G; 1.92 TB, 560/530 MB/s, 3504 TBW, 3D TLC."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1.92 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Resistencia": "3504 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-sedc600me-3840g",
+  "slug": "kingston-sedc600me-3840g",
+  "name": "Kingston DC600ME 3.84 TB (SEDC600ME/3840G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC600ME/3840G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc600m-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC600M_en.pdf",
+    "supports": "Datasheet Kingston DC600M/DC600ME: seccion Part Numbers lista SEDC600ME/3840G; 3.84 TB, 560/530 MB/s, 7008 TBW, 3D TLC."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "3.84 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Resistencia": "7008 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-sedc600me-480g",
+  "slug": "kingston-sedc600me-480g",
+  "name": "Kingston DC600ME 480 GB (SEDC600ME/480G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC600ME/480G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc600m-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC600M_en.pdf",
+    "supports": "Datasheet Kingston DC600M/DC600ME: seccion Part Numbers lista SEDC600ME/480G; 480 GB, 560/470 MB/s, 876 TBW, 3D TLC."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "480 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "470 MB/s",
+   "Resistencia": "876 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-sedc600me-960g",
+  "slug": "kingston-sedc600me-960g",
+  "name": "Kingston DC600ME 960 GB (SEDC600ME/960G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC600ME/960G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc600m-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC600M_en.pdf",
+    "supports": "Datasheet Kingston DC600M/DC600ME: seccion Part Numbers lista SEDC600ME/960G; 960 GB, 560/530 MB/s, 1752 TBW, 3D TLC."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "960 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Resistencia": "1752 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-sedc600m-1920g",
+  "slug": "kingston-sedc600m-1920g",
+  "name": "Kingston DC600M 1.92 TB (SEDC600M/1920G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC600M/1920G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc600m-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC600M_en.pdf",
+    "supports": "Datasheet Kingston DC600M/DC600ME: seccion Part Numbers lista SEDC600M/1920G; 1.92 TB, 560/530 MB/s, 3504 TBW, 3D TLC."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1.92 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Resistencia": "3504 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-sedc600m-3840g",
+  "slug": "kingston-sedc600m-3840g",
+  "name": "Kingston DC600M 3.84 TB (SEDC600M/3840G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC600M/3840G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc600m-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC600M_en.pdf",
+    "supports": "Datasheet Kingston DC600M/DC600ME: seccion Part Numbers lista SEDC600M/3840G; 3.84 TB, 560/530 MB/s, 7008 TBW, 3D TLC."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "3.84 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Resistencia": "7008 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-sedc600m-7680g",
+  "slug": "kingston-sedc600m-7680g",
+  "name": "Kingston DC600M 7.68 TB (SEDC600M/7680G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SEDC600M/7680G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/dc600m-data-center-solid-state-drive",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/SEDC600M_en.pdf",
+    "supports": "Datasheet Kingston DC600M/DC600ME: seccion Part Numbers lista SEDC600M/7680G; 7.68 TB, 560/530 MB/s, 14016 TBW, 3D TLC."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "7.68 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Resistencia": "14016 TBW",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-skc600-2048g",
+  "slug": "kingston-skc600-2048g",
+  "name": "Kingston KC600 2 TB (SKC600/2048G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SKC600/2048G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/kc600-sata-ssd",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/KC600_en.pdf",
+    "supports": "Datasheet Kingston KC600: Part Numbers KC600 lista SKC600/2048G; 2 TB, 550/520 MB/s, 1200 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "520 MB/s",
+   "Resistencia": "1200 TBW",
+   "Controlador": "SM2259",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-skc600ms-1024g",
+  "slug": "kingston-skc600ms-1024g",
+  "name": "Kingston KC600 mSATA 1 TB (SKC600MS/1024G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SKC600MS/1024G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/kc600-sata-ssd",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/KC600_en.pdf",
+    "supports": "Datasheet Kingston KC600: Part Numbers mSATA lista SKC600MS/1024G; 1 TB, 550/520 MB/s, 600 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "mSATA",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "520 MB/s",
+   "Resistencia": "600 TBW",
+   "Controlador": "SM2259",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "kingston-skc600ms-512g",
+  "slug": "kingston-skc600ms-512g",
+  "name": "Kingston KC600 mSATA 512 GB (SKC600MS/512G)",
+  "category_id": "storage",
+  "brand": "Kingston",
+  "mpn": "SKC600MS/512G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/ssd/kc600-sata-ssd",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.kingston.com/datasheets/KC600_en.pdf",
+    "supports": "Datasheet Kingston KC600: Part Numbers mSATA lista SKC600MS/512G; 512 GB, 550/520 MB/s, 300 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "512 GB",
+   "Interfaz": "SATA III",
+   "Formato": "mSATA",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "520 MB/s",
+   "Resistencia": "300 TBW",
+   "Controlador": "SM2259",
+   "Tipo de NAND": "3D TLC"
+  }
+ },
+ {
+  "id": "crucial-ct2000bx500ssd1",
+  "slug": "crucial-ct2000bx500ssd1",
+  "name": "Crucial BX500 2 TB (CT2000BX500SSD1)",
+  "category_id": "storage",
+  "brand": "Crucial",
+  "mpn": "CT2000BX500SSD1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://eu.crucial.com/ssd/bx500/ct2000bx500ssd1",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://eu.crucial.com/ssd/bx500/ct2000bx500ssd1",
+    "supports": "Ficha oficial Crucial EU titulada \"Crucial BX500 SSD SATA 2.5-inch | CT1000BX500SSD1\" que lista el codigo CT2000BX500SSD1 entre las variantes BX500."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "crucial-ct240bx500ssd1",
+  "slug": "crucial-ct240bx500ssd1",
+  "name": "Crucial BX500 240 GB (CT240BX500SSD1)",
+  "category_id": "storage",
+  "brand": "Crucial",
+  "mpn": "CT240BX500SSD1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://eu.crucial.com/ssd/bx500/ct240bx500ssd1",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://eu.crucial.com/ssd/bx500/ct240bx500ssd1",
+    "supports": "Ficha oficial Crucial EU titulada \"Crucial BX500 SSD SATA 2.5-inch | CT1000BX500SSD1\" que lista el codigo CT240BX500SSD1 entre las variantes BX500."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "240 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "crucial-ct500bx500ssd1",
+  "slug": "crucial-ct500bx500ssd1",
+  "name": "Crucial BX500 500 GB (CT500BX500SSD1)",
+  "category_id": "storage",
+  "brand": "Crucial",
+  "mpn": "CT500BX500SSD1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://eu.crucial.com/ssd/bx500/ct500bx500ssd1",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://eu.crucial.com/ssd/bx500/ct500bx500ssd1",
+    "supports": "Ficha oficial Crucial EU titulada \"Crucial BX500 SSD SATA 2.5-inch | CT1000BX500SSD1\" que lista el codigo CT500BX500SSD1 entre las variantes BX500."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "crucial-ct2000t500ssd8",
+  "slug": "crucial-ct2000t500ssd8",
+  "name": "Crucial T500 2 TB (CT2000T500SSD8)",
+  "category_id": "storage",
+  "brand": "Crucial",
+  "mpn": "CT2000T500SSD8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.crucial.com/ssd/t500/ct2000t500ssd8",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.crucial.com/ssd/t500/ct2000t500ssd8",
+    "supports": "Ficha oficial crucial.com titulada \"Crucial T500 2TB PCIe Gen4 NVMe M.2 SSD | CT2000T500SSD8\"; variante SSD8 sin disipador (SSD5 es la version con disipador, listada aparte)."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "crucial-ct1000bx500ssd1",
+  "slug": "crucial-ct1000bx500ssd1",
+  "name": "Crucial BX500 1 TB (CT1000BX500SSD1)",
+  "category_id": "storage",
+  "brand": "Crucial",
+  "mpn": "CT1000BX500SSD1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://eu.crucial.com/ssd/bx500/ct1000bx500ssd1",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://eu.crucial.com/ssd/bx500/ct1000bx500ssd1",
+    "supports": "Ficha oficial Crucial EU titulada \"Crucial BX500 SSD SATA 2.5-inch | CT1000BX500SSD1\" que lista el codigo CT1000BX500SSD1 entre las variantes BX500."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ }
+]

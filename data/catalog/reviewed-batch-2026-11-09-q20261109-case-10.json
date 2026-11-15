@@ -1,0 +1,100 @@
+[
+ {
+  "id": "lian-li-lancool-217-blanco-lan217w",
+  "slug": "lian-li-lancool-217-blanco-lan217w",
+  "name": "Lian Li Lancool 217 Blanco (LAN217W)",
+  "category_id": "case",
+  "brand": "Lian Li",
+  "mpn": "LAN217W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/lancool-217/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "SSI-EEB, E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "380 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "2 × 170 mm (frontal) + 1 × 140 mm (trasero) + 2 × 120 mm (sobre la fuente)",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "482 × 238 × 503 mm (fondo × ancho × alto)"
+  }
+ },
+ {
+  "id": "hiditec-h3-pro-blanco-cha010060",
+  "slug": "hiditec-h3-pro-blanco-cha010060",
+  "name": "Hiditec H3 PRO Blanco (CHA010060)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010060",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/74-35-h3-pro.html",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 120 mm (trasero)",
+   "Dimensiones": "436 × 291 × 435 mm"
+  }
+ },
+ {
+  "id": "hiditec-h3-pro-negro-cha010059",
+  "slug": "hiditec-h3-pro-negro-cha010059",
+  "name": "Hiditec H3 PRO Negro (CHA010059)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010059",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/74-35-h3-pro.html",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 120 mm (trasero)",
+   "Dimensiones": "436 × 291 × 435 mm"
+  }
+ },
+ {
+  "id": "hiditec-sky-negro-cha010056",
+  "slug": "hiditec-sky-negro-cha010056",
+  "name": "Hiditec SKY Negro (CHA010056)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010056",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/58-sky.html",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "175 mm",
+   "Dimensiones": "420 × 285 × 400 mm"
+  }
+ },
+ {
+  "id": "hiditec-sky-blanco-cha010057",
+  "slug": "hiditec-sky-blanco-cha010057",
+  "name": "Hiditec SKY Blanco (CHA010057)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010057",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/58-sky.html",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "175 mm",
+   "Dimensiones": "420 × 285 × 400 mm"
+  }
+ }
+]

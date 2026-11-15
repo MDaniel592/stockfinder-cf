@@ -1,0 +1,597 @@
+[
+  {
+    "id": "mars-gaming-mcpu-lcdpro-negro-mcpulcdpro",
+    "slug": "mars-gaming-mcpu-lcdpro-negro-mcpulcdpro",
+    "name": "Mars Gaming MCPU-LCDPRO Negro (MCPULCDPRO)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPULCDPRO",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-lcdpro",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "2 × 120 mm",
+      "Altura": "158 mm",
+      "Heatpipes": "8"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-x3-mcpux3",
+    "slug": "mars-gaming-mcpu-x3-mcpux3",
+    "name": "Mars Gaming MCPU-X3 (MCPUX3)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPUX3",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-x3",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "1 × 90 mm",
+      "Altura": "136 mm",
+      "Heatpipes": "3"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-xt-blanco-mcpuxtw",
+    "slug": "mars-gaming-mcpu-xt-blanco-mcpuxtw",
+    "name": "Mars Gaming MCPU-XT Blanco (MCPUXTW)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPUXTW",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-xt",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, LGA2066, LGA2011, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "2 × 120 mm",
+      "Altura": "145 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-vr-rosa-mcpuvrp",
+    "slug": "mars-gaming-mcpu-vr-rosa-mcpuvrp",
+    "name": "Mars Gaming MCPU-VR Rosa (MCPUVRP)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPUVRP",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-vr",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, LGA2066, LGA2011, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Altura": "151 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-xu6-blanco-mcpuxu6w",
+    "slug": "mars-gaming-mcpu-xu6-blanco-mcpuxu6w",
+    "name": "Mars Gaming MCPU-XU6 Blanco (MCPUXU6W)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPUXU6W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-xu6",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, LGA2066, LGA2011, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "2 × 120 mm",
+      "Altura": "155 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-xu9-blanco-mcpuxu9w",
+    "slug": "mars-gaming-mcpu-xu9-blanco-mcpuxu9w",
+    "name": "Mars Gaming MCPU-XU9 Blanco (MCPUXU9W)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPUXU9W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-xu9",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, LGA2066, LGA2011, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "2 × 120 mm",
+      "Altura": "155 mm",
+      "Heatpipes": "9"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-lcd-negro-mcpulcd",
+    "slug": "mars-gaming-mcpu-lcd-negro-mcpulcd",
+    "name": "Mars Gaming MCPU-LCD Negro (MCPULCD)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPULCD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-lcd",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "156 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-vr-negro-mcpuvr",
+    "slug": "mars-gaming-mcpu-vr-negro-mcpuvr",
+    "name": "Mars Gaming MCPU-VR Negro (MCPUVR)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPUVR",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-vr",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, LGA2066, LGA2011, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Altura": "151 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-x5-blanco-mcpux5w",
+    "slug": "mars-gaming-mcpu-x5-blanco-mcpux5w",
+    "name": "Mars Gaming MCPU-X5 Blanco (MCPUX5W)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPUX5W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-x5",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "154 mm",
+      "Heatpipes": "5"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-lcd-blanco-mcpulcdw",
+    "slug": "mars-gaming-mcpu-lcd-blanco-mcpulcdw",
+    "name": "Mars Gaming MCPU-LCD Blanco (MCPULCDW)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPULCDW",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-lcd",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "156 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-x5argb-negro-mcpux5argb",
+    "slug": "mars-gaming-mcpu-x5argb-negro-mcpux5argb",
+    "name": "Mars Gaming MCPU-X5ARGB Negro (MCPUX5ARGB)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPUX5ARGB",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-x5argb",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "154 mm",
+      "Heatpipes": "5"
+    }
+  },
+  {
+    "id": "nox-hummer-h-400-nxhummerh400",
+    "slug": "nox-hummer-h-400-nxhummerh400",
+    "name": "NOX Hummer H-400 (NXHUMMERH400)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERH400",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/h-400",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "155 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "nox-hummer-h-903-nxhummerh903",
+    "slug": "nox-hummer-h-903-nxhummerh903",
+    "name": "NOX Hummer H-903 (NXHUMMERH903)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERH903",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/h-903",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA1156",
+      "Ventiladores": "1 × 92 mm",
+      "Altura": "123 mm",
+      "Heatpipes": "3"
+    }
+  },
+  {
+    "id": "nox-hummer-h-200-lcd-nxhummerh200lcd",
+    "slug": "nox-hummer-h-200-lcd-nxhummerh200lcd",
+    "name": "NOX Hummer H-200 LCD (NXHUMMERH200LCD)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERH200LCD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/h-200-lcd",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+      "Ventiladores": "2 × 120 mm",
+      "Altura": "154 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "nox-hummer-h-212-nxhummerh212",
+    "slug": "nox-hummer-h-212-nxhummerh212",
+    "name": "NOX Hummer H-212 (NXHUMMERH212)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERH212",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/h-212",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+      "Ventiladores": "1 × 120 mm",
+      "Heatpipes": "3",
+      "Altura": "135 mm"
+    }
+  },
+  {
+    "id": "nox-hummer-r-400-argb-negro-nxhummerr400argbbk",
+    "slug": "nox-hummer-r-400-argb-negro-nxhummerr400argbbk",
+    "name": "NOX Hummer R-400 ARGB Negro (NXHUMMERR400ARGBBK)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERR400ARGBBK",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/r-400-argb-black",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "148 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "nox-hummer-r-400-blanco-nxhummerr400wh",
+    "slug": "nox-hummer-r-400-blanco-nxhummerr400wh",
+    "name": "NOX Hummer R-400 Blanco (NXHUMMERR400WH)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERR400WH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/r-400-white",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "148 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "nox-hummer-r-400-argb-blanco-nxhummerr400argbwh",
+    "slug": "nox-hummer-r-400-argb-blanco-nxhummerr400argbwh",
+    "name": "NOX Hummer R-400 ARGB Blanco (NXHUMMERR400ARGBWH)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERR400ARGBWH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/r-400-argb-white",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "148 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "nox-hummer-h-200-argb-nxhummerh200argb",
+    "slug": "nox-hummer-h-200-argb-nxhummerh200argb",
+    "name": "NOX Hummer H-200 ARGB (NXHUMMERH200ARGB)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERH200ARGB",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/h-200-argb",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+      "Ventiladores": "2 × 130 mm",
+      "Altura": "158 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "nox-hummer-h-500-nxhummerh500",
+    "slug": "nox-hummer-h-500-nxhummerh500",
+    "name": "NOX Hummer H-500 (NXHUMMERH500)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERH500",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/h-500",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "152 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "nox-hummer-r-400-negro-nxhummerr400bk",
+    "slug": "nox-hummer-r-400-negro-nxhummerr400bk",
+    "name": "NOX Hummer R-400 Negro (NXHUMMERR400BK)",
+    "category_id": "cooler",
+    "brand": "NOX",
+    "mpn": "NXHUMMERR400BK",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.nox-xtreme.com/refrigeracion/r-400-black",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "148 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "modecom-volcano-0c-t100-negro-mc-c-t100-000-b",
+    "slug": "modecom-volcano-0c-t100-negro-mc-c-t100-000-b",
+    "name": "Modecom Volcano 0C T100 Negro (MC-C-T100-000-B)",
+    "category_id": "cooler",
+    "brand": "Modecom",
+    "mpn": "MC-C-T100-000-B",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://modecom.pl/en/products/volcano-0c-t100-120-black",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "modecom-volcano-0c-t200-blanco-mc-c-t200-000-w",
+    "slug": "modecom-volcano-0c-t200-blanco-mc-c-t200-000-w",
+    "name": "Modecom Volcano 0C T200 Blanco (MC-C-T200-000-W)",
+    "category_id": "cooler",
+    "brand": "Modecom",
+    "mpn": "MC-C-T200-000-W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://modecom.pl/en/products/volcano-0c-t200-120-white",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "modecom-volcano-0c-t721-argb-blanco-mc-c-t721-af0-w",
+    "slug": "modecom-volcano-0c-t721-argb-blanco-mc-c-t721-af0-w",
+    "name": "Modecom Volcano 0C T721 ARGB Blanco (MC-C-T721-AF0-W)",
+    "category_id": "cooler",
+    "brand": "Modecom",
+    "mpn": "MC-C-T721-AF0-W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://modecom.pl/en/products/volcano-0c-t721-argb-120-white",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "modecom-volcano-0c-t700-negro-mc-c-t700-000-b",
+    "slug": "modecom-volcano-0c-t700-negro-mc-c-t700-000-b",
+    "name": "Modecom Volcano 0C T700 Negro (MC-C-T700-000-B)",
+    "category_id": "cooler",
+    "brand": "Modecom",
+    "mpn": "MC-C-T700-000-B",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://modecom.pl/en/products/volcano-0c-t700-120-black",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "modecom-volcano-0c-t201-argb-blanco-mc-c-t201-af0-w",
+    "slug": "modecom-volcano-0c-t201-argb-blanco-mc-c-t201-af0-w",
+    "name": "Modecom Volcano 0C T201 ARGB Blanco (MC-C-T201-AF0-W)",
+    "category_id": "cooler",
+    "brand": "Modecom",
+    "mpn": "MC-C-T201-AF0-W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://modecom.pl/en/products/volcano-0c-t201-argb-120-white",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "modecom-volcano-0c-t202-lcd-argb-blanco-mc-c-t202-afl-w",
+    "slug": "modecom-volcano-0c-t202-lcd-argb-blanco-mc-c-t202-afl-w",
+    "name": "Modecom Volcano 0C T202 LCD ARGB Blanco (MC-C-T202-AFL-W)",
+    "category_id": "cooler",
+    "brand": "Modecom",
+    "mpn": "MC-C-T202-AFL-W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://modecom.pl/en/products/volcano-0c-t202-lcd-argb-120-white",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "hiditec-c20-pro-cpuh10002",
+    "slug": "hiditec-c20-pro-cpuh10002",
+    "name": "Hiditec C20 PRO (CPUH10002)",
+    "category_id": "cooler",
+    "brand": "Hiditec",
+    "mpn": "CPUH10002",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://hiditec.com/es/refrigeracion-de-aire/24-c20-pro.html",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "2 × 120 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "hiditec-dc10-pro-cpuh10004",
+    "slug": "hiditec-dc10-pro-cpuh10004",
+    "name": "Hiditec DC10 PRO (CPUH10004)",
+    "category_id": "cooler",
+    "brand": "Hiditec",
+    "mpn": "CPUH10004",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://hiditec.com/es/refrigeracion-de-aire/65-dc10-pro.html",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA1366",
+      "Ventiladores": "1 × 120 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "unykach-unycool-h60-argb-uk326101",
+    "slug": "unykach-unycool-h60-argb-uk326101",
+    "name": "UNYKAch UNYCOOL H60 ARGB (UK326101)",
+    "category_id": "cooler",
+    "brand": "UNYKAch",
+    "mpn": "UK326101",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://unykach.com/es/consumo/coolers/coolers-fan-cpu/disipador-cpu-unycool-h60-argb-uk326101/",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, FM2, FM1, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA1156",
+      "Ventiladores": "1 × 120 mm",
+      "Altura": "151 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "forgeon-air-solarian-4pipes-120mm-argb-blanco-fo-cpu-sol4121v1w",
+    "slug": "forgeon-air-solarian-4pipes-120mm-argb-blanco-fo-cpu-sol4121v1w",
+    "name": "Forgeon Air Solarian 4Pipes 120mm ARGB Blanco (FO-CPU-SOL4121V1W)",
+    "category_id": "cooler",
+    "brand": "Forgeon",
+    "mpn": "FO-CPU-SOL4121V1W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/ventilador-cpu-forgeon-air-solarian-4pipes-120mm-argb-cpu-cooler-blanco",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Heatpipes": "4"
+    }
+  },
+  {
+    "id": "tempest-cooler-6pipes-black-a-rgb-2x120mm-tp-coolpro-6pb2",
+    "slug": "tempest-cooler-6pipes-black-a-rgb-2x120mm-tp-coolpro-6pb2",
+    "name": "Tempest Cooler 6Pipes Black A-RGB 2x120mm (TP-COOLPRO-6PB2)",
+    "category_id": "cooler",
+    "brand": "Tempest",
+    "mpn": "TP-COOLPRO-6PB2",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/tempest-cooler-6pipes-black-a-rgb-ventilador-cpu-dual-heatsink-2x120mm-negro",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Ventiladores": "2 × 120 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "tempest-cooler-6pipes-white-a-rgb-2x120mm-tp-coolpro-6pw2",
+    "slug": "tempest-cooler-6pipes-white-a-rgb-2x120mm-tp-coolpro-6pw2",
+    "name": "Tempest Cooler 6Pipes White A-RGB 2x120mm (TP-COOLPRO-6PW2)",
+    "category_id": "cooler",
+    "brand": "Tempest",
+    "mpn": "TP-COOLPRO-6PW2",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/tempest-cooler-6pipes-white-a-rgb-ventilador-cpu-dual-heatsink-2x120mm-blanco",
+    "specs_verified_at": "2026-11-08T20:18:17Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Ventiladores": "2 × 120 mm",
+      "Heatpipes": "6"
+    }
+  },
+  {
+    "id": "noctua-nh-l12sx77",
+    "slug": "noctua-nh-l12sx77",
+    "name": "Noctua NH-L12Sx77",
+    "category_id": "cooler",
+    "brand": "Noctua",
+    "mpn": "NH-L12Sx77",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://noctua.at/en/nh-l12sx77",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+      "Ventiladores": "1 × 120 mm",
+      "Heatpipes": "6",
+      "Altura": "77 mm"
+    }
+  }
+]

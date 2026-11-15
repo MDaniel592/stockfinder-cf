@@ -1,0 +1,182 @@
+[
+  {
+    "product_id": "adata-ax4u320016g16a-dtbkd35g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP, Intel XMP 2.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xpg.com/en/xpg/dram-modules-spectrix-d35g-rgb-ddr4",
+    "note": "Ficha oficial: Supports Intel XMP 2.0"
+  },
+  {
+    "product_id": "adata-ax4u360016g18i-dtbkd35",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP, Intel XMP 2.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xpg.com/en/xpg/dram-modules-gammix-d35-ddr4",
+    "note": "Ficha oficial: Supports Intel XMP 2.0"
+  },
+  {
+    "product_id": "adata-ax5u6000c3016g-dtamrbk",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xpg.com/en/xpg/dram-modules-armax-rgb-ddr5",
+    "note": "Ficha oficial XPG: soporta AMD EXPO e Intel XMP 3.0"
+  },
+  {
+    "product_id": "adata-ax5u6000c3032g-dtamrbk",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xpg.com/en/xpg/dram-modules-armax-rgb-ddr5",
+    "note": "Ficha oficial XPG: soporta AMD EXPO e Intel XMP 3.0"
+  },
+  {
+    "product_id": "adata-ax5u6000c3032g-samrbk",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xpg.com/en/xpg/dram-modules-armax-rgb-ddr5",
+    "note": "Ficha oficial XPG: soporta AMD EXPO e Intel XMP 3.0"
+  },
+  {
+    "product_id": "adata-ax5u6400c3216g-dtlabbk",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xpg.com/en/xpg/dram-modules-lancer-blade-ddr5",
+    "note": "Ficha oficial XPG: soporta AMD EXPO e Intel XMP 3.0"
+  },
+  {
+    "product_id": "adata-ax5u6400c3216g-dtlabwh",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://assets.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20260930.pdf",
+    "note": "Datasheet oficial XPG Lancer Blade: Supports Intel XMP 3.0 and AMD EXPO"
+  },
+  {
+    "product_id": "patriot-viper-venom-32gb-ddr5-6000-cl30",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.patriotmemory.com/en/products/viper-venom-ddr5-performance-ram",
+    "note": "Ficha Patriot: \"XMP 3.0 and EXPO support\"; EXPO solo en modelos concretos (\"contact technical support\"), por eso solo se registra XMP 3.0"
+  },
+  {
+    "product_id": "patriot-viper-venom-32gb-ddr5-6000-cl36",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.patriotmemory.com/en/products/viper-venom-ddr5-performance-ram",
+    "note": "Ficha Patriot: \"XMP 3.0 and EXPO support\"; EXPO solo en modelos concretos (\"contact technical support\"), por eso solo se registra XMP 3.0"
+  },
+  {
+    "product_id": "adata-ad4u266616g19-sgn",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_premier_ddr4_2666_u_dimm_20260129.pdf",
+    "note": "Datasheet oficial JEDEC (sin XMP ni EXPO): Premier DDR4-2666 solo describe cumplimiento JEDEC."
+  },
+  {
+    "product_id": "adata-ad4u26668g19-sgn",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_premier_ddr4_2666_u_dimm_20260129.pdf",
+    "note": "Datasheet oficial JEDEC (sin XMP ni EXPO): Premier DDR4-2666 solo describe cumplimiento JEDEC."
+  },
+  {
+    "product_id": "adata-ad5u480016g-s",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_ddr5_4800_u_dimm_v2.pdf",
+    "note": "Datasheet oficial ADATA DDR5-4800 U-DIMM: solo parámetros JEDEC, sin XMP ni EXPO."
+  },
+  {
+    "product_id": "adata-ad5u48008g-s",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_ddr5_4800_u_dimm_v2.pdf",
+    "note": "Datasheet oficial ADATA DDR5-4800 U-DIMM: solo parámetros JEDEC, sin XMP ni EXPO."
+  },
+  {
+    "product_id": "adata-ad5u480016g-r",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL40",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.adata.com/en/consumer/category/computer-memory/dram-module-ddr5-4800-u-dimm/",
+    "note": "Ficha oficial ADATA DDR5-4800 U-DIMM: CAS Latency 40"
+  },
+  {
+    "product_id": "adata-ad5u480016g-r",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.adata.com/en/consumer/category/computer-memory/dram-module-ddr5-4800-u-dimm/",
+    "note": "Ficha oficial ADATA DDR5-4800 U-DIMM: solo JEDEC, sin XMP ni EXPO."
+  },
+  {
+    "product_id": "kingston-kcp426ns6-8",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partId=KCP426NS6%2F8",
+    "note": "Ficha oficial Kingston del P/N exacto: solo parámetros JEDEC (CL19 1.2V), sin XMP ni EXPO."
+  },
+  {
+    "product_id": "kingston-kcp432nd8-32",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432ND8%2F32",
+    "note": "Ficha oficial Kingston del P/N exacto: solo parámetros JEDEC (CL22 1.2V), sin XMP ni EXPO."
+  },
+  {
+    "product_id": "klevv-udimm-16gb-ddr4-3200-cl22",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/ken/products_details/memory/D4_UDIMM",
+    "note": "Ficha oficial KLEVV UDIMM Standard: \"fully compliant to JEDEC standard\"; no declara XMP ni EXPO."
+  }
+]

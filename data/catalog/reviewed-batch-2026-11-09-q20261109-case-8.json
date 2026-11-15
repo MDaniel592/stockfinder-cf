@@ -1,0 +1,841 @@
+[
+ {
+  "id": "deepcool-cg580-4f-r-cg580-bkada4-g-1",
+  "slug": "deepcool-cg580-4f-r-cg580-bkada4-g-1",
+  "name": "DeepCool CG580 4F (R-CG580-BKADA4-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CG580-BKADA4-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CG580-4F-Panoramic-Tempered-Glass-Panels-Single-Chamber-ATX-FISHTANK-Case-with-4-ARGB-PWM-Fans/2024/19761.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "176 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "437 × 235 × 501 mm"
+  }
+ },
+ {
+  "id": "deepcool-cg580-4f-v2-r-cg580-bkada4-g-2",
+  "slug": "deepcool-cg580-4f-v2-r-cg580-bkada4-g-2",
+  "name": "DeepCool CG580 4F V2 (R-CG580-BKADA4-G-2)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CG580-BKADA4-G-2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CG580-4F-V2-Panoramic-Glass-Panels-Single-Chamber-ATX-Fishtank-Case-with-4-ARGB-PWM-Fans/2025/21444.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "176 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "437 × 235 × 501 mm"
+  }
+ },
+ {
+  "id": "deepcool-cg580-4f-v2-wh-r-cg580-whada4-g-2",
+  "slug": "deepcool-cg580-4f-v2-wh-r-cg580-whada4-g-2",
+  "name": "DeepCool CG580 4F V2 WH (R-CG580-WHADA4-G-2)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CG580-WHADA4-G-2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CG580-4F-V2-WH-Panoramic-Glass-Panels-Single-Chamber-ATX-Fishtank-Case-with-4-ARGB-PWM-Fans/2025/21445.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "176 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "437 × 235 × 501 mm"
+  }
+ },
+ {
+  "id": "deepcool-cg580-r-cg580-bknda0-g-1",
+  "slug": "deepcool-cg580-r-cg580-bknda0-g-1",
+  "name": "DeepCool CG580 (R-CG580-BKNDA0-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CG580-BKNDA0-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CG580-Panoramic-ATX-Case/2024/18933.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "176 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "437 × 235 × 501 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch560-wh-r-ch560-whape4-g-1",
+  "slug": "deepcool-ch560-wh-r-ch560-whape4-g-1",
+  "name": "DeepCool CH560 WH (R-CH560-WHAPE4-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH560-WHAPE4-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH560-WH-New-Generation-of-Airflow-Case/2023/17102.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "380 mm",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "3 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "458 × 230 × 471 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch560-digital-wh-r-ch560-whape4d-g-1",
+  "slug": "deepcool-ch560-digital-wh-r-ch560-whape4d-g-1",
+  "name": "DeepCool CH560 DIGITAL WH (R-CH560-WHAPE4D-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH560-WHAPE4D-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH560-DIGITAL-WH-Airflow-Case-With-Status-Screen/2023/17175.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "380 mm",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "3 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "458 × 230 × 471 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch170-digital-r-ch170-bknpi0d-g-1",
+  "slug": "deepcool-ch170-digital-r-ch170-bknpi0d-g-1",
+  "name": "DeepCool CH170 DIGITAL (R-CH170-BKNPI0D-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH170-BKNPI0D-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH170-DIGITAL-M-ITX-Case-with-Screen/2024/18891.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "Mini-ITX",
+   "Altura disipador máxima": "172 mm",
+   "Dimensiones": "250 × 200 × 380 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch170-digital-wh-r-ch170-whnpi0d-g-1",
+  "slug": "deepcool-ch170-digital-wh-r-ch170-whnpi0d-g-1",
+  "name": "DeepCool CH170 DIGITAL WH (R-CH170-WHNPI0D-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH170-WHNPI0D-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH170-DIGITAL-WH-M-ITX-Case-with-Screen/2024/18892.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "Mini-ITX",
+   "Altura disipador máxima": "172 mm",
+   "Dimensiones": "250 × 200 × 380 mm"
+  }
+ },
+ {
+  "id": "deepcool-matrexx-55-mesh-v4-c-r-matrexx55-bcaga4-g-4",
+  "slug": "deepcool-matrexx-55-mesh-v4-c-r-matrexx55-bcaga4-g-4",
+  "name": "DeepCool MATREXX 55 MESH V4 C (R-MATREXX55-BCAGA4-G-4)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-MATREXX55-BCAGA4-G-4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/MATREXX55-MESH-V4-C-ATX-Airflow-Case/2024/18146.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "370 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "3 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "421 × 215 × 483 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch360-r-ch360-bkape3-g-1",
+  "slug": "deepcool-ch360-r-ch360-bkape3-g-1",
+  "name": "DeepCool CH360 (R-CH360-BKAPE3-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH360-BKAPE3-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH360-New-Generation-of-Airflow-M-ATX-Case/2023/17713.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "378 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "2 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "428 × 215 × 431 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch360-digital-wh-r-ch360-whape3d-g-1",
+  "slug": "deepcool-ch360-digital-wh-r-ch360-whape3d-g-1",
+  "name": "DeepCool CH360 DIGITAL WH (R-CH360-WHAPE3D-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH360-WHAPE3D-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH360-DIGITAL-WH-M-ATX-Airflow-Case-With-Status-Screen/2023/17716.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "378 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "2 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "428 × 215 × 431 mm"
+  }
+ },
+ {
+  "id": "deepcool-cc360-argb-r-cc360-bkapm3-g-1",
+  "slug": "deepcool-cc360-argb-r-cc360-bkapm3-g-1",
+  "name": "DeepCool CC360 ARGB (R-CC360-BKAPM3-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CC360-BKAPM3-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CC360-ARGB-M-ATX-Airflow-Case/2023/16791.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "378 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "418 × 215 × 431 mm"
+  }
+ },
+ {
+  "id": "deepcool-cc360-wh-argb-r-cc360-whapm3-g-1",
+  "slug": "deepcool-cc360-wh-argb-r-cc360-whapm3-g-1",
+  "name": "DeepCool CC360 WH ARGB (R-CC360-WHAPM3-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CC360-WHAPM3-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CC360-WH-ARGB-M-ATX-Airflow-Case/2023/16792.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "378 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "418 × 215 × 431 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch690-digital-r-ch690-bknna0d-g-1",
+  "slug": "deepcool-ch690-digital-r-ch690-bknna0d-g-1",
+  "name": "DeepCool CH690 DIGITAL (R-CH690-BKNNA0D-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH690-BKNNA0D-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH690-DIGITAL-Tempered-Glass-Panels-Single-Chamber-ATX-FISHTANK-Case/2024/19911.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "450 mm",
+   "Altura disipador máxima": "182 mm",
+   "Radiador superior máximo": "420 mm",
+   "Dimensiones": "481 × 240 × 516 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch690-digital-wh-r-ch690-whnna0d-g-1",
+  "slug": "deepcool-ch690-digital-wh-r-ch690-whnna0d-g-1",
+  "name": "DeepCool CH690 DIGITAL WH (R-CH690-WHNNA0D-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH690-WHNNA0D-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH690-DIGITAL-WH-Tempered-Glass-Panels-Single-Chamber-ATX-FISHTANK-Case/2024/19912.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "450 mm",
+   "Altura disipador máxima": "182 mm",
+   "Radiador superior máximo": "420 mm",
+   "Dimensiones": "481 × 240 × 516 mm"
+  }
+ },
+ {
+  "id": "deepcool-matrexx-30-dp-matx-matrexx30",
+  "slug": "deepcool-matrexx-30-dp-matx-matrexx30",
+  "name": "DeepCool MATREXX 30 (DP-MATX-MATREXX30)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "DP-MATX-MATREXX30",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/2021/11958.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "250 mm",
+   "Altura disipador máxima": "151 mm",
+   "Dimensiones": "405.8 × 193 × 378.2 mm"
+  }
+ },
+ {
+  "id": "deepcool-matrexx-30-si-dp-matx-matrexx30-si",
+  "slug": "deepcool-matrexx-30-si-dp-matx-matrexx30-si",
+  "name": "DeepCool MATREXX 30 SI (DP-MATX-MATREXX30-SI)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "DP-MATX-MATREXX30-SI",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/2021/14303.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "250 mm",
+   "Altura disipador máxima": "151 mm",
+   "Dimensiones": "405.8 × 193 × 378.2 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch260-r-ch260-bkngm0-g-1",
+  "slug": "deepcool-ch260-r-ch260-bkngm0-g-1",
+  "name": "DeepCool CH260 (R-CH260-BKNGM0-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH260-BKNGM0-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH260-High-Airflow-M-ATX-Compact-Case-Supports-Rear-Connector-Motherboards/2025/20030.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "388 mm",
+   "Altura disipador máxima": "174 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "438 × 225 × 312.5 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch260-wh-r-ch260-whngm0-g-1",
+  "slug": "deepcool-ch260-wh-r-ch260-whngm0-g-1",
+  "name": "DeepCool CH260 WH (R-CH260-WHNGM0-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH260-WHNGM0-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://uk.deepcool.com/products/Cases/CH260-WH-High-Airflow-M-ATX-Compact-Case-Supports-Rear-Connector-Motherboards/2025/20088.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "388 mm",
+   "Altura disipador máxima": "174 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "438 × 225 × 312.5 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch270-digital-r-ch270-bkndm0-g-1",
+  "slug": "deepcool-ch270-digital-r-ch270-bkndm0-g-1",
+  "name": "DeepCool CH270 DIGITAL (R-CH270-BKNDM0-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH270-BKNDM0-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH270-Digital-High-Airflow-Vertical-M-ATX-Compact-Case-with-Data-Screen/2025/20032.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "388 mm",
+   "Altura disipador máxima": "174 mm",
+   "Dimensiones": "296 × 225 × 486 mm"
+  }
+ },
+ {
+  "id": "deepcool-macube-110-r-macube110-bkngm1n-g-1",
+  "slug": "deepcool-macube-110-r-macube110-bkngm1n-g-1",
+  "name": "DeepCool MACUBE 110 (R-MACUBE110-BKNGM1N-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-MACUBE110-BKNGM1N-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/Macube-110-Micro-ATX-Case/2021/4670.shtml",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "378 mm",
+   "Altura disipador máxima": "165 mm",
+   "Dimensiones": "400 × 225 × 431 mm"
+  }
+ },
+ {
+  "id": "antec-flux-pro-0-761345-10154-7",
+  "slug": "antec-flux-pro-0-761345-10154-7",
+  "name": "Antec FLUX PRO (0-761345-10154-7)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10154-7",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/flux-pro",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "455 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "4 × 140 mm + 2 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm",
+   "Dimensiones": "530 × 245 × 545 mm"
+  }
+ },
+ {
+  "id": "antec-flux-pro-white-0-761345-10156-1",
+  "slug": "antec-flux-pro-white-0-761345-10156-1",
+  "name": "Antec FLUX PRO White (0-761345-10156-1)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10156-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/flux-pro-white",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "455 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "4 × 140 mm + 2 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm",
+   "Dimensiones": "530 × 245 × 545 mm"
+  }
+ },
+ {
+  "id": "antec-flux-0-761345-10133-2",
+  "slug": "antec-flux-0-761345-10133-2",
+  "name": "Antec FLUX (0-761345-10133-2)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10133-2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/flux",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "408 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "4 × 120 mm + 1 × 140 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "484 × 239 × 502 mm"
+  }
+ },
+ {
+  "id": "antec-flux-se-0-761345-10177-6",
+  "slug": "antec-flux-se-0-761345-10177-6",
+  "name": "Antec FLUX SE (0-761345-10177-6)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10177-6",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/flux-se",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "408 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "4 × 120 mm + 1 × 140 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "484 × 239 × 502 mm"
+  }
+ },
+ {
+  "id": "antec-performance-1-m-black-0-761345-10168-4",
+  "slug": "antec-performance-1-m-black-0-761345-10168-4",
+  "name": "Antec Performance 1 M Black (0-761345-10168-4)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10168-4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/performance-1-m-black",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "Mini-ITX",
+   "Longitud GPU máxima": "350 mm",
+   "Altura disipador máxima": "85 mm",
+   "Dimensiones": "424 × 175 × 260 mm"
+  }
+ },
+ {
+  "id": "antec-performance-1-m-aventurine-0-761345-10169-1",
+  "slug": "antec-performance-1-m-aventurine-0-761345-10169-1",
+  "name": "Antec Performance 1 M Aventurine (0-761345-10169-1)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10169-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/performance-1-m-aventurine",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "Mini-ITX",
+   "Longitud GPU máxima": "350 mm",
+   "Altura disipador máxima": "85 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "424 × 175 × 260 mm"
+  }
+ },
+ {
+  "id": "antec-performance-1-ft-white-0-761345-10091-5",
+  "slug": "antec-performance-1-ft-white-0-761345-10091-5",
+  "name": "Antec Performance 1 FT White (0-761345-10091-5)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10091-5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/performance-1-ft-white",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "3 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "522 × 230 × 522 mm"
+  }
+ },
+ {
+  "id": "antec-nx410-0-761345-81041-8",
+  "slug": "antec-nx410-0-761345-81041-8",
+  "name": "Antec NX410 (0-761345-81041-8)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-81041-8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/nx410",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "335 mm",
+   "Altura disipador máxima": "168 mm",
+   "Ventiladores incluidos": "2 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "390 × 210 × 485 mm"
+  }
+ },
+ {
+  "id": "antec-dark-cube-0-761345-80034-1",
+  "slug": "antec-dark-cube-0-761345-80034-1",
+  "name": "Antec Dark Cube (0-761345-80034-1)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-80034-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/dark-cube",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "175 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Dimensiones": "512 × 240 × 406 mm"
+  }
+ },
+ {
+  "id": "antec-p20c-white-0-761345-80108-9",
+  "slug": "antec-p20c-white-0-761345-80108-9",
+  "name": "Antec P20C White (0-761345-80108-9)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-80108-9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/p20c-white",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "375 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "469 × 220 × 490 mm"
+  }
+ },
+ {
+  "id": "antec-df600-flux-0-761345-80060-0",
+  "slug": "antec-df600-flux-0-761345-80060-0",
+  "name": "Antec DF600 FLUX (0-761345-80060-0)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-80060-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/df600-flux",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "405 mm",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "5 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "467 × 220 × 486 mm"
+  }
+ },
+ {
+  "id": "antec-p6-neo-argb-0-761345-10286-5",
+  "slug": "antec-p6-neo-argb-0-761345-10286-5",
+  "name": "Antec P6 NEO ARGB (0-761345-10286-5)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10286-5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/p6-neo-argb",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "325 mm",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "376 × 220 × 460 mm"
+  }
+ },
+ {
+  "id": "antec-c5-curve-argb-0-761345-10225-4",
+  "slug": "antec-c5-curve-argb-0-761345-10225-4",
+  "name": "Antec C5 Curve ARGB (0-761345-10225-4)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10225-4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/c5-curve-argb",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "465 × 285 × 400 mm"
+  }
+ },
+ {
+  "id": "antec-cx-m3-argb-0-761345-10334-3",
+  "slug": "antec-cx-m3-argb-0-761345-10334-3",
+  "name": "Antec CX M3 ARGB (0-761345-10334-3)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10334-3",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/cxm3-argb",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "430 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "6 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "440 × 285 × 376 mm"
+  }
+ },
+ {
+  "id": "antec-cx60m-argb-0-761345-10217-9",
+  "slug": "antec-cx60m-argb-0-761345-10217-9",
+  "name": "Antec CX60M ARGB (0-761345-10217-9)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10217-9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/cx60m-argb",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "325 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "346 × 275 × 354 mm"
+  }
+ },
+ {
+  "id": "antec-cx60m-argb-white-0-761345-10218-6",
+  "slug": "antec-cx60m-argb-white-0-761345-10218-6",
+  "name": "Antec CX60M ARGB White (0-761345-10218-6)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10218-6",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/cx60m-argb",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "325 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "346 × 275 × 354 mm"
+  }
+ },
+ {
+  "id": "antec-cx-m2-argb-0-761345-10333-6",
+  "slug": "antec-cx-m2-argb-0-761345-10333-6",
+  "name": "Antec CX M2 ARGB (0-761345-10333-6)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10333-6",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/cxm2-argb",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "345 mm",
+   "Ventiladores incluidos": "5 × 120 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "370 × 275 × 356 mm"
+  }
+ },
+ {
+  "id": "antec-c7-argb-0-761345-10135-6",
+  "slug": "antec-c7-argb-0-761345-10135-6",
+  "name": "Antec C7 ARGB (0-761345-10135-6)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10135-6",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/c7-argb",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "450 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "3 × 120 mm + 1 × 140 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "485 × 241 × 504 mm"
+  }
+ },
+ {
+  "id": "antec-c8-argb-0-761345-10022-9",
+  "slug": "antec-c8-argb-0-761345-10022-9",
+  "name": "Antec C8 ARGB (0-761345-10022-9)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10022-9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/c8-argb",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "440 mm",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "2 × 160 mm + 1 × 140 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "464 × 303 × 476 mm"
+  }
+ },
+ {
+  "id": "antec-c6-curve-argb-0-761345-10287-2",
+  "slug": "antec-c6-curve-argb-0-761345-10287-2",
+  "name": "Antec C6 Curve ARGB (0-761345-10287-2)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10287-2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/c6-curve-argb",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "450 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "2 × 120 mm + 1 × 140 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "480 × 235 × 470 mm"
+  }
+ },
+ {
+  "id": "antec-c6-curve-air-0-761345-10275-9",
+  "slug": "antec-c6-curve-air-0-761345-10275-9",
+  "name": "Antec C6 Curve Air (0-761345-10275-9)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10275-9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/c6-curve-air",
+  "specs_verified_at": "2026-11-09T16:28:14Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "450 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "2 × 120 mm + 1 × 140 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "480 × 235 × 470 mm"
+  }
+ }
+]

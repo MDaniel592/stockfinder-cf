@@ -1,0 +1,92 @@
+[
+  {
+    "product_id": "gigabyte-geforce-rtx-5050-gaming-oc-8g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "280 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050GAMING-OC-8GD/sp",
+    "note": "Ficha Gigabyte /sp: Card size L=280 W=117 H=40 mm"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-8g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "215 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TEAGLE-OC-8GD/sp",
+    "note": "Ficha Gigabyte /sp: Card size L=215 W=122 H=40 mm"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TGAMING-OC-16GD/sp",
+    "note": "Ficha Gigabyte /sp: Card size L=281 W=119 H=40 mm"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-gaming-oc-8g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TGAMING-OC-8GD/sp",
+    "note": "Ficha Gigabyte /sp: Card size L=281 W=119 H=40 mm"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-aero-oc-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "342 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TAERO-OC-16GD/sp",
+    "note": "Ficha Gigabyte /sp: Card size L=342 W=140 H=70 mm"
+  },
+  {
+    "product_id": "lenovo-rtx-5080-16gb-4x61u02755",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.lenovo.com/es/es/p/accessories-and-software/graphics-cards/graphics_cards/4x61u02755",
+    "note": "La ficha oficial Lenovo solo publica dimensiones del paquete (570 x 335 x 170 mm), profundidad 74 mm, altura 138,2 mm y longitud de cable 336,4 mm; no indica la longitud de la tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50620h-10m",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/emeai/product/graphics_card/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-0",
+    "note": "Ficha ZOTAC: Card Length 220.5mm x 120.25mm x 41.6mm (8.7 x 4.7 x 1.6 in)"
+  },
+  {
+    "product_id": "powercolor-reaper-rx-9070-xt-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "289 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail212.htm",
+    "note": "Ficha PowerColor Reaper RX 9070 XT: Board Dimensions 289mm*111mm*41mm; 304mm*127mm*42mm con soporte. Se toma la longitud de la tarjeta sin soporte."
+  },
+  {
+    "product_id": "powercolor-red-devil-rx-9070-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "340 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.powercolor.com/product-detail210.htm",
+    "note": "Ficha PowerColor Red Devil RX 9070 XT: Board Dimensions 340mm*132mm*69mm; 352mm*149mm*69mm con soporte. Se toma la longitud de la tarjeta sin soporte."
+  }
+]

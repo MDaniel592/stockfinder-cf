@@ -1,0 +1,128 @@
+[
+  {
+    "id": "gigabyte-b850-aorus-elite-wifi7",
+    "slug": "gigabyte-b850-aorus-elite-wifi7",
+    "name": "Gigabyte B850 AORUS ELITE WIFI7",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850 A ELITE WF7",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850-AORUS-ELITE-WIFI7-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-z790-aorus-elite-ax",
+    "slug": "gigabyte-z790-aorus-elite-ax",
+    "name": "Gigabyte Z790 AORUS ELITE AX",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z790 AORUS ELITE AX",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-AX-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel Z790",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-x870-eagle-wifi7",
+    "slug": "gigabyte-x870-eagle-wifi7",
+    "name": "Gigabyte X870 EAGLE WIFI7",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870 EAGLE WIFI7",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870-EAGLE-WIFI7-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b650m-d3hp-ax",
+    "slug": "gigabyte-b650m-d3hp-ax",
+    "name": "Gigabyte B650M D3HP AX",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650M D3HP AX",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650M-D3HP-AX-rev-1x/sp",
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4"
+    }
+  },
+  {
+    "id": "gigabyte-b650m-aorus-elite-ax-ice",
+    "slug": "gigabyte-b650m-aorus-elite-ax-ice",
+    "name": "Gigabyte B650M AORUS ELITE AX ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650M A ELITE AX ICE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650M-AORUS-ELITE-AX-ICE-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b850m-aorus-elite-wifi6e",
+    "slug": "gigabyte-b850m-aorus-elite-wifi6e",
+    "name": "Gigabyte B850M AORUS ELITE WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850M A ELT WF6E",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850M-AORUS-ELITE-WIFI6E-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b650m-gaming-plus-wifi",
+    "slug": "gigabyte-b650m-gaming-plus-wifi",
+    "name": "Gigabyte B650M GAMING PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650M GAMING PLUS WF",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-1x/sp",
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4"
+    }
+  }
+]

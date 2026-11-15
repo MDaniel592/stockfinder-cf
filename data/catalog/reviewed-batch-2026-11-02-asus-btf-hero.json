@@ -1,0 +1,104 @@
+[
+  {
+    "id": "asus-rog-crosshair-x870e-hero-btf",
+    "slug": "asus-rog-crosshair-x870e-hero-btf",
+    "name": "ASUS ROG Crosshair X870E Hero BTF",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1MX0-M0EAY0",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/spec/",
+    "manufacturer_sources": [
+      "https://promotion.asus.com/sk/football-2026/tac/",
+      "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/spec/"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Memoria": "DDR5, 4 DIMM, máximo 256 GB",
+      "Formato": "ATX",
+      "Almacenamiento": "5 ranuras M.2 + 4 SATA",
+      "Red": "Wi-Fi 7; Ethernet Intel 2,5 Gb + Realtek 5 Gb",
+      "Diseño": "BTF con conectores ocultos",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-maximus-z890-hero",
+    "slug": "asus-rog-maximus-z890-hero",
+    "name": "ASUS ROG Maximus Z890 Hero",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1ID0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1id0-m0eay0-rog-maximus-z890-hero.html",
+    "manufacturer_sources": [
+      "https://promotion.asus.com/sk/football-2026/tac/",
+      "https://estore.asus.com/es/90mb1id0-m0eay0-rog-maximus-z890-hero.html"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Memoria": "DDR5, 4 DIMM, máximo 256 GB",
+      "Formato": "ATX",
+      "Almacenamiento": "6 ranuras M.2",
+      "Red": "Wi-Fi 7; Ethernet Intel 2,5 Gb + Realtek 5 Gb",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-crosshair-x870e-dark-hero",
+    "slug": "asus-rog-crosshair-x870e-dark-hero",
+    "name": "ASUS ROG Crosshair X870E Dark Hero",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1NT0-M0EAY0",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-dark-hero/spec/",
+    "manufacturer_sources": [
+      "https://promotion.asus.com/sk/football-2026/tac/",
+      "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-dark-hero/spec/"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Memoria": "DDR5, 4 DIMM, máximo 256 GB",
+      "Formato": "ATX",
+      "Almacenamiento": "5 ranuras M.2 + 4 SATA",
+      "Red": "Wi-Fi 7; Ethernet Realtek 10 Gb + 5 Gb",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-maximus-z890-hero-btf",
+    "slug": "asus-rog-maximus-z890-hero-btf",
+    "name": "ASUS ROG Maximus Z890 Hero BTF",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1KG0-M0EAY0",
+    "manufacturer_url": "https://rog.asus.com/ch-de/motherboards/rog-maximus/rog-maximus-z890-hero-btf/spec/?config=90MB1KG0-M0EAY0",
+    "manufacturer_sources": [
+      "https://promotion.asus.com/sk/football-2026/tac/",
+      "https://rog.asus.com/ch-de/motherboards/rog-maximus/rog-maximus-z890-hero-btf/spec/?config=90MB1KG0-M0EAY0"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Memoria": "DDR5, 4 DIMM, máximo 256 GB",
+      "Formato": "ATX",
+      "Almacenamiento": "6 ranuras M.2 (3 PCIe 5.0 + 3 PCIe 4.0)",
+      "Red": "Wi-Fi 7; Ethernet Intel 2,5 Gb + Realtek 5 Gb",
+      "Diseño": "BTF con conectores ocultos",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  }
+]

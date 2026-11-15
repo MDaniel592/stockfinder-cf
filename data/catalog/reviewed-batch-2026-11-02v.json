@@ -1,0 +1,72 @@
+[
+  {
+    "id": "lexar-ddr4-3200-udimm-16gb-cl22",
+    "slug": "lexar-ddr4-3200-udimm-16gb-cl22",
+    "name": "Lexar DDR4-3200 UDIMM 16 GB (1 × 16 GB) CL22",
+    "category_id": "ram",
+    "brand": "Lexar",
+    "manufacturer_url": "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/",
+    "specs_verified_at": "2026-11-02T10:37:44.223812+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22",
+      "Formato": "UDIMM"
+    },
+    "mpn": "LD4AU016G-B3200GSST"
+  },
+  {
+    "id": "patriot-viper-venom-32gb-ddr5-6000-cl30",
+    "slug": "patriot-viper-venom-32gb-ddr5-6000-cl30",
+    "name": "Patriot Viper Venom 32 GB (2 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Patriot",
+    "manufacturer_url": "https://www.patriotmemory.com/en/products/viper-venom-ddr5-performance-ram",
+    "specs_verified_at": "2026-11-02T10:37:44.223812+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30"
+    },
+    "mpn": "PVV532G600C30K"
+  },
+  {
+    "id": "patriot-viper-venom-32gb-ddr5-6000-cl36",
+    "slug": "patriot-viper-venom-32gb-ddr5-6000-cl36",
+    "name": "Patriot Viper Venom 32 GB (2 × 16 GB) DDR5-6000 CL36",
+    "category_id": "ram",
+    "brand": "Patriot",
+    "manufacturer_url": "https://www.patriotmemory.com/en/products/viper-venom-ddr5-performance-ram",
+    "specs_verified_at": "2026-11-02T10:37:44.223812+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL36"
+    },
+    "mpn": "PVV532G600C36K"
+  },
+  {
+    "id": "forgeon-cyclone-pro-rgb-32gb-ddr5-6000-cl36",
+    "slug": "forgeon-cyclone-pro-rgb-32gb-ddr5-6000-cl36",
+    "name": "Forgeon Cyclone PRO RGB 32 GB (2 × 16 GB) DDR5-6000 CL36",
+    "category_id": "ram",
+    "brand": "Forgeon",
+    "manufacturer_url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-pro-rgb-ddr5-6000-mhz-32gb-2x16gb-cl36-negra",
+    "specs_verified_at": "2026-11-02T10:37:44.223812+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL36",
+      "Perfil": "Intel XMP y AMD EXPO"
+    },
+    "mpn": "FO-DDR-PRO-32GBCL36-B"
+  }
+]

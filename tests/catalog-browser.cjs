@@ -1,0 +1,113 @@
+// Catalogue UX: category isolation, facets (incl. "Ver más"), several brands, pagination, price validation, table and
+// card views, comparison, product page, mobile filter sheet with focus return, responsive widths.
+// Usage: TEST_BASE_URL=http://127.0.0.1:8795 CHROMIUM_PATH=... node tests/catalog-browser.cjs
+const { chromium } = require('@playwright/test');
+const assert = require('node:assert/strict');
+
+(async () => {
+  const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH, args: ['--no-sandbox'] } : {});
+  const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+  page.setDefaultTimeout(15000);
+  const errors = [];
+  page.on('pageerror', error => errors.push(error.message));
+  const base = process.env.TEST_BASE_URL || 'http://127.0.0.1:8787';
+  const waitResults = () => page.waitForFunction(() => !document.querySelector('[aria-busy="true"]') && /resultado/.test(document.querySelector('.catalog-result-meta')?.textContent ?? ''));
+  const total = async () => Number((await page.locator('.catalog-result-meta').innerText()).replace(/\D/g, ''));
+  const rows = () => page.locator('.product-row');
+  await page.goto(base, { waitUntil: 'networkidle' });
+  await page.getByRole('navigation', { name: 'Categorías' }).getByRole('link', { name: 'Procesadores', exact: true }).click();
+  await waitResults();
+  await page.locator('.catalog-filters summary').getByText('Socket', { exact: true }).waitFor();
+  assert.equal(await rows().count(), 24);
+  const firstRow = await rows().first().boundingBox();
+  assert.ok(firstRow.height <= 64, `compact rows (${firstRow.height})`);
+  assert.ok(firstRow.y < 320, `results start high on the page (${firstRow.y})`);
+  const all = await total();
+  const filters = page.locator('.catalog-filters');
+  await filters.getByText('AMD', { exact: true }).locator('..').getByRole('checkbox').check();
+  await waitResults();
+  const amd = await total();
+  assert.ok(amd > 0 && amd < all);
+  await filters.getByText('Intel', { exact: true }).locator('..').getByRole('checkbox').check();
+  await waitResults();
+  assert.ok(await total() > amd);
+  await filters.getByText('AM5', { exact: true }).locator('..').getByRole('checkbox').check();
+  await waitResults();
+  assert.ok((await page.locator('td.col-spec[data-label="Socket"]').allTextContents()).every(text => text === 'AM5'));
+  await filters.getByRole('button', { name: 'Limpiar', exact: true }).click();
+  await waitResults();
+  assert.equal(new URL(page.url()).pathname, '/c/cpu');
+  assert.equal(await total(), all);
+  // Long facet lists collapse behind "Ver más"
+  await page.goto(`${base}/c/motherboard`, { waitUntil: 'load' }); await waitResults();
+  const more = filters.locator('.filter-more').first();
+  if (await more.count()) {
+    const before = await filters.locator('.filter-options label').count();
+    await more.click();
+    assert.ok(await filters.locator('.filter-options label').count() > before);
+    assert.equal(await more.getAttribute('aria-expanded'), 'true');
+  }
+  await page.goto(`${base}/c/cpu`, { waitUntil: 'load' }); await waitResults();
+  await page.getByRole('button', { name: 'Siguiente', exact: true }).click();
+  await page.getByText(/^Página 2 de \d+$/).waitFor();
+  await filters.getByText('AMD', { exact: true }).locator('..').getByRole('checkbox').check();
+  await waitResults();
+  assert.ok(!new URL(page.url()).searchParams.has('pagina'), 'filters reset the page');
+  await filters.getByRole('button', { name: 'Limpiar', exact: true }).click();
+  await waitResults();
+  await filters.getByLabel('Mínimo (€)', { exact: true }).fill('450');
+  await filters.getByLabel('Máximo (€)', { exact: true }).fill('400');
+  await filters.getByRole('button', { name: 'Aplicar precio' }).click();
+  await filters.getByRole('alert').waitFor();
+  await filters.getByLabel('Mínimo (€)', { exact: true }).fill('400');
+  await filters.getByLabel('Máximo (€)', { exact: true }).fill('450');
+  await filters.getByRole('button', { name: 'Aplicar precio' }).click();
+  await page.waitForURL(/min=400&max=450/); await waitResults();
+  const prices = await page.locator('td.col-price .price-verified').allTextContents();
+  assert.ok(prices.length && prices.every(t => { const n = Number(t.replace(/[^\d,]/g, '').replace(',', '.')); return n >= 400 && n <= 450; }));
+  const priceColor = await page.locator('.price-verified').first().evaluate(el => getComputedStyle(el).color);
+  assert.equal(priceColor, 'rgb(17, 106, 50)', 'light theme (default) price green');
+  await filters.getByRole('button', { name: 'Limpiar', exact: true }).click();
+  await waitResults();
+  await page.screenshot({ path: 'artifacts/ux-cpu-desktop.png' });
+  await page.getByRole('button', { name: 'Vista de tarjetas', exact: true }).click();
+  await page.locator('.product-grid.grid .product-card').first().waitFor();
+  await page.screenshot({ path: 'artifacts/ux-cpu-grid.png' });
+  await page.locator('.pc-compare input').nth(0).check();
+  await page.locator('.pc-compare input').nth(1).check();
+  await page.getByRole('button', { name: 'Comparar componentes', exact: true }).click();
+  await page.getByRole('dialog', { name: 'Comparar componentes', exact: true }).waitFor();
+  await page.keyboard.press('Escape');
+  await page.getByRole('button', { name: 'Vista de lista', exact: true }).click();
+  await page.locator('.product-name').first().click();
+  await page.locator('.manufacturer-link').waitFor();
+  await page.locator('.offers > div, .offers-pending').first().waitFor();
+  await page.goBack(); await waitResults();
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.getByRole('button', { name: 'Filtros', exact: true }).click();
+  const mobile = page.getByRole('dialog', { name: 'Filtrar componentes', exact: true });
+  await mobile.getByText('AMD', { exact: true }).locator('..').getByRole('checkbox').check();
+  await waitResults();
+  const shown = await total();
+  await mobile.getByRole('button', { name: `Ver ${shown} resultados`, exact: true }).click();
+  assert.equal(await mobile.isVisible(), false);
+  assert.match(await page.locator('.catalog-filter-trigger').innerText(), /1/);
+  assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
+  await page.screenshot({ path: 'artifacts/ux-cpu-mobile.png' });
+  await page.locator('.catalog-filter-trigger').click();
+  await page.keyboard.press('Escape');
+  assert.ok(await page.locator('.catalog-filter-trigger').evaluate(el => el === document.activeElement));
+  await page.getByRole('navigation', { name: 'Categorías' }).getByRole('link', { name: 'Tarjetas gráficas' }).click();
+  await waitResults();
+  await page.getByRole('button', { name: 'Filtros', exact: true }).click();
+  await mobile.getByText('Arquitectura', { exact: true }).waitFor();
+  assert.equal(await mobile.getByText('Socket', { exact: true }).count(), 0);
+  await page.keyboard.press('Escape');
+  for (const width of [320, 768, 1024, 1440]) {
+    await page.setViewportSize({ width, height: 900 });
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), `Overflow at ${width}`);
+  }
+  assert.deepEqual(errors, []);
+  await browser.close();
+  console.log('Catalogue UX QA passed: category isolation, facets, multiple brands, pagination, price validation, table and card views, comparison, product page, mobile filters, keyboard focus and responsive widths.');
+})().catch(error => { console.error(error); process.exit(1); });

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "asus-dual-rtx-5060-oc-advanced-8gb",
+    "slug": "asus-dual-rtx-5060-oc-advanced-8gb",
+    "name": "ASUS Dual GeForce RTX 5060 OC Edition Advanced 8 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/ie/motherboards-components/graphics-cards/dual/dual-rtx5060-o8g-a/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "145 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)",
+      "Frecuencia turbo": "Hasta 2587 MHz (OC) / 2550 MHz (estándar)",
+      "Conectores de alimentación": "1 × 8 pines"
+    },
+    "mpn": "DUAL-RTX5060-O8G-A"
+  },
+  {
+    "id": "powercolor-reaper-rx-9060-xt-16gb",
+    "slug": "powercolor-reaper-rx-9060-xt-16gb",
+    "name": "PowerColor Reaper Radeon RX 9060 XT 16 GB",
+    "category_id": "gpu",
+    "brand": "PowerColor",
+    "manufacturer_url": "https://www.powercolor.com/product-detail248.htm",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0 x16",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)"
+    },
+    "mpn": "RX9060XT 16G-A"
+  }
+]

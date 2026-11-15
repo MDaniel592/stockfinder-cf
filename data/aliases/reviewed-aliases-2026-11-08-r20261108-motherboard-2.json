@@ -1,0 +1,65 @@
+[
+ {
+  "product_id": "asrock-b860-lightning-wifi",
+  "kind": "mpn",
+  "value": "90-MXBR2-A0UAYZ",
+  "source_url": "https://www.coolmod.com/asrock-phantom-gaming-b860-lightning-wifi-socket-1851/",
+  "note": "Código comercial de tienda (PROD-040628) para «ASRock Phantom Gaming B860 Lightning WIFI Socket 1851». Ficha oficial https://pg.asrock.com/mb/Intel/B860%20Lightning%20WiFi/index.asp coincide en modelo, chipset, memoria, formato y variante WiFi declarados. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asrock-b860m-pro-a-wifi",
+  "kind": "mpn",
+  "value": "90-MXBRS-A0UAYZ",
+  "source_url": "https://www.coolmod.com/asrock-b860m-pro-a-wifi-socket-1851/",
+  "note": "Código comercial de tienda (PROD-040538) para «ASRock B860M Pro-A WIFI Socket 1851». Ficha oficial https://www.asrock.com/mb/Intel/B860M%20Pro-A%20WiFi/index.asp coincide en modelo, chipset, memoria, formato y variante WiFi declarados. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asrock-b860-pro-rs",
+  "kind": "mpn",
+  "value": "90-MXBRM-A0UAYZ",
+  "source_url": "https://www.coolmod.com/asrock-b860-pro-rs-socket-1851/",
+  "note": "Código comercial de tienda (PROD-040626) para «ASRock B860 Pro RS Socket 1851». Ficha oficial https://www.asrock.com/MB/Intel/B860%20Pro%20RS/index.asp coincide en modelo, chipset, memoria, formato y variante WiFi declarados. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asrock-h810m-h",
+  "kind": "mpn",
+  "value": "H810M-H",
+  "source_url": "https://www.pccomponentes.com/placa-base-asrock-h810m-h-intel-h810-lga1851-ddr5-micro-atx-pcie-4-0-m-2",
+  "note": "Código comercial de tienda (10971141) para «Placa Base ASRock H810M-H Intel H810 LGA1851 DDR5 Micro-ATX PCIe 4.0 M». Ficha oficial https://www.asrock.com/mb/Intel/H810M-H/index.asp coincide en modelo, chipset, memoria, formato y variante WiFi declarados. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asrock-b850m-pro-rs",
+  "kind": "mpn",
+  "value": "90-MXBR6-A0UAYZ",
+  "source_url": "https://www.pccomponentes.com/placa-base-asrock-b850m-pro-rs-am5-micro-atx-ddr5-pcie-4-0-5-0-usb-c-gaming-creatividad",
+  "note": "Código comercial de tienda (10891090) para «Placa Base ASRock B850M Pro RS AM5 Micro ATX DDR5 PCIe 4.0/5.0 USB-C G». Ficha oficial https://www.asrock.com/MB/AMD/B850M%20Pro%20RS/ coincide en modelo, chipset, memoria, formato y variante WiFi declarados. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asrock-a620am-hvs",
+  "kind": "mpn",
+  "value": "A620AM-HVS",
+  "source_url": "https://www.pccomponentes.com/placa-base-asrock-a620am-hvs-a620-am5-ddr5-micro-atx-pcie-4-0",
+  "note": "Código comercial de tienda (10971139) para «Placa Base ASRock A620AM-HVS A620 AM5 DDR5 Micro ATX PCIe 4.0». Ficha oficial https://www.asrock.com/MB/AMD/A620AM-HVS/ coincide en modelo, chipset, memoria, formato y variante WiFi declarados. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asrock-b850-pro-rs",
+  "kind": "mpn",
+  "value": "90-MXBQK-A0UAYZ",
+  "source_url": "https://www.pccomponentes.com/placa-base-asrock-b850-am5-atx-b850-pro-race-sport-ddr5-pcie-4-0-2-5g-lan",
+  "note": "Código comercial de tienda (10891068) para «Placa Base ASRock B850 AM5 ATX B850 Pro Race Sport DDR5 PCIe 4.0 2.5G ». Ficha oficial https://www.asrock.com/MB/AMD/B850%20Pro%20RS/ coincide en modelo, chipset, memoria, formato y variante WiFi declarados. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asrock-a620am-pro-rs-wifi",
+  "kind": "mpn",
+  "value": "A620AM PRO RS WIFI",
+  "source_url": "https://www.pccomponentes.com/placa-base-asrock-a620am-pro-rs-wifi-amd-a620-am5-ddr5-micro-atx-wifi-6e-m-2-2-5gbe",
+  "note": "Código comercial de tienda (10971149) para «Placa Base ASRock A620AM PRO RS WIFI AMD A620 AM5 DDR5 micro ATX WiFi ». Ficha oficial https://www.asrock.com/MB/AMD/A620AM%20Pro%20RS%20WiFi/ coincide en modelo, chipset, memoria, formato y variante WiFi declarados. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asrock-b760m-h2-m2",
+  "kind": "mpn",
+  "value": "90-MXBN00-A0UAYZ",
+  "source_url": "https://www.pccomponentes.com/placa-base-asrock-b760m-h2-m-2-intel-b760-lga-1700-micro-atx-ddr5-m-2-usb-3-2-gen2",
+  "note": "Código comercial de tienda (10890604) para «Placa Base Asrock B760M-H2/M.2 Intel B760 LGA 1700 Micro ATX DDR5 M.2 ». Ficha oficial https://www.asrock.com/mb/Intel/B760M-H2M.2/ coincide en modelo, chipset, memoria, formato y variante WiFi declarados. No se presenta como dato del fabricante."
+ }
+]

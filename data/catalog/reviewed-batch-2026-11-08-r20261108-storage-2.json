@@ -1,0 +1,489 @@
+[
+ {
+  "id": "wd-purple-pro-22-tb-wd221purp",
+  "slug": "wd-purple-pro-22-tb-wd221purp",
+  "name": "WD Purple Pro 22 TB (WD221PURP)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD221PURP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-pro-sata-hdd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "22 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-red-pro-10-tb-wd103kfbx",
+  "slug": "wd-red-pro-10-tb-wd103kfbx",
+  "name": "WD Red Pro 10 TB (WD103KFBX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD103KFBX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-red-pro-22-tb-wd221kfgx",
+  "slug": "wd-red-pro-22-tb-wd221kfgx",
+  "name": "WD Red Pro 22 TB (WD221KFGX)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD221KFGX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "22 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-gold-20-tb-wd203kryz",
+  "slug": "wd-gold-20-tb-wd203kryz",
+  "name": "WD Gold 20 TB (WD203KRYZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD203KRYZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "20 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "wd-green-sn3000-1-tb-wds100t4g0e",
+  "slug": "wd-green-sn3000-1-tb-wds100t4g0e",
+  "name": "WD Green SN3000 1 TB (WDS100T4G0E)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS100T4G0E",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-green-sn3000-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-green-sn3000-2-tb-wds200t4g0e",
+  "slug": "wd-green-sn3000-2-tb-wds200t4g0e",
+  "name": "WD Green SN3000 2 TB (WDS200T4G0E)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS200T4G0E",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-green-sn3000-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-black-sn8100-4-tb-wds400t1x0m",
+  "slug": "wd-black-sn8100-4-tb-wds400t1x0m",
+  "name": "WD_BLACK SN8100 4 TB (WDS400T1X0M)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS400T1X0M",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn8100-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "4 TB",
+   "Interfaz": "PCIe 5.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-black-sn8100-1-tb-wds100t1x0m",
+  "slug": "wd-black-sn8100-1-tb-wds100t1x0m",
+  "name": "WD_BLACK SN8100 1 TB (WDS100T1X0M)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS100T1X0M",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn8100-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 5.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-black-sn7100-4-tb-wds400t4x0e",
+  "slug": "wd-black-sn7100-4-tb-wds400t4x0e",
+  "name": "WD_BLACK SN7100 4 TB (WDS400T4X0E)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS400T4X0E",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn7100-nvme-internal-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "4 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-blue-sn5000-1-tb-wds100t4b0e",
+  "slug": "wd-blue-sn5000-1-tb-wds100t4b0e",
+  "name": "WD Blue SN5000 1 TB (WDS100T4B0E)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS100T4B0E",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-blue-sn5000-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "sandisk-optimus-gx-7100-1-tb-sdsp71100tan-000e0",
+  "slug": "sandisk-optimus-gx-7100-1-tb-sdsp71100tan-000e0",
+  "name": "SanDisk Optimus GX 7100 1 TB (SDSP71100TAN-000E0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSP71100TAN-000E0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-green-sn350-500-gb-wds500g2g0c-00cdh0",
+  "slug": "wd-green-sn350-500-gb-wds500g2g0c-00cdh0",
+  "name": "WD Green SN350 500 GB (WDS500G2G0C-00CDH0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS500G2G0C-00CDH0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-green-sn350-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "PCIe 3.0 x4, NVMe 1.3",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "sandisk-optimus-5100-2-tb-sdsp51200tan-000e0",
+  "slug": "sandisk-optimus-5100-2-tb-sdsp51200tan-000e0",
+  "name": "SanDisk Optimus 5100 2 TB (SDSP51200TAN-000E0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSP51200TAN-000E0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "sandisk-optimus-5100-1-tb-sdsp51100tan-000e0",
+  "slug": "sandisk-optimus-5100-1-tb-sdsp51100tan-000e0",
+  "name": "SanDisk Optimus 5100 1 TB (SDSP51100TAN-000E0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSP51100TAN-000E0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "sandisk-optimus-gx-7100-500-gb-sdsp71500gan-000e0",
+  "slug": "sandisk-optimus-gx-7100-500-gb-sdsp71500gan-000e0",
+  "name": "SanDisk Optimus GX 7100 500 GB (SDSP71500GAN-000E0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSP71500GAN-000E0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "sandisk-optimus-gx-7100-2-tb-sdsp71200tan-000e0",
+  "slug": "sandisk-optimus-gx-7100-2-tb-sdsp71200tan-000e0",
+  "name": "SanDisk Optimus GX 7100 2 TB (SDSP71200TAN-000E0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSP71200TAN-000E0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-blue-sn5100-2-tb-wds200t5b0e-00cpe0",
+  "slug": "wd-blue-sn5100-2-tb-wds200t5b0e-00cpe0",
+  "name": "WD Blue SN5100 2 TB (WDS200T5B0E-00CPE0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS200T5B0E-00CPE0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-blue-sn5100-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-blue-sn5100-500-gb-wds500g5b0e-00cpe0",
+  "slug": "wd-blue-sn5100-500-gb-wds500g5b0e-00cpe0",
+  "name": "WD Blue SN5100 500 GB (WDS500G5B0E-00CPE0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS500G5B0E-00CPE0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-blue-sn5100-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-red-sa500-nas-2-tb-2-5-wds200t2r0a",
+  "slug": "wd-red-sa500-nas-2-tb-2-5-wds200t2r0a",
+  "name": "WD Red SA500 NAS 2 TB 2.5\" (WDS200T2R0A)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS200T2R0A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-red-sata-2-5-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "sandisk-optimus-gx-pro-850x-1-tb-sdsp81100tan-000e0",
+  "slug": "sandisk-optimus-gx-pro-850x-1-tb-sdsp81100tan-000e0",
+  "name": "SanDisk Optimus GX PRO 850X 1 TB (SDSP81100TAN-000E0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSP81100TAN-000E0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-pro-850x-internal-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "sandisk-optimus-gx-pro-850x-2-tb-sdsp81200tan-000e0",
+  "slug": "sandisk-optimus-gx-pro-850x-2-tb-sdsp81200tan-000e0",
+  "name": "SanDisk Optimus GX PRO 850X 2 TB (SDSP81200TAN-000E0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSP81200TAN-000E0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-pro-850x-internal-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "sandisk-520-sata-ssd-500-gb-sdss51500gab-000g0",
+  "slug": "sandisk-520-sata-ssd-500-gb-sdss51500gab-000g0",
+  "name": "SanDisk 520 SATA SSD 500 GB (SDSS51500GAB-000G0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSS51500GAB-000G0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-520-sata-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "sandisk-optimus-gx-7100-4-tb-sdsp71400tan-000e0",
+  "slug": "sandisk-optimus-gx-7100-4-tb-sdsp71400tan-000e0",
+  "name": "SanDisk Optimus GX 7100 4 TB (SDSP71400TAN-000E0)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSP71400TAN-000E0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "4 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "sandisk-ssd-plus-2-tb-sdssda-2t00-g28",
+  "slug": "sandisk-ssd-plus-2-tb-sdssda-2t00-g28",
+  "name": "SanDisk SSD Plus 2 TB (SDSSDA-2T00-G28)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "SDSSDA-2T00-G28",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-ssd-plus-sata-iii-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "wd-red-sa500-nas-1-tb-m-2-wds100t1r0b",
+  "slug": "wd-red-sa500-nas-1-tb-m-2-wds100t1r0b",
+  "name": "WD Red SA500 NAS 1 TB M.2 (WDS100T1R0B)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS100T1R0B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-red-sata-m-2-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-blue-sn5000-500-gb-wds500g4b0e",
+  "slug": "wd-blue-sn5000-500-gb-wds500g4b0e",
+  "name": "WD Blue SN5000 500 GB (WDS500G4B0E)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS500G4B0E",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-blue-sn5000-nvme-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ },
+ {
+  "id": "wd-blue-sa510-500-gb-m-2-wds500g3b0b",
+  "slug": "wd-blue-sa510-500-gb-m-2-wds500g3b0b",
+  "name": "WD Blue SA510 500 GB M.2 (WDS500G3B0B)",
+  "category_id": "storage",
+  "brand": "SanDisk",
+  "mpn": "WDS500G3B0B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-blue-sa510-sata-m-2-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "SATA III",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No"
+  }
+ }
+]

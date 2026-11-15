@@ -1,0 +1,675 @@
+[
+ {
+  "id": "msi-pro-b760m-p-ddr4",
+  "slug": "msi-pro-b760m-p-ddr4",
+  "name": "MSI PRO B760M-P DDR4",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E02-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B760M-P-DDR4/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR4",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "128 GB"
+  }
+ },
+ {
+  "id": "msi-pro-b760m-p",
+  "slug": "msi-pro-b760m-p",
+  "name": "MSI PRO B760M-P",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E02-009",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B760M-P/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB"
+  }
+ },
+ {
+  "id": "msi-b850m-gaming-plus-wifi6e",
+  "slug": "msi-b850m-gaming-plus-wifi6e",
+  "name": "MSI B850M GAMING PLUS WIFI6E",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E81-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/B850M-GAMING-PLUS-WIFI6E/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-b840-gaming-plus-wifi",
+  "slug": "msi-b840-gaming-plus-wifi",
+  "name": "MSI B840 GAMING PLUS WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "601-7E57-03S",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/B840-GAMING-PLUS-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B840",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-b840m-gaming-plus-wifi6e",
+  "slug": "msi-b840m-gaming-plus-wifi6e",
+  "name": "MSI B840M GAMING PLUS WIFI6E",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "7E77-003R",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/B840M-GAMING-PLUS-WIFI6E/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B840",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-pro-b650-s-wifi",
+  "slug": "msi-pro-b650-s-wifi",
+  "name": "MSI PRO B650-S WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "7E26-003R",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B650-S-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-x670e-gaming-plus-wifi",
+  "slug": "msi-x670e-gaming-plus-wifi",
+  "name": "MSI X670E GAMING PLUS WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "X670E GAMING PLUS WIFI",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/X670E-GAMING-PLUS-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X670",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-pro-x670-p-wifi",
+  "slug": "msi-pro-x670-p-wifi",
+  "name": "MSI PRO X670-P WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "PRO X670-P WIFI",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-X670-P-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X670",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-pro-b760-p-wifi-ddr4",
+  "slug": "msi-pro-b760-p-wifi-ddr4",
+  "name": "MSI PRO B760-P WIFI DDR4",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7D98-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B760-P-WIFI-DDR4/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR4",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "128 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-b760-gaming-plus-wifi-ddr4",
+  "slug": "msi-b760-gaming-plus-wifi-ddr4",
+  "name": "MSI B760 GAMING PLUS WIFI DDR4",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "007D98-043R",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/B760-GAMING-PLUS-WIFI-DDR4/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR4",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "128 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-meg-x870e-godlike",
+  "slug": "msi-meg-x870e-godlike",
+  "name": "MSI MEG X870E GODLIKE",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E48-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870E",
+   "Tipo de memoria": "DDR5",
+   "Formato": "E-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-pro-z790-p-wifi",
+  "slug": "msi-pro-z790-p-wifi",
+  "name": "MSI PRO Z790-P WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E06-010",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-Z790-P-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel Z790",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-mpg-z890-edge-ti-wifi",
+  "slug": "msi-mpg-z890-edge-ti-wifi",
+  "name": "MSI MPG Z890 EDGE TI WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E19-08S",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MPG-Z890-EDGE-TI-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-mag-b850-tomahawk-max-wifi",
+  "slug": "msi-mag-b850-tomahawk-max-wifi",
+  "name": "MSI MAG B850 TOMAHAWK MAX WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "601-7E62-02S",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MAG-B850-TOMAHAWK-MAX-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-pro-z890-s-wifi",
+  "slug": "msi-pro-z890-s-wifi",
+  "name": "MSI PRO Z890-S WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E54-02S",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-Z890-S-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-mag-b860-tomahawk-wifi",
+  "slug": "msi-mag-b860-tomahawk-wifi",
+  "name": "MSI MAG B860 TOMAHAWK WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E39-06S",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MAG-B860-TOMAHAWK-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-pro-b840m-p-wifi6e",
+  "slug": "msi-pro-b840m-p-wifi6e",
+  "name": "MSI PRO B840M-P WIFI6E",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "7E77-001R",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B840M-P-WIFI6E/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B840",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-pro-b760-p-ii",
+  "slug": "msi-pro-b760-p-ii",
+  "name": "MSI PRO B760-P II",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "7E29-002R",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B760-P-II/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB"
+  }
+ },
+ {
+  "id": "msi-pro-z890-s-wifi-pz",
+  "slug": "msi-pro-z890-s-wifi-pz",
+  "name": "MSI PRO Z890-S WIFI PZ",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "7E58-001R",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-Z890-S-WIFI-PZ/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-pro-b840-p-wifi",
+  "slug": "msi-pro-b840-p-wifi",
+  "name": "MSI PRO B840-P WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "601-7E57-02S",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B840-P-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B840",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-mag-b760-tomahawk-wifi",
+  "slug": "msi-mag-b760-tomahawk-wifi",
+  "name": "MSI MAG B760 TOMAHAWK WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7D96-003",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MAG-B760-TOMAHAWK-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-pro-b850m-a-wifi-pz",
+  "slug": "msi-pro-b850m-a-wifi-pz",
+  "name": "MSI PRO B850M-A WIFI PZ",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E78-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B850M-A-WIFI-PZ/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-b850-gaming-plus-wifi-pz",
+  "slug": "msi-b850-gaming-plus-wifi-pz",
+  "name": "MSI B850 GAMING PLUS WIFI PZ",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E75-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/B850-GAMING-PLUS-WIFI-PZ/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-mpg-b760i-edge-wifi",
+  "slug": "msi-mpg-b760i-edge-wifi",
+  "name": "MSI MPG B760I EDGE WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "7D40-005R",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MPG-B760I-EDGE-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Mini-ITX",
+   "Ranuras de memoria": "2",
+   "Memoria máxima": "128 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-pro-z790-a-wifi",
+  "slug": "msi-pro-z790-a-wifi",
+  "name": "MSI PRO Z790-A WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E07-003",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-Z790-A-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel Z790",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "msi-pro-b650m-b",
+  "slug": "msi-pro-b650m-b",
+  "name": "MSI PRO B650M-B",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "PRO B650M-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B650M-B/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "2",
+   "Memoria máxima": "128 GB"
+  }
+ },
+ {
+  "id": "msi-meg-z890-unify-x",
+  "slug": "msi-meg-z890-unify-x",
+  "name": "MSI MEG Z890 UNIFY-X",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "7E20-001R",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MEG-Z890-UNIFY-X/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "2",
+   "Memoria máxima": "128 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-meg-z890-ace",
+  "slug": "msi-meg-z890-ace",
+  "name": "MSI MEG Z890 ACE",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E22-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MEG-Z890-ACE/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-pro-a620m-b",
+  "slug": "msi-pro-a620m-b",
+  "name": "MSI PRO A620M-B",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E28-017",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-A620M-B/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD A620",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "2",
+   "Memoria máxima": "128 GB"
+  }
+ },
+ {
+  "id": "msi-pro-b860m-a-wifi",
+  "slug": "msi-pro-b860m-a-wifi",
+  "name": "MSI PRO B860M-A WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "601-7E42-01S",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B860M-A-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel B860",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-mpg-x870e-edge-ti-wifi",
+  "slug": "msi-mpg-x870e-edge-ti-wifi",
+  "name": "MSI MPG X870E EDGE TI WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "601-7E59-02S",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MPG-X870E-EDGE-TI-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X870E",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-pro-b850-p-wifi",
+  "slug": "msi-pro-b850-p-wifi",
+  "name": "MSI PRO B850-P WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E56-06S",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B850-P-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B850",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 7"
+  }
+ },
+ {
+  "id": "msi-b760m-project-zero",
+  "slug": "msi-b760m-project-zero",
+  "name": "MSI B760M PROJECT ZERO",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E14-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/B760M-PROJECT-ZERO/Specification",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB",
+   "Wi-Fi": "Wi-Fi 6E"
+  }
+ },
+ {
+  "id": "biostar-b650mt",
+  "slug": "biostar-b650mt",
+  "name": "BIOSTAR B650MT",
+  "category_id": "motherboard",
+  "brand": "BIOSTAR",
+  "mpn": "B650MT",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.biostar-europe.com/app/en/mb/introduction.php?S_ID=1135",
+  "specs_verified_at": "2026-11-08T21:03:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Ranuras de memoria": "2",
+   "Memoria máxima": "128 GB"
+  }
+ }
+]

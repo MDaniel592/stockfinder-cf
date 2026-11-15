@@ -1,0 +1,233 @@
+[
+  {
+    "id": "gigabyte-h810m-h",
+    "slug": "gigabyte-h810m-h",
+    "name": "Gigabyte H810M H Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "H810M H",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/H810M-H-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/H810M-H-rev-1x/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel H810",
+      "Tipo de memoria": "DDR5"
+    }
+  },
+  {
+    "id": "gigabyte-a620m-ds3h",
+    "slug": "gigabyte-a620m-ds3h",
+    "name": "Gigabyte A620M DS3H Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "A620M DS3H",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/A620M-DS3H-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/A620M-DS3H-rev-1x/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620",
+      "Tipo de memoria": "DDR5"
+    }
+  },
+  {
+    "id": "gigabyte-b760m-e",
+    "slug": "gigabyte-b760m-e",
+    "name": "Gigabyte B760M E Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760M E",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-E-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B760M-E-rev-1x/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5"
+    }
+  },
+  {
+    "id": "gigabyte-b650m-aorus-elite",
+    "slug": "gigabyte-b650m-aorus-elite",
+    "name": "Gigabyte B650M AORUS ELITE 1.0 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650M AORUS ELITE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650M-AORUS-ELITE-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B650M-AORUS-ELITE-rev-1x/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5"
+    }
+  },
+  {
+    "id": "gigabyte-b860-gaming-x-wifi6e",
+    "slug": "gigabyte-b860-gaming-x-wifi6e",
+    "name": "Gigabyte B860 Gaming X WIFI6E Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B860 GAMING X WIFI6E",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860-Gaming-X-WIFI6E-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B860-Gaming-X-WIFI6E-rev-1x/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5"
+    }
+  },
+  {
+    "id": "gigabyte-b860m-d3hp",
+    "slug": "gigabyte-b860m-d3hp",
+    "name": "Gigabyte B860M D3HP Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B860M D3HP",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860M-D3HP-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B860M-D3HP-rev-1x/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5"
+    }
+  },
+  {
+    "id": "gigabyte-h810m-s2h",
+    "slug": "gigabyte-h810m-s2h",
+    "name": "Gigabyte H810M S2H Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "H810M S2H",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/H810M-S2H-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/H810M-S2H-rev-1x/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel H810",
+      "Tipo de memoria": "DDR5"
+    }
+  },
+  {
+    "id": "gigabyte-b850m-force",
+    "slug": "gigabyte-b850m-force",
+    "name": "Gigabyte B850M FORCE Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850M FORCE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850M-FORCE-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B850M-FORCE-rev-1x/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5"
+    }
+  },
+  {
+    "id": "gigabyte-z890-gaming-x-wifi7",
+    "slug": "gigabyte-z890-gaming-x-wifi7",
+    "name": "Gigabyte Z890 Gaming X WIFI7 Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z890 GAMING X WIFI7",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-Gaming-X-WIFI7-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/Z890-Gaming-X-WIFI7-rev-1x/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5"
+    }
+  },
+  {
+    "id": "corsair-cmk16gx5m2b5200c40",
+    "slug": "corsair-cmk16gx5m2b5200c40",
+    "name": "Corsair Vengeance 16GB 2x8GB 5200MHz CL40",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK16GX5M2B5200C40",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk16gx5m2b5200c40/vengeance-16gb-2x8gb-ddr5-dram-5200mt-s-c40-memory-kit-black-cmk16gx5m2b5200c40",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmk16gx5m2b5200c40/vengeance-16gb-2x8gb-ddr5-dram-5200mt-s-c40-memory-kit-black-cmk16gx5m2b5200c40"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Memory": "16GB kit (2×8GB) DDR5-5200",
+      "Detail 2": "CL40-40-40-77",
+      "Detail 3": "Intel XMP",
+      "Detail 4": "UDIMM"
+    }
+  },
+  {
+    "id": "g-skill-f4-3000c16s-16gisb",
+    "slug": "g-skill-f4-3000c16s-16gisb",
+    "name": "G.SKill Aegis 16GB 1x16GB 3000MHz CL16 XMP Negro",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3000C16S-16GISB",
+    "manufacturer_url": "https://www.gskill.com/specification/165/185/1535968303/F4-3000C16S-16GISB-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/185/1535968303/F4-3000C16S-16GISB-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Memory": "16GB single DDR4-3000",
+      "Detail 2": "CL16-18-18-38",
+      "Detail 3": "Intel XMP 2.0",
+      "Detail 4": "UDIMM",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3040f16gx2-rs5k",
+    "slug": "g-skill-f5-6000j3040f16gx2-rs5k",
+    "name": "G.Skill Ripjaws S5 32GB (2x16GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3040F16GX2-RS5K",
+    "manufacturer_url": "https://www.gskill.com/specification/165/377/1649234797/F5-6000J3040F16GX2-RS5K-F5-6000J3040F16GA2-RS5K-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/377/1649234797/F5-6000J3040F16GX2-RS5K-F5-6000J3040F16GA2-RS5K-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:19:13Z",
+    "specs": {
+      "Capacidad": "32 GB (2×16 GB)",
+      "Tipo de memoria": "DDR5",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL30",
+      "Timings": "30-40-40-96",
+      "Perfil": "Intel XMP"
+    }
+  }
+]

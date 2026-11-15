@@ -1,0 +1,161 @@
+[
+  {
+    "id": "asus-tuf-gaming-x870-plus-wifi",
+    "slug": "asus-tuf-gaming-x870-plus-wifi",
+    "name": "ASUS TUF GAMING X870-PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x870-plus-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Formato": "ATX",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-proart-x870e-creator-wifi",
+    "slug": "asus-proart-x870e-creator-wifi",
+    "name": "ASUS ProArt X870E-CREATOR WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/proart/proart-x870e-creator-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Formato": "ATX",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b850-aorus-elite-wifi7-ice",
+    "slug": "gigabyte-b850-aorus-elite-wifi7-ice",
+    "name": "Gigabyte B850 AORUS ELITE WIFI7 ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850-AORUS-ELITE-WIFI7-ICE-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Chipset/model": "family B850",
+      "Conectividad inalámbrica": "wireless networking is part of the named model",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "mpn": "B850 AORUS ELITE WIFI7 ICE",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B850-AORUS-ELITE-WIFI7-ICE-rev-1x/sp"
+    ]
+  },
+  {
+    "id": "gigabyte-b860m-eagle-v2",
+    "slug": "gigabyte-b860m-eagle-v2",
+    "name": "Gigabyte B860M EAGLE V2",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860M-EAGLE-V2/sp",
+    "specs_verified_at": "2026-11-02T10:18:29.815950+00:00",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Formato": "Micro-ATX"
+    }
+  },
+  {
+    "id": "asus-x870-max-gaming-wifi7",
+    "slug": "asus-x870-max-gaming-wifi7",
+    "name": "ASUS X870 MAX GAMING WIFI7",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/others/x870-max-gaming-wifi7/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Formato": "ATX",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-astral-rtx-5090-oc-32gb",
+    "slug": "asus-rog-astral-rtx-5090-oc-32gb",
+    "name": "ASUS ROG Astral GeForce RTX 5090 OC 32 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-o32g-gaming/spec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "512 bits",
+      "Longitud": "357.6 mm",
+      "Dimensiones": "357.6 × 149.3 × 76 mm",
+      "Fuente recomendada": "1000 W",
+      "Conectores de alimentación": "1 × 16 pines",
+      "Consumo (TGP)": "575 W",
+      "Frecuencia turbo": "Hasta 2610 MHz (OC) / 2580 MHz (estándar)"
+    }
+  },
+  {
+    "id": "asus-rog-astral-rtx-5090-white-oc-32gb",
+    "slug": "asus-rog-astral-rtx-5090-white-oc-32gb",
+    "name": "ASUS ROG Astral GeForce RTX 5090 White OC 32 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-o32g-white/spec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "512 bits",
+      "Longitud": "357.6 mm",
+      "Dimensiones": "357.6 × 149.3 × 76 mm",
+      "Fuente recomendada": "1000 W",
+      "Conectores de alimentación": "1 × 16 pines",
+      "Consumo (TGP)": "575 W",
+      "Frecuencia turbo": "Hasta 2610 MHz (OC) / 2580 MHz (estándar)"
+    }
+  },
+  {
+    "id": "inno3d-rtx-5090-ichill-frostbite-pro-32gb",
+    "slug": "inno3d-rtx-5090-ichill-frostbite-pro-32gb",
+    "name": "INNO3D GeForce RTX 5090 iCHILL Frostbite Pro 32 GB",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "manufacturer_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5090-ichill-frostbite-pro",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Interfaz": "PCIe 5.0",
+      "Longitud": "223 mm",
+      "Dimensiones": "223 × 134 × 20 mm",
+      "Refrigeración": "Bloque de agua; requiere circuito de refrigeración líquida personalizado",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)"
+    },
+    "mpn": "C50903-32D7X-1759FBP"
+  }
+]

@@ -1,0 +1,36 @@
+[
+ {
+  "id": "lc-power-super-silent-lc6550-v2-3-550w",
+  "slug": "lc-power-super-silent-lc6550-v2-3-550w",
+  "name": "LC-Power Super Silent LC6550 V2.3 550W",
+  "category_id": "psu",
+  "brand": "LC-Power",
+  "mpn": "LC6550 V2.3",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.lc-power.com/en/lc6550-v2-3/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x"
+  }
+ },
+ {
+  "id": "lc-power-integrator-pro-lc6850b-si-v3-1-850w",
+  "slug": "lc-power-integrator-pro-lc6850b-si-v3-1-850w",
+  "name": "LC-Power Integrator Pro LC6850B-SI V3.1 850W",
+  "category_id": "psu",
+  "brand": "LC-Power",
+  "mpn": "LC6850B-SI V3.1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.lc-power.com/en/lc6850b-si-v3-1/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Conector GPU": "12V-2x6"
+  }
+ }
+]

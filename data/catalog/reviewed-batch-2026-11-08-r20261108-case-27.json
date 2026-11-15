@@ -1,0 +1,48 @@
+[
+ {
+  "id": "sharkoon-elite-shark-ca200m-4044951027156",
+  "slug": "sharkoon-elite-shark-ca200m-4044951027156",
+  "name": "Sharkoon Elite Shark CA200M (4044951027156)",
+  "category_id": "case",
+  "brand": "Sharkoon",
+  "mpn": "4044951027156",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://en.sharkoon.com/product/27156",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Panel lateral": "Cristal templado",
+   "Dimensiones": "506 × 240 × 517 mm",
+   "Altura disipador máxima": "165 mm"
+  }
+ },
+ {
+  "id": "sharkoon-tg7m-rgb-4044951035069",
+  "slug": "sharkoon-tg7m-rgb-4044951035069",
+  "name": "Sharkoon TG7M RGB (4044951035069)",
+  "category_id": "case",
+  "brand": "Sharkoon",
+  "mpn": "4044951035069",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://en.sharkoon.com/product/35069",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Dimensiones": "485 × 220 × 488 mm"
+  }
+ },
+ {
+  "id": "sharkoon-ak6-rgb-white-4044951041701",
+  "slug": "sharkoon-ak6-rgb-white-4044951041701",
+  "name": "Sharkoon AK6 RGB White (4044951041701)",
+  "category_id": "case",
+  "brand": "Sharkoon",
+  "mpn": "4044951041701",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://en.sharkoon.com/product/41701",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Altura disipador máxima": "170 mm",
+   "Dimensiones": "435 × 225 × 485 mm"
+  }
+ }
+]

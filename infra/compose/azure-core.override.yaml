@@ -1,0 +1,24 @@
+# Nucleo en Azure: los volumenes de flujo se enlazan a carpetas del host (propiedad del uid 10001) que sincroniza el NAS por rsync.
+services:
+  catalog-publisher:
+    image: stockfinder-v2-publisher:gpu-chip-20261115
+  postgres:
+    ports:
+      - "100.80.73.54:5432:5432"   # solo en la IP de Tailscale, nunca en la IP publica de Azure
+    # VM de 1 GB: si falta memoria, que el kernel sacrifique antes a cualquier otro proceso y no a la base de datos.
+    oom_score_adj: -500
+    # Cache interna reducida (las bases pesan ~70 MB cada una); menos memoria reservada que con los valores por defecto.
+    command: [postgres, -c, shared_buffers=48MB, -c, max_connections=40, -c, work_mem=4MB,
+              -c, maintenance_work_mem=32MB, -c, effective_cache_size=256MB]
+  # Las carpetas enlazadas son del uid 10001: root sin capacidades (cap_drop ALL) no puede escribir en ellas.
+  coolmod-enrich:
+    user: "10001:10001"
+  coolmod-inventory:
+    user: "10001:10001"
+volumes:
+  flow-data:
+    driver: local
+    driver_opts: {type: none, o: bind, device: /srv/stockfinder/flow}
+  retailer-data:
+    driver: local
+    driver_opts: {type: none, o: bind, device: /srv/stockfinder/retailer}

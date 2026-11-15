@@ -1,0 +1,241 @@
+[
+ {
+  "id": "lian-li-o11-dynamic-mini-v2-negro-o11dmiv2x",
+  "slug": "lian-li-o11-dynamic-mini-v2-negro-o11dmiv2x",
+  "name": "Lian Li O11 Dynamic Mini V2 Negro (O11DMIV2X)",
+  "category_id": "case",
+  "brand": "Lian Li",
+  "mpn": "O11DMIV2X",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/o11-dynamic-mini-v2/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "160 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "lian-li-o11-dynamic-mini-v2-blanco-o11dmiv2w",
+  "slug": "lian-li-o11-dynamic-mini-v2-blanco-o11dmiv2w",
+  "name": "Lian Li O11 Dynamic Mini V2 Blanco (O11DMIV2W)",
+  "category_id": "case",
+  "brand": "Lian Li",
+  "mpn": "O11DMIV2W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/o11-dynamic-mini-v2/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "160 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "lian-li-o11-dynamic-mini-v2-flow-negro-o11dmiv2fx",
+  "slug": "lian-li-o11-dynamic-mini-v2-flow-negro-o11dmiv2fx",
+  "name": "Lian Li O11 Dynamic Mini V2 Flow Negro (O11DMIV2FX)",
+  "category_id": "case",
+  "brand": "Lian Li",
+  "mpn": "O11DMIV2FX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/o11-dynamic-mini-v2/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "5 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "lian-li-o11-dynamic-mini-v2-flow-blanco-o11dmiv2fw",
+  "slug": "lian-li-o11-dynamic-mini-v2-flow-blanco-o11dmiv2fw",
+  "name": "Lian Li O11 Dynamic Mini V2 Flow Blanco (O11DMIV2FW)",
+  "category_id": "case",
+  "brand": "Lian Li",
+  "mpn": "O11DMIV2FW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/o11-dynamic-mini-v2/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "5 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "lian-li-lancool-207-digital-negro-lan207dx",
+  "slug": "lian-li-lancool-207-digital-negro-lan207dx",
+  "name": "Lian Li Lancool 207 Digital Negro (LAN207DX)",
+  "category_id": "case",
+  "brand": "Lian Li",
+  "mpn": "LAN207DX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/lancool-207-digital/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "375 mm",
+   "Altura disipador máxima": "180 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "lian-li-o11-vision-compact-negro-o11vpx",
+  "slug": "lian-li-o11-vision-compact-negro-o11vpx",
+  "name": "Lian Li O11 Vision Compact Negro (O11VPX)",
+  "category_id": "case",
+  "brand": "Lian Li",
+  "mpn": "O11VPX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/o11-vision-compact/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "408 mm",
+   "Altura disipador máxima": "167 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "lian-li-o11-vision-compact-blanco-o11vpw",
+  "slug": "lian-li-o11-vision-compact-blanco-o11vpw",
+  "name": "Lian Li O11 Vision Compact Blanco (O11VPW)",
+  "category_id": "case",
+  "brand": "Lian Li",
+  "mpn": "O11VPW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/o11-vision-compact/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "408 mm",
+   "Altura disipador máxima": "167 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "lian-li-lancool-217-negro-lan217x",
+  "slug": "lian-li-lancool-217-negro-lan217x",
+  "name": "Lian Li Lancool 217 Negro (LAN217X)",
+  "category_id": "case",
+  "brand": "Lian Li",
+  "mpn": "LAN217X",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/lancool-217/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "380 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "2 × 170 mm, 1 × 140 mm, 2 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "approx-appc-203f",
+  "slug": "approx-appc-203f",
+  "name": "Approx APPC-203F Negra",
+  "category_id": "case",
+  "brand": "Approx",
+  "mpn": "APPC-203F",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://approx.es/producto/appc-203f-caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Longitud GPU máxima": "260 mm",
+   "Altura disipador máxima": "130 mm",
+   "Ventiladores incluidos": "1 × 80 mm"
+  }
+ },
+ {
+  "id": "approx-appc-301f",
+  "slug": "approx-appc-301f",
+  "name": "Approx APPC-301F Negra",
+  "category_id": "case",
+  "brand": "Approx",
+  "mpn": "APPC-301F",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://approx.es/producto/appc-301f-caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Longitud GPU máxima": "340 mm",
+   "Altura disipador máxima": "155 mm",
+   "Ventiladores incluidos": "1 × 80 mm"
+  }
+ },
+ {
+  "id": "approx-appc-401f",
+  "slug": "approx-appc-401f",
+  "name": "Approx APPC-401F Negra",
+  "category_id": "case",
+  "brand": "Approx",
+  "mpn": "APPC-401F",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://approx.es/producto/appc-401f-caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Longitud GPU máxima": "295 mm",
+   "Altura disipador máxima": "140 mm",
+   "Ventiladores incluidos": "1 × 80 mm"
+  }
+ },
+ {
+  "id": "approx-appc-201f",
+  "slug": "approx-appc-201f",
+  "name": "Approx APPC-201F Negra",
+  "category_id": "case",
+  "brand": "Approx",
+  "mpn": "APPC-201F",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://approx.es/producto/caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Longitud GPU máxima": "260 mm",
+   "Altura disipador máxima": "130 mm",
+   "Ventiladores incluidos": "1 × 80 mm"
+  }
+ },
+ {
+  "id": "approx-appc-901f",
+  "slug": "approx-appc-901f",
+  "name": "Approx APPC-901F Negra",
+  "category_id": "case",
+  "brand": "Approx",
+  "mpn": "APPC-901F",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://approx.es/producto/appc-901f-caja-de-pc-micro-atx-con-fuente-de-alimentacion-incluida/",
+  "specs_verified_at": "2026-11-09T16:45:32Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Longitud GPU máxima": "250 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ }
+]

@@ -1,0 +1,672 @@
+[
+ {
+  "product_id": "tooq-prisma-tqc-5701u3c-b",
+  "image_path": "/images/products/case/tooq-prisma-tqc-5701u3c-b.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2023/10/TQC-5701U3C-B_00-2.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqc-5701u3c-b/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:19Z"
+ },
+ {
+  "product_id": "tooq-tqc-3005u3-con-fuente-sfx-500-w",
+  "image_path": "/images/products/case/tooq-tqc-3005u3-con-fuente-sfx-500-w.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2016/04/TQC-3005U3_00-2.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqc-3005u3/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:24Z"
+ },
+ {
+  "product_id": "tooq-ragnarok-tqgcc101-b",
+  "image_path": "/images/products/case/tooq-ragnarok-tqgcc101-b.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2023/10/TQGCC101-B_00-1.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqgcc101-b/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:28Z"
+ },
+ {
+  "product_id": "tooq-tqc-3008u3c-con-fuente-sfx-500-w",
+  "image_path": "/images/products/case/tooq-tqc-3008u3c-con-fuente-sfx-500-w.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2023/10/TQC-3008U3C_00-1.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqc-3008u3c/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:33Z"
+ },
+ {
+  "product_id": "tooq-dodeka-tqc-4702u3c-b",
+  "image_path": "/images/products/case/tooq-dodeka-tqc-4702u3c-b.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2023/09/TQC-4702U3C-B_00-3.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqc-4702u3c-b/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:37Z"
+ },
+ {
+  "product_id": "tooq-prisma-ultra-con-fuente-atx-500-w-tqc-5701-sp",
+  "image_path": "/images/products/case/tooq-prisma-ultra-con-fuente-atx-500-w-tqc-5701-sp.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2026/03/TQC-5701-SP_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqc-5701-sp/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:41Z"
+ },
+ {
+  "product_id": "tooq-isobox-tqc-4701u3c-b",
+  "image_path": "/images/products/case/tooq-isobox-tqc-4701u3c-b.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2023/09/TQC-4701U3C-B_00-3.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqc-4701u3c-b/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:46Z"
+ },
+ {
+  "product_id": "tooq-biohazard-tqgcc102-b",
+  "image_path": "/images/products/case/tooq-biohazard-tqgcc102-b.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2023/09/TQGCC102-B_00-2.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqgcc102-b/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:50Z"
+ },
+ {
+  "product_id": "tooq-dodeka-ultra-con-fuente-atx-500-w-tqc-4702-sp",
+  "image_path": "/images/products/case/tooq-dodeka-ultra-con-fuente-atx-500-w-tqc-4702-sp.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2026/01/TQC-4702-SP_00-2.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqc-4702-sp/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:55Z"
+ },
+ {
+  "product_id": "tooq-isobox-ultra-con-fuente-atx-500-w-tqc-4701-sp",
+  "image_path": "/images/products/case/tooq-isobox-ultra-con-fuente-atx-500-w-tqc-4701-sp.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2026/01/TQC-4701-SP_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqc-4701-sp/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:17:59Z"
+ },
+ {
+  "product_id": "tooq-tqhelios-650sp",
+  "image_path": "/images/products/psu/tooq-tqhelios-650sp.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2025/11/TQHELIOS-650SP_00-2.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqhelios-650sp/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:04Z"
+ },
+ {
+  "product_id": "tooq-tqep-500s-sfx",
+  "image_path": "/images/products/psu/tooq-tqep-500s-sfx.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2016/08/TQEP-500S-SFX_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqep-500s-sfx/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:08Z"
+ },
+ {
+  "product_id": "tooq-tqapolo-500sp",
+  "image_path": "/images/products/psu/tooq-tqapolo-500sp.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2022/01/TQAPOLO-500SP_00-1.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqapolo-500sp/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:13Z"
+ },
+ {
+  "product_id": "tooq-tqep-500sse",
+  "image_path": "/images/products/psu/tooq-tqep-500sse.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2015/09/TQEP-500SSE_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqep-500sse/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:17Z"
+ },
+ {
+  "product_id": "tooq-tqep-500sse-o",
+  "image_path": "/images/products/psu/tooq-tqep-500sse-o.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2015/09/TQEP-500SSE-O_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqep-500sse-o/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:22Z"
+ },
+ {
+  "product_id": "tooq-tqapolo-600sp",
+  "image_path": "/images/products/psu/tooq-tqapolo-600sp.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2021/06/TQAPOLO-600SP_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqapolo-600sp/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:26Z"
+ },
+ {
+  "product_id": "tooq-tqapolo-700sp",
+  "image_path": "/images/products/psu/tooq-tqapolo-700sp.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2022/02/TQAPOLO-700SP_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqapolo-700sp/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:31Z"
+ },
+ {
+  "product_id": "tooq-tqapolo-750sp",
+  "image_path": "/images/products/psu/tooq-tqapolo-750sp.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2021/07/TQAPOLO-750SP_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqapolo-750sp/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:35Z"
+ },
+ {
+  "product_id": "tooq-tqxgeii-700sap",
+  "image_path": "/images/products/psu/tooq-tqxgeii-700sap.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2017/02/TQXGEII-700SAP_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqxgeii-700sap/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:40Z"
+ },
+ {
+  "product_id": "tooq-tqxgeii-800sap",
+  "image_path": "/images/products/psu/tooq-tqxgeii-800sap.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2017/02/TQXGEII-800SAP_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqxgeii-800sap/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:44Z"
+ },
+ {
+  "product_id": "tooq-tqapolo-650sp",
+  "image_path": "/images/products/psu/tooq-tqapolo-650sp.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2022/05/TQAPOLO-650SP_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqapolo-650sp/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:49Z"
+ },
+ {
+  "product_id": "tooq-tqep-tfx500s-o",
+  "image_path": "/images/products/psu/tooq-tqep-tfx500s-o.webp",
+  "image_source_url": "https://tooq.com/wp-content/uploads/2016/06/TQEP-TFX500S-O_00.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://tooq.com/producto/tqep-tfx500s-o/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TooQ",
+  "fetched_at": "2026-11-10T22:18:53Z"
+ },
+ {
+  "product_id": "teamgroup-tlzgd416g3200hc16cdc01",
+  "image_path": "/images/products/ram/teamgroup-tlzgd416g3200hc16cdc01.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/gray/dual_01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/vulcan-z-ddr4-gray/vulcan-z-ddr4-gray-TLZGD416G3200HC16CDC01/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:20:29Z"
+ },
+ {
+  "product_id": "teamgroup-tlzgd432g3200hc16fdc01",
+  "image_path": "/images/products/ram/teamgroup-tlzgd432g3200hc16fdc01.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/gray/dual_01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/vulcan-z-ddr4-gray/vulcan-z-ddr4-gray-TLZGD432G3200HC16FDC01/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:20:33Z"
+ },
+ {
+  "product_id": "teamgroup-tf3d416g3200hc16fdc01",
+  "image_path": "/images/products/ram/teamgroup-tf3d416g3200hc16fdc01.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/black/dual_01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr4-black/delta-rgb-ddr4-black-TF3D416G3200HC16FDC01/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:20:38Z"
+ },
+ {
+  "product_id": "teamgroup-tf3d432g3200hc16fdc01",
+  "image_path": "/images/products/ram/teamgroup-tf3d432g3200hc16fdc01.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/black/dual_01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr4-black/delta-rgb-ddr4-black-TF3D432G3200HC16FDC01/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:20:43Z"
+ },
+ {
+  "product_id": "teamgroup-ff3d532g7600hc36ddc01",
+  "image_path": "/images/products/ram/teamgroup-ff3d532g7600hc36ddc01.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/black/dual_01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr5-black/delta-rgb-ddr5-black-FF3D532G7600HC36DDC01/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:20:47Z"
+ },
+ {
+  "product_id": "teamgroup-tf4d416g3600hc18jdc01",
+  "image_path": "/images/products/ram/teamgroup-tf4d416g3600hc18jdc01.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/white/dual_01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr4-white/delta-rgb-ddr4-white-TF4D416G3600HC18JDC01/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:20:52Z"
+ },
+ {
+  "product_id": "teamgroup-ms30-512gb-tm8ps7512g0c101",
+  "image_path": "/images/products/storage/teamgroup-ms30-512gb-tm8ps7512g0c101.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/ssd/m2/ms30/2280/512gb_01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/ms30-2280/ms30-2280-TM8PS7512G0C101/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:20:57Z"
+ },
+ {
+  "product_id": "teamgroup-nv5000-1tb-tm8fgm001t0c101",
+  "image_path": "/images/products/storage/teamgroup-nv5000-1tb-tm8fgm001t0c101.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/ssd/m2/nv5000/1tb_01.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/nv5000/nv5000-TM8FGM001T0C101/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:21:01Z"
+ },
+ {
+  "product_id": "teamgroup-cx2-256gb-t253x6256g0c101",
+  "image_path": "/images/products/storage/teamgroup-cx2-256gb-t253x6256g0c101.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/ssd/internal/cx2/01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/cx2/cx2-T253X6256G0C101/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:21:06Z"
+ },
+ {
+  "product_id": "teamgroup-mp33-256gb-tm8fp6256g0c101",
+  "image_path": "/images/products/storage/teamgroup-mp33-256gb-tm8fp6256g0c101.webp",
+  "image_source_url": "https://images.teamgroupinc.com/products/ssd/m2/mp33/256gb_01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/mp33/mp33-TM8FP6256G0C101/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: TEAMGROUP",
+  "fetched_at": "2026-11-10T22:21:10Z"
+ },
+ {
+  "product_id": "chieftec-bx-mesh-bx-10b-m-op",
+  "image_path": "/images/products/case/chieftec-bx-mesh-bx-10b-m-op.webp",
+  "image_source_url": "https://www.chieftec.eu/upload/pic/c-product_pic1230829105317_3978.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.chieftec.eu/products-detail/561/BX-10B-M-OP",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Chieftec",
+  "fetched_at": "2026-11-10T22:21:17Z"
+ },
+ {
+  "product_id": "chieftec-the-cube-ci-03b-op",
+  "image_path": "/images/products/case/chieftec-the-cube-ci-03b-op.webp",
+  "image_source_url": "https://www.chieftec.eu/upload/pic/c-product_pic1251028174624_2240.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.chieftec.eu/products-detail/658/CI-03B-OP",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Chieftec",
+  "fetched_at": "2026-11-10T22:21:25Z"
+ },
+ {
+  "product_id": "chieftec-pro-mini-az-01b-op",
+  "image_path": "/images/products/case/chieftec-pro-mini-az-01b-op.webp",
+  "image_source_url": "https://www.chieftec.eu/upload/pic/c-product_pic1240829134954_2315.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.chieftec.eu/products-detail/587/AZ-01B-OP",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Chieftec",
+  "fetched_at": "2026-11-10T22:21:32Z"
+ },
+ {
+  "product_id": "chieftec-value-apb-500b8",
+  "image_path": "/images/products/psu/chieftec-value-apb-500b8.webp",
+  "image_source_url": "https://www.chieftec.eu/upload/pic/c-product_pic1210203144155_6708.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.chieftec.eu/products-detail/181/VALUE_SERIES/250/APB-500B8",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Chieftec",
+  "fetched_at": "2026-11-10T22:21:36Z"
+ },
+ {
+  "product_id": "corsair-vengeance-64gb-ddr5-6000-cl30",
+  "image_path": "/images/products/ram/corsair-vengeance-64gb-ddr5-6000-cl30.webp",
+  "image_source_url": "https://assets.corsair.com/image/upload/c_limit,f_auto,q_85,w_1600,h_1600/products/Memory/vengeance-ddr5-amd-blk-config/2up/VENGEANCE_DDR5_GREY_AMD_01.webp",
+  "image_scope": "family",
+  "image_page_url": "https://www.corsair.com/ww/en/p/memory/cmk64gx5m2b6000z30/vengeance-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cmk64gx5m2b6000z30",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Corsair",
+  "fetched_at": "2026-11-10T22:23:28Z"
+ },
+ {
+  "product_id": "corsair-cx750-cp-9020279-eu",
+  "image_path": "/images/products/psu/corsair-cx750-cp-9020279-eu.webp",
+  "image_source_url": "https://assets.corsair.com/image/upload/c_limit,f_auto,q_85,w_1600,h_1600/products/Power-Supply-Units/base-cx-series-2023-config/CX750/CX750_01.webp",
+  "image_scope": "model",
+  "image_page_url": "https://www.corsair.com/es/es/p/psu/cp-9020279-eu/cx-series-cx750-750-watt-80-plus-bronze-atx-power-supply-eu-cp-9020279-eu",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Corsair",
+  "fetched_at": "2026-11-10T22:23:44Z"
+ },
+ {
+  "product_id": "corsair-cmh64gx5m2d6000z40",
+  "image_path": "/images/products/ram/corsair-cmh64gx5m2d6000z40.webp",
+  "image_source_url": "https://assets.corsair.com/image/upload/c_limit,f_auto,q_85,w_1600,h_1600/products/Memory/vengeance-rgb-amd-ddr5-blk-config/Gallery/Vengeance-RGB-DDR5-2UP-32GB-GRAY_01.webp",
+  "image_scope": "family",
+  "image_page_url": "https://www.corsair.com/us/en/p/memory/cmh64gx5m2d6000z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Corsair",
+  "fetched_at": "2026-11-10T22:23:52Z"
+ },
+ {
+  "product_id": "corsair-cmh32gx5m2e6000z36",
+  "image_path": "/images/products/ram/corsair-cmh32gx5m2e6000z36.webp",
+  "image_source_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Memory/vengeance-rgb-amd-ddr5-blk-config/Gallery/Vengeance-RGB-DDR5-2UP-32GB-GRAY_01.webp",
+  "image_scope": "family",
+  "image_page_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2e6000z36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mts-cl36-amd-expo-memory-kit-cmh32gx5m2e6000z36",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Corsair",
+  "fetched_at": "2026-11-10T22:24:01Z"
+ },
+ {
+  "product_id": "corsair-cmh16gx5m1d6000z38",
+  "image_path": "/images/products/ram/corsair-cmh16gx5m1d6000z38.webp",
+  "image_source_url": "https://assets.corsair.com/image/upload/c_limit,f_auto,q_85,w_1600,h_1600/products/Memory/vengeance-rgb-amd-ddr5-blk-config/Gallery/Vengeance-RGB-DDR5-2UP-32GB-GRAY_01.webp",
+  "image_scope": "family",
+  "image_page_url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m1d6000z38/vengeance-rgb-16gb-1-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-&-intel-xmp-memory-kit-gray-cmh16gx5m1d6000z38",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Corsair",
+  "fetched_at": "2026-11-10T22:24:08Z"
+ },
+ {
+  "product_id": "corsair-cmk32gx5m2b5200c40",
+  "image_path": "/images/products/ram/corsair-cmk32gx5m2b5200c40.webp",
+  "image_source_url": "https://assets.corsair.com/image/upload/c_limit,f_auto,q_85,w_1600,h_1600/products/Memory/vengeance-ddr5-blk-config/Gallery/Vengeance-DDR5-2UP-16GB-BLACK_01.webp",
+  "image_scope": "family",
+  "image_page_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b5200c40/vengeancea-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-a-black-cmk32gx5m2b5200c40",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Corsair",
+  "fetched_at": "2026-11-10T22:24:17Z"
+ },
+ {
+  "product_id": "corsair-cmh32gx5m2b6000z38",
+  "image_path": "/images/products/ram/corsair-cmh32gx5m2b6000z38.webp",
+  "image_source_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Memory/vengeance-rgb-amd-ddr5-blk-config/Gallery/Vengeance-RGB-DDR5-2UP-32GB-GRAY_01.webp",
+  "image_scope": "family",
+  "image_page_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000z38/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl38-memory-kit-grey-cmh32gx5m2b6000z38",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Corsair",
+  "fetched_at": "2026-11-10T22:24:27Z"
+ },
+ {
+  "product_id": "synology-d4er01-16g",
+  "image_path": "/images/products/ram/synology-d4er01-16g.webp",
+  "image_source_url": "https://www.synology.com/api/products/getPhoto?product=D4ER01-16G&type=img&sort=9",
+  "image_scope": "model",
+  "image_page_url": "https://www.synology.com/en-global/products/DDR4",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Synology",
+  "fetched_at": "2026-11-10T22:25:43Z"
+ },
+ {
+  "product_id": "synology-d4ec-2666-8g",
+  "image_path": "/images/products/ram/synology-d4ec-2666-8g.webp",
+  "image_source_url": "https://www.synology.com/api/products/getPhoto?product=D4EC-2666-8G&type=img&sort=9",
+  "image_scope": "model",
+  "image_page_url": "https://www.synology.com/en-global/products/DDR4",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Synology",
+  "fetched_at": "2026-11-10T22:25:47Z"
+ },
+ {
+  "product_id": "synology-d4ec-2666-16g",
+  "image_path": "/images/products/ram/synology-d4ec-2666-16g.webp",
+  "image_source_url": "https://www.synology.com/api/products/getPhoto?product=D4EC-2666-8G&type=img&sort=9",
+  "image_scope": "family",
+  "image_page_url": "https://www.synology.com/en-global/products/DDR4",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Synology",
+  "fetched_at": "2026-11-10T22:25:51Z"
+ },
+ {
+  "product_id": "gskill-f4-3200c16s-16gis",
+  "image_path": "/images/products/ram/gskill-f4-3200c16s-16gis.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/i/G_Skill_Aegis_F4_3200C16S_16GIS_m_dulo_de_memoria_16_GB_1_x_16_GB_DDR4_3200_MHz__Memoria_RAM@@ieiggu2m.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/G-Skill/Aegis-F4-3200C16S-16GIS-m%C3%B3dulo-de-memoria-16-GB-1-x-16-GB-DDR4-3200-MHz-Memoria-RAM/html/product/1584019",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:28:58Z"
+ },
+ {
+  "product_id": "gskill-f4-3600c16d-32gtzrc",
+  "image_path": "/images/products/ram/gskill-f4-3600c16d-32gtzrc.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/i/G_Skill_Trident_Z_RGB_F4_3600C16D_32GTZRC_m_dulo_de_memoria_32_GB_2_x_16_GB_DDR4_3600_MHz__Memoria_RAM@@ifiggz3u_1.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/G-Skill/Trident-Z-RGB-F4-3600C16D-32GTZRC-m%C3%B3dulo-de-memoria-32-GB-2-x-16-GB-DDR4-3600-MHz-Memoria-RAM/html/product/1584628",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:29:05Z"
+ },
+ {
+  "product_id": "gskill-f4-2666c19s-16gis",
+  "image_path": "/images/products/ram/gskill-f4-2666c19s-16gis.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/i/G_Skill_Aegis_F4_2666C19S_16GIS_m_dulo_de_memoria_16_GB_1_x_16_GB_DDR4_2666_MHz__Memoria_RAM@@ieiggn29.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/G-Skill/Aegis-F4-2666C19S-16GIS-m%C3%B3dulo-de-memoria-16-GB-1-x-16-GB-DDR4-2666-MHz-Memoria-RAM/html/product/1627270",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:29:36Z"
+ },
+ {
+  "product_id": "gskill-f4-4000c18d-16gvk",
+  "image_path": "/images/products/ram/gskill-f4-4000c18d-16gvk.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/i/G_Skill_Ripjaws_V_F4_4000C18D_16GVK_m_dulo_de_memoria_16_GB_2_x_8_GB_DDR4_4000_MHz__Memoria_RAM@@ieiggz3v.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/G-Skill/Ripjaws-V-F4-4000C18D-16GVK-m%C3%B3dulo-de-memoria-16-GB-2-x-8-GB-DDR4-4000-MHz-Memoria-RAM/html/product/1584284",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:29:45Z"
+ },
+ {
+  "product_id": "gskill-f4-3600c16d-16gtzrc",
+  "image_path": "/images/products/ram/gskill-f4-3600c16d-16gtzrc.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/i/G_Skill_Trident_Z_RGB_F4_3600C16D_16GTZRC_m_dulo_de_memoria_16_GB_2_x_8_GB_DDR4_3600_MHz__Memoria_RAM@@ieiggz3x_1.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/G-Skill/Trident-Z-RGB-F4-3600C16D-16GTZRC-m%C3%B3dulo-de-memoria-16-GB-2-x-8-GB-DDR4-3600-MHz-Memoria-RAM/html/product/1584619",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:29:53Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j3636f16gx2-is",
+  "image_path": "/images/products/ram/gskill-f5-6000j3636f16gx2-is.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/6/7/G_Skill_DIMM_32_GB_DDR5_6000__2x_16_GB__Dual_Kit__Memoria_RAM@@100099376.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/G-Skill/DIMM-32-GB-DDR5-6000-2x-16-GB-Dual-Kit-Memoria-RAM/html/product/100099376",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:32:18Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j3636f16gx1-is",
+  "image_path": "/images/products/ram/gskill-f5-6000j3636f16gx1-is.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/4/7/G_Skill_DIMM_16_GB_DDR5_6000__Memoria_RAM@@100099374.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.es/G-Skill/DIMM-16-GB-DDR5-6000-Memoria-RAM/html/product/100099374",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:32:22Z"
+ },
+ {
+  "product_id": "gskill-f5-5600j3636d32gx1-is",
+  "image_path": "/images/products/ram/gskill-f5-5600j3636d32gx1-is.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/4/7/G_Skill_DIMM_16_GB_DDR5_6000__Memoria_RAM@@100099374.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.alternate.es/G-Skill/DIMM-16-GB-DDR5-6000-Memoria-RAM/html/product/100099374",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:32:27Z"
+ },
+ {
+  "product_id": "gskill-f5-6800j3445g32gx2-tz5rk",
+  "image_path": "/images/products/ram/gskill-f5-6800j3445g32gx2-tz5rk.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/7/5/G_Skill_Trident_Z_F5_5600J3636D32GX2_TZ5RK_m_dulo_de_memoria_64_GB_2_x_32_GB_DDR5__Memoria_RAM@@1839857_1.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.alternate.es/G-Skill/Trident-Z-F5-5600J3636D32GX2-TZ5RK-m%C3%B3dulo-de-memoria-64-GB-2-x-32-GB-DDR5-Memoria-RAM/html/product/1839857",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:32:32Z"
+ },
+ {
+  "product_id": "gskill-f4-2666c19d-16gis",
+  "image_path": "/images/products/ram/gskill-f4-2666c19d-16gis.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/i/G_Skill_Aegis_DDR4_m_dulo_de_memoria_16_GB_2_x_8_GB_2666_MHz__Memoria_RAM@@ieiggn23.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.alternate.es/G-Skill/Aegis-DDR4-m%C3%B3dulo-de-memoria-16-GB-2-x-8-GB-2666-MHz-Memoria-RAM/html/product/1438770",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:32:36Z"
+ },
+ {
+  "product_id": "gskill-f4-3600c16q-64gvkc",
+  "image_path": "/images/products/ram/gskill-f4-3600c16q-64gvkc.webp",
+  "image_source_url": "https://www.alternate.es/p/1200x630/i/G_Skill_Ripjaws_V_F4_3600C16D_32GVKC_m_dulo_de_memoria_32_GB_2_x_16_GB_DDR4_3600_MHz__Memoria_RAM@@ifiggz3p.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.alternate.es/G-Skill/Ripjaws-V-F4-3600C16D-32GVKC-m%C3%B3dulo-de-memoria-32-GB-2-x-16-GB-DDR4-3600-MHz-Memoria-RAM/html/product/1584096",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:32:41Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j3038f16gh2-tz5nr",
+  "image_path": "/images/products/ram/gskill-f5-6000j3038f16gh2-tz5nr.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/05/98/16/LD0005981672_0005981703_0005981709_0005981726_0005981739.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00519099.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:33:37Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j4048f24gx2-tz5nr",
+  "image_path": "/images/products/ram/gskill-f5-6000j4048f24gx2-tz5nr.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/05/98/16/LD0005981672_0005981703_0005981709_0005981726_0005981739.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00519099.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:33:42Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j3244g64gx2-tz5nr",
+  "image_path": "/images/products/ram/gskill-f5-6000j3244g64gx2-tz5nr.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/05/98/16/LD0005981672_0005981703_0005981709_0005981726_0005981739.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00519099.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:33:46Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j3038f16gh1-tz5nr",
+  "image_path": "/images/products/ram/gskill-f5-6000j3038f16gh1-tz5nr.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/05/98/16/LD0005981672_0005981703_0005981709_0005981726_0005981739.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00519099.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:33:51Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j3636f16gx2-rm5nrk",
+  "image_path": "/images/products/ram/gskill-f5-6000j3636f16gx2-rm5nrk.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/06/15/91/LD0006159165_0006175149.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00648119.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:33:55Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j3636f16gx1-fx5",
+  "image_path": "/images/products/ram/gskill-f5-6000j3636f16gx1-fx5.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/06/31/16/LD0006311686.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00721782.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:34:00Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j3036f48gx2-fx5",
+  "image_path": "/images/products/ram/gskill-f5-6000j3036f48gx2-fx5.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/05/98/08/LD0005980835_0005980915.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00519088.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:34:05Z"
+ },
+ {
+  "product_id": "biwin-bxh41632hw1-d16eb",
+  "image_path": "/images/products/ram/biwin-bxh41632hw1-d16eb.webp",
+  "image_source_url": "https://www.biwintech.com/wp-content/uploads/2026/09/biwin-hw100-ddr4-memory.webp",
+  "image_scope": "family",
+  "image_page_url": "https://www.biwintech.com/product/biwin-hw100-ddr4-memory/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Biwin",
+  "fetched_at": "2026-11-10T22:35:52Z"
+ },
+ {
+  "product_id": "gskill-f5-6000j3036f16gx2-tz5nrw",
+  "image_path": "/images/products/ram/gskill-f5-6000j3036f16gx2-tz5nrw.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/06/06/23/LD0006062384_0006073097.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00575554.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:35:55Z"
+ },
+ {
+  "product_id": "gskill-f4-3600c18d-32gvw",
+  "image_path": "/images/products/ram/gskill-f4-3600c18d-32gvw.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/06/07/73/LD0006077320.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00579003.html",
+  "image_origin": "retailer",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T22:36:00Z"
+ }
+]

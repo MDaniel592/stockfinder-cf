@@ -1,0 +1,27 @@
+# Sidecar de Tailscale SOLO para StockFinder (nodo etiquetado tag:stockfinder-scraper).
+# Arranque:  docker compose -p stockfinder-ts --env-file .env.tailscale.local -f infra/compose/tailscale-sidecar.compose.yaml up -d
+# Los servicios que deban hablar con la base (nucleo en Azure) comparten su red con:
+#   network_mode: "container:stockfinder-ts"
+# Las ACL solo permiten a este nodo el puerto 5432 del nodo tag:stockfinder-core.
+name: stockfinder-ts
+services:
+  ts:
+    image: tailscale/tailscale:latest
+    container_name: stockfinder-ts
+    hostname: stockfinder-scraper-nas
+    environment:
+      TS_AUTHKEY: ${TS_AUTHKEY:?define TS_AUTHKEY en .env.tailscale.local}
+      TS_EXTRA_ARGS: --advertise-tags=tag:stockfinder-scraper
+      TS_STATE_DIR: /var/lib/tailscale
+      TS_USERSPACE: "false"
+      TS_ACCEPT_DNS: "false"
+    volumes:
+      - ts-state:/var/lib/tailscale
+    devices:
+      - /dev/net/tun:/dev/net/tun
+    cap_add: [NET_ADMIN]
+    restart: unless-stopped
+    mem_limit: 64m
+    logging: {driver: json-file, options: {max-size: 5m, max-file: "2"}}
+volumes:
+  ts-state:

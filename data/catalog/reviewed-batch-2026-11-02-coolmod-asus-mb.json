@@ -1,0 +1,508 @@
+[
+  {
+    "id": "asus-proart-z890-creator-wifi",
+    "slug": "asus-proart-z890-creator-wifi",
+    "name": "ASUS ProArt Z890-CREATOR WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1JD0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1jd0-m0eay0-proart-z890-creator-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-crosshair-x870e-apex",
+    "slug": "asus-rog-crosshair-x870e-apex",
+    "name": "ASUS ROG Crosshair X870E Apex",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1KR0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1kr0-m0eay0-rog-crosshair-x870e-apex.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b850-a-gaming-wifi",
+    "slug": "asus-rog-strix-b850-a-gaming-wifi",
+    "name": "ASUS ROG Strix B850-A Gaming WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1J50-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1j50-m0eay0-rog-strix-b850-a-gaming-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b850-e-gaming-wifi",
+    "slug": "asus-rog-strix-b850-e-gaming-wifi",
+    "name": "ASUS ROG Strix B850-E Gaming WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1J60-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1j60-m0eay0-rog-strix-b850-e-gaming-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b860-f-gaming-wifi",
+    "slug": "asus-rog-strix-b860-f-gaming-wifi",
+    "name": "ASUS ROG Strix B860-F Gaming WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1JG0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1jg0-m0eay0-rog-strix-b860-f-gaming-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Memoria máxima": "256 GB",
+      "Ranuras de memoria": "4",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b860-g-gaming-wifi",
+    "slug": "asus-rog-strix-b860-g-gaming-wifi",
+    "name": "ASUS ROG Strix B860-G Gaming WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1JF0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1jf0-m0eay0-rog-strix-b860-g-gaming-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b860-i-gaming-wifi",
+    "slug": "asus-rog-strix-b860-i-gaming-wifi",
+    "name": "ASUS ROG Strix B860-I Gaming WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1JB0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1jb0-m0eay0-rog-strix-b860-i-gaming-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Mini-ITX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-strix-z890-a-gaming-wifi",
+    "slug": "asus-rog-strix-z890-a-gaming-wifi",
+    "name": "ASUS ROG Strix Z890-A Gaming WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1I90-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1i90-m0eay0-rog-strix-z890-a-gaming-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-strix-z890-f-gaming-wifi",
+    "slug": "asus-rog-strix-z890-f-gaming-wifi",
+    "name": "ASUS ROG Strix Z890-F Gaming WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1I40-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1i40-m0eay0-rog-strix-z890-f-gaming-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-strix-z890-h-gaming-wifi",
+    "slug": "asus-rog-strix-z890-h-gaming-wifi",
+    "name": "ASUS ROG Strix Z890-H Gaming WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1K20-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1k20-m0eay0-rog-strix-z890-h-gaming-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Memoria máxima": "256 GB",
+      "Ranuras de memoria": "4",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b650e-e-wifi",
+    "slug": "asus-tuf-gaming-b650e-e-wifi",
+    "name": "ASUS TUF Gaming B650E-E WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1LT0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1lt0-m0eay0-tuf-gaming-b650e-e-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b650m-plus",
+    "slug": "asus-tuf-gaming-b650m-plus",
+    "name": "ASUS TUF Gaming B650M-PLUS",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1BG0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1bg0-m0eay0-tuf-gaming-b650m-plus.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b760-plus-wifi",
+    "slug": "asus-tuf-gaming-b760-plus-wifi",
+    "name": "ASUS TUF Gaming B760-PLUS WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1ER0-M1EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1er0-m1eay0-tuf-gaming-b760-plus-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Memoria máxima": "192 GB",
+      "Ranuras de memoria": "4",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b760m-btf-wifi",
+    "slug": "asus-tuf-gaming-b760m-btf-wifi",
+    "name": "ASUS TUF Gaming B760M-BTF WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1G50-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1g50-m0eay0-tuf-gaming-b760m-btf-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b760m-plus-ii",
+    "slug": "asus-tuf-gaming-b760m-plus-ii",
+    "name": "ASUS TUF Gaming B760M-PLUS II",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1HD0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1hd0-m0eay0-tuf-gaming-b760m-plus-ii.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b760m-plus-wifi-ii",
+    "slug": "asus-tuf-gaming-b760m-plus-wifi-ii",
+    "name": "ASUS TUF Gaming B760M-PLUS WiFi II",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1HE0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1he0-m0eay0-tuf-gaming-b760m-plus-wifi-ii.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b850-btf-wifi-w",
+    "slug": "asus-tuf-gaming-b850-btf-wifi-w",
+    "name": "ASUS TUF Gaming B850-BTF WiFi W",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1KW0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1kw0-m0eay0-tuf-gaming-b850-btf-wifi-w.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b850m-e-wifi",
+    "slug": "asus-tuf-gaming-b850m-e-wifi",
+    "name": "ASUS TUF Gaming B850M-E WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1LS0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1ls0-m0eay0-tuf-gaming-b850m-e-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b850m-plus",
+    "slug": "asus-tuf-gaming-b850m-plus",
+    "name": "ASUS TUF Gaming B850M-PLUS",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1IX0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1ix0-m0eay0-tuf-gaming-b850m-plus.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b850m-plus-ii",
+    "slug": "asus-tuf-gaming-b850m-plus-ii",
+    "name": "ASUS TUF Gaming B850M-PLUS II",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1MT0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1mt0-m0eay0-tuf-gaming-b850m-plus-ii.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b850m-plus-wifi",
+    "slug": "asus-tuf-gaming-b850m-plus-wifi",
+    "name": "ASUS TUF Gaming B850M-PLUS WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1IY0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1iy0-m0eay0-tuf-gaming-b850m-plus-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b850m-plus-wifi7-w",
+    "slug": "asus-tuf-gaming-b850m-plus-wifi7-w",
+    "name": "ASUS TUF Gaming B850M-PLUS WiFi7 W",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1MD0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1md0-m0eay0-tuf-gaming-b850m-plus-wifi7-w.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b860m-plus-wifi",
+    "slug": "asus-tuf-gaming-b860m-plus-wifi",
+    "name": "ASUS TUF Gaming B860M-PLUS WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1JV0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1jv0-m0eay0-tuf-gaming-b860m-plus-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Memoria máxima": "256 GB",
+      "Ranuras de memoria": "4",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-x870e-plus-wifi7",
+    "slug": "asus-tuf-gaming-x870e-plus-wifi7",
+    "name": "ASUS TUF Gaming X870E-PLUS WiFi7",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1M70-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1m70-m0eay0-tuf-gaming-x870e-plus-wifi7.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Memoria máxima": "256 GB",
+      "Ranuras de memoria": "4",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-z890-plus-wifi",
+    "slug": "asus-tuf-gaming-z890-plus-wifi",
+    "name": "ASUS TUF Gaming Z890-PLUS WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1IQ0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1iq0-m0eay0-tuf-gaming-z890-plus-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-z890-pro-wifi",
+    "slug": "asus-tuf-gaming-z890-pro-wifi",
+    "name": "ASUS TUF Gaming Z890-PRO WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1IR0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1ir0-m0eay0-tuf-gaming-z890-pro-wifi.html",
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-x870-max-gaming-wifi7-w",
+    "slug": "asus-x870-max-gaming-wifi7-w",
+    "name": "ASUS X870 MAX GAMING WiFi7 W",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1LZ0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1lz0-m0eay0-x870-max-gaming-wifi7-w.html",
+    "specs_verified_at": "2026-11-02T18:52:18Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX"
+    }
+  }
+]

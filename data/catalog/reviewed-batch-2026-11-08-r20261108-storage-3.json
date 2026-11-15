@@ -1,0 +1,760 @@
+[
+ {
+  "id": "seagate-ironwolf-4-tb-st4000vn006",
+  "slug": "seagate-ironwolf-4-tb-st4000vn006",
+  "name": "Seagate IronWolf 4 TB (ST4000VN006)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST4000VN006",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-8-tb-st8000vn004",
+  "slug": "seagate-ironwolf-8-tb-st8000vn004",
+  "name": "Seagate IronWolf 8 TB (ST8000VN004)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST8000VN004",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-barracuda-2-tb-st2000dm008",
+  "slug": "seagate-barracuda-2-tb-st2000dm008",
+  "name": "Seagate BarraCuda 2 TB (ST2000DM008)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST2000DM008",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-16-tb-st16000nt001",
+  "slug": "seagate-ironwolf-pro-16-tb-st16000nt001",
+  "name": "Seagate IronWolf Pro 16 TB (ST16000NT001)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST16000NT001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "16 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-skyhawk-4-tb-st4000vx016",
+  "slug": "seagate-skyhawk-4-tb-st4000vx016",
+  "name": "Seagate SkyHawk 4 TB (ST4000VX016)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST4000VX016",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/consumer-electronics/skyhawk/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-4-tb-st4000nt001",
+  "slug": "seagate-ironwolf-pro-4-tb-st4000nt001",
+  "name": "Seagate IronWolf Pro 4 TB (ST4000NT001)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST4000NT001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-barracuda-4-tb-st4000dm004",
+  "slug": "seagate-barracuda-4-tb-st4000dm004",
+  "name": "Seagate BarraCuda 4 TB (ST4000DM004)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST4000DM004",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-12-tb-st12000vn0008",
+  "slug": "seagate-ironwolf-12-tb-st12000vn0008",
+  "name": "Seagate IronWolf 12 TB (ST12000VN0008)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST12000VN0008",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "12 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-24-tb-st24000nt002",
+  "slug": "seagate-ironwolf-pro-24-tb-st24000nt002",
+  "name": "Seagate IronWolf Pro 24 TB (ST24000NT002)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST24000NT002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "24 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-8-tb-st8000vn002",
+  "slug": "seagate-ironwolf-8-tb-st8000vn002",
+  "name": "Seagate IronWolf 8 TB (ST8000VN002)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST8000VN002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-8-tb-st8000nt001",
+  "slug": "seagate-ironwolf-pro-8-tb-st8000nt001",
+  "name": "Seagate IronWolf Pro 8 TB (ST8000NT001)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST8000NT001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-10-tb-st10000vn000",
+  "slug": "seagate-ironwolf-10-tb-st10000vn000",
+  "name": "Seagate IronWolf 10 TB (ST10000VN000)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST10000VN000",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-28-tb-st28000nt000",
+  "slug": "seagate-ironwolf-pro-28-tb-st28000nt000",
+  "name": "Seagate IronWolf Pro 28 TB (ST28000NT000)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST28000NT000",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "28 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-barracuda-8-tb-st8000dm004",
+  "slug": "seagate-barracuda-8-tb-st8000dm004",
+  "name": "Seagate BarraCuda 8 TB (ST8000DM004)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST8000DM004",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-10-tb-st10000nt001",
+  "slug": "seagate-ironwolf-pro-10-tb-st10000nt001",
+  "name": "Seagate IronWolf Pro 10 TB (ST10000NT001)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST10000NT001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-20-tb-st20000nt001",
+  "slug": "seagate-ironwolf-pro-20-tb-st20000nt001",
+  "name": "Seagate IronWolf Pro 20 TB (ST20000NT001)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST20000NT001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "20 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-barracuda-2-5-5-tb-st5000lm000",
+  "slug": "seagate-barracuda-2-5-5-tb-st5000lm000",
+  "name": "Seagate BarraCuda 2.5\" 5 TB (ST5000LM000)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST5000LM000",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/laptop-hard-drives/barracuda-2-5/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "5 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Caché": "128 MB"
+  }
+ },
+ {
+  "id": "seagate-exos-7e10-8-tb-st8000nm017b",
+  "slug": "seagate-exos-7e10-8-tb-st8000nm017b",
+  "name": "Seagate Exos 7E10 8 TB (ST8000NM017B)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST8000NM017B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-7e10/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-exos-x24-16-tb-st16000nm002h",
+  "slug": "seagate-exos-x24-16-tb-st16000nm002h",
+  "name": "Seagate Exos X24 16 TB (ST16000NM002H)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST16000NM002H",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-x24/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "16 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-exos-7e10-10-tb-st10000nm017b",
+  "slug": "seagate-exos-7e10-10-tb-st10000nm017b",
+  "name": "Seagate Exos 7E10 10 TB (ST10000NM017B)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST10000NM017B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-7e10/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-exos-7e10-4-tb-st4000nm000b",
+  "slug": "seagate-exos-7e10-4-tb-st4000nm000b",
+  "name": "Seagate Exos 7E10 4 TB (ST4000NM000B)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST4000NM000B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-7e10/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-ironwolf-2-tb-st2000vn003",
+  "slug": "seagate-ironwolf-2-tb-st2000vn003",
+  "name": "Seagate IronWolf 2 TB (ST2000VN003)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST2000VN003",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-6-tb-st6000nt001",
+  "slug": "seagate-ironwolf-pro-6-tb-st6000nt001",
+  "name": "Seagate IronWolf Pro 6 TB (ST6000NT001)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST6000NT001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "6 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-exos-7e10-2-tb-st2000nm000b",
+  "slug": "seagate-exos-7e10-2-tb-st2000nm000b",
+  "name": "Seagate Exos 7E10 2 TB (ST2000NM000B)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST2000NM000B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-7e10/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-skyhawk-ai-20-tb-st20000ve003",
+  "slug": "seagate-skyhawk-ai-20-tb-st20000ve003",
+  "name": "Seagate SkyHawk AI 20 TB (ST20000VE003)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST20000VE003",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/consumer-electronics/skyhawk-ai/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "20 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-skyhawk-ai-16-tb-st16000ve004",
+  "slug": "seagate-skyhawk-ai-16-tb-st16000ve004",
+  "name": "Seagate SkyHawk AI 16 TB (ST16000VE004)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST16000VE004",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/consumer-electronics/skyhawk-ai/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "16 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-barracuda-2-5-2-tb-st2000lm015",
+  "slug": "seagate-barracuda-2-5-2-tb-st2000lm015",
+  "name": "Seagate BarraCuda 2.5\" 2 TB (ST2000LM015)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST2000LM015",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/laptop-hard-drives/barracuda-2-5/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Caché": "128 MB"
+  }
+ },
+ {
+  "id": "seagate-skyhawk-6-tb-st6000vx009",
+  "slug": "seagate-skyhawk-6-tb-st6000vx009",
+  "name": "Seagate SkyHawk 6 TB (ST6000VX009)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST6000VX009",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/consumer-electronics/skyhawk/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "6 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-32-tb-st32000nt000",
+  "slug": "seagate-ironwolf-pro-32-tb-st32000nt000",
+  "name": "Seagate IronWolf Pro 32 TB (ST32000NT000)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST32000NT000",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "32 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-6-tb-st6000vn006",
+  "slug": "seagate-ironwolf-6-tb-st6000vn006",
+  "name": "Seagate IronWolf 6 TB (ST6000VN006)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST6000VN006",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "6 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-exos-m-28-tb-st28000nm003k",
+  "slug": "seagate-exos-m-28-tb-st28000nm003k",
+  "name": "Seagate Exos M 28 TB (ST28000NM003K)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST28000NM003K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-m/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "28 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-exos-x24-20-tb-st20000nm002h",
+  "slug": "seagate-exos-x24-20-tb-st20000nm002h",
+  "name": "Seagate Exos X24 20 TB (ST20000NM002H)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST20000NM002H",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-x24/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "20 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-12-tb-st12000nt001",
+  "slug": "seagate-ironwolf-pro-12-tb-st12000nt001",
+  "name": "Seagate IronWolf Pro 12 TB (ST12000NT001)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST12000NT001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "12 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-skyhawk-2-tb-st2000vx017",
+  "slug": "seagate-skyhawk-2-tb-st2000vx017",
+  "name": "Seagate SkyHawk 2 TB (ST2000VX017)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST2000VX017",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/consumer-electronics/skyhawk/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-skyhawk-ai-24-tb-st24000ve002",
+  "slug": "seagate-skyhawk-ai-24-tb-st24000ve002",
+  "name": "Seagate SkyHawk AI 24 TB (ST24000VE002)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST24000VE002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/consumer-electronics/skyhawk-ai/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "24 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-skyhawk-ai-8-tb-st8000ve001",
+  "slug": "seagate-skyhawk-ai-8-tb-st8000ve001",
+  "name": "Seagate SkyHawk AI 8 TB (ST8000VE001)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST8000VE001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/consumer-electronics/skyhawk-ai/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-exos-m-30-tb-st30000nm004k",
+  "slug": "seagate-exos-m-30-tb-st30000nm004k",
+  "name": "Seagate Exos M 30 TB (ST30000NM004K)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST30000NM004K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-m/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "30 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-exos-x24-16-tb-st16000nm001h",
+  "slug": "seagate-exos-x24-16-tb-st16000nm001h",
+  "name": "Seagate Exos X24 16 TB (ST16000NM001H)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST16000NM001H",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-x24/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "16 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ },
+ {
+  "id": "seagate-ironwolf-pro-30-tb-st30000nt011",
+  "slug": "seagate-ironwolf-pro-30-tb-st30000nt011",
+  "name": "Seagate IronWolf Pro 30 TB (ST30000NT011)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST30000NT011",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/nas-drives/ironwolf-pro/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "30 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-skyhawk-1-tb-st1000vx013",
+  "slug": "seagate-skyhawk-1-tb-st1000vx013",
+  "name": "Seagate SkyHawk 1 TB (ST1000VX013)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST1000VX013",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/support/internal-hard-drives/consumer-electronics/skyhawk/",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "msi-spatium-m461-1-tb-s78-440l1d0-p83",
+  "slug": "msi-spatium-m461-1-tb-s78-440l1d0-p83",
+  "name": "MSI SPATIUM M461 1 TB (S78-440L1D0-P83)",
+  "category_id": "storage",
+  "brand": "MSI",
+  "mpn": "S78-440L1D0-P83",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es-store.msi.com/products/spatium-m461-pcie-4-0-nvme-m-2-1tb-discos-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "msi-spatium-m461-2-tb-s78-440q550-p83",
+  "slug": "msi-spatium-m461-2-tb-s78-440q550-p83",
+  "name": "MSI SPATIUM M461 2 TB (S78-440Q550-P83)",
+  "category_id": "storage",
+  "brand": "MSI",
+  "mpn": "S78-440Q550-P83",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es-store.msi.com/products/spatium-m461-pcie-4-0-nvme-m-2-2tb-ssd",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "msi-spatium-s270-480-gb-s78-440e350-p83",
+  "slug": "msi-spatium-s270-480-gb-s78-440e350-p83",
+  "name": "MSI SPATIUM S270 480 GB (S78-440E350-P83)",
+  "category_id": "storage",
+  "brand": "MSI",
+  "mpn": "S78-440E350-P83",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tw-store.msi.com/products/spatium-s270-sata-2-5-480gb",
+  "specs_verified_at": "2026-11-08T21:50:54Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "480 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ }
+]

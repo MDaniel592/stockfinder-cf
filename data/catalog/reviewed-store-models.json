@@ -1,0 +1,164 @@
+[
+  {
+    "id": "msi-pro-b850-s-wifi6e",
+    "slug": "msi-pro-b850-s-wifi6e",
+    "name": "MSI PRO B850-S WIFI6E",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B850-S-WIFI6E/Specification",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Chipset": "AMD B850",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "msi-mpg-x870e-carbon-wifi",
+    "slug": "msi-mpg-x870e-carbon-wifi",
+    "name": "MSI MPG X870E CARBON WIFI",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI/Specification",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Chipset": "AMD X870E",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b650e-plus-wifi",
+    "slug": "asus-tuf-gaming-b650e-plus-wifi",
+    "name": "ASUS TUF GAMING B650E-PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650e-plus-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Chipset": "AMD B650",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b650-plus-wifi",
+    "slug": "asus-tuf-gaming-b650-plus-wifi",
+    "name": "ASUS TUF GAMING B650-PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-plus-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Chipset": "AMD B650",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-prime-b860m-a-wifi",
+    "slug": "asus-prime-b860m-a-wifi",
+    "name": "ASUS PRIME B860M-A WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/motherboards/prime/prime-b860m-a-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Chipset": "Intel B860",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b650-a-gaming-wifi",
+    "slug": "asus-rog-strix-b650-a-gaming-wifi",
+    "name": "ASUS ROG STRIX B650-A GAMING WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/spec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Chipset": "AMD B650",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b650e-e-gaming-wifi",
+    "slug": "asus-rog-strix-b650e-e-gaming-wifi",
+    "name": "ASUS ROG STRIX B650E-E GAMING WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b650e-e-gaming-wifi-model/spec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-prime-x870-p-wifi",
+    "slug": "asus-prime-x870-p-wifi",
+    "name": "ASUS PRIME X870-P WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/motherboards/prime/prime-x870-p-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Chipset": "AMD X870",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-rog-strix-x870e-e-gaming-wifi",
+    "slug": "asus-rog-strix-x870e-e-gaming-wifi",
+    "name": "ASUS ROG STRIX X870E-E GAMING WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi/spec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Chipset": "AMD X870E",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "mpn": "90MB1IB0-M0EAY0"
+  }
+]

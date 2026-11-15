@@ -1,0 +1,2024 @@
+[
+  {
+    "product_id": "gigabyte-gp-ud1300gm-pg5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1300GM-PG5/sp",
+    "note": "La ficha de GIGABYTE para el modelo GP-UD1300GM PG5 identifica la revisión 1.1 y especifica Intel Form Factor ATX 12V v3.0."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1300gm-pg5",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 16 pines, 8 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1300GM-PG5/sp",
+    "note": "La tabla de conectores del modelo GP-UD1300GM PG5 Rev. 1.1 enumera un PCIe de 16 pines y ocho PCIe 6+2."
+  },
+  {
+    "product_id": "gigabyte-gp-p750bs",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P750BS/sp",
+    "note": "La tabla de conectores para GP-P750BS especifica cuatro conectores PCI-E de 6+2 pines."
+  },
+  {
+    "product_id": "nox-nx-650w",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/nx-650w",
+    "note": "La ficha del modelo REF NXS650 indica ATX 12V y EPS 12V versión 2.91."
+  },
+  {
+    "product_id": "nox-nx-650w",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/nx-650w",
+    "note": "La sección Conectores de la ficha NX 650W enumera dos conectores PCIe 6+2 pines."
+  },
+  {
+    "product_id": "unykach-uk212501",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2024/09/Catalogo-Comparador-Unykach.pdf",
+    "note": "La tabla comparativa oficial identifica UK212501 y muestra “--” en Modular; la misma fila usa “Full Modular” para las variantes modulares."
+  },
+  {
+    "product_id": "unykach-uk212601",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2024/09/Catalogo-Comparador-Unykach.pdf",
+    "note": "La tabla comparativa oficial identifica UK212601 y muestra “--” en Modular; la misma fila usa “Full Modular” para las variantes modulares."
+  },
+  {
+    "product_id": "unykach-uk212701",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2024/09/Catalogo-Comparador-Unykach.pdf",
+    "note": "La tabla comparativa oficial identifica UK212701 y muestra “--” en Modular; la misma fila usa “Full Modular” para las variantes modulares."
+  },
+  {
+    "product_id": "tooq-tqapolo-500sp",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 6 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-500sp/",
+    "note": "La ficha técnica oficial TQAPOLO-500SP enumera un conector PCI-E de 6 pines."
+  },
+  {
+    "product_id": "tooq-tqhelios-650sp",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqhelios-650sp/",
+    "note": "La ficha técnica oficial del TQHELIOS-650SP enumera dos conectores PCI-E de 6+2 pines."
+  },
+  {
+    "product_id": "tooq-tqhelios-750sp",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqhelios-750sp/",
+    "note": "La ficha técnica oficial del TQHELIOS-750SP enumera dos conectores PCI-E de 6+2 pines."
+  },
+  {
+    "product_id": "tooq-tqhelios-850sp",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqhelios-850sp/",
+    "note": "La ficha técnica oficial del TQHELIOS-850SP enumera cuatro conectores PCI-E de 6+2 pines."
+  },
+  {
+    "product_id": "tooq-tqep-500s-sfx",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "Sin conectores PCIe de alimentación para GPU",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-500s-sfx/",
+    "note": "La lista completa de conectores del TQEP-500S-SFX incluye ATX, CPU, MOLEX y SATA; no enumera conectores PCI-E."
+  },
+  {
+    "product_id": "tooq-tqapolo-600sp",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-600sp/",
+    "note": "La ficha oficial del TQAPOLO-600SP identifica el diseño ATX 12V V2.3."
+  },
+  {
+    "product_id": "tooq-tqapolo-600sp",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-600sp/",
+    "note": "La ficha técnica oficial del TQAPOLO-600SP enumera un conector PCI-E de 6+2 pines."
+  },
+  {
+    "product_id": "tooq-tqep-500sse",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "Sin conectores PCIe de alimentación para GPU",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-500sse/",
+    "note": "La lista completa de conectores del TQEP-500SSE incluye ATX, CPU, MOLEX y SATA; no enumera conectores PCI-E."
+  },
+  {
+    "product_id": "tooq-tqep-500sse-o",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "Sin conectores PCIe de alimentación para GPU",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-500sse-o/",
+    "note": "La lista completa de conectores del TQEP-500SSE-O incluye ATX, CPU, MOLEX y SATA; no enumera conectores PCI-E."
+  },
+  {
+    "product_id": "tooq-tqapolo-650sp",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-650sp/",
+    "note": "La ficha oficial del TQAPOLO-650SP identifica el diseño ATX 12V V2.3."
+  },
+  {
+    "product_id": "tooq-tqapolo-650sp",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 6+2 pines, 1 × PCIe 6 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-650sp/",
+    "note": "La ficha técnica oficial del TQAPOLO-650SP enumera un conector PCI-E 6+2 y uno de 6 pines."
+  },
+  {
+    "product_id": "tooq-tqapolo-700sp",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 6+2 pines, 1 × PCIe 6 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-700sp/",
+    "note": "La ficha técnica oficial del TQAPOLO-700SP enumera un conector PCI-E 6+2 y uno de 6 pines."
+  },
+  {
+    "product_id": "tooq-tqapolo-750sp",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-750sp/",
+    "note": "La ficha oficial del TQAPOLO-750SP identifica el diseño ATX 12V V2.3."
+  },
+  {
+    "product_id": "tooq-tqapolo-750sp",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines, 1 × PCIe 6 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-750sp/",
+    "note": "La ficha técnica oficial del TQAPOLO-750SP enumera dos conectores PCI-E 6+2 y uno de 6 pines."
+  },
+  {
+    "product_id": "tooq-tqxgeii-700sap",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqxgeii-700sap/",
+    "note": "La ficha oficial del TQXGEII-700SAP enumera dos conectores PCI-E de 6+2 pines."
+  },
+  {
+    "product_id": "tooq-tqxgeii-800sap",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqxgeii-800sap/",
+    "note": "La ficha oficial del TQXGEII-800SAP enumera dos conectores PCI-E de 6+2 pines."
+  },
+  {
+    "product_id": "tooq-tqep-500s-int",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "Sin conectores PCIe de alimentación para GPU",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-500s-int/",
+    "note": "La lista completa de conectores del TQEP-500S-INT incluye ATX, CPU, MOLEX y SATA; no enumera conectores PCI-E."
+  },
+  {
+    "product_id": "tooq-tqep-tfx500s-o",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "Sin conectores PCIe de alimentación para GPU",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-tfx500s-o/",
+    "note": "La ficha técnica oficial del TQEP-TFX500S-O enumera ATX, CPU, SATA y MOLEX, sin conectores PCI-E."
+  },
+  {
+    "product_id": "corsair-cx550-cp-9020277-eu",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "PCIe 8-pin (6+2) × 2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020277-eu/cx-series-cx550-550-watt-80-plus-bronze-atx-power-supply-eu-cp-9020277-eu",
+    "note": "Ficha del SKU CP-9020277-EU: un cable PCIe 8-pin (6+2) con dos conectores."
+  },
+  {
+    "product_id": "corsair-cx750-cp-9020279-eu",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "PCIe 8-pin (6+2) × 3",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/es/es/p/psu/cp-9020279-eu/cx-series-cx750-750-watt-80-plus-bronze-atx-power-supply-eu-cp-9020279-eu",
+    "note": "Ficha del SKU CP-9020279-EU: un cable PCIe con 1 conector y otro con 2; total 3 conectores 6+2."
+  },
+  {
+    "product_id": "antec-csk650dc-ec",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "PCIe 8-pin (6+2) × 2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.antec.com/product/power/csk-dc-650",
+    "note": "Ficha CSK DC 650, conectores: 2 × 8 (6+2)-pin PCI-E."
+  },
+  {
+    "product_id": "antec-csk750dc-ec",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "PCIe 8-pin (6+2) × 4, 12V-2x6 × 1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.antec.com/product/power/csk-dc-750w",
+    "note": "Ficha CSK750DC, conectores: cuatro PCI-E 8 (6+2) y uno PCIe 5.1/12V-2x6."
+  },
+  {
+    "product_id": "akyga-ak-b1-500",
+    "category_id": "psu",
+    "key": "Modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/5-power-supply-atx-ak-b1-500-500w.html",
+    "note": "La ficha indica modular power supply: No.",
+    "value": "Cables fijos"
+  },
+  {
+    "product_id": "akyga-ak-b1-500",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/5-power-supply-atx-ak-b1-500-500w.html",
+    "note": "La ficha indica formato ATX 2.31.",
+    "value": "2.x"
+  },
+  {
+    "product_id": "akyga-ak-b1-500",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/5-power-supply-atx-ak-b1-500-500w.html",
+    "note": "La ficha indica compatibilidad 80 PLUS: No y certificado: None.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "akyga-ak-b1-500",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/5-power-supply-atx-ak-b1-500-500w.html",
+    "note": "La ficha oficial da el recuento exacto de conectores PCI-E 6+2 del SKU.",
+    "value": "PCIe 8-pin (6+2) × 1"
+  },
+  {
+    "product_id": "akyga-ak-b1-500e",
+    "category_id": "psu",
+    "key": "Modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/475-power-supply-atx-ak-b1-500e-500w.html",
+    "note": "La ficha indica modular power supply: No.",
+    "value": "Cables fijos"
+  },
+  {
+    "product_id": "akyga-ak-b1-500e",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/475-power-supply-atx-ak-b1-500e-500w.html",
+    "note": "La ficha indica formato ATX 2.31.",
+    "value": "2.x"
+  },
+  {
+    "product_id": "akyga-ak-b1-500e",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/475-power-supply-atx-ak-b1-500e-500w.html",
+    "note": "La ficha oficial da el recuento exacto de conectores PCI-E 6+2 del SKU.",
+    "value": "No incluye conector PCIe para GPU"
+  },
+  {
+    "product_id": "akyga-ak-b1-600",
+    "category_id": "psu",
+    "key": "Modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/7-power-supply-atx-ak-b1-600-600w.html",
+    "note": "La ficha indica modular power supply: No.",
+    "value": "Cables fijos"
+  },
+  {
+    "product_id": "akyga-ak-b1-600",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/7-power-supply-atx-ak-b1-600-600w.html",
+    "note": "La ficha indica formato ATX 2.31.",
+    "value": "2.x"
+  },
+  {
+    "product_id": "akyga-ak-b1-600",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/7-power-supply-atx-ak-b1-600-600w.html",
+    "note": "La ficha indica compatibilidad 80 PLUS: No y certificado: None.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "akyga-ak-b1-600",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/7-power-supply-atx-ak-b1-600-600w.html",
+    "note": "La ficha oficial da el recuento exacto de conectores PCI-E 6+2 del SKU.",
+    "value": "PCIe 8-pin (6+2) × 1"
+  },
+  {
+    "product_id": "akyga-ak-b1-700",
+    "category_id": "psu",
+    "key": "Modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/9-power-supply-atx-ak-b1-700-700w.html",
+    "note": "La ficha indica modular power supply: No.",
+    "value": "Cables fijos"
+  },
+  {
+    "product_id": "akyga-ak-b1-700",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/9-power-supply-atx-ak-b1-700-700w.html",
+    "note": "La ficha indica formato ATX 2.31.",
+    "value": "2.x"
+  },
+  {
+    "product_id": "akyga-ak-b1-700",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/9-power-supply-atx-ak-b1-700-700w.html",
+    "note": "La ficha indica compatibilidad 80 PLUS: No y certificado: None.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "akyga-ak-b1-700",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.akyga.com/products/9-power-supply-atx-ak-b1-700-700w.html",
+    "note": "La ficha oficial da el recuento exacto de conectores PCI-E 6+2 del SKU.",
+    "value": "PCIe 8-pin (6+2) × 2"
+  },
+  {
+    "product_id": "corsair-rm1200e-cp-9020258-eu",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "value": "80 PLUS Gold",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020258-eu/rme-series-rm1200e-fully-modular-low-noise-atx-power-supply-eu-cp-9020258-eu",
+    "note": "La ficha oficial del SKU CP-9020258-EU declara certificación 80 PLUS Gold."
+  },
+  {
+    "product_id": "fsp-vita-gm-650w-ppa6506602",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.fsplifestyle.com/en/product/VITAGM650W.html"
+  },
+  {
+    "product_id": "fsp-advan-gm-850w-ppa8504800",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2, 1 × 12V-2x6",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.fsplifestyle.com/en/product/ADVANGM850W.html"
+  },
+  {
+    "product_id": "corsair-rm750x-cp-9020285-eu",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "value": "80 PLUS Gold",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ch/en/p/psu/cp-9020285-eu/rmx-series-rm750x-fully-modular-power-supply-eu-cp-9020285-eu",
+    "note": "La ficha Corsair identifica el MPN CP-9020285-EU; la guía oficial RMx enlazada en la ficha describe la serie como 80 PLUS Gold."
+  },
+  {
+    "product_id": "corsair-rm850x-cp-9020270-eu",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "value": "80 PLUS Gold",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020270-eu/rmx-series-rm850x-fully-modular-power-supply-eu-cp-9020270-eu",
+    "note": "La ficha Corsair identifica el MPN CP-9020270-EU; la guía oficial RMx enlazada en la ficha describe la serie como 80 PLUS Gold."
+  },
+  {
+    "product_id": "corsair-rm1000x-cp-9020271-eu",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "value": "80 PLUS Gold",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020271-eu/rmx-series-rm1000x-fully-modular-power-supply-eu-cp-9020271-eu",
+    "note": "La ficha Corsair identifica el MPN CP-9020271-EU; la guía oficial RMx enlazada en la ficha describe la serie como 80 PLUS Gold."
+  },
+  {
+    "product_id": "corsair-rm750x-shift-cp-9020298-eu",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "value": "80 PLUS Gold",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020298-eu/rm750x-shift-fully-modular-atx-power-supply-eu-cp-9020298-eu",
+    "note": "La ficha Corsair identifica el MPN CP-9020298-EU; el catálogo oficial de fuentes Corsair bajo el filtro 80 PLUS Efficiency incluye la variante CP-9020298-EU como RMx SHIFT 80 PLUS Gold."
+  },
+  {
+    "product_id": "corsair-rm850x-shift-cp-9020299-eu",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "value": "80 PLUS Gold",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020299-eu/rm850x-shift-fully-modular-atx-power-supply-eu-cp-9020299-eu",
+    "note": "La ficha Corsair identifica el MPN CP-9020299-EU; el catálogo oficial de fuentes Corsair bajo el filtro 80 PLUS Efficiency incluye la variante CP-9020299-EU como RMx SHIFT 80 PLUS Gold."
+  },
+  {
+    "product_id": "corsair-rm1000x-shift-cp-9020300-eu",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "value": "80 PLUS Gold",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020300-eu/rm1000x-shift-fully-modular-atx-power-supply-eu-cp-9020300-eu",
+    "note": "La ficha Corsair identifica el MPN CP-9020300-EU; el catálogo oficial de fuentes Corsair bajo el filtro 80 PLUS Efficiency incluye la variante CP-9020300-EU como RMx SHIFT 80 PLUS Gold."
+  },
+  {
+    "product_id": "corsair-hx1000i-shift-cp-9020265-eu",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "value": "80 PLUS Platinum",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020265-eu/hx1000i-shift-fully-modular-platinum-atx-power-supply-eu-cp-9020265-eu",
+    "note": "La ficha Corsair identifica el MPN CP-9020265-EU como HX1000i SHIFT Platinum; el catálogo oficial de fuentes Corsair incluye esta variante bajo 80 PLUS Efficiency Platinum."
+  },
+  {
+    "product_id": "corsair-cx650-cp-9020278-eu",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/es/es/p/psu/cp-9020278-eu/cx-series-cx650-650-watt-80-plus-bronze-atx-power-supply-eu-cp-9020278-eu",
+    "note": "Ficha oficial Corsair del SKU CP-9020278-EU: la tabla de conectores enumera dos PCIe 8-pin (6+2) en un cable."
+  },
+  {
+    "product_id": "corsair-sf750-cp-9020284-eu",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020284-eu/sf-series-sf750-fully-modular-80-plus-platinum-sfx-power-supply-eu-cp-9020284-eu",
+    "note": "Ficha oficial Corsair del SKU CP-9020284-EU: la lista de cables registra dos PCIe 8-pin (6+2), sin conector 12+4."
+  },
+  {
+    "product_id": "corsair-sf850-cp-9020256-eu",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 16 pines, 3 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020256-eu/sf-series-sf850-fully-modular-80-plus-platinum-sfx-power-supply-eu-cp-9020256-eu",
+    "note": "Ficha oficial Corsair del SKU CP-9020256-EU: la lista de cables registra un 12VHPWR (12+4) y tres PCIe 8-pin (6+2)."
+  },
+  {
+    "product_id": "corsair-sf1000-cp-9020257-eu",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 16 pines, 4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020257-eu/sf-series-sf1000-fully-modular-80-plus-platinum-sfx-power-supply-eu-cp-9020257-eu",
+    "note": "Ficha oficial Corsair del SKU CP-9020257-EU: la lista de cables registra un 12VHPWR (12+4) y cuatro PCIe 8-pin (6+2)."
+  },
+  {
+    "product_id": "msi-mag-a650bn-pcie5-ii",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://uk-store.msi.com/products/mag-a650bn-pcie5-ii",
+    "note": "MSI e-Shop oficial: descripción de MAG A650BN PCIE5 II indica “ATX form factor”."
+  },
+  {
+    "product_id": "msi-mag-a650bn-pcie5-ii",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A650BN-PCIE5-II",
+    "note": "MSI: la ficha oficial de MAG A650BN PCIE5 II la declara ATX 3.1 Ready."
+  },
+  {
+    "product_id": "msi-mag-a750gl-pcie5",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us-store.msi.com/Power-Supply/MAG-A750GL-PCIE5",
+    "note": "MSI Store oficial: detalle de especificación, Form Factor = ATX para MAG A750GL PCIE5."
+  },
+  {
+    "product_id": "msi-mpg-a1000g-pcie5",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://storage-asset.msi.com/datasheet/power-supply/uk/MPG-A1000G-PCIE5.pdf",
+    "note": "MSI, tabla de especificaciones: PSU Form Factor = ATX para MPG A1000G PCIE5."
+  },
+  {
+    "product_id": "msi-mpg-a1000g-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://storage-asset.msi.com/datasheet/power-supply/uk/MPG-A1000G-PCIE5.pdf",
+    "note": "MSI, encabezado de hoja oficial de datos: “ATX 3.0 compatible”, modelo MPG A1000G PCIE5."
+  },
+  {
+    "product_id": "msi-mag-a1000pls-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A1000PLS-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a1000pls-pcie5",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × 12V-2x6, 4 × PCIe 6+2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A1000PLS-PCIE5/Specification"
+  },
+  {
+    "product_id": "msi-pro-a1000pl-pcie5",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us-store.msi.com/PRO-A1000PL-PCIE5"
+  },
+  {
+    "product_id": "msi-pro-a1000pl-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us.msi.com/Power-Supply/PRO-A1000PL-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a750bn-pcie5-ii",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://uk-store.msi.com/collections/component-collection/products/mag-a750bn-pcie5-ii"
+  },
+  {
+    "product_id": "msi-mag-a750bn-pcie5-ii",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A750BN-PCIE5-II"
+  },
+  {
+    "product_id": "msi-mag-a1000gl-pcie5-ii",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A1000GL-PCIE5-II"
+  },
+  {
+    "product_id": "msi-pro-a850pl-pcie5",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us-store.msi.com/PRO-A850PL-PCIE5"
+  },
+  {
+    "product_id": "msi-pro-a850pl-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us-store.msi.com/PRO-A850PL-PCIE5"
+  },
+  {
+    "product_id": "msi-mpg-a1250gs-pcie5",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us-store.msi.com/PC-Components/MPG-A1250GS-PCIE5?limit=24"
+  },
+  {
+    "product_id": "msi-mpg-a1250gs-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MPG-A1250GS-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a1250gl-pcie5",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us-store.msi.com/PC-Components/Power-Supply/MAG-A1250GL"
+  },
+  {
+    "product_id": "msi-mag-a1250gl-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A1250GL-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a750gl-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A750GL-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a850gl-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A850GL-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a1000gls-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A1000GLS-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a1000gls-pcie5",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × 12V-2x6, 4 × PCIe 6+2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A1000GLS-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a750gls-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A750GLS-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a850gls-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A850GLS-PCIE5"
+  },
+  {
+    "product_id": "msi-mag-a850gl-pcie5-ii",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A850GL-PCIE5-II"
+  },
+  {
+    "product_id": "msi-mag-a850gl-pcie5",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us-store.msi.com/MAG-A850GL"
+  },
+  {
+    "product_id": "gigabyte-gp-ud750gm-pg5-v2",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD750GM-PG5-V2/sp",
+    "note": "Ficha oficial especifica Intel Form Factor ATX 12V v3.1 y conectores PCI-e 12+4 Pin x1 y PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-gp-ud750gm-pg5-v2",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 12+4, 4 × PCIe 6+2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD750GM-PG5-V2/sp",
+    "note": "Ficha oficial especifica Intel Form Factor ATX 12V v3.1 y conectores PCI-e 12+4 Pin x1 y PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1000gm-pg5-v2",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5-V2/sp",
+    "note": "Ficha oficial especifica Intel Form Factor ATX 12V v3.1 y conectores PCI-e 12+4 Pin x1 y PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1000gm-pg5-v2",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 12+4, 4 × PCIe 6+2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5-V2/sp",
+    "note": "Ficha oficial especifica Intel Form Factor ATX 12V v3.1 y conectores PCI-e 12+4 Pin x1 y PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1000gm-pg5-ice",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5-ICE/sp",
+    "note": "Ficha oficial especifica Intel Form Factor ATX 12V v3.1 y conectores PCI-e 12+4 Pin x1 y PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1000gm-pg5-ice",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 12+4, 4 × PCIe 6+2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5-ICE/sp",
+    "note": "Ficha oficial especifica Intel Form Factor ATX 12V v3.1 y conectores PCI-e 12+4 Pin x1 y PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-gp-ud750gm-pg5-ice",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD750GM-PG5-ICE/sp",
+    "note": "Ficha oficial especifica Intel Form Factor ATX 12V v3.1 y conectores PCI-e 12+4 Pin x1 y PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-gp-ud750gm-pg5-ice",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 12+4, 4 × PCIe 6+2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD750GM-PG5-ICE/sp",
+    "note": "Ficha oficial especifica Intel Form Factor ATX 12V v3.1 y conectores PCI-e 12+4 Pin x1 y PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-ud850gm-pg5-v2-ice",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Power-Supply/GP-UD850GM-PG5-ICE/sp",
+    "note": "La especificación identifica GP-UD850GM PG5 ICE y declara Intel Form Factor ATX 12V v3.1."
+  },
+  {
+    "product_id": "gigabyte-p550ss",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P550SS/sp",
+    "note": "La tabla «Connectors» de GIGABYTE para el modelo exacto GP-P550SS indica PCI-e 6+2 Pin × 2."
+  },
+  {
+    "product_id": "gigabyte-p650ss",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P650SS/sp",
+    "note": "La tabla «Connectors» de GIGABYTE para el modelo exacto GP-P650SS indica PCI-e 6+2 Pin × 2."
+  },
+  {
+    "product_id": "gigabyte-p650ss-ice",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P650SS-ICE/sp",
+    "note": "La tabla «Connectors» de GIGABYTE para el modelo exacto GP-P650SS ICE indica PCI-e 6+2 Pin × 2."
+  },
+  {
+    "product_id": "gigabyte-gaming-850gm-pg5",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Power-Supply/GP-GME850GM-PG5",
+    "note": "La ficha oficial del modelo GP-GME850GM PG5 lo describe explícitamente como fully modular."
+  },
+  {
+    "product_id": "gigabyte-aorus-elite-p850w",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-AE850PM-PG5-rev-20/sp",
+    "note": "La especificación del modelo GP-AE850PM PG5 (Rev. 2.0) declara «Intel Form Factor ATX 12V v3.1»."
+  },
+  {
+    "product_id": "gigabyte-aorus-elite-p1000w-ice",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-AE1000PM-PG5-ICE-rev-20/sp",
+    "note": "La especificación del modelo GP-AE1000PM PG5 ICE (Rev. 2.0) declara «Intel Form Factor ATX 12V v3.1»."
+  },
+  {
+    "product_id": "corsair-rm1200e-cp-9020258-eu",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/eu/en/p/psu/cp-9020258-eu/rme-series-rm1200e-fully-modular-low-noise-atx-power-supply-eu-cp-9020258-eu",
+    "note": "La ficha del SKU CP-9020258-EU indica certificación ATX 3.1."
+  },
+  {
+    "product_id": "akyga-ak-b1-500e",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://es.akyga.com/productos/475-fuente-de-alimentacion-atx-ak-b1-500e-500w.html",
+    "note": "La ficha oficial indica explícitamente «Conformidad 80 PLUS: No» y «Certificado 80 PLUS: Ninguno» para AK-B1-500E."
+  },
+  {
+    "product_id": "deepcool-pf750-r-pf750d-ha0b-eu",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PF750D-230V-Power-Supply-Unit/2021/15134.shtml",
+    "note": "La ficha oficial identifica el P/N R-PF750D-HA0B-EU y especifica PCI-E (6+2) Pin x2."
+  },
+  {
+    "product_id": "deepcool-pf750-r-pf750d-ha0b-eu",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PF750D-230V-Power-Supply-Unit/2021/15134.shtml",
+    "note": "La ficha oficial del P/N R-PF750D-HA0B-EU describe literalmente sus cables negros planos como fijos."
+  },
+  {
+    "product_id": "bequiet-pure-power-12-m-850w-bn344",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/powersupply/4072",
+    "note": "La ficha del modelo Pure Power 12 M 850W indica Form factor: Version 3.0."
+  },
+  {
+    "product_id": "msi-mag-a1000gl-pcie5-ii",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://es-store.msi.com/products/mag-a1000gl-pcie5-ii-fuentes-alimentacion",
+    "note": "La ficha de MSI España para MAG A1000GL PCIE5 II describe el chasis de la fuente como ATX extra compacto."
+  },
+  {
+    "product_id": "gigabyte-p550b",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P550B/sp",
+    "note": "La ficha técnica de GP-P550B enumera PCI-e 6+2 Pin x2."
+  },
+  {
+    "product_id": "gigabyte-p850gm",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Power-Supply/P850GM/sp",
+    "note": "La ficha del modelo GP-P850GM indica “Fully modular design”."
+  },
+  {
+    "product_id": "gigabyte-p850gm",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Power-Supply/P850GM/sp",
+    "note": "La ficha técnica de GP-P850GM enumera PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1600pm-pg5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1600PM-PG5/sp",
+    "note": "La ficha del modelo GP-UD1600PM PG5 indica Intel Form Factor ATX 12V v3.1."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1600pm-pg5",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 16 pines, 8 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1600PM-PG5/sp",
+    "note": "La tabla de conectores del modelo GP-UD1600PM PG5 enumera PCI-E 16 Pin x2 y PCI-E 6+2 Pin x8."
+  },
+  {
+    "product_id": "gigabyte-gp-p750gm",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P750GM/sp",
+    "note": "La ficha de GP-P750GM especifica Intel Form Factor ATX 12V v2.31."
+  },
+  {
+    "product_id": "gigabyte-gp-p750gm",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P750GM/sp",
+    "note": "La tabla de conectores de GP-P750GM enumera PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1000gm-pg5",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5-rev-20/sp",
+    "note": "La ficha del modelo GP-UD1000GM PG5 identifica Intel Form Factor ATX 12V v3.0."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1000gm-pg5",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 16 pines, 4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5-rev-20/sp",
+    "note": "La ficha de revisión 2.0 de GP-UD1000GM PG5 enumera PCI-e 16 Pin x1 y PCI-e 6+2 Pin x4."
+  },
+  {
+    "product_id": "nox-hummer-650w-bronze",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Semimodular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/en/power-supplies/hummer-80-plus-bronze-650w",
+    "note": "La ficha oficial del Nox Hummer 80 PLUS Bronze 650W, referencia NXHM650BZ, especifica “Modular cabling system”."
+  },
+  {
+    "product_id": "nox-hummer-650w-bronze",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/en/power-supplies/hummer-80-plus-bronze-650w",
+    "note": "La ficha técnica del Nox Hummer 80 PLUS Bronze 650W, referencia NXHM650BZ, lista dos conectores PCIE 6+2 pines."
+  },
+  {
+    "product_id": "hiditec-bz550-v2-psu010053",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/80-plus-bronze/22-bz550-v2-80plus-bronze.html",
+    "note": "La ficha técnica oficial con SKU PSU010053 enumera 4 conectores 6+2Pin PCIe."
+  },
+  {
+    "product_id": "hiditec-bz650-v2-psu010054",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/80-plus-bronze/21-bz650-v2-80plus-bronze.html",
+    "note": "La ficha técnica oficial con SKU PSU010054 enumera 4 conectores 6+2Pin PCIe."
+  },
+  {
+    "product_id": "hiditec-bz750-v2-psu010055",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/gb/80-plus-bronze/20-bz750-v2-80plus-bronze.html",
+    "note": "La ficha técnica oficial con SKU PSU010055 enumera 4 conectores 6+2Pin PCIe."
+  },
+  {
+    "product_id": "hiditec-bz850-v2-psu010056",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "6 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/80-plus-bronze/19-bz850-v2-80plus-bronze.html",
+    "note": "La ficha técnica oficial con SKU PSU010056 enumera 6 conectores 6+2Pin PCIe."
+  },
+  {
+    "product_id": "hiditec-rl550-psu010034",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/80-plus-bronze/23-rl550-80plus-bronze.html",
+    "note": "La ficha técnica oficial con SKU PSU010034 enumera 2 conectores 6+2Pin PCIe."
+  },
+  {
+    "product_id": "hiditec-rl650",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/gb/80-plus-bronze/59-rl650-80plus-bronze.html",
+    "note": "La ficha técnica oficial con SKU PSU010045 enumera 2 conectores 6+2Pin PCIe."
+  },
+  {
+    "product_id": "hiditec-bzx650-v2-psu010035",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/80-plus-bronze/18-bzx650-v2-80plus-bronze.html",
+    "note": "La ficha técnica oficial con SKU PSU010035 enumera 4 conectores 6+2Pin PCIe."
+  },
+  {
+    "product_id": "hiditec-bzx750-v2-psu010036",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/gb/80-plus-bronze/17-bzx750-v2-80plus-bronze.html",
+    "note": "La ficha técnica oficial con SKU PSU010036 enumera 4 conectores 6+2Pin PCIe."
+  },
+  {
+    "product_id": "hiditec-bzx850-v2-psu010037",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/80-plus-bronze/16-bzx850-v2-80plus-bronze.html",
+    "note": "La ficha técnica oficial con SKU PSU010037 enumera 4 conectores 6+2Pin PCIe."
+  },
+  {
+    "product_id": "tooq-tqxgeii-700sap",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/product_pdf.php?id=1598",
+    "note": "La ficha oficial de TooQ para TQXGEII-700SAP especifica tipo ATX 12V 2.3."
+  },
+  {
+    "product_id": "tooq-tqxgeii-800sap",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/product_pdf.php?id=1599",
+    "note": "La ficha oficial de TooQ para TQXGEII-800SAP especifica tipo ATX 12V 2.3."
+  },
+  {
+    "product_id": "sharkoon-rebel-p10-750w",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sharkoon.com/Download/Cases_and_Power/PSU/Rebel_P10/Manuals/mn_rebel-p10_en_01.pdf",
+    "note": "El manual oficial Rebel P10 750W/850W especifica cuatro conectores PCIe 6+2 en total; el producto consultado es Rebel P10 750W, EAN 4044951043750."
+  },
+  {
+    "product_id": "coolbox-coo-fapw3-550",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-powerline3-550w/",
+    "note": "La ficha oficial identifica el SKU COO-FAPW3-550 y enumera 2 conectores PCIe 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-coo-fapw3-750",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-750w-powerline3/",
+    "note": "La ficha oficial identifica el SKU COO-FAPW3-750 y enumera 2 conectores PCIe 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-powerline-iii-850w-coo-fapw3-850",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-850w-powerline3/",
+    "note": "La ficha oficial identifica el SKU COO-FAPW3-850 y enumera 2 conectores PCIe 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-dg-pws650-85b",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/descargas/CATALOGO-COOLBOX.pdf",
+    "note": "El catálogo oficial lista el SKU DG-PWS650-85B y, en su bloque de conectores, 1 PCIe 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-deeppower-800w-dg-pws800-85b",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/descargas/CATALOGO-COOLBOX.pdf",
+    "note": "El catálogo oficial lista el SKU DG-PWS800-85B y especifica 2 conectores PCIe 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-deepenergy-rgb-600w-semi-modular-dg-pws600-mrbz",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/descargas/CATALOGO-COOLBOX.pdf",
+    "note": "El catálogo oficial identifica el SKU DG-PWS600-MRBZ como fuente ATX DeepEnergy RGB 600W."
+  },
+  {
+    "product_id": "coolbox-deepenergy-rgb-600w-semi-modular-dg-pws600-mrbz",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/descargas/CATALOGO-COOLBOX.pdf",
+    "note": "El catálogo oficial lista el SKU DG-PWS600-MRBZ y especifica 2 conectores PCIe 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-dg-pws850-mgl5",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/descargas/CATALOGO-COOLBOX.pdf",
+    "note": "El catálogo oficial asocia explícitamente “Full Modular” a Energy-V 850, SKU DG-PWS850-MGL5."
+  },
+  {
+    "product_id": "forgeon-reactor-1000w-white-fo-reac-1000-w",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1000w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-blanca",
+    "note": "La ficha oficial Forgeon/PcComponentes identifica el P/N FO-REAC-1000-W y declara explícitamente “Factor de Forma: ATX”."
+  },
+  {
+    "product_id": "forgeon-reactor-1000w-black-fo-reac-1000-b",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1000w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-negra",
+    "note": "La ficha oficial Forgeon/PcComponentes identifica el P/N FO-REAC-1000-B y declara explícitamente “Factor de Forma: ATX”."
+  },
+  {
+    "product_id": "forgeon-reactor-850w-white-fo-reac-850-w",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-850w-cybenetics-platinum-atx-31-pcie-51-full-modular-fuente-de-alimentacion-blanca",
+    "note": "La ficha oficial Forgeon/PcComponentes identifica el P/N FO-REAC-850-W y declara explícitamente “Factor de Forma: ATX”."
+  },
+  {
+    "product_id": "forgeon-reactor-850w-black-fo-reac-850-b",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-850w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "La ficha oficial Forgeon/PcComponentes identifica el P/N FO-REAC-850-B y declara explícitamente “Factor de Forma: ATX”."
+  },
+  {
+    "product_id": "forgeon-reactor-1200w-black-fo-reac-1200-b",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1200w-cybenetics-gold-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "La ficha oficial Forgeon/PcComponentes identifica el P/N FO-REAC-1200-B y declara explícitamente “Factor de Forma: ATX”."
+  },
+  {
+    "product_id": "forgeon-reactor-750w-white-fo-reac-750-w",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-750w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-blanca",
+    "note": "La ficha oficial Forgeon/PcComponentes identifica el P/N FO-REAC-750-W y declara explícitamente “Factor de Forma: ATX”."
+  },
+  {
+    "product_id": "forgeon-reactor-750w-black-fo-reac-750-b",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-750w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "La ficha oficial Forgeon/PcComponentes identifica el P/N FO-REAC-750-B y declara explícitamente “Factor de Forma: ATX”."
+  },
+  {
+    "product_id": "gigabyte-aorus-elite-p1000w-v2",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Power-Supply/GP-AE1000PM-PG5-rev-20/sp",
+    "note": "Ficha oficial selecciona Rev. 2.0 y especifica Intel Form Factor ATX 12V v3.1; el formato físico es ATX."
+  },
+  {
+    "product_id": "forgeon-bolt-1000w-white-fo-psu-bol1001w",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-bolt-psu-1000w-80-plus-gold-full-modular-blanca",
+    "note": "La ficha oficial de Forgeon (marca PcComponentes), P/N FO-PSU-BOL1001W, enumera cuatro conectores PCI Express (6+2 pines)."
+  },
+  {
+    "product_id": "forgeon-bolt-850w-white-fo-psu-bol851w",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-bolt-psu-850w-80-plus-gold-full-modular-fuente-de-alimentacion-blanca",
+    "note": "La ficha oficial de Forgeon (marca PcComponentes), P/N FO-PSU-BOL851W, enumera cuatro conectores PCI Express (6+2 pines)."
+  },
+  {
+    "product_id": "tacens-apsiii500",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "Sin conector PCIe GPU listado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/en/componentes/apsiii500",
+    "note": "La lista de conectores oficial de APSIII500 no incluye PCIe; ficha exacta consultada."
+  },
+  {
+    "product_id": "tacens-apiii500",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "Sin conector PCIe GPU listado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/en/componentes/apiii500",
+    "note": "La lista de conectores oficial de APIII500 no incluye PCIe; ficha exacta consultada."
+  },
+  {
+    "product_id": "tacens-apiii600",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "Sin conector PCIe GPU listado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/en/componentes/apiii600",
+    "note": "La lista de conectores oficial de APIII600 no incluye PCIe; ficha exacta consultada."
+  },
+  {
+    "product_id": "tacens-apb550b",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/apb550b",
+    "note": "La ficha oficial de Tacens identifica la referencia APB550B y enumera 1 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-apb650",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/apb650",
+    "note": "La ficha oficial de Tacens identifica la referencia APB650 y enumera 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-apiii750",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/apiii750",
+    "note": "La ficha oficial de Tacens identifica la referencia APIII750 y enumera 1 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1recox550",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/fuentes/1recox550",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RECOX550 y enumera 1 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1recox650",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/fuentes/1recox650",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RECOX650 y enumera 1 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1recox750",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/fuentes/1recox750",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RECOX750 y enumera 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1recox850",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/de/fuentes-de-alimentacion/1recox850",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RECOX850 y enumera 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1rviiag600m",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/1rviiag600m",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RVIIAG600M y enumera 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1rviiag600s",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/1rviiag600s",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RVIIAG600S y enumera 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1rviiag700m",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/1rviiag700m",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RVIIAG700M y enumera 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1rviiag700s",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/1rviiag700s",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RVIIAG700S y enumera 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1rviiag800m",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/1rviiag800m",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RVIIAG800M y enumera 4 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "tacens-1rviiag800s",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/1rviiag800s",
+    "note": "La ficha oficial de Tacens identifica la referencia 1RVIIAG800S y enumera 4 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "be-quiet-pure-power-13-m-850w-bp027eu",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/powersupply/5933",
+    "note": "Ficha oficial Pure Power 13 M 850W, artículo BP027EU: sección “Modular cables” y tabla de cables modulares."
+  },
+  {
+    "product_id": "be-quiet-pure-power-13-m-750w-bp026eu",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/powersupply/5934",
+    "note": "Ficha oficial Pure Power 13 M 750W, artículo BP026EU: sección “Modular cables” y tabla de cables modulares."
+  },
+  {
+    "product_id": "be-quiet-pure-power-13-m-650w-bp025eu",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/powersupply/5935",
+    "note": "Ficha oficial Pure Power 13 M 650W, artículo BP025EU: sección “Modular cables” y tabla de cables modulares."
+  },
+  {
+    "product_id": "be-quiet-pure-power-13-m-550w-bp024eu",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.bequiet.com/en/powersupply/5936",
+    "note": "Ficha oficial Pure Power 13 M 550W, artículo BP024EU: sección “Modular cables” y tabla de cables modulares."
+  },
+  {
+    "product_id": "nox-urano-pro-550w-bronze",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/en/power-supplies/urano-pro-550w",
+    "note": "La ficha oficial de NOX identifica la referencia NXURPRO550BZ y especifica 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "nox-urano-pro-650w-bronze",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-650w",
+    "note": "La ficha oficial de NOX identifica la referencia NXURPRO650BZ y especifica 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "nox-urano-pro-750w-bronze",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://api.nox-xtreme.com/uploads/product/downloads/nox_uranopro_product_sheet_es-1opdbpdx94.pdf",
+    "note": "La ficha oficial de NOX identifica la referencia NXURPRO750BZ y especifica 4 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "nox-urano-pro-850w-bronze",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-850w",
+    "note": "La ficha oficial de NOX identifica la referencia NXURPRO850BZ y especifica 4 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "nox-urano-pro-white-550w-bronze",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://store.nox-xtreme.com/producto/urano-pro-white-550w/",
+    "note": "La ficha oficial de NOX identifica la referencia NXURPRO550BZWH y especifica 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "nox-urano-pro-white-650w-bronze",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/en/power-supplies/urano-pro-white-650w",
+    "note": "La ficha oficial de NOX identifica la referencia NXURPRO650BZWH y especifica 2 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "nox-urano-pro-white-750w-bronze",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://store.nox-xtreme.com/producto/urano-pro-white-750w/",
+    "note": "La ficha oficial de NOX identifica la referencia NXURPRO750BZWH y especifica 4 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "nox-urano-pro-white-850w-bronze",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-850w",
+    "note": "La ficha oficial de NOX identifica la referencia NXURPRO850BZWH y especifica 4 × PCIe 6+2 pines."
+  },
+  {
+    "product_id": "nfortec-sagitta-x2-850w-nf-psu-sagittax2-fm-850w",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://newskillgaming.com/en/products/sagitta-x2",
+    "note": "La ficha del fabricante identifica NF-PSU-SAGITTAX2-FM-850W y especifica formato ATX 3.1; el factor de forma físico es ATX."
+  },
+  {
+    "product_id": "nfortec-sagitta-x2-850w-nf-psu-sagittax2-fm-850w",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "value": "80 PLUS Gold",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://newskillgaming.com/en/products/sagitta-x2",
+    "note": "La ficha del fabricante identifica NF-PSU-SAGITTAX2-FM-850W y especifica certificación 80 Plus Gold."
+  },
+  {
+    "product_id": "nfortec-sagitta-x2-850w-nf-psu-sagittax2-fm-850w",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://newskillgaming.com/en/products/sagitta-x2",
+    "note": "La ficha del fabricante identifica NF-PSU-SAGITTAX2-FM-850W y especifica diseño 100 % modular."
+  },
+  {
+    "product_id": "nfortec-sagitta-x2-850w-nf-psu-sagittax2-fm-850w",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://newskillgaming.com/en/products/sagitta-x2",
+    "note": "La ficha del fabricante identifica NF-PSU-SAGITTAX2-FM-850W y especifica ATX 3.1."
+  },
+  {
+    "product_id": "nfortec-sagitta-x2-850w-nf-psu-sagittax2-fm-850w",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "1 × PCIe 16 pines (12VHPWR)",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://newskillgaming.com/en/products/sagitta-x2",
+    "note": "La ficha del fabricante identifica NF-PSU-SAGITTAX2-FM-850W y declara un conector 12VHPWR nativo para GPU."
+  },
+  {
+    "product_id": "tempest-pulse-750w-full-modular-tp-pul-750-b",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-pulse-750w-cybenetics-bronze-atx-3-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "Ficha oficial Tempest/PcComponentes para P/N TP-PUL-750-B: factor de forma ATX12V v3.1."
+  },
+  {
+    "product_id": "tempest-pulse-750w-full-modular-tp-pul-750-b",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-pulse-750w-cybenetics-bronze-atx-3-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "Ficha oficial Tempest/PcComponentes para P/N TP-PUL-750-B: estándar ATX 3.1."
+  },
+  {
+    "product_id": "tempest-pulse-750w-full-modular-tp-pul-750-b",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-pulse-750w-cybenetics-bronze-atx-3-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "La ficha oficial identifica P/N TP-PUL-750-B como Full Modular."
+  },
+  {
+    "product_id": "tempest-pulse-750w-full-modular-tp-pul-750-b",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-pulse-750w-cybenetics-bronze-atx-3-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "La ficha oficial de Tempest/PcComponentes para P/N TP-PUL-750-B enumera 2 conectores GPU 6+2 pines."
+  },
+  {
+    "product_id": "tempest-pulse-750w-pcie-5-1-tp-pul-750-pcie5-1-b",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-750w-cybenetics-bronze-atx-3-1-fuente-de-alimentacion-negra",
+    "note": "Ficha oficial Tempest/PcComponentes para P/N TP-PUL-750-PCIE5.1-B: factor de forma ATX12V v3.1."
+  },
+  {
+    "product_id": "tempest-pulse-750w-pcie-5-1-tp-pul-750-pcie5-1-b",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-750w-cybenetics-bronze-atx-3-1-fuente-de-alimentacion-negra",
+    "note": "Ficha oficial Tempest/PcComponentes para P/N TP-PUL-750-PCIE5.1-B: estándar ATX 3.1."
+  },
+  {
+    "product_id": "tempest-pulse-750w-pcie-5-1-tp-pul-750-pcie5-1-b",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-750w-cybenetics-bronze-atx-3-1-fuente-de-alimentacion-negra",
+    "note": "La ficha oficial de Tempest/PcComponentes para P/N TP-PUL-750-PCIE5.1-B especifica cableado fijo plano."
+  },
+  {
+    "product_id": "tempest-pulse-750w-pcie-5-1-tp-pul-750-pcie5-1-b",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines + 1 × PCIe 16 pines (12V-2x6)",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-750w-cybenetics-bronze-atx-3-1-fuente-de-alimentacion-negra",
+    "note": "La ficha oficial de Tempest/PcComponentes para P/N TP-PUL-750-PCIE5.1-B enumera dos PCIe 6+2 y un conector PCIe 5.1 12+4 pines / 12V-2x6."
+  },
+  {
+    "product_id": "tempest-pulse-650w-tp-pul-650-b",
+    "category_id": "psu",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-650w-cybenetics-silver-atx-31-fuente-de-alimentacion-negra",
+    "note": "Ficha oficial Tempest/PcComponentes para P/N TP-PUL-650 -B: factor de forma ATX12V v3.1."
+  },
+  {
+    "product_id": "tempest-pulse-650w-tp-pul-650-b",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-650w-cybenetics-silver-atx-31-fuente-de-alimentacion-negra",
+    "note": "Ficha oficial Tempest/PcComponentes para P/N TP-PUL-650 -B: factor de forma ATX12V v3.1."
+  },
+  {
+    "product_id": "tempest-pulse-650w-tp-pul-650-b",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-650w-cybenetics-silver-atx-31-fuente-de-alimentacion-negra",
+    "note": "La ficha oficial de Tempest/PcComponentes para P/N TP-PUL-650 -B enumera 2 conectores GPU 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-dg-pws850-mrg",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/fuente-de-alimentacion-energy-g-850w-80plus-gold-2/",
+    "note": "La ficha oficial identifica DG-PWS850-MRG y especifica que se conectan solo los cables necesarios."
+  },
+  {
+    "product_id": "coolbox-dg-pws850-mrg",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/fuente-de-alimentacion-energy-g-850w-80plus-gold-2/",
+    "note": "La ficha oficial identifica DG-PWS850-MRG y enumera dos conectores PCI-e 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-coolpower-650w-coo-facpo-650",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/descargas/CATALOGO-COOLBOX.pdf",
+    "note": "El catálogo oficial incluye COOLPOWER 650 y declara Full Modular; identifica el modelo 650W y SKU COO-FACPO-650."
+  },
+  {
+    "product_id": "coolbox-deeppower-800w-dg-pws800-85b",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/descargas/CATALOGO-COOLBOX.pdf",
+    "note": "El catálogo oficial de CoolBox identifica DEEPPOWER 650/800 y declara Full Modular para la línea."
+  },
+  {
+    "product_id": "coolbox-dg-pws650-85b",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/descargas/CATALOGO-COOLBOX.pdf",
+    "note": "El catálogo oficial de CoolBox identifica DEEPPOWER 650/800 y declara Full Modular para la línea."
+  },
+  {
+    "product_id": "coolbox-coo-facpo-750",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/coolpower-750w/",
+    "note": "La ficha oficial identifica COO-FACPO-750 y enumera dos conectores PCIe 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-coo-fapw3-650",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-650w-powerline3/",
+    "note": "La ficha oficial identifica COO-FAPW3-650 y enumera dos conectores PCIe 6+2 pines."
+  },
+  {
+    "product_id": "coolbox-dg-pws850-mgl5",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "4 × PCIe 6+2 pines + 1 × PCIe 16 pines (PCIe 5.1)",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/fuente-de-alimentacion-energy-g-850w-80plus-gold/",
+    "note": "La ficha oficial identifica DG-PWS850-MGL5 y enumera cuatro PCIe 6+2 más un conector PCIe 5.1 de 16 pines."
+  },
+  {
+    "product_id": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "source": "manual",
+    "date": "2026-11-11",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-s/",
+    "value": "80 PLUS"
+  },
+  {
+    "product_id": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "source": "manual",
+    "date": "2026-11-11",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-s/",
+    "value": "2.x"
+  },
+  {
+    "product_id": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "source": "manual",
+    "date": "2026-11-11",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-s/",
+    "value": "No dispone"
+  },
+  {
+    "product_id": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "source": "manual",
+    "date": "2026-11-11",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx",
+    "value": "80 PLUS"
+  },
+  {
+    "product_id": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "source": "manual",
+    "date": "2026-11-11",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx",
+    "value": "6+2 Pines"
+  },
+  {
+    "product_id": "tempest-pulse-650w-tp-pul-650-b",
+    "category_id": "psu",
+    "key": "Modular",
+    "source": "manual",
+    "date": "2026-11-11",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-650w-cybenetics-silver-atx-31-fuente-de-alimentacion-negra",
+    "value": "Cables fijos",
+    "note": "Cybenetics Silver"
+  }
+]

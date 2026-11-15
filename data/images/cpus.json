@@ -1,0 +1,149 @@
+[
+  {
+    "product_id": "intel-core-ultra-5-250kf-plus",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-7-270k-plus",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-250k-plus",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245t",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-230f",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-235t",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-225t",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-235",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-225",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-225f",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285t",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265f",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265t",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285k",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265kf",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265k",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245kf",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245k",
+    "image_path": "/images/products/cpu/intel-core-ultra-200s-family.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-1.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html",
+    "image_scope": "family"
+  }
+]

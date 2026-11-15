@@ -1,0 +1,1 @@
+{ "name": "@stockfinder/api-contracts", "private": true, "type": "module", "exports": "./index.ts" }

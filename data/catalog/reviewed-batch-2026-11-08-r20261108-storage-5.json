@@ -1,0 +1,758 @@
+[
+ {
+  "id": "toshiba-mg09aca18te",
+  "slug": "toshiba-mg09aca18te",
+  "name": "Toshiba MG09 18 TB (MG09ACA18TE)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MG09ACA18TE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg09-series",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://storage.toshiba.com/docs/enterprise-hdd-documents/MG09_Product_Overview_All.pdf",
+    "supports": "Product Overview Toshiba MG09: tabla de modelos SATA-3.3 incluye MG09ACA18TE (18 TB, 512e), buffer 512 MiB, 7200 rpm, CMR."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "18 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-hdwg780ezsta",
+  "slug": "toshiba-hdwg780ezsta",
+  "name": "Toshiba N300 8 TB (HDWG780EZSTA)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "HDWG780EZSTA",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2024/11/TOSHIBA_Datasheet_N300_EN_2026-04_accessible.pdf",
+    "supports": "Datasheet Toshiba N300 (04/2026): \"NAS Hard Drive - 8 TB\", Retail Number HDWG780EZSTA, 3.5-inch SATA 6.0 Gbit/s, CMR, 7200 rpm, buffer 512 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-hdwg740ezstc",
+  "slug": "toshiba-hdwg740ezstc",
+  "name": "Toshiba N300 4 TB (HDWG740EZSTC)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "HDWG740EZSTC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2024/11/TOSHIBA_Datasheet_N300_EN_2026-04_accessible.pdf",
+    "supports": "Datasheet Toshiba N300 (04/2026): \"NAS Hard Drive - 4 TB\", Retail Number HDWG740EZSTC, 3.5-inch SATA 6.0 Gbit/s, CMR, 7200 rpm, buffer 512 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-hdwg51cezsta",
+  "slug": "toshiba-hdwg51cezsta",
+  "name": "Toshiba N300 12 TB (HDWG51CEZSTA)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "HDWG51CEZSTA",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2024/11/TOSHIBA_Datasheet_N300_EN_2026-04_accessible.pdf",
+    "supports": "Datasheet Toshiba N300 (04/2026): \"NAS Hard Drive - 12 TB\", Retail Number HDWG51CEZSTA, 3.5-inch SATA 6.0 Gbit/s, CMR, 7200 rpm, buffer 512 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "12 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-hdwg760ezsta",
+  "slug": "toshiba-hdwg760ezsta",
+  "name": "Toshiba N300 6 TB (HDWG760EZSTA)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "HDWG760EZSTA",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2024/11/TOSHIBA_Datasheet_N300_EN_2026-04_accessible.pdf",
+    "supports": "Datasheet Toshiba N300 (04/2026): \"NAS Hard Drive - 6 TB\", Retail Number HDWG760EZSTA, 3.5-inch SATA 6.0 Gbit/s, CMR, 7200 rpm, buffer 512 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "6 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-hdwt720uzsva",
+  "slug": "toshiba-hdwt720uzsva",
+  "name": "Toshiba S300 2 TB (HDWT720UZSVA)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "HDWT720UZSVA",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/s300-surveillance-hard-drive-2020/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2025/05/TOSHIBA-Datasheet-S300-barrierfree-EN.pdf",
+    "supports": "Datasheet Toshiba S300 (05/2025): \"Surveillance Hard Drive - 2 TB\", Bulk Number HDWT720UZSVA, SMR, 5400 rpm, buffer 128 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "128 MB"
+  }
+ },
+ {
+  "id": "toshiba-mn10ada400es",
+  "slug": "toshiba-mn10ada400es",
+  "name": "Toshiba N300 (bulk) 4 TB (MN10ADA400ES)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MN10ADA400ES",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2024/11/TOSHIBA_Datasheet_N300_EN_2026-04_accessible.pdf",
+    "supports": "Datasheet Toshiba N300 (04/2026): \"NAS Hard Drive - 4 TB\", Bulk Number MN10ADA400ES, 3.5-inch SATA 6.0 Gbit/s, CMR, 7200 rpm, buffer 512 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-mn10ada800s",
+  "slug": "toshiba-mn10ada800s",
+  "name": "Toshiba N300 (bulk) 8 TB (MN10ADA800S)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MN10ADA800S",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2024/11/TOSHIBA_Datasheet_N300_EN_2026-04_accessible.pdf",
+    "supports": "Datasheet Toshiba N300 (04/2026): \"NAS Hard Drive - 8 TB\", Bulk Number MN10ADA800S, 3.5-inch SATA 6.0 Gbit/s, CMR, 7200 rpm, buffer 512 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-hdwt840uzsva",
+  "slug": "toshiba-hdwt840uzsva",
+  "name": "Toshiba S300 4 TB (HDWT840UZSVA)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "HDWT840UZSVA",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/s300-surveillance-hard-drive-2020/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2025/05/TOSHIBA-Datasheet-S300-barrierfree-EN.pdf",
+    "supports": "Datasheet Toshiba S300 (05/2025): \"Surveillance Hard Drive - 4 TB\", Bulk Number HDWT840UZSVA, SMR, 5400 rpm, buffer 256 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "toshiba-mg09aca12te",
+  "slug": "toshiba-mg09aca12te",
+  "name": "Toshiba MG09 12 TB (MG09ACA12TE)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MG09ACA12TE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg09-series",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://storage.toshiba.com/docs/enterprise-hdd-documents/MG09_Product_Overview_All.pdf",
+    "supports": "Product Overview Toshiba MG09: tabla de modelos SATA-3.3 incluye MG09ACA12TE (12 TB, 512e), buffer 512 MiB, 7200 rpm, CMR."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "12 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-mg10ada10te",
+  "slug": "toshiba-mg10ada10te",
+  "name": "Toshiba MG10-D 10 TB (MG10ADA10TE)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MG10ADA10TE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://storage.toshiba.com/enterprise-hdd/enterprise-capacity/mg10-d-series",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://storage.toshiba.com/docs/enterprise-hdd-documents/ehdd-mg10-d-product-overview_rev0.pdf",
+    "supports": "Product Overview Toshiba MG10-D (05/2024): tabla de modelos SATA-3.3 incluye MG10ADA10TE (10 TB, 512e), buffer 512 MiB, 7200 rpm, CMR."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-mg10ada800e",
+  "slug": "toshiba-mg10ada800e",
+  "name": "Toshiba MG10-D 8 TB (MG10ADA800E)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MG10ADA800E",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://storage.toshiba.com/enterprise-hdd/enterprise-capacity/mg10-d-series",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://storage.toshiba.com/docs/enterprise-hdd-documents/ehdd-mg10-d-product-overview_rev0.pdf",
+    "supports": "Product Overview Toshiba MG10-D (05/2024): tabla de modelos SATA-3.3 incluye MG10ADA800E (8 TB, 512e), buffer 512 MiB, 7200 rpm, CMR."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-mg11aca16te",
+  "slug": "toshiba-mg11aca16te",
+  "name": "Toshiba MG11 16 TB (MG11ACA16TE)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MG11ACA16TE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://toshiba.semicon-storage.com/content/dam/toshiba-ss-v3/master/en/storage/product/data-center-enterprise/MG11-Product-Overview_rev.0.pdf",
+    "supports": "Product Overview Toshiba MG11: tabla de modelos lista MG11ACA16TE (SATA-3.5a, 16 TB, 512e), buffer 1 GiB, 7200 rpm, CMR."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "16 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "1024 MB"
+  }
+ },
+ {
+  "id": "toshiba-mg11aca18te",
+  "slug": "toshiba-mg11aca18te",
+  "name": "Toshiba MG11 18 TB (MG11ACA18TE)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MG11ACA18TE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://toshiba.semicon-storage.com/content/dam/toshiba-ss-v3/master/en/storage/product/data-center-enterprise/MG11-Product-Overview_rev.0.pdf",
+    "supports": "Product Overview Toshiba MG11: tabla de modelos lista MG11ACA18TE (SATA-3.5a, 18 TB, 512e), buffer 1 GiB, 7200 rpm, CMR."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "18 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "1024 MB"
+  }
+ },
+ {
+  "id": "toshiba-mg11aca20te",
+  "slug": "toshiba-mg11aca20te",
+  "name": "Toshiba MG11 20 TB (MG11ACA20TE)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MG11ACA20TE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://toshiba.semicon-storage.com/content/dam/toshiba-ss-v3/master/en/storage/product/data-center-enterprise/MG11-Product-Overview_rev.0.pdf",
+    "supports": "Product Overview Toshiba MG11: tabla de modelos lista MG11ACA20TE (SATA-3.5a, 20 TB, 512e), buffer 1 GiB, 7200 rpm, CMR."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "20 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "1024 MB"
+  }
+ },
+ {
+  "id": "toshiba-mg11aca22te",
+  "slug": "toshiba-mg11aca22te",
+  "name": "Toshiba MG11 22 TB (MG11ACA22TE)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MG11ACA22TE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://toshiba.semicon-storage.com/content/dam/toshiba-ss-v3/master/en/storage/product/data-center-enterprise/MG11-Product-Overview_rev.0.pdf",
+    "supports": "Product Overview Toshiba MG11: tabla de modelos lista MG11ACA22TE (SATA-3.5a, 22 TB, 512e), buffer 1 GiB, 7200 rpm, CMR."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "22 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "1024 MB"
+  }
+ },
+ {
+  "id": "toshiba-mg11aca24te",
+  "slug": "toshiba-mg11aca24te",
+  "name": "Toshiba MG11 24 TB (MG11ACA24TE)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MG11ACA24TE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://storage.toshiba.com/enterprise-hdd/cloud-scale-capacity/mg11-series",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://toshiba.semicon-storage.com/content/dam/toshiba-ss-v3/master/en/storage/product/data-center-enterprise/MG11-Product-Overview_rev.0.pdf",
+    "supports": "Product Overview Toshiba MG11: tabla de modelos lista MG11ACA24TE (SATA-3.5a, 24 TB, 512e), buffer 1 GiB, 7200 rpm, CMR."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "24 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "1024 MB"
+  }
+ },
+ {
+  "id": "toshiba-mn10ada10ts",
+  "slug": "toshiba-mn10ada10ts",
+  "name": "Toshiba N300 (bulk) 10 TB (MN10ADA10TS)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "MN10ADA10TS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2024/11/TOSHIBA_Datasheet_N300_EN_2026-04_accessible.pdf",
+    "supports": "Datasheet Toshiba N300 (04/2026): \"NAS Hard Drive - 10 TB\", Bulk Number MN10ADA10TS, 3.5-inch SATA 6.0 Gbit/s, CMR, 7200 rpm, buffer 512 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "toshiba-hdwg71aezsta",
+  "slug": "toshiba-hdwg71aezsta",
+  "name": "Toshiba N300 10 TB (HDWG71AEZSTA)",
+  "category_id": "storage",
+  "brand": "Toshiba",
+  "mpn": "HDWG71AEZSTA",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.toshiba-storage.com/wp/wp-content/uploads/2024/11/TOSHIBA_Datasheet_N300_EN_2026-04_accessible.pdf",
+    "supports": "Datasheet Toshiba N300 (04/2026): \"NAS Hard Drive - 10 TB\", Retail Number HDWG71AEZSTA, 3.5-inch SATA 6.0 Gbit/s, CMR, 7200 rpm, buffer 512 MB."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "10 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "512 MB"
+  }
+ },
+ {
+  "id": "samsung-mz-77e1t0b-eu",
+  "slug": "samsung-mz-77e1t0b-eu",
+  "name": "Samsung 870 EVO 1 TB (MZ-77E1T0B/EU)",
+  "category_id": "storage",
+  "brand": "Samsung",
+  "mpn": "MZ-77E1T0B/EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+    "supports": "Ficha oficial Samsung ES 870 EVO: lista MZ-77E1T0B/EU entre las variantes; 2,5\", SATA 6 Gb/s, 560/530 MB/s, 600 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Controlador": "Samsung MKX",
+   "Tipo de NAND": "Samsung V-NAND 3bit MLC",
+   "Resistencia": "600 TBW"
+  }
+ },
+ {
+  "id": "samsung-mz-77e250b-eu",
+  "slug": "samsung-mz-77e250b-eu",
+  "name": "Samsung 870 EVO 250 GB (MZ-77E250B/EU)",
+  "category_id": "storage",
+  "brand": "Samsung",
+  "mpn": "MZ-77E250B/EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+    "supports": "Ficha oficial Samsung ES 870 EVO: lista MZ-77E250B/EU entre las variantes; 2,5\", SATA 6 Gb/s, 560/530 MB/s, 150 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "250 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Controlador": "Samsung MKX",
+   "Tipo de NAND": "Samsung V-NAND 3bit MLC",
+   "Resistencia": "150 TBW"
+  }
+ },
+ {
+  "id": "samsung-mz-77e4t0b-eu",
+  "slug": "samsung-mz-77e4t0b-eu",
+  "name": "Samsung 870 EVO 4 TB (MZ-77E4T0B/EU)",
+  "category_id": "storage",
+  "brand": "Samsung",
+  "mpn": "MZ-77E4T0B/EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+    "supports": "Ficha oficial Samsung ES 870 EVO: lista MZ-77E4T0B/EU entre las variantes; 2,5\", SATA 6 Gb/s, 560/530 MB/s, 2400 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Controlador": "Samsung MKX",
+   "Tipo de NAND": "Samsung V-NAND 3bit MLC",
+   "Resistencia": "2400 TBW"
+  }
+ },
+ {
+  "id": "samsung-mz-v9v1t0bw",
+  "slug": "samsung-mz-v9v1t0bw",
+  "name": "Samsung 990 1 TB (MZ-V9V1T0BW)",
+  "category_id": "storage",
+  "brand": "Samsung",
+  "mpn": "MZ-V9V1T0BW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.samsung.com/es/memory-storage/nvme-ssd/990-1tb-nvme-pcie-gen-4-mz-v9v1t0bw/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.samsung.com/es/memory-storage/nvme-ssd/990-1tb-nvme-pcie-gen-4-mz-v9v1t0bw/",
+    "supports": "Ficha oficial Samsung ES 990 1TB: codigo MZ-V9V1T0BW, M.2 2280, PCIe 4.0 x4 NVMe 2.0, 7150/6450 MB/s, 400 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe 2.0",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "7150 MB/s",
+   "Escritura secuencial": "6450 MB/s",
+   "Resistencia": "400 TBW"
+  }
+ },
+ {
+  "id": "samsung-mz-77e500b-eu",
+  "slug": "samsung-mz-77e500b-eu",
+  "name": "Samsung 870 EVO 500 GB (MZ-77E500B/EU)",
+  "category_id": "storage",
+  "brand": "Samsung",
+  "mpn": "MZ-77E500B/EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+    "supports": "Ficha oficial Samsung ES 870 EVO: lista MZ-77E500B/EU entre las variantes; 2,5\", SATA 6 Gb/s, 560/530 MB/s, 300 TBW."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Controlador": "Samsung MKX",
+   "Tipo de NAND": "Samsung V-NAND 3bit MLC",
+   "Resistencia": "300 TBW"
+  }
+ },
+ {
+  "id": "samsung-mz-77e8t0b-eu",
+  "slug": "samsung-mz-77e8t0b-eu",
+  "name": "Samsung 870 EVO 8 TB (MZ-77E8T0B/EU)",
+  "category_id": "storage",
+  "brand": "Samsung",
+  "mpn": "MZ-77E8T0B/EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.samsung.com/es/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0b-eu/",
+    "supports": "Ficha oficial Samsung ES 870 EVO: lista MZ-77E8T0B/EU entre las variantes; 2,5\", SATA 6 Gb/s, 560/530 MB/s."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Controlador": "Samsung MKX",
+   "Tipo de NAND": "Samsung V-NAND 3bit MLC"
+  }
+ },
+ {
+  "id": "dell-345-bdqm",
+  "slug": "dell-345-bdqm",
+  "name": "Dell 960GB SSD SATA Read Intensive 6Gbps 512e 2.5in con portador hibrido 3.5in, S4520 (345-BDQM)",
+  "category_id": "storage",
+  "brand": "Dell",
+  "mpn": "345-BDQM",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.dell.com/en-us/shop/dell-960gb-ssd-sata-read-intensive-6gbps-512e-25in-with-35in-hyb-carr-s4520/apd/345-bdqm/storage-drives-media",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.dell.com/en-us/shop/dell-960gb-ssd-sata-read-intensive-6gbps-512e-25in-with-35in-hyb-carr-s4520/apd/345-bdqm/storage-drives-media",
+    "supports": "Ficha dell.com (apd/345-bdqm) titulada \"Dell 960GB SSD SATA Read Intensive 6Gbps 512e 2.5in con portador hibrido 3.5in, S4520\"; el codigo Dell 345-BDQM figura en la URL/ficha oficial (visto en resultados de busqueda; fetch directo bloqueado por Akamai, no evadido)."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "960 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "dell-400-atkj",
+  "slug": "dell-400-atkj",
+  "name": "Dell 2TB 7.2K RPM SATA 6Gbps 512n 3.5in Hot-plug Hard Drive (400-ATKJ)",
+  "category_id": "storage",
+  "brand": "Dell",
+  "mpn": "400-ATKJ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.dell.com/en-us/shop/dell-2tb-72k-rpm-sata-6gbps-512n-35in-hot-plug-hard-drive/apd/400-atkj/storage-drives-media",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.dell.com/en-us/shop/dell-2tb-72k-rpm-sata-6gbps-512n-35in-hot-plug-hard-drive/apd/400-atkj/storage-drives-media",
+    "supports": "Ficha dell.com (apd/400-atkj) titulada \"Dell 2TB 7.2K RPM SATA 6Gbps 512n 3.5in Hot-plug Hard Drive\"; el codigo Dell 400-ATKJ figura en la URL/ficha oficial (visto en resultados de busqueda; fetch directo bloqueado por Akamai, no evadido)."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "dell-400-bllf",
+  "slug": "dell-400-bllf",
+  "name": "Dell 4TB 7.2K RPM SATA 6Gbps 512n 3.5in Hot-plug Hard Drive (400-BLLF)",
+  "category_id": "storage",
+  "brand": "Dell",
+  "mpn": "400-BLLF",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.dell.com/en-us/shop/dell-4tb-72k-rpm-sata-6gbps-512n-35in-hot-plug-hard-drive/apd/400-bllf/storage-drives-media",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.dell.com/en-us/shop/dell-4tb-72k-rpm-sata-6gbps-512n-35in-hot-plug-hard-drive/apd/400-bllf/storage-drives-media",
+    "supports": "Ficha dell.com (apd/400-bllf) titulada \"Dell 4TB 7.2K RPM SATA 6Gbps 512n 3.5in Hot-plug Hard Drive\"; el codigo Dell 400-BLLF figura en la URL/ficha oficial (visto en resultados de busqueda; fetch directo bloqueado por Akamai, no evadido)."
+   }
+  ],
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "4 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "dell-345-bjpr",
+  "slug": "dell-345-bjpr",
+  "name": "Dell 960GB SSD SATA Read Intensive 6Gbps 512e 2.5in 1DWPD (345-BJPR)",
+  "category_id": "storage",
+  "brand": "Dell",
+  "mpn": "345-BJPR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.dell.com/en-us/shop/dell-960gb-ssd-sata-read-intensive-6gbps-512e-25in-1dwpd/apd/345-bjpr/storage-drives-media",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.dell.com/en-us/shop/dell-960gb-ssd-sata-read-intensive-6gbps-512e-25in-1dwpd/apd/345-bjpr/storage-drives-media",
+    "supports": "Ficha dell.com (apd/345-bjpr) titulada \"Dell 960GB SSD SATA Read Intensive 6Gbps 512e 2.5in 1DWPD\"; el codigo Dell 345-BJPR figura en la URL/ficha oficial (visto en resultados de busqueda; fetch directo bloqueado por Akamai, no evadido)."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "960 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "dell-400-avss",
+  "slug": "dell-400-avss",
+  "name": "Dell 480GB M.2 SSD SATA 512n 6Gbps S3520 (400-AVSS)",
+  "category_id": "storage",
+  "brand": "Dell",
+  "mpn": "400-AVSS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.dell.com/en-us/shop/dell-480gb-m2-ssd-sata-512n-6gbps-s3520/apd/400-avss/storage-drives-media",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.dell.com/en-us/shop/dell-480gb-m2-ssd-sata-512n-6gbps-s3520/apd/400-avss/storage-drives-media",
+    "supports": "Ficha dell.com (apd/400-avss) titulada \"Dell 480GB M.2 SSD SATA 512n 6Gbps S3520\"; el codigo Dell 400-AVSS figura en la URL/ficha oficial (visto en resultados de busqueda; fetch directo bloqueado por Akamai, no evadido)."
+   }
+  ],
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "480 GB",
+   "Interfaz": "SATA III"
+  }
+ }
+]

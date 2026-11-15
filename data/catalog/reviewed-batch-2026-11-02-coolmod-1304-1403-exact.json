@@ -1,0 +1,128 @@
+[
+  {
+    "id": "g-skill-f5-7600j3646g16gx2-tz5rk",
+    "slug": "g-skill-f5-7600j3646g16gx2-tz5rk",
+    "name": "G.Skill Trident Z5 RGB 32 GB (2 × 16 GB) DDR5-7600 CL36",
+    "brand": "G.SKill",
+    "mpn": "F5-7600J3646G16GX2-TZ5RK",
+    "manufacturer_url": "https://www.gskill.com/specification/165/374/1665644764/F5-7600J3646G16GX2-TZ5RK-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/374/1665644764/F5-7600J3646G16GX2-TZ5RK",
+      "https://www.gskill.com/specification/165/374/1665644764/F5-7600J3646G16GX2-TZ5RK-Specification"
+    ],
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "7600 MT/s",
+      "Latencia CAS": "CL36",
+      "Tiempos probados (XMP)": "36-46-46-121",
+      "Voltaje (XMP)": "1.40 V",
+      "Perfil": "Intel XMP 3.0",
+      "Canales": "Dual channel",
+      "Iluminación": "RGB"
+    },
+    "category_id": "ram",
+    "specs_verified_at": "2026-11-02T19:42:00Z"
+  },
+  {
+    "id": "g-skill-f4-3200c16d-16gvgb",
+    "slug": "g-skill-f4-3200c16d-16gvgb",
+    "name": "G.Skill Ripjaws V Black 16 GB (2 × 8 GB) DDR4-3200 CL16",
+    "brand": "G.SKill",
+    "mpn": "F4-3200C16D-16GVGB",
+    "manufacturer_url": "https://www.gskill.com/tw/specification/203/217/1536116621/F4-3200C16D-16GVGB-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/tw/product/203/217/1536116621/F4-3200C16D-16GVGB",
+      "https://www.gskill.com/tw/specification/203/217/1536116621/F4-3200C16D-16GVGB-Specification"
+    ],
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "2 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Tiempos probados (XMP)": "16-18-18-38",
+      "Voltaje (XMP)": "1.35 V",
+      "Perfil": "Intel XMP 2.0",
+      "Canales": "Dual channel"
+    },
+    "category_id": "ram",
+    "specs_verified_at": "2026-11-02T19:42:00Z"
+  },
+  {
+    "id": "patriot-pvvr564g600c30k",
+    "slug": "patriot-pvvr564g600c30k",
+    "name": "Patriot Viper Venom RGB 64 GB (2 × 32 GB) DDR5-6000 CL30",
+    "brand": "Patriot Memory",
+    "mpn": "PVVR564G600C30K",
+    "manufacturer_url": "https://viper.patriotmemory.ru/documents/PVVR564G600C30K_sku-sheet_050824.pdf",
+    "manufacturer_sources": [
+      "https://viper.patriotmemory.ru/documents/PVVR564G600C30K_sku-sheet_050824.pdf"
+    ],
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad probada (XMP/EXPO)": "6000 MT/s",
+      "Latencia CAS": "CL30",
+      "Tiempos probados (XMP/EXPO)": "30-40-40-76",
+      "Voltaje probados (XMP/EXPO)": "1.35 V",
+      "Perfil": "Intel XMP 3.0, AMD EXPO",
+      "Iluminación": "RGB",
+      "Color del disipador": "Negro"
+    },
+    "category_id": "ram",
+    "specs_verified_at": "2026-11-02T19:42:00Z"
+  },
+  {
+    "id": "g-skill-f5-5200j4040a16gx2-rm5rw",
+    "slug": "g-skill-f5-5200j4040a16gx2-rm5rw",
+    "name": "G.Skill Ripjaws M5 RGB 32 GB (2 × 16 GB) DDR5-5200 CL40",
+    "brand": "G.SKill",
+    "mpn": "F5-5200J4040A16GX2-RM5RW",
+    "manufacturer_url": "https://www.gskill.com/tw/specification/203/422/1716885128/F5-5200J4040A16GX2-RM5RW-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/tw/specification/203/422/1716885128/F5-5200J4040A16GX2-RM5RW-Specification"
+    ],
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia CAS": "CL40",
+      "Tiempos probados (XMP/EXPO)": "40-40-40-83",
+      "Voltaje (XMP/EXPO)": "1.10 V",
+      "Perfil": "Intel XMP 3.0, AMD EXPO",
+      "Iluminación": "RGB"
+    },
+    "category_id": "ram",
+    "specs_verified_at": "2026-11-02T19:42:00Z"
+  },
+  {
+    "id": "patriot-pver516g60c30w",
+    "slug": "patriot-pver516g60c30w",
+    "name": "Patriot Viper Elite 5 RGB 16 GB (1 × 16 GB) DDR5-6000 CL30 White",
+    "brand": "Patriot Memory",
+    "mpn": "PVER516G60C30W",
+    "manufacturer_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVER_516_G60_C30_W_sku_sheet_72703f00cb.pdf",
+    "manufacturer_sources": [
+      "https://www.patriotmemory.com/en/products/elite5-ddr5-performance-ram",
+      "https://www.patriotmemory.com/sku-sheets",
+      "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVER_516_G60_C30_W_sku_sheet_72703f00cb.pdf"
+    ],
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL30",
+      "Voltaje": "1.35 V",
+      "Perfil": "Intel XMP 3.0, AMD EXPO",
+      "Iluminación": "RGB",
+      "Color del disipador": "Blanco"
+    },
+    "category_id": "ram",
+    "specs_verified_at": "2026-11-02T19:42:00Z"
+  }
+]

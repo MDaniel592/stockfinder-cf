@@ -1,0 +1,366 @@
+[
+ {
+  "id": "nox-urano-pro-550w-bronze",
+  "slug": "nox-urano-pro-550w-bronze",
+  "name": "NOX Urano PRO 550W Bronze",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXURPRO550BZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/urano-pro-550w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "nox-urano-pro-650w-bronze",
+  "slug": "nox-urano-pro-650w-bronze",
+  "name": "NOX Urano PRO 650W Bronze",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXURPRO650BZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/urano-pro-650w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "nox-urano-pro-750w-bronze",
+  "slug": "nox-urano-pro-750w-bronze",
+  "name": "NOX Urano PRO 750W Bronze",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXURPRO750BZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/urano-pro-750w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "nox-urano-pro-850w-bronze",
+  "slug": "nox-urano-pro-850w-bronze",
+  "name": "NOX Urano PRO 850W Bronze",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXURPRO850BZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/urano-pro-850w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "nox-urano-pro-white-550w-bronze",
+  "slug": "nox-urano-pro-white-550w-bronze",
+  "name": "NOX Urano PRO White 550W Bronze",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXURPRO550BZWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-550w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "nox-urano-pro-white-650w-bronze",
+  "slug": "nox-urano-pro-white-650w-bronze",
+  "name": "NOX Urano PRO White 650W Bronze",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXURPRO650BZWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-650w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "nox-urano-pro-white-750w-bronze",
+  "slug": "nox-urano-pro-white-750w-bronze",
+  "name": "NOX Urano PRO White 750W Bronze",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXURPRO750BZWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-750w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "nox-urano-pro-white-850w-bronze",
+  "slug": "nox-urano-pro-white-850w-bronze",
+  "name": "NOX Urano PRO White 850W Bronze",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXURPRO850BZWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-850w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "nox-nx-650w",
+  "slug": "nox-nx-650w",
+  "name": "NOX NX 650W",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXS650",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/nx-650w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "nox-hummer-650w-bronze",
+  "slug": "nox-hummer-650w-bronze",
+  "name": "NOX Hummer 650W 80 PLUS Bronze",
+  "category_id": "psu",
+  "brand": "NOX",
+  "mpn": "NXHM650BZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/fuentes/hummer-80-plus-bronze-650w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "msi-mag-a1000gls-pcie5",
+  "slug": "msi-mag-a1000gls-pcie5",
+  "name": "MSI MAG A1000GLS PCIE5",
+  "category_id": "psu",
+  "brand": "MSI",
+  "mpn": "MAG A1000GLS PCIE5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Power-Supply/MAG-A1000GLS-PCIE5/Specification",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "unykach-52099",
+  "slug": "unykach-52099",
+  "name": "UNYKAch ATX 500W (52099)",
+  "category_id": "psu",
+  "brand": "UNYKAch",
+  "mpn": "52099",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-500w-52099/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "unykach-52500",
+  "slug": "unykach-52500",
+  "name": "UNYKAch ATX 500W 80 Plus Bronce (52500)",
+  "category_id": "psu",
+  "brand": "UNYKAch",
+  "mpn": "52500",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-500w-80-plus-bronce-52500/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "unykach-uk210551",
+  "slug": "unykach-uk210551",
+  "name": "UNYKAch ATX 550W Gaming (UK210551)",
+  "category_id": "psu",
+  "brand": "UNYKAch",
+  "mpn": "UK210551",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-550w-gaming-uk210551/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "unykach-uk213750",
+  "slug": "unykach-uk213750",
+  "name": "UNYKAch ATILIUS 3.1 750W Gold Full Modular (UK213750)",
+  "category_id": "psu",
+  "brand": "UNYKAch",
+  "mpn": "UK213750",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-atilius-3-1-750w-gold-uk213750/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Cybenetics": "Cybenetics Gold",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "unykach-uk212501",
+  "slug": "unykach-uk212501",
+  "name": "UNYKAch Atilius 2.0 Black 500W 80 Plus Bronze (UK212501)",
+  "category_id": "psu",
+  "brand": "UNYKAch",
+  "mpn": "UK212501",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-atilius-black-500w-uk212501b/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "unykach-uk212601",
+  "slug": "unykach-uk212601",
+  "name": "UNYKAch Atilius 2.0 Black 650W 80 Plus Bronze (UK212601)",
+  "category_id": "psu",
+  "brand": "UNYKAch",
+  "mpn": "UK212601",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-atilius-black-650w-2-0-uk212601b/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "unykach-uk212701",
+  "slug": "unykach-uk212701",
+  "name": "UNYKAch Atilius 2.0 Black 750W 80 Plus Bronze (UK212701)",
+  "category_id": "psu",
+  "brand": "UNYKAch",
+  "mpn": "UK212701",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-atilius-black-750w-2-0-uk212701b/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "antec-csk650dc-ec",
+  "slug": "antec-csk650dc-ec",
+  "name": "Antec CSK650DC EC",
+  "category_id": "psu",
+  "brand": "Antec",
+  "mpn": "0-761345-20107-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/power/csk-dc-650",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "antec-csk750dc-ec",
+  "slug": "antec-csk750dc-ec",
+  "name": "Antec CSK750DC EC",
+  "category_id": "psu",
+  "brand": "Antec",
+  "mpn": "0-761345-20112-4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/power/csk-dc-750w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "antec-gsk850-v2-ec",
+  "slug": "antec-gsk850-v2-ec",
+  "name": "Antec GSK850 V2 EC",
+  "category_id": "psu",
+  "brand": "Antec",
+  "mpn": "0-761345-20146-9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/power/gsk-v2-850",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "deepcool-pf750-r-pf750d-ha0b-eu",
+  "slug": "deepcool-pf750-r-pf750d-ha0b-eu",
+  "name": "DeepCool PF750 (R-PF750D-HA0B-EU)",
+  "category_id": "psu",
+  "brand": "DeepCool",
+  "mpn": "R-PF750D-HA0B-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PF750D-230V-Power-Supply-Unit/2021/15295.shtml",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Eficiencia 80 PLUS": "80 PLUS"
+  }
+ }
+]

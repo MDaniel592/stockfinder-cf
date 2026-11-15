@@ -1,0 +1,173 @@
+[
+ {
+  "id": "gigabyte-gp-ud750gm-pg5-v2",
+  "slug": "gigabyte-gp-ud750gm-pg5-v2",
+  "name": "Gigabyte UD750GM PG5 V2 (GP-UD750GM PG5 V2)",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-UD750GM PG5 V2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD750GM-PG5-V2/sp",
+  "specs_verified_at": "2026-11-09T16:24:58Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "EstÃ¡ndar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Dimensiones": "150 x 140 x 86 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-ud1000gm-pg5-v2",
+  "slug": "gigabyte-gp-ud1000gm-pg5-v2",
+  "name": "Gigabyte UD1000GM PG5 V2 (GP-UD1000GM PG5 V2)",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-UD1000GM PG5 V2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5-V2/sp",
+  "specs_verified_at": "2026-11-09T16:24:58Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "EstÃ¡ndar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Dimensiones": "150 x 140 x 86 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-ud1000gm-pg5-ice",
+  "slug": "gigabyte-gp-ud1000gm-pg5-ice",
+  "name": "Gigabyte UD1000GM PG5 V2 ICE (GP-UD1000GM PG5 ICE)",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-UD1000GM PG5 ICE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5-ICE/sp",
+  "specs_verified_at": "2026-11-09T16:24:58Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "EstÃ¡ndar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Dimensiones": "150 x 140 x 86 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-ud750gm-pg5-ice",
+  "slug": "gigabyte-gp-ud750gm-pg5-ice",
+  "name": "Gigabyte UD750GM PG5 V2 ICE (GP-UD750GM PG5 ICE)",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-UD750GM PG5 ICE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD750GM-PG5-ICE/sp",
+  "specs_verified_at": "2026-11-09T16:24:58Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "EstÃ¡ndar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Dimensiones": "150 x 140 x 86 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-ud1600pm-pg5",
+  "slug": "gigabyte-gp-ud1600pm-pg5",
+  "name": "Gigabyte UD1600PM PG5 AI TOP (GP-UD1600PM PG5)",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-UD1600PM PG5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD1600PM-PG5/sp",
+  "specs_verified_at": "2026-11-09T16:24:58Z",
+  "specs": {
+   "Potencia": "1600 W",
+   "Formato": "ATX",
+   "EstÃ¡ndar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Cybenetics": "Cybenetics Platinum",
+   "Dimensiones": "150 x 190 x 86 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-ud1300gm-pg5",
+  "slug": "gigabyte-gp-ud1300gm-pg5",
+  "name": "Gigabyte UD1300GM PG5 (GP-UD1300GM PG5)",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-UD1300GM PG5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD1300GM-PG5/sp",
+  "specs_verified_at": "2026-11-09T16:24:58Z",
+  "specs": {
+   "Potencia": "1300 W",
+   "Formato": "ATX",
+   "EstÃ¡ndar ATX": "3.0",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Dimensiones": "150 x 160 x 86 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-p750gm",
+  "slug": "gigabyte-gp-p750gm",
+  "name": "Gigabyte P750GM (GP-P750GM)",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-P750GM",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-P750GM/sp",
+  "specs_verified_at": "2026-11-09T16:24:58Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "EstÃ¡ndar ATX": "2.x",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Dimensiones": "150 x 140 x 86 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-p750bs",
+  "slug": "gigabyte-gp-p750bs",
+  "name": "Gigabyte P750BS (GP-P750BS)",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-P750BS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-P750BS/sp",
+  "specs_verified_at": "2026-11-09T16:24:58Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Dimensiones": "150 x 140 x 86 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-ud1000gm-pg5",
+  "slug": "gigabyte-gp-ud1000gm-pg5",
+  "name": "Gigabyte UD1000GM PG5 (GP-UD1000GM PG5)",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-UD1000GM PG5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5/sp",
+  "specs_verified_at": "2026-11-09T16:24:58Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold"
+  }
+ }
+]

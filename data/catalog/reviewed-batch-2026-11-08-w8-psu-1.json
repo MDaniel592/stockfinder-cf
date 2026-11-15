@@ -1,0 +1,218 @@
+[
+ {
+  "id": "bequiet-pure-power-12-650w-bp002eu",
+  "slug": "bequiet-pure-power-12-650w-bp002eu",
+  "name": "be quiet! Pure Power 12 650W (BP002EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP002EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/es/powersupply/5251",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "bequiet-pure-power-12-750w-bp003eu",
+  "slug": "bequiet-pure-power-12-750w-bp003eu",
+  "name": "be quiet! Pure Power 12 750W (BP003EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP003EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/es/powersupply/5252",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "bequiet-pure-power-12-850w-bp004eu",
+  "slug": "bequiet-pure-power-12-850w-bp004eu",
+  "name": "be quiet! Pure Power 12 850W (BP004EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP004EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/es/powersupply/5253",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "bequiet-pure-power-12-1000w-bp005eu",
+  "slug": "bequiet-pure-power-12-1000w-bp005eu",
+  "name": "be quiet! Pure Power 12 1000W (BP005EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP005EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/es/powersupply/5254",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "bequiet-power-zone-2-750w-bp006eu",
+  "slug": "bequiet-power-zone-2-750w-bp006eu",
+  "name": "be quiet! Power Zone 2 750W (BP006EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP006EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5585",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Platinum / Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "bequiet-pure-power-13-m-1000w-bp028eu",
+  "slug": "bequiet-pure-power-13-m-1000w-bp028eu",
+  "name": "be quiet! Pure Power 13 M 1000W (BP028EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP028EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5932",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "bequiet-dark-power-pro-13-1600w-bn332",
+  "slug": "bequiet-dark-power-pro-13-1600w-bn332",
+  "name": "be quiet! Dark Power Pro 13 1600W (BN332)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BN332",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/4393",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "1600 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Titanium",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "200 mm"
+  }
+ },
+ {
+  "id": "bequiet-pure-power-12-m-850w-bn344",
+  "slug": "bequiet-pure-power-12-m-850w-bn344",
+  "name": "be quiet! Pure Power 12 M 850W (BN344)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BN344",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/4067",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "deepcool-pl800d-v2-r-pl800d-fc0b-eu-v2",
+  "slug": "deepcool-pl800d-v2-r-pl800d-fc0b-eu-v2",
+  "name": "DeepCool PL800D (R-PL800D-FC0B-EU-V2)",
+  "category_id": "psu",
+  "brand": "DeepCool",
+  "mpn": "R-PL800D-FC0B-EU-V2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://es.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PL800D-V2-ATX3.1-Direct-Power-Supply/2024/19121.shtml",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "800 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia": "80 PLUS Bronze",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "abysm-morpheo-gx5-1000w-ab211001",
+  "slug": "abysm-morpheo-gx5-1000w-ab211001",
+  "name": "Abysm Morpheo GX5 1000W (AB211001)",
+  "category_id": "psu",
+  "brand": "Abysm",
+  "mpn": "AB211001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://abysmgaming.com/en/power-supply/power-supply-morpheo-gx5-atx-3-1-1000w-black-80-plus-gold-full-modular-ab211001/",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "abysm-morpheo-gx5-1300w-ab231301",
+  "slug": "abysm-morpheo-gx5-1300w-ab231301",
+  "name": "Abysm Morpheo GX5 1300W (AB231301)",
+  "category_id": "psu",
+  "brand": "Abysm",
+  "mpn": "AB231301",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://abysmgaming.com/en/power-supply/power-supply-morpheo-gx5-atx-3-1-1300w-cybenetics-platinum-full-modular-ab231301/",
+  "specs_verified_at": "2026-11-08T20:19:18Z",
+  "specs": {
+   "Potencia": "1300 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6"
+  }
+ }
+]

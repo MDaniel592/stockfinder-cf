@@ -1,0 +1,1715 @@
+[
+  {
+    "id": "g-skill-f4-3200c16d-16gis",
+    "slug": "g-skill-f4-3200c16d-16gis",
+    "name": "G.Skill Aegis 16GB 2x8GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3200C16D-16GIS",
+    "manufacturer_url": "https://www.gskill.com/cn/product/204/232/1567584549/F4-3200C16D-16GIS",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/product/204/232/1567584549/F4-3200C16D-16GIS"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "2 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j2836g32gx2-fx5w",
+    "slug": "g-skill-f5-6000j2836g32gx2-fx5w",
+    "name": "G.SKill Flare X5 64GB 2x32GB 6000MHz CL28 AMD EXPO",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J2836G32GX2-FX5W",
+    "manufacturer_url": "https://www.gskill.com/specification/165/396/1732006357/F5-6000J2836G32GX2-FX5W-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/396/1732006357/F5-6000J2836G32GX2-FX5W-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL28",
+      "Voltaje": "1.40 V",
+      "Perfil": "AMD EXPO"
+    }
+  },
+  {
+    "id": "g-skill-f5-5600j3636c16gx2-rs5k",
+    "slug": "g-skill-f5-5600j3636c16gx2-rs5k",
+    "name": "G.Skill Ripjaws S5 32GB 2x16GB 5600MHz CL36 Negro",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-5600J3636C16GX2-RS5K",
+    "manufacturer_url": "https://www.gskill.com/cn/specification/204/379/1640229565/F5-5600J3636C16GX2-RS5K-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/specification/204/379/1640229565/F5-5600J3636C16GX2-RS5K-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia CAS": "CL36",
+      "Voltaje": "1.20 V",
+      "Perfil": "Intel XMP 3.0, Intel XMP, XMP 3.0"
+    }
+  },
+  {
+    "id": "corsair-cmk32gx5m2d6000z38w",
+    "slug": "corsair-cmk32gx5m2d6000z38w",
+    "name": "Corsair Vengeance 32GB 2x16GB 6000MHz CL38 EXPO-XMP Blanco",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK32GX5M2D6000Z38W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2d6000z38w/vengeance-32gb-2-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-intel-xmp-memory-kit-white-cmk32gx5m2d6000z38w",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmk32gx5m2d6000z38w/vengeance-32gb-2-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-intel-xmp-memory-kit-white-cmk32gx5m2d6000z38w"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Velocidad": "6000 MT/s",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Latencia CAS": "CL38",
+      "Timings": "38-48-48-96",
+      "Voltaje": "1.35 V",
+      "Perfil": "AMD EXPO, Intel XMP",
+      "Color": "blanco"
+    }
+  },
+  {
+    "id": "corsair-cmt64gx5m2b5200c40w",
+    "slug": "corsair-cmt64gx5m2b5200c40w",
+    "name": "Corsair Dominator Platinum 64GB 2x32GB 5200MHz CL40 Blanco",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMT64GX5M2B5200C40W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmt64gx5m2b5200c40w/dominatora-platinum-rgb-64gb-2x32gb-ddr5-dram-5200mhz-c40-memory-kit-a-white-cmt64gx5m2b5200c40w",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmt64gx5m2b5200c40w/dominatora-platinum-rgb-64gb-2x32gb-ddr5-dram-5200mhz-c40-memory-kit-a-white-cmt64gx5m2b5200c40w"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Velocidad": "5200 MT/s",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Latencia CAS": "CL40",
+      "Voltaje": "1.25 V",
+      "Perfil": "Intel XMP",
+      "Iluminación": "RGB",
+      "Color": "blanco"
+    }
+  },
+  {
+    "id": "corsair-cmk16gx4m2e3200c16w",
+    "slug": "corsair-cmk16gx4m2e3200c16w",
+    "name": "Corsair Vengeance LPX White 16GB 2x8GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK16GX4M2E3200C16W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2e3200c16w/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-white-cmk16gx4m2e3200c16w",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmk16gx4m2e3200c16w/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-white-cmk16gx4m2e3200c16w"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Velocidad": "3200 MT/s",
+      "Capacidad": "16 GB",
+      "Configuración": "2 × 8 GB",
+      "Latencia CAS": "CL16",
+      "Color": "blanco",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "corsair-cmh16gx4m2e3200c16w",
+    "slug": "corsair-cmh16gx4m2e3200c16w",
+    "name": "Corsair Vengeance RGB Pro SL White 16GB 2x8GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH16GX4M2E3200C16W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh16gx4m2e3200c16w/vengeance-rgb-pro-sl-16gb-2x8gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh16gx4m2e3200c16w",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmh16gx4m2e3200c16w/vengeance-rgb-pro-sl-16gb-2x8gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh16gx4m2e3200c16w"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Velocidad": "3200 MT/s",
+      "Capacidad": "16 GB",
+      "Configuración": "2 × 8 GB",
+      "Latencia CAS": "CL16",
+      "Voltaje": "1.35 V",
+      "Perfil": "XMP 2.0",
+      "Iluminación": "RGB",
+      "Color": "blanco"
+    }
+  },
+  {
+    "id": "g-skill-f4-3200c16s-16gvk",
+    "slug": "g-skill-f4-3200c16s-16gvk",
+    "name": "G.Skill Ripjaws V Black 16GB 1x16GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3200C16S-16GVK",
+    "manufacturer_url": "https://www.gskill.com/product/165/184/1535687484/F4-3200C16S-16GVK",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/184/1535687484/F4-3200C16S-16GVK"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-5600j3636d32gx2-rs5w",
+    "slug": "g-skill-f5-5600j3636d32gx2-rs5w",
+    "name": "G.SKill Ripjaws S5 64GB 2x32GB 5600MHz CL36 XMP Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-5600J3636D32GX2-RS5W",
+    "manufacturer_url": "https://www.gskill.com/cn/specification/204/379/1648538890/F5-5600J3636D32GX2-RS5W-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/specification/204/379/1648538890/F5-5600J3636D32GX2-RS5W-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia CAS": "CL36",
+      "Voltaje": "1.25 V",
+      "Perfil": "Intel XMP 3.0, Intel XMP, XMP 3.0"
+    }
+  },
+  {
+    "id": "corsair-cmk32gx5m2b6400z32w",
+    "slug": "corsair-cmk32gx5m2b6400z32w",
+    "name": "Corsair Vengeance 32GB 2x16GB 6400MHz CL32 EXPO-XMP Blanca",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK32GX5M2B6400Z32W",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6400z32w/vengeance-32gb-2x16gb-ddr5-dram-6400mts-cl32-amd-expo-intel-xmp-memory-kit-white-cmk32gx5m2b6400z32w",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6400z32w/vengeance-32gb-2x16gb-ddr5-dram-6400mts-cl32-amd-expo-intel-xmp-memory-kit-white-cmk32gx5m2b6400z32w"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Velocidad": "6400 MT/s",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Latencia CAS": "CL32",
+      "Perfil": "AMD EXPO, Intel XMP",
+      "Color": "blanco"
+    }
+  },
+  {
+    "id": "g-skill-f5-6400j3039g16gx2-tr5ns",
+    "slug": "g-skill-f5-6400j3039g16gx2-tr5ns",
+    "name": "G.Skill Trident Z5 Royal Neo RGB 32GB 2x16GB 6400MHz CL30 AMD EXPO Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6400J3039G16GX2-TR5NS",
+    "manufacturer_url": "https://www.gskill.com/tw/product/203/426/1723429792/F5-6400J3039G16GX2-TR5NS",
+    "manufacturer_sources": [
+      "https://www.gskill.com/tw/product/203/426/1723429792/F5-6400J3039G16GX2-TR5NS"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia CAS": "CL30",
+      "Perfil": "AMD EXPO",
+      "Iluminación": "RGB"
+    }
+  },
+  {
+    "id": "g-skill-f4-3600c18d-16gvk",
+    "slug": "g-skill-f4-3600c18d-16gvk",
+    "name": "G.Skill Ripjaws V 16GB 2x8GB 3600MHz CL18",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3600C18D-16GVK",
+    "manufacturer_url": "https://www.gskill.com/cn/specification/204/218/1562832515/F4-3600C18D-16GVK-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/specification/204/218/1562832515/F4-3600C18D-16GVK-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "2 × 8 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia CAS": "CL18",
+      "Perfil": "XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3238g32gx2-rs5k",
+    "slug": "g-skill-f5-6000j3238g32gx2-rs5k",
+    "name": "G.SKill Ripjaws S5 64GB 2x32GB 6000MHz CL32 XMP Negro",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3238G32GX2-RS5K",
+    "manufacturer_url": "https://www.gskill.com/cn/specification/204/379/1649749474/F5-6000J3238G32GX2-RS5K-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/specification/204/379/1649749474/F5-6000J3238G32GX2-RS5K-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL32",
+      "Voltaje": "1.40 V",
+      "Perfil": "Intel XMP 3.0, Intel XMP, XMP 3.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-5600j4040c16gx2-tz5rk",
+    "slug": "g-skill-f5-5600j4040c16gx2-tz5rk",
+    "name": "G.Skill Trident Z5 RGB 32GB 2x16GB 5600MHz CL40",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-5600J4040C16GX2-TZ5RK",
+    "manufacturer_url": "https://www.gskill.com/cn/specification/204/376/1640229271/F5-5600J4040C16GX2-TZ5RK-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/specification/204/376/1640229271/F5-5600J4040C16GX2-TZ5RK-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia CAS": "CL40",
+      "Voltaje": "1.20 V",
+      "Perfil": "Intel XMP 3.0, Intel XMP, XMP 3.0"
+    }
+  },
+  {
+    "id": "corsair-cmh32gx5m2b6400z32w",
+    "slug": "corsair-cmh32gx5m2b6400z32w",
+    "name": "Corsair Vengeance RGB 32GB 2x16GB 6400MHz CL32 EXPO-XMP Blanca",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH32GX5M2B6400Z32W",
+    "manufacturer_url": "https://www.corsair.com/ww/en/p/memory/cmh32gx5m2b6400z32w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mts-cl32-amd-expo-intel-xmp-memory-kit-white-cmh32gx5m2b6400z32w",
+    "manufacturer_sources": [
+      "https://www.corsair.com/ww/en/p/memory/cmh32gx5m2b6400z32w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mts-cl32-amd-expo-intel-xmp-memory-kit-white-cmh32gx5m2b6400z32w"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Velocidad": "6400 MT/s",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Latencia CAS": "CL32",
+      "Perfil": "AMD EXPO, Intel XMP",
+      "Iluminación": "RGB",
+      "Color": "blanco"
+    }
+  },
+  {
+    "id": "corsair-cmw32gx4m2e3200c16",
+    "slug": "corsair-cmw32gx4m2e3200c16",
+    "name": "Corsair Vengeance RGB Pro Black 32GB 2x16GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMW32GX4M2E3200C16",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16/vengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmw32gx4m2e3200c16",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16/vengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmw32gx4m2e3200c16"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Velocidad": "3200 MT/s",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Latencia CAS": "CL16",
+      "Iluminación": "RGB",
+      "Color": "negro",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "kingston-kf432c16bb-16",
+    "slug": "kingston-kf432c16bb-16",
+    "name": "Kingston Fury Beast 16GB 1x16GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF432C16BB/16",
+    "manufacturer_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB%2F16",
+    "manufacturer_sources": [
+      "https://www.kingston.com/en/memory/search?partid=KF432C16BB%2F16"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Velocidad": "3200 MT/s",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Latencia CAS": "CL16",
+      "Voltaje": "1.35 V",
+      "Color": "negro",
+      "Perfil": "Intel XMP"
+    }
+  },
+  {
+    "id": "corsair-cmk32gx4m2e3200c16",
+    "slug": "corsair-cmk32gx4m2e3200c16",
+    "name": "Corsair Vengeance LPX Black 32GB 2x16GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK32GX4M2E3200C16",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx4m2e3200c16/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk32gx4m2e3200c16",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmk32gx4m2e3200c16/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk32gx4m2e3200c16"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Velocidad": "3200 MT/s",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Latencia CAS": "CL16",
+      "Color": "negro",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3040g32gx2-rm5nrw",
+    "slug": "g-skill-f5-6000j3040g32gx2-rm5nrw",
+    "name": "G.SKill Ripjaws M5 Neo RGB 64GB 2x32GB 6000MHz CL30 EXPO-XMP Negro Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3040G32GX2-RM5NRW",
+    "manufacturer_url": "https://www.gskill.com/qvl/165/428/1731477891/F5-6000J3040G32GX2-RM5NRW-QVL",
+    "manufacturer_sources": [
+      "https://www.gskill.com/qvl/165/428/1731477891/F5-6000J3040G32GX2-RM5NRW-QVL"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL30",
+      "Voltaje": "1.40 V",
+      "Perfil": "AMD EXPO, Intel XMP 3.0, Intel XMP, XMP 3.0",
+      "Iluminación": "RGB"
+    }
+  },
+  {
+    "id": "kingston-kf556c36bbeak2-32",
+    "slug": "kingston-kf556c36bbeak2-32",
+    "name": "Kingston Fury Beast RGB 32GB 2x16GB 5600MHz CL36 EXPO-XMP Negro",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF556C36BBEAK2-32",
+    "manufacturer_url": "https://www.kingston.com/en/memory/search?partid=KF556C36BBEAK2-32",
+    "manufacturer_sources": [
+      "https://www.kingston.com/en/memory/search?partid=KF556C36BBEAK2-32"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Velocidad": "5600 MT/s",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Latencia CAS": "CL36",
+      "Voltaje": "1.25 V",
+      "Iluminación": "RGB",
+      "Color": "negro",
+      "Perfil": "AMD EXPO"
+    }
+  },
+  {
+    "id": "kingston-kf552c40bbk2-64",
+    "slug": "kingston-kf552c40bbk2-64",
+    "name": "Kingston Fury Beast 64GB 2x32GB 5200MHz CL40 XMP 3.0",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF552C40BBK2-64",
+    "manufacturer_url": "https://www.kingston.com/en/memory/search?partid=KF552C40BBK2-64",
+    "manufacturer_sources": [
+      "https://www.kingston.com/en/memory/search?partid=KF552C40BBK2-64"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Velocidad": "5200 MT/s",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Latencia CAS": "CL40",
+      "Voltaje": "1.25 V",
+      "Color": "negro",
+      "Perfil": "Intel XMP"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3040f16gx2-tz5rk",
+    "slug": "g-skill-f5-6000j3040f16gx2-tz5rk",
+    "name": "G.Skill Trident Z5 RGB 32GB 2x16GB 6000MHz CL30",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3040F16GX2-TZ5RK",
+    "manufacturer_url": "https://www.gskill.com/cn/specification/204/376/1649235161/F5-6000J3040F16GX2-TZ5RK-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/specification/204/376/1649235161/F5-6000J3040F16GX2-TZ5RK-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL30",
+      "Voltaje": "1.35 V",
+      "Perfil": "Intel XMP 3.0, Intel XMP, XMP 3.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j2836g32gx2-rs5w",
+    "slug": "g-skill-f5-6000j2836g32gx2-rs5w",
+    "name": "G.SKill Ripjaws S5 64GB 2x32GB 6000MHz CL28 XMP Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J2836G32GX2-RS5W",
+    "manufacturer_url": "https://www.gskill.com/qvl/165/377/1731652113/F5-6000J2836G32GX2-RS5W-QVL",
+    "manufacturer_sources": [
+      "https://www.gskill.com/qvl/165/377/1731652113/F5-6000J2836G32GX2-RS5W-QVL"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL28",
+      "Voltaje": "1.40 V",
+      "Perfil": "Intel XMP"
+    }
+  },
+  {
+    "id": "kingston-kf432c16bb12a-16",
+    "slug": "kingston-kf432c16bb12a-16",
+    "name": "Kingston Fury Beast RGB 16GB 1x16GB 3200MHz CL16 XMP Negro",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF432C16BB12A/16",
+    "manufacturer_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB12A%2F16",
+    "manufacturer_sources": [
+      "https://www.kingston.com/en/memory/search?partid=KF432C16BB12A%2F16"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Velocidad": "3200 MT/s",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Latencia CAS": "CL16",
+      "Voltaje": "1.35 V",
+      "Iluminación": "RGB",
+      "Color": "negro",
+      "Perfil": "Intel XMP"
+    }
+  },
+  {
+    "id": "corsair-cmk64gx5m4b6000z36",
+    "slug": "corsair-cmk64gx5m4b6000z36",
+    "name": "Corsair Vengeance 64GB 4x16GB 6000MHz CL36 EXPO-XMP Gris",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK64GX5M4B6000Z36",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk64gx5m4b6000z36/vengeance-64gb-4x16gb-ddr5-dram-6000mt-s-cl36-amd-expo-memory-black-cmk64gx5m4b6000z36",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmk64gx5m4b6000z36/vengeance-64gb-4x16gb-ddr5-dram-6000mt-s-cl36-amd-expo-memory-black-cmk64gx5m4b6000z36"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Velocidad": "6000 MT/s",
+      "Capacidad": "64 GB",
+      "Configuración": "4 × 16 GB",
+      "Latencia CAS": "CL36",
+      "Voltaje": "1.35 V",
+      "Perfil": "AMD EXPO, Intel XMP",
+      "Color": "negro, gris"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3238f16gx2-tz5rs",
+    "slug": "g-skill-f5-6000j3238f16gx2-tz5rs",
+    "name": "G.SKill Trident Z5 RGB 32GB 2x16GB 6000MHz CL32 Intel XMP Negro Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3238F16GX2-TZ5RS",
+    "manufacturer_url": "https://www.gskill.com/product/165/374/1641798846/F5-6000J3238F16GX2-TZ5RS-F5-6000J3238F16GA2-TZ5RS",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/374/1641798846/F5-6000J3238F16GX2-TZ5RS-F5-6000J3238F16GA2-TZ5RS"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL32",
+      "Voltaje": "1.35 V",
+      "Perfil": "Intel XMP",
+      "Iluminación": "RGB"
+    }
+  },
+  {
+    "id": "g-skill-f5-5200j4040a32gx2-rm5rw",
+    "slug": "g-skill-f5-5200j4040a32gx2-rm5rw",
+    "name": "G.SKill Ripjaws M5 RGB 64GB 2x32GB 5200MHz CL40 EXPO-XMP",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-5200J4040A32GX2-RM5RW",
+    "manufacturer_url": "https://www.gskill.com/product/165/421/1716885274/F5-5200J4040A32GX2-RM5RW",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/421/1716885274/F5-5200J4040A32GX2-RM5RW"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia CAS": "CL40",
+      "Voltaje": "1.10 V",
+      "Perfil": "AMD EXPO, Intel XMP",
+      "Iluminación": "RGB"
+    }
+  },
+  {
+    "id": "kingston-kvr32n22s6-8",
+    "slug": "kingston-kvr32n22s6-8",
+    "name": "Kingston ValueRam KVR32N22S6/8 8GB 1x8GB 3200MHz CL22",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KVR32N22S6/8",
+    "manufacturer_url": "https://www.kingston.com/en/memory/search?partid=KVR32N22S6%2F8",
+    "manufacturer_sources": [
+      "https://www.kingston.com/en/memory/search?partid=KVR32N22S6%2F8"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Velocidad": "3200 MT/s",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Latencia CAS": "CL22",
+      "Voltaje": "1.2 V"
+    }
+  },
+  {
+    "id": "kingston-kcp432ns6-8",
+    "slug": "kingston-kcp432ns6-8",
+    "name": "Kingston KCP432NS6/8 8GB 1x8GB 3200MHz CL22",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KCP432NS6/8",
+    "manufacturer_url": "https://www.kingston.com/en/memory/search?partid=KCP432NS6%2F8",
+    "manufacturer_sources": [
+      "https://www.kingston.com/en/memory/search?partid=KCP432NS6%2F8"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Velocidad": "3200 MT/s",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Latencia CAS": "CL22",
+      "Voltaje": "1.2 V"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j2836g16gx2-tz5nrw",
+    "slug": "g-skill-f5-6000j2836g16gx2-tz5nrw",
+    "name": "G.SKill Trident Z5 Neo RGB 32GB 2x16GB 6000MHz CL28 AMD EXPO Negro Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J2836G16GX2-TZ5NRW",
+    "manufacturer_url": "https://www.gskill.com/specification/165/390/1725610848/F5-6000J2836G16GX2-TZ5NRW-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/390/1725610848/F5-6000J2836G16GX2-TZ5NRW-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL28",
+      "Voltaje": "1.40 V",
+      "Perfil": "AMD EXPO",
+      "Iluminación": "RGB"
+    }
+  },
+  {
+    "id": "kingston-kvr32n22d8-16",
+    "slug": "kingston-kvr32n22d8-16",
+    "name": "Kingston ValueRAM 16GB 1x16GB 3200MHz CL22",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KVR32N22D8/16",
+    "manufacturer_url": "https://www.kingston.com/en/memory/search?partid=KVR32N22D8%2F16",
+    "manufacturer_sources": [
+      "https://www.kingston.com/en/memory/search?partid=KVR32N22D8%2F16"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Velocidad": "3200 MT/s",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Latencia CAS": "CL22",
+      "Voltaje": "1.2 V"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3238g32gx2-tz5n",
+    "slug": "g-skill-f5-6000j3238g32gx2-tz5n",
+    "name": "G.Skill Trident Z5 Neo 64GB 2x32GB 6000MHz CL32 EXPO",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3238G32GX2-TZ5N",
+    "manufacturer_url": "https://www.gskill.com/product/165/393/1665020484/F5-6000J3238G32GX2-TZ5N",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/393/1665020484/F5-6000J3238G32GX2-TZ5N"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL32",
+      "Voltaje": "1.40 V",
+      "Perfil": "AMD EXPO, Intel XMP"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3040f16gx2-tz5s",
+    "slug": "g-skill-f5-6000j3040f16gx2-tz5s",
+    "name": "G.Skill Trident Z5 32GB 2x16GB 6000MHz CL30 Plata",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3040F16GX2-TZ5S",
+    "manufacturer_url": "https://www.gskill.com/specification/165/371/1649667352/F5-6000J3040F16GX2-TZ5S-F5-6000J3040F16GA2-TZ5S-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/371/1649667352/F5-6000J3040F16GX2-TZ5S-F5-6000J3040F16GA2-TZ5S-Specification"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL30",
+      "Voltaje": "1.35 V",
+      "Perfil": "Intel XMP 3.0, Intel XMP, XMP 3.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3238f16gx2-tz5rk",
+    "slug": "g-skill-f5-6000j3238f16gx2-tz5rk",
+    "name": "G.SKill Trident Z5 RGB 32GB 2x16GB 6000MHz CL32 Intel XMP Negro",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3238F16GX2-TZ5RK",
+    "manufacturer_url": "https://www.gskill.com/cn/specification/204/376/1641798782/F5-6000J3238F16GX2-TZ5RK-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/specification/204/376/1641798782/F5-6000J3238F16GX2-TZ5RK-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL32",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "kingston-kvr32n22s8-16",
+    "slug": "kingston-kvr32n22s8-16",
+    "name": "Kingston ValueRam KVR32N22S8/16 16GB 1x16GB 3200MHz CL22",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KVR32N22S8/16",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KVR32N22S8_16.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KVR32N22S8_16.pdf"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL22"
+    }
+  },
+  {
+    "id": "lexar-ld4au008g-b3200gsst",
+    "slug": "lexar-ld4au008g-b3200gsst",
+    "name": "Lexar LD4AU008G-B3200GSST 8GB 1x8GB 3200MHz CL22",
+    "category_id": "ram",
+    "brand": "Lexar",
+    "mpn": "LD4AU008G-B3200GSST",
+    "manufacturer_url": "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/",
+    "manufacturer_sources": [
+      "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Configuración": "1 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL22"
+    }
+  },
+  {
+    "id": "kingston-kf432c16bbk2-64",
+    "slug": "kingston-kf432c16bbk2-64",
+    "name": "Kingston Fury Beast 64GB 2x32GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF432C16BBK2/64",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF432C16BBK2_64.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF432C16BBK2_64.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3636f32gx2-fx5w",
+    "slug": "g-skill-f5-6000j3636f32gx2-fx5w",
+    "name": "G.SKill Flare X5 64GB 2x32GB 6000MHz CL36 EXPO-XMP Negro Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3636F32GX2-FX5W",
+    "manufacturer_url": "https://www.gskill.com/product/165/396/1731987422/F5-6000J3636F32GX2-FX5W",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/396/1731987422/F5-6000J3636F32GX2-FX5W"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL36",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "kingston-kvr26n19s6-4",
+    "slug": "kingston-kvr26n19s6-4",
+    "name": "Kingston ValueRAM 4GB 1x4GB 2666MHz CL19",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KVR26N19S6/4",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KVR26N19S6_4.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KVR26N19S6_4.pdf"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "4 GB",
+      "Configuración": "1 × 4 GB",
+      "Velocidad": "2666 MT/s",
+      "Latencia CAS": "CL19"
+    }
+  },
+  {
+    "id": "kingston-kcp432nd8-16",
+    "slug": "kingston-kcp432nd8-16",
+    "name": "Kingston KCP 16GB 1x16GB 3200MHz CL22",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KCP432ND8/16",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KCP432ND8_16.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KCP432ND8_16.pdf"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL22"
+    }
+  },
+  {
+    "id": "kingston-kf440c19rb12-16",
+    "slug": "kingston-kf440c19rb12-16",
+    "name": "Kingston Fury Renegade 16GB 1x16GB 4000MHz CL19 XMP 2.0",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF440C19RB12/16",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF440C19RB12_16.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF440C19RB12_16.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Velocidad": "4000 MT/s",
+      "Latencia CAS": "CL19",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "team-group-ff3d564g6000hc38adc01",
+    "slug": "team-group-ff3d564g6000hc38adc01",
+    "name": "Team Group T-Force Delta RGB 64GB 2x32GB 6000MHz CL38 XMP 3.0",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "FF3D564G6000HC38ADC01",
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/edm/delta-rgb-en.pdf",
+    "manufacturer_sources": [
+      "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/edm/delta-rgb-en.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL38",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "kingston-kf436c18bb-32",
+    "slug": "kingston-kf436c18bb-32",
+    "name": "Kingston Fury Beast 32GB 1x32GB 3600MHz CL18",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF436C18BB/32",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF436C18BB_32.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF436C18BB_32.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "1 × 32 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia CAS": "CL18",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "corsair-cmh32gx5m2b6400c32",
+    "slug": "corsair-cmh32gx5m2b6400c32",
+    "name": "Corsair Vengeance RGB 32GB 2x16GB 6400MHz CL32",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH32GX5M2B6400C32",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6400c32/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mhz-c32-memory-kit-black",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6400c32/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mhz-c32-memory-kit-black"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia CAS": "CL32",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "corsair-cmh48gx5m2b5200c38",
+    "slug": "corsair-cmh48gx5m2b5200c38",
+    "name": "Corsair Vengeance RGB 48GB 2x24GB 5200MHz CL38",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH48GX5M2B5200C38",
+    "manufacturer_url": "https://ir.corsair.com/news-releases/news-release-details/pushing-boundaries-ddr5-corsairr-launches-new-48gb-96gb-and/",
+    "manufacturer_sources": [
+      "https://ir.corsair.com/news-releases/news-release-details/pushing-boundaries-ddr5-corsairr-launches-new-48gb-96gb-and/"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Configuración": "2 × 24 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia CAS": "CL38",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "team-group-tlzgd432g3600hc18jdc01",
+    "slug": "team-group-tlzgd432g3600hc18jdc01",
+    "name": "Team Group Vulcan 32GB 2x16GB 3600MHz CL18",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "TLZGD432G3600HC18JDC01",
+    "manufacturer_url": "https://www.teamgroupinc.com/jp/product-detail/memory/T-FORCE/vulcan-z-ddr4-gray/vulcan-z-ddr4-gray-TLZGD432G3600HC18JDC01/",
+    "manufacturer_sources": [
+      "https://www.teamgroupinc.com/jp/product-detail/memory/T-FORCE/vulcan-z-ddr4-gray/vulcan-z-ddr4-gray-TLZGD432G3600HC18JDC01/"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia CAS": "CL18",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "corsair-cmk16gx4m1a2400c14",
+    "slug": "corsair-cmk16gx4m1a2400c14",
+    "name": "Corsair Vengeance LPX 16GB 1x16GB 2400 MHz CL14",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK16GX4M1A2400C14",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m1a2400c14/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-2400mhz-c14-memory-kit-black-cmk16gx4m1a2400c14",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmk16gx4m1a2400c14/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-2400mhz-c14-memory-kit-black-cmk16gx4m1a2400c14"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Velocidad": "2400 MT/s",
+      "Latencia CAS": "CL14",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "lexar-ld5u16g56c46st-bgs",
+    "slug": "lexar-ld5u16g56c46st-bgs",
+    "name": "Lexar 16GB 1x16GB 5600MHz CL46 Negro",
+    "category_id": "ram",
+    "brand": "Lexar",
+    "mpn": "LD5U16G56C46ST-BGS",
+    "manufacturer_url": "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf",
+    "manufacturer_sources": [
+      "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:21Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia CAS": "CL46"
+    }
+  },
+  {
+    "id": "g-skill-f4-3600c18d-32gvk",
+    "slug": "g-skill-f4-3600c18d-32gvk",
+    "name": "G.Skill Ripjaws V 32GB 2x16GB 3600MHz CL18",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3600C18D-32GVK",
+    "manufacturer_url": "https://www.gskill.com/product/165/184/1562833535/F4-3600C18D-32GVK",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/184/1562833535/F4-3600C18D-32GVK"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia CAS": "CL18",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "kingston-kf432c16bbk2-16",
+    "slug": "kingston-kf432c16bbk2-16",
+    "name": "Kingston Fury Beast 16GB 2x8GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF432C16BBK2/16",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF432C16BBK2_16.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF432C16BBK2_16.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "2 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j2836g16gx2-fx5w",
+    "slug": "g-skill-f5-6000j2836g16gx2-fx5w",
+    "name": "G.SKill Flare X5 32GB 2x16GB 6000MHz CL28 AMD EXPO Negro Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J2836G16GX2-FX5W",
+    "manufacturer_url": "https://www.gskill.com/qvl/165/396/1729505414/F5-6000J2836G16GX2-FX5-QVL",
+    "manufacturer_sources": [
+      "https://www.gskill.com/qvl/165/396/1729505414/F5-6000J2836G16GX2-FX5-QVL"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL28",
+      "Perfil": "AMD EXPO"
+    }
+  },
+  {
+    "id": "kingston-kf432c16bb-8",
+    "slug": "kingston-kf432c16bb-8",
+    "name": "HyperX Fury Black 8GB 1x8GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF432C16BB/8",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF432C16BB_8.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF432C16BB_8.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Configuración": "1 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3636f32gx2-tz5rw",
+    "slug": "g-skill-f5-6000j3636f32gx2-tz5rw",
+    "name": "G.SKill Trident Z5 RGB 64GB 2x32GB 6000MHz CL36 EXPO-XMP Negro Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3636F32GX2-TZ5RW",
+    "manufacturer_url": "https://www.gskill.com/product/165/374/1688607621/F5-6000J3636F32GX2-TZ5RW",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/374/1688607621/F5-6000J3636F32GX2-TZ5RW"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL36",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "corsair-cmh32gx5m2b6000c38",
+    "slug": "corsair-cmh32gx5m2b6000c38",
+    "name": "Corsair Vengeance RGB 32GB 2x16GB 6000MHz CL38 XMP Negro",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMH32GX5M2B6000C38",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c38/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mts-cl38-memory-kit-black-cmh32gx5m2b6000c38",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c38/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mts-cl38-memory-kit-black-cmh32gx5m2b6000c38"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL38",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3040g32gx2-tz5n",
+    "slug": "g-skill-f5-6000j3040g32gx2-tz5n",
+    "name": "G.Skill Trident Z5 Neo 64GB 2x32GB 6000MHz CL30 EXPO",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3040G32GX2-TZ5N",
+    "manufacturer_url": "https://www.gskill.com/product/165/393/1665020366/F5-6000J3040G32GX2-TZ5N",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/393/1665020366/F5-6000J3040G32GX2-TZ5N"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL30",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "g-skill-f4-3200c16d-32gvk",
+    "slug": "g-skill-f4-3200c16d-32gvk",
+    "name": "G.Skill Ripjaws V Black 32GB 2x16GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3200C16D-32GVK",
+    "manufacturer_url": "https://www.gskill.com/tw/specification/203/217/1536110922/F4-3200C16D-32GVK-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/tw/specification/203/217/1536110922/F4-3200C16D-32GVK-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "kingston-kf432c16bb2ak2-16",
+    "slug": "kingston-kf432c16bb2ak2-16",
+    "name": "Kingston Fury Beast RGB 16GB 2x8GB 3200MHz CL16 XMP 3.0",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF432C16BB2ak2/16",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF432C16BB2AK2_16.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF432C16BB2AK2_16.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "2 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3238f16gx2-rs5w",
+    "slug": "g-skill-f5-6000j3238f16gx2-rs5w",
+    "name": "G.Skill Ripjaws S5 2x16GB 6000MHz CL32 Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3238F16GX2-RS5W",
+    "manufacturer_url": "https://www.gskill.com/specification/165/377/1649665723/F5-6000J3238F16GX2-RS5W-F5-6000J3238F16GA2-RS5W-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/377/1649665723/F5-6000J3238F16GX2-RS5W-F5-6000J3238F16GA2-RS5W-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL32",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "patriot-memory-pvv532g560c36k",
+    "slug": "patriot-memory-pvv532g560c36k",
+    "name": "Patriot Viper Venom 32GB 2x16GB 5600MHz CL36",
+    "category_id": "ram",
+    "brand": "Patriot Memory",
+    "mpn": "PVV532G560C36K",
+    "manufacturer_url": "https://viper.patriotmemory.ru/documents/PVV532G560C36K_Sku-Sheet_032922.pdf",
+    "manufacturer_sources": [
+      "https://viper.patriotmemory.ru/documents/PVV532G560C36K_Sku-Sheet_032922.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia CAS": "CL36",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-8000j3848h16gx2-tz5rs",
+    "slug": "g-skill-f5-8000j3848h16gx2-tz5rs",
+    "name": "G.Skill Trident Z5 RGB 32GB 2x16GB 8000MHz CL38 Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-8000J3848H16GX2-TZ5RS",
+    "manufacturer_url": "https://www.gskill.com/specification/165/374/1669019808/F5-8000J3848H16GX2-TZ5RS-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/374/1669019808/F5-8000J3848H16GX2-TZ5RS-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "8000 MT/s",
+      "Latencia CAS": "CL38",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3238g32gx2-rm5nrk",
+    "slug": "g-skill-f5-6000j3238g32gx2-rm5nrk",
+    "name": "G.SKill Ripjaws M5 Neo RGB 64GB 2x32GB 6000MHz CL32 EXPO-XMP Negro",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3238G32GX2-RM5NRK",
+    "manufacturer_url": "https://www.gskill.com/specification/165/428/1731477612/F5-6000J3238G32GX2-RM5NRK-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/428/1731477612/F5-6000J3238G32GX2-RM5NRK-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL32",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3038f16gh1-fx5",
+    "slug": "g-skill-f5-6000j3038f16gh1-fx5",
+    "name": "G.SKill Flare X5 16GB 1x16GB 6000MHz CL30 AMD EXPO Negro",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3038F16GH1-FX5",
+    "manufacturer_url": "https://www.gskill.com/specification/165/396/1765263872/F5-6000J3038F16GH1-FX5-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/396/1765263872/F5-6000J3038F16GH1-FX5-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL30",
+      "Perfil": "AMD EXPO"
+    }
+  },
+  {
+    "id": "g-skill-f4-3000c16q-32gtzn",
+    "slug": "g-skill-f4-3000c16q-32gtzn",
+    "name": "G.SKill Trident Z Neo RGB 32GB 4x8GB 3000MHz CL16 EXPO-XMP Negro",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3000C16Q-32GTZN",
+    "manufacturer_url": "https://www.gskill.com/specification/165/326/1562838269/F4-3000C16Q-32GTZN-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/326/1562838269/F4-3000C16Q-32GTZN-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "4 × 8 GB",
+      "Velocidad": "3000 MT/s",
+      "Latencia CAS": "CL16",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "kingston-kf436c18bb-16",
+    "slug": "kingston-kf436c18bb-16",
+    "name": "Kingston Fury Beast 16GB 1x16GB 3600MHz CL18 XMP",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF436C18BB/16",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF436C18BB_16.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF436C18BB_16.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "1 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia CAS": "CL18",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j2636h16gx2-tz5nrw",
+    "slug": "g-skill-f5-6000j2636h16gx2-tz5nrw",
+    "name": "G.SKill Trident Z5 Neo RGB 32GB 2x16GB 6000MHz CL26 AMD EXPO",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J2636H16GX2-TZ5NRW",
+    "manufacturer_url": "https://www.gskill.com/specification/165/390/1741936865/F5-6000J2636H16GX2-TZ5NRW-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/390/1741936865/F5-6000J2636H16GX2-TZ5NRW-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL26",
+      "Iluminación": "RGB",
+      "Perfil": "AMD EXPO"
+    }
+  },
+  {
+    "id": "g-skill-f4-3600c16d-32gtznc",
+    "slug": "g-skill-f4-3600c16d-32gtznc",
+    "name": "G.Skill Trident Z Neo 32GB 2x16GB 3600MHz CL16",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3600C16D-32GTZNC",
+    "manufacturer_url": "https://www.gskill.com/qvl/165/326/1562840211/F4-3600C16D-32GTZNC-QVL",
+    "manufacturer_sources": [
+      "https://www.gskill.com/qvl/165/326/1562840211/F4-3600C16D-32GTZNC-QVL"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j3036g32gx2-tz5nrw",
+    "slug": "g-skill-f5-6000j3036g32gx2-tz5nrw",
+    "name": "G.SKill Trident Z5 Neo RGB 64GB 2x32GB 6000MHz CL30 AMD EXPO Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3036G32GX2-TZ5NRW",
+    "manufacturer_url": "https://www.gskill.com/specification/165/390/1692584825/F5-6000J3036G32GX2-TZ5NRW-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/390/1692584825/F5-6000J3036G32GX2-TZ5NRW-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL30",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "g-skill-f4-3600c16d-32gvkc",
+    "slug": "g-skill-f4-3600c16d-32gvkc",
+    "name": "G.Skill Ripjaws V 32GB 2x16GB 3600MHz CL16",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3600C16D-32GVKC",
+    "manufacturer_url": "https://www.gskill.com/qvl/165/184/1562831784/F4-3600C16D-32GVKC-QVL",
+    "manufacturer_sources": [
+      "https://www.gskill.com/qvl/165/184/1562831784/F4-3600C16D-32GVKC-QVL"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "corsair-cmk32gx5m2b6400c36",
+    "slug": "corsair-cmk32gx5m2b6400c36",
+    "name": "Corsair Vengeance 32GB 2x16GB 6400MHz CL36",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK32GX5M2B6400C36",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/ddr5-ram/cmk32gx5m2b6400c36/vengeance-32gb-2x16gb-ddr5-dram-6400mt-s-c36-memory-kit-black-cmk32gx5m2b6400c36",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/ddr5-ram/cmk32gx5m2b6400c36/vengeance-32gb-2x16gb-ddr5-dram-6400mt-s-c36-memory-kit-black-cmk32gx5m2b6400c36"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia CAS": "CL36",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j2836g32gx2-rm5nrw",
+    "slug": "g-skill-f5-6000j2836g32gx2-rm5nrw",
+    "name": "G.SKill Ripjaws M5 Neo 64GB 2x32GB 6000MHz CL28 AMD EXPO Negro Blanco",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J2836G32GX2-RM5NRW",
+    "manufacturer_url": "https://www.gskill.com/qvl/165/428/1731653954/F5-6000J2836G32GX2-RM5NRW-QVL",
+    "manufacturer_sources": [
+      "https://www.gskill.com/qvl/165/428/1731653954/F5-6000J2836G32GX2-RM5NRW-QVL"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL28",
+      "Perfil": "AMD EXPO"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j2836g32gx2-rm5nrk",
+    "slug": "g-skill-f5-6000j2836g32gx2-rm5nrk",
+    "name": "G.SKill Ripjaws M5 Neo 64GB 2x32GB 6000MHz CL28 AMD EXPO",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J2836G32GX2-RM5NRK",
+    "manufacturer_url": "https://www.gskill.com/product/165/428/1731653613/F5-6000J2836G32GX2-RM5NRK",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/428/1731653613/F5-6000J2836G32GX2-RM5NRK"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Configuración": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL28",
+      "Perfil": "AMD EXPO"
+    }
+  },
+  {
+    "id": "kingston-kf432c16bb2ak2-32",
+    "slug": "kingston-kf432c16bb2ak2-32",
+    "name": "Kingston Fury Beast RGB 32GB 2x16GB 3200MHz CL16 XMP",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF432C16BB2AK2/32",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF432C16BB2AK2_32.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF432C16BB2AK2_32.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "kingston-kf436c18rb2-32",
+    "slug": "kingston-kf436c18rb2-32",
+    "name": "Kingston Fury Renegade 32GB 1x32GB 3600MHz CL18 XMP 2.0",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF436C18RB2/32",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF436C18RB2_32.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF436C18RB2_32.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "1 × 32 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia CAS": "CL18",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "kingston-kf432c16bb-32",
+    "slug": "kingston-kf432c16bb-32",
+    "name": "Kingston Fury Beast 32GB 1x32GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "mpn": "KF432C16BB/32",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF432C16BB_32.pdf",
+    "manufacturer_sources": [
+      "https://www.kingston.com/datasheets/KF432C16BB_32.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "1 × 32 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-6000j2836g16gx2-fx5",
+    "slug": "g-skill-f5-6000j2836g16gx2-fx5",
+    "name": "G.SKill Flare X5 32GB 2x16GB 6000MHz CL28 AMD EXPO Negro",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J2836G16GX2-FX5",
+    "manufacturer_url": "https://www.gskill.com/qvl/165/396/1729505414/F5-6000J2836G16GX2-FX5-QVL",
+    "manufacturer_sources": [
+      "https://www.gskill.com/qvl/165/396/1729505414/F5-6000J2836G16GX2-FX5-QVL"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia CAS": "CL28",
+      "Perfil": "AMD EXPO"
+    }
+  },
+  {
+    "id": "team-group-ff3d532g6400hc32adc01",
+    "slug": "team-group-ff3d532g6400hc32adc01",
+    "name": "Team Group T-Force Delta RGB 32GB 2x16GB 6400MHz CL32 EXPO-XMP",
+    "category_id": "ram",
+    "brand": "Team Group",
+    "mpn": "FF3D532G6400HC32ADC01",
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr5-black/delta-rgb-ddr5-black-FF3D532G6400HC32ADC01/",
+    "manufacturer_sources": [
+      "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr5-black/delta-rgb-ddr5-black-FF3D532G6400HC32ADC01/"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia CAS": "CL32",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    }
+  },
+  {
+    "id": "g-skill-f4-3000c16d-16gisb",
+    "slug": "g-skill-f4-3000c16d-16gisb",
+    "name": "G.Skill Aegis 16GB 2x8GB 3000MHz CL16",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3000C16D-16GISB",
+    "manufacturer_url": "https://www.gskill.com/specification/165/185/1536026353/F4-3000C16D-16GISB-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/specification/165/185/1536026353/F4-3000C16D-16GISB-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Configuración": "2 × 8 GB",
+      "Velocidad": "3000 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "g-skill-f5-7200j3445g16gx2-tz5rk",
+    "slug": "g-skill-f5-7200j3445g16gx2-tz5rk",
+    "name": "G.Skill Trident Z5 RGB 2x16GB 7200MHz CL34 XMP 3.0",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-7200J3445G16GX2-TZ5RK",
+    "manufacturer_url": "https://www.gskill.com/qvl/165/374/1665644656/F5-7200J3445G16GX2-TZ5RK-QVL",
+    "manufacturer_sources": [
+      "https://www.gskill.com/qvl/165/374/1665644656/F5-7200J3445G16GX2-TZ5RK-QVL"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Configuración": "2 × 16 GB",
+      "Velocidad": "7200 MT/s",
+      "Latencia CAS": "CL34",
+      "Iluminación": "RGB",
+      "Perfil": "Intel XMP 3.0"
+    }
+  },
+  {
+    "id": "g-skill-f4-3600c16q-32gtznc",
+    "slug": "g-skill-f4-3600c16q-32gtznc",
+    "name": "G.Skill Trident Z Neo 32GB 4x8GB 3600MHz CL16",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3600C16Q-32GTZNC",
+    "manufacturer_url": "https://www.gskill.com/cn/specification/204/328/1562840141/F4-3600C16Q-32GTZNC-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/specification/204/328/1562840141/F4-3600C16Q-32GTZNC-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Configuración": "4 × 8 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia CAS": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    }
+  }
+]

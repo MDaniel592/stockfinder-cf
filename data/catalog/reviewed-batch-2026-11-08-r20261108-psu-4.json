@@ -1,0 +1,81 @@
+[
+ {
+  "id": "corsair-cx650-cp-9020278-eu",
+  "slug": "corsair-cx650-cp-9020278-eu",
+  "name": "Corsair CX650 (CP-9020278-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020278-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/es/es/p/psu/cp-9020278-eu/cx-series-cx650-650-watt-80-plus-bronze-atx-power-supply-cp-9020278-eu",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "120 mm"
+  }
+ },
+ {
+  "id": "corsair-cx750-cp-9020279-eu",
+  "slug": "corsair-cx750-cp-9020279-eu",
+  "name": "Corsair CX750 (CP-9020279-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020279-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/es/es/p/psu/cp-9020279-eu/cx-series-cx750-750-watt-80-plus-bronze-atx-power-supply-eu-cp-9020279-eu",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "120 mm"
+  }
+ },
+ {
+  "id": "corsair-sf750-cp-9020284-eu",
+  "slug": "corsair-sf750-cp-9020284-eu",
+  "name": "Corsair SF750 (CP-9020284-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020284-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/es/es/p/psu/cp-9020284-eu/sf-series-sf750-fully-modular-80-plus-platinum-sfx-power-supply-eu-cp-9020284-eu",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "SFX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Cybenetics": "Cybenetics Platinum",
+   "Cybenetics ruido": "A-",
+   "Ventilador": "92 mm"
+  }
+ },
+ {
+  "id": "modecom-volcano-hex-850-platinum-zas-mc-hex-0850-plat",
+  "slug": "modecom-volcano-hex-850-platinum-zas-mc-hex-0850-plat",
+  "name": "Modecom Volcano HEX Platinum 850W (ZAS-MC-HEX-0850-PLAT)",
+  "category_id": "psu",
+  "brand": "Modecom",
+  "mpn": "ZAS-MC-HEX-0850-PLAT",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://modecom.com/en/products/modecom-volcano-hex-850w-atx-31",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Ventilador": "140 mm"
+  }
+ }
+]

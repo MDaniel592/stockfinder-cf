@@ -1,0 +1,117 @@
+[
+ {
+  "id": "samsung-870-evo-2tb-mz-77e2t0b-eu",
+  "slug": "samsung-870-evo-2tb-mz-77e2t0b-eu",
+  "name": "Samsung 870 EVO 2 TB (MZ-77E2T0B/EU)",
+  "category_id": "storage",
+  "brand": "Samsung",
+  "mpn": "MZ-77E2T0B/EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.samsung.com/es/business/memory-storage/sata-ssd/ssd-870-evo-sata-mz-77e2t0b-eu/",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Resistencia": "1200 TBW",
+   "Controlador": "Samsung MKX"
+  }
+ },
+ {
+  "id": "samsung-870-qvo-8tb-mz-77q8t0bw",
+  "slug": "samsung-870-qvo-8tb-mz-77q8t0bw",
+  "name": "Samsung 870 QVO 8 TB (MZ-77Q8T0BW)",
+  "category_id": "storage",
+  "brand": "Samsung",
+  "mpn": "MZ-77Q8T0BW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.samsung.com/uk/memory-storage/sata-ssd/ssd-870-qvo-sata-3-2-5-inch-8tb-mz-77q8t0bw/",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "530 MB/s",
+   "Resistencia": "2880 TBW",
+   "Controlador": "Samsung MKX",
+   "Tipo de NAND": "Samsung V-NAND 4bit MLC"
+  }
+ },
+ {
+  "id": "samsung-980-500gb-mz-v8v500bw",
+  "slug": "samsung-980-500gb-mz-v8v500bw",
+  "name": "Samsung 980 500 GB (MZ-V8V500BW)",
+  "category_id": "storage",
+  "brand": "Samsung",
+  "mpn": "MZ-V8V500BW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.samsung.com/de/memory-storage/nvme-ssd/980-500gb-nvme-pcie-gen-3-mz-v8v500bw/",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "PCIe 3.0 x4, NVMe 1.4",
+   "Formato": "M.2 2280",
+   "Resistencia": "300 TBW"
+  }
+ },
+ {
+  "id": "seagate-barracuda-st1000dm014-1tb",
+  "slug": "seagate-barracuda-st1000dm014-1tb",
+  "name": "Seagate BarraCuda 1 TB (ST1000DM014)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST1000DM014",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100817550L.pdf",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm",
+   "Caché": "256 MB"
+  }
+ },
+ {
+  "id": "seagate-exos-x24-st24000nm002h-24tb",
+  "slug": "seagate-exos-x24-st24000nm002h-24tb",
+  "name": "Seagate Exos X24 24 TB (ST24000NM002H)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST24000NM002H",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/content/dam/seagate/en/content-fragments/products/datasheets/exos-x24/exos-x24-DS2080-2307US-en_US.pdf",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "24 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "7200 rpm"
+  }
+ },
+ {
+  "id": "seagate-skyhawk-st8000vx010-8tb",
+  "slug": "seagate-skyhawk-st8000vx010-8tb",
+  "name": "Seagate SkyHawk 8 TB (ST8000VX010)",
+  "category_id": "storage",
+  "brand": "Seagate",
+  "mpn": "ST8000VX010",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/product-content/skyhawk/en-us/docs/201370100g.pdf",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "8 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\""
+  }
+ }
+]

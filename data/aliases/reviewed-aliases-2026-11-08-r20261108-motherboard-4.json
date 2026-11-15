@@ -1,0 +1,37 @@
+[
+ {
+  "product_id": "asus-prime-b760m-a-d4-csm",
+  "kind": "mpn",
+  "value": "90MB1D00-M1EAYC",
+  "source_url": "https://www.pccomponentes.com/asus-prime-b760m-a-d4-csm",
+  "note": "Código comercial de tienda para ASUS Prime B760M-A D4-CSM. Ficha oficial https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-a-d4-csm/techspec/ (producto canónico existente) coincide en modelo y variante declarados (chipset, memoria, formato, WiFi). No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asus-prime-b760-plus-d4",
+  "kind": "mpn",
+  "value": "90MB1CW0-M1EAY0",
+  "source_url": "https://www.pccomponentes.com/asus-prime-b760-plus-d4",
+  "note": "Código comercial de tienda para ASUS Prime B760-PLUS D4. Ficha oficial https://www.asus.com/motherboards-components/motherboards/prime/prime-b760-plus-d4/techspec/ (producto canónico existente) coincide en modelo y variante declarados (chipset, memoria, formato, WiFi). No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asus-prime-z790-p",
+  "kind": "mpn",
+  "value": "90MB1CK0-M0EAY0",
+  "source_url": "https://www.pccomponentes.com/asus-prime-z790-p",
+  "note": "Código comercial de tienda para ASUS PRIME Z790-P. Ficha oficial https://www.asus.com/motherboards-components/motherboards/prime/prime-z790-p/techspec/ (producto canónico existente) coincide en modelo y variante declarados (chipset, memoria, formato, WiFi). No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asus-tuf-gaming-b760-plus-wifi",
+  "kind": "mpn",
+  "value": "90MB1ER0-M0EAY0",
+  "source_url": "https://www.pccomponentes.com/asus-tuf-gaming-b760-plus-wifi",
+  "note": "Código comercial de tienda para ASUS TUF GAMING B760 PLUS WIFI. Ficha oficial https://estore.asus.com/es/90mb1er0-m1eay0-tuf-gaming-b760-plus-wifi.html (producto canónico existente) coincide en modelo y variante declarados (chipset, memoria, formato, WiFi). No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "asus-pro-b760m-c-csm",
+  "kind": "mpn",
+  "value": "90MB1DX0-M0EAYC",
+  "source_url": "https://www.pccomponentes.com/placa-base-asus-pro-b760m-c-csm",
+  "note": "Código comercial de tienda para ASUS Pro B760M-C-CSM. Ficha oficial https://www.asus.com/motherboards-components/motherboards/csm/pro-b760m-c-csm/techspec/ (producto canónico existente) coincide en modelo y variante declarados (chipset, memoria, formato, WiFi). No se presenta como dato del fabricante."
+ }
+]

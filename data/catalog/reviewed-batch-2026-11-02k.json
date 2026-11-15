@@ -1,0 +1,68 @@
+[
+  {
+    "id": "gigabyte-b650-eagle-ax",
+    "slug": "gigabyte-b650-eagle-ax",
+    "name": "Gigabyte B650 EAGLE AX",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650-EAGLE-AX-rev-10-11",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b850-gaming-wifi6",
+    "slug": "gigabyte-b850-gaming-wifi6",
+    "name": "Gigabyte B850 GAMING WIFI6",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850-GAMING-WIFI6-rev-1x",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-b650e-max-gaming-wifi",
+    "slug": "asus-b650e-max-gaming-wifi",
+    "name": "ASUS B650E MAX GAMING WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/others/b650e-max-gaming-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "msi-b850-gaming-plus-wifi6e",
+    "slug": "msi-b850-gaming-plus-wifi6e",
+    "name": "MSI B850 GAMING PLUS WIFI6E",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Motherboard/B850-GAMING-PLUS-WIFI6E/Specification",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  }
+]

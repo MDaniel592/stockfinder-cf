@@ -1,0 +1,504 @@
+[
+ {
+  "id": "pny-cs900-250-gb-ssd7cs900-250-rb",
+  "slug": "pny-cs900-250-gb-ssd7cs900-250-rb",
+  "name": "PNY CS900 2.5\" 250 GB (SSD7CS900-250-RB)",
+  "category_id": "storage",
+  "brand": "PNY",
+  "mpn": "SSD7CS900-250-RB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2023.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "250 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "535 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "pny-cs900-500-gb-ssd7cs900-500-rb",
+  "slug": "pny-cs900-500-gb-ssd7cs900-500-rb",
+  "name": "PNY CS900 2.5\" 500 GB (SSD7CS900-500-RB)",
+  "category_id": "storage",
+  "brand": "PNY",
+  "mpn": "SSD7CS900-500-RB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2024.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "pny-cs900-1-tb-ssd7cs900-1tb-rb",
+  "slug": "pny-cs900-1-tb-ssd7cs900-1tb-rb",
+  "name": "PNY CS900 2.5\" 1 TB (SSD7CS900-1TB-RB)",
+  "category_id": "storage",
+  "brand": "PNY",
+  "mpn": "SSD7CS900-1TB-RB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2024.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "535 MB/s",
+   "Escritura secuencial": "515 MB/s"
+  }
+ },
+ {
+  "id": "pny-cs1030-250-gb-m280cs1030-250-rb",
+  "slug": "pny-cs1030-250-gb-m280cs1030-250-rb",
+  "name": "PNY CS1030 250 GB (M280CS1030-250-RB)",
+  "category_id": "storage",
+  "brand": "PNY",
+  "mpn": "M280CS1030-250-RB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2023.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "250 GB",
+   "Interfaz": "PCIe 3.0 x4, NVMe",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "pny-cs1030-500-gb-m280cs1030-500-rb",
+  "slug": "pny-cs1030-500-gb-m280cs1030-500-rb",
+  "name": "PNY CS1030 500 GB (M280CS1030-500-RB)",
+  "category_id": "storage",
+  "brand": "PNY",
+  "mpn": "M280CS1030-500-RB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2024.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "PCIe 3.0 x4, NVMe",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "pny-cs1030-1-tb-m280cs1030-1tb-rb",
+  "slug": "pny-cs1030-1-tb-m280cs1030-1tb-rb",
+  "name": "PNY CS1030 1 TB (M280CS1030-1TB-RB)",
+  "category_id": "storage",
+  "brand": "PNY",
+  "mpn": "M280CS1030-1TB-RB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2024.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 3.0 x4, NVMe",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "pny-cs2230-500gb-m280cs2230-500-rb",
+  "slug": "pny-cs2230-500gb-m280cs2230-500-rb",
+  "name": "PNY CS2230 500 GB (M280CS2230-500-RB)",
+  "category_id": "storage",
+  "brand": "PNY",
+  "mpn": "M280CS2230-500-RB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2023.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "PCIe 3.0 x4, NVMe",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "pny-cs2140-1tb-m280cs2140-1tb-rb",
+  "slug": "pny-cs2140-1tb-m280cs2140-1tb-rb",
+  "name": "PNY CS2140 1 TB (M280CS2140-1TB-RB)",
+  "category_id": "storage",
+  "brand": "PNY",
+  "mpn": "M280CS2140-1TB-RB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2024.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "adata-su650-256-gb-asu650ss-256gt-r",
+  "slug": "adata-su650-256-gb-asu650ss-256gt-r",
+  "name": "ADATA Ultimate SU650 256 GB (ASU650SS-256GT-R)",
+  "category_id": "storage",
+  "brand": "ADATA",
+  "mpn": "ASU650SS-256GT-R",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_ultimate_su650_25_inch_sata_ssd_20231103.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "256 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "520 MB/s",
+   "Escritura secuencial": "450 MB/s"
+  }
+ },
+ {
+  "id": "adata-su650-512-gb-asu650ss-512gt-r",
+  "slug": "adata-su650-512-gb-asu650ss-512gt-r",
+  "name": "ADATA Ultimate SU650 512 GB (ASU650SS-512GT-R)",
+  "category_id": "storage",
+  "brand": "ADATA",
+  "mpn": "ASU650SS-512GT-R",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_ultimate_su650_25_inch_sata_ssd_20231103.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "512 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "520 MB/s",
+   "Escritura secuencial": "450 MB/s"
+  }
+ },
+ {
+  "id": "adata-su630-960gb-asu630ss-960gq-r",
+  "slug": "adata-su630-960gb-asu630ss-960gq-r",
+  "name": "ADATA Ultimate SU630 960 GB (ASU630SS-960GQ-R)",
+  "category_id": "storage",
+  "brand": "ADATA",
+  "mpn": "ASU630SS-960GQ-R",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_su630_25_inch_sata_ssd_20231103.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "960 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "520 MB/s",
+   "Escritura secuencial": "450 MB/s",
+   "Tipo de NAND": "3D QLC"
+  }
+ },
+ {
+  "id": "adata-xpg-mars-980-blade-1tb",
+  "slug": "adata-xpg-mars-980-blade-1tb",
+  "name": "ADATA XPG MARS 980 BLADE 1 TB (SMAR-980B-1TCS)",
+  "category_id": "storage",
+  "brand": "ADATA",
+  "mpn": "SMAR-980B-1TCS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_mars_980_blade_pcie_gen5_x4_m2_ssd_20250630.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 5.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "Sí",
+   "Lectura secuencial": "14000 MB/s",
+   "Escritura secuencial": "13000 MB/s"
+  }
+ },
+ {
+  "id": "adata-xpg-gammix-s70-blade-2tb",
+  "slug": "adata-xpg-gammix-s70-blade-2tb",
+  "name": "ADATA XPG GAMMIX S70 BLADE 2 TB (AGAMMIXS70B-2T-CS)",
+  "category_id": "storage",
+  "brand": "ADATA",
+  "mpn": "AGAMMIXS70B-2T-CS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://assets.adata.com/storage/downloadfile/datasheet_xpg_gammix_s70_blade_pcie_gen4_x4_m2_ssd_20260706-2.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "Sí",
+   "Lectura secuencial": "7400 MB/s",
+   "Escritura secuencial": "6800 MB/s"
+  }
+ },
+ {
+  "id": "apacer-as350x-256-gb-ap256gas350xr-1",
+  "slug": "apacer-as350x-256-gb-ap256gas350xr-1",
+  "name": "Apacer AS350X 256 GB (AP256GAS350XR-1)",
+  "category_id": "storage",
+  "brand": "Apacer",
+  "mpn": "AP256GAS350XR-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/SSD/Data%20Sheet_AS350X.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "256 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "540 MB/s"
+  }
+ },
+ {
+  "id": "apacer-as350x-512-gb-ap512gas350xr-1",
+  "slug": "apacer-as350x-512-gb-ap512gas350xr-1",
+  "name": "Apacer AS350X 512 GB (AP512GAS350XR-1)",
+  "category_id": "storage",
+  "brand": "Apacer",
+  "mpn": "AP512GAS350XR-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/SSD/Data%20Sheet_AS350X.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "512 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "540 MB/s"
+  }
+ },
+ {
+  "id": "apacer-as350x-1-tb-ap1tbas350xr-1",
+  "slug": "apacer-as350x-1-tb-ap1tbas350xr-1",
+  "name": "Apacer AS350X 1 TB (AP1TBAS350XR-1)",
+  "category_id": "storage",
+  "brand": "Apacer",
+  "mpn": "AP1TBAS350XR-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/SSD/Data%20Sheet_AS350X.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "560 MB/s",
+   "Escritura secuencial": "540 MB/s"
+  }
+ },
+ {
+  "id": "apacer-as2280p4u-pro-512gb",
+  "slug": "apacer-as2280p4u-pro-512gb",
+  "name": "Apacer AS2280P4U Pro 512 GB (AP512GAS2280P4UPRO-1)",
+  "category_id": "storage",
+  "brand": "Apacer",
+  "mpn": "AP512GAS2280P4UPRO-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Data%20Sheet_AS2280P4U%20Pro.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "512 GB",
+   "Interfaz": "PCIe 3.0 x4, NVMe 1.3",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "Sí",
+   "Lectura secuencial": "3500 MB/s",
+   "Escritura secuencial": "2300 MB/s"
+  }
+ },
+ {
+  "id": "apacer-as2280p4-1tb",
+  "slug": "apacer-as2280p4-1tb",
+  "name": "Apacer AS2280P4 1 TB (AP1TBAS2280P4-1)",
+  "category_id": "storage",
+  "brand": "Apacer",
+  "mpn": "AP1TBAS2280P4-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Data%20Sheet_AS2280P4.pdf",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 3.0 x4, NVMe 1.3",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "3000 MB/s",
+   "Escritura secuencial": "2000 MB/s"
+  }
+ },
+ {
+  "id": "teamgroup-ms30-512gb-tm8ps7512g0c101",
+  "slug": "teamgroup-ms30-512gb-tm8ps7512g0c101",
+  "name": "TEAMGROUP MS30 512 GB (TM8PS7512G0C101)",
+  "category_id": "storage",
+  "brand": "TEAMGROUP",
+  "mpn": "TM8PS7512G0C101",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/ms30-2280/ms30-2280-TM8PS7512G0C101/",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "512 GB",
+   "Interfaz": "SATA III",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "teamgroup-nv5000-1tb-tm8fgm001t0c101",
+  "slug": "teamgroup-nv5000-1tb-tm8fgm001t0c101",
+  "name": "TEAMGROUP NV5000 1 TB (TM8FGM001T0C101)",
+  "category_id": "storage",
+  "brand": "TEAMGROUP",
+  "mpn": "TM8FGM001T0C101",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/nv5000/nv5000-TM8FGM001T0C101/",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "teamgroup-cx2-256gb-t253x6256g0c101",
+  "slug": "teamgroup-cx2-256gb-t253x6256g0c101",
+  "name": "TEAMGROUP CX2 256 GB (T253X6256G0C101)",
+  "category_id": "storage",
+  "brand": "TEAMGROUP",
+  "mpn": "T253X6256G0C101",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/cx2/cx2-T253X6256G0C101/",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "256 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "teamgroup-mp33-256gb-tm8fp6256g0c101",
+  "slug": "teamgroup-mp33-256gb-tm8fp6256g0c101",
+  "name": "TEAMGROUP MP33 256 GB (TM8FP6256G0C101)",
+  "category_id": "storage",
+  "brand": "TEAMGROUP",
+  "mpn": "TM8FP6256G0C101",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/mp33/mp33-TM8FP6256G0C101/",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "256 GB",
+   "Interfaz": "PCIe 3.0 x4, NVMe",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "corsair-mp700-elite-1tb-cssd-f1000gbmp700enh",
+  "slug": "corsair-mp700-elite-1tb-cssd-f1000gbmp700enh",
+  "name": "Corsair MP700 ELITE 1 TB (CSSD-F1000GBMP700ENH)",
+  "category_id": "storage",
+  "brand": "Corsair",
+  "mpn": "CSSD-F1000GBMP700ENH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp700enh/mp700-elite-1tb-pcie-5-0-gen-5-x4-nvme-m-2-ssd-cssd-f1000gbmp700enh",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "No",
+   "Lectura secuencial": "10000 MB/s",
+   "Escritura secuencial": "8500 MB/s"
+  }
+ },
+ {
+  "id": "corsair-mp700-elite-heatsink-1tb-cssd-f1000gbmp700ehs",
+  "slug": "corsair-mp700-elite-heatsink-1tb-cssd-f1000gbmp700ehs",
+  "name": "Corsair MP700 ELITE con disipador 1 TB (CSSD-F1000GBMP700EHS)",
+  "category_id": "storage",
+  "brand": "Corsair",
+  "mpn": "CSSD-F1000GBMP700EHS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/ww/en/p/data-storage/cssd-f1000gbmp700ehs/mp700-elite-with-heatsink-1tb-pcie-5-0-gen-5-x4-nvme-m-2-ssd-cssd-f1000gbmp700ehs",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "Sí",
+   "Lectura secuencial": "10000 MB/s",
+   "Escritura secuencial": "8500 MB/s"
+  }
+ },
+ {
+  "id": "corsair-mp700-elite-heatsink-2tb-cssd-f2000gbmp700ehs",
+  "slug": "corsair-mp700-elite-heatsink-2tb-cssd-f2000gbmp700ehs",
+  "name": "Corsair MP700 ELITE con disipador 2 TB (CSSD-F2000GBMP700EHS)",
+  "category_id": "storage",
+  "brand": "Corsair",
+  "mpn": "CSSD-F2000GBMP700EHS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp700ehs/mp700-elite-with-heatsink-2tb-pcie-5-0-gen-5-x4-nvme-m-2-ssd-cssd-f2000gbmp700ehs",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+   "Formato": "M.2 2280",
+   "Disipador integrado": "Sí",
+   "Lectura secuencial": "10000 MB/s",
+   "Escritura secuencial": "8500 MB/s"
+  }
+ },
+ {
+  "id": "western-digital-wd-purple-3tb-wd34purz",
+  "slug": "western-digital-wd-purple-3tb-wd34purz",
+  "name": "Western Digital WD Purple 3 TB (WD34PURZ)",
+  "category_id": "storage",
+  "brand": "Western Digital",
+  "mpn": "WD34PURZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd?sku=WD34PURZ",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "HDD",
+   "Capacidad": "3 TB",
+   "Interfaz": "SATA III",
+   "Formato": "3.5\"",
+   "Velocidad de rotación": "5400 rpm",
+   "Caché": "128 MB"
+  }
+ },
+ {
+  "id": "gigabyte-ssd-480gb-gp-gstfs31480gntd",
+  "slug": "gigabyte-ssd-480gb-gp-gstfs31480gntd",
+  "name": "Gigabyte SSD 480 GB (GP-GSTFS31480GNTD)",
+  "category_id": "storage",
+  "brand": "Gigabyte",
+  "mpn": "GP-GSTFS31480GNTD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/SSD/GIGABYTE-SSD-480GB",
+  "specs_verified_at": "2026-11-08T22:12:58Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "480 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "480 MB/s"
+  }
+ }
+]

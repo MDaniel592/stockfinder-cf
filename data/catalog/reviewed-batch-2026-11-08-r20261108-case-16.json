@@ -1,0 +1,159 @@
+[
+ {
+  "id": "deepcool-ch360-digital-negro-r-ch360-bkape3d-g-1",
+  "slug": "deepcool-ch360-digital-negro-r-ch360-bkape3d-g-1",
+  "name": "DeepCool CH360 DIGITAL Negro (R-CH360-BKAPE3D-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH360-BKAPE3D-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH360-DIGITAL-M-ATX-Airflow-Case-With-Status-Screen/2023/17715.shtml",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "378 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "2 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch360-wh-blanco-r-ch360-whape3-g-1",
+  "slug": "deepcool-ch360-wh-blanco-r-ch360-whape3-g-1",
+  "name": "DeepCool CH360 WH Blanco (R-CH360-WHAPE3-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH360-WHAPE3-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH360-WH-New-Generation-of-Airflow-M-ATX-Case/2023/17714.shtml",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "378 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "2 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch370-negro-r-ch370-bknam1-g-1",
+  "slug": "deepcool-ch370-negro-r-ch370-bknam1-g-1",
+  "name": "DeepCool CH370 Negro (R-CH370-BKNAM1-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH370-BKNAM1-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH370-Micro-ATX-Case/2022/15949.shtml",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "378 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm"
+  }
+ },
+ {
+  "id": "deepcool-cg380-3f-negro-r-cg380-bkagm3-g",
+  "slug": "deepcool-cg380-3f-negro-r-cg380-bkagm3-g",
+  "name": "DeepCool CG380 3F Negro (R-CG380-BKAGM3-G)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CG380-BKAGM3-G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CG380-3F-Panoramic-Dual-Tempered-Glass-M-ATX-Case/2025/21782.shtml",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "176 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "deepcool-cg530-4f-negro-r-cg530-bkada4-g-1",
+  "slug": "deepcool-cg530-4f-negro-r-cg530-bkada4-g-1",
+  "name": "DeepCool CG530 4F Negro (R-CG530-BKADA4-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CG530-BKADA4-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CG530-Panoramic-Tempered-Glass-Panels-Dual-Chamber-ATX-FISHTANK-Case-with-4-ARGB-PWM-Fans/2024/19604.shtml",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "deepcool-cg530u-4f-negro-r-cg530u-bkaga4-g",
+  "slug": "deepcool-cg530u-4f-negro-r-cg530u-bkaga4-g",
+  "name": "DeepCool CG530U 4F Negro (R-CG530U-BKAGA4-G)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CG530U-BKAGA4-G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CG530U-4F-Panoramic-Curved-Glass-Dual-Chamber-ATX-Fishtank-Case-with-4-ARGB-PWM-Fans/2025/22470.shtml",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "deepcool-ch260-wood-wh-blanco-r-ch260-whnwm0-g-1",
+  "slug": "deepcool-ch260-wood-wh-blanco-r-ch260-whnwm0-g-1",
+  "name": "DeepCool CH260 WOOD WH Blanco (R-CH260-WHNWM0-G-1)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CH260-WHNWM0-G-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CH260-WH-High-Airflow-Compact-M-ATX-Wood-Grain-Case-Supports-Rear-Connector-Motherboards/2025/22575.shtml",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "174 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "deepcool-cc560-v2-negro-r-cc560-bkgaa4-g-2",
+  "slug": "deepcool-cc560-v2-negro-r-cc560-bkgaa4-g-2",
+  "name": "DeepCool CC560 V2 Negro (R-CC560-BKGAA4-G-2)",
+  "category_id": "case",
+  "brand": "DeepCool",
+  "mpn": "R-CC560-BKGAA4-G-2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/Cases/CC560-V2-Mid-Tower-Airflow-Case/2023/17782.shtml",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "370 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm"
+  }
+ }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "product_id": "seagate-ironwolf-4-tb-st4000vn006",
+    "image_path": "/images/products/storage/seagate-ironwolf-4-tb-st4000vn006.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/nas-drives/ironwolf-hard-drive/_shared/images/ironwolf-4tb-front-product-detail-image.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:20Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-8-tb-st8000vn004",
+    "image_path": "/images/products/storage/seagate-ironwolf-8-tb-st8000vn004.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/nas-drives/ironwolf-hard-drive/_shared/images/ironwolf-8tb-front-product-detail-image.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:23Z"
+  },
+  {
+    "product_id": "seagate-barracuda-2-tb-st2000dm008",
+    "image_path": "/images/products/storage/seagate-barracuda-2-tb-st2000dm008.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/hard-drives/barracuda-hard-drive/_shared/images/barracuda-3-5-2tb-hero-right-400x400.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:26Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-16-tb-st16000nt001",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-16-tb-st16000nt001.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:30Z"
+  },
+  {
+    "product_id": "seagate-skyhawk-4-tb-st4000vx016",
+    "image_path": "/images/products/storage/seagate-skyhawk-4-tb-st4000vx016.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/surveillance-drives/skyhawk-hard-drive/_shared/images/skyhawk-4tb-front-600x600.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/video-analytics/skyhawk-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:32Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-4-tb-st4000nt001",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-4-tb-st4000nt001.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:35Z"
+  },
+  {
+    "product_id": "seagate-barracuda-4-tb-st4000dm004",
+    "image_path": "/images/products/storage/seagate-barracuda-4-tb-st4000dm004.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/hard-drives/barracuda-hard-drive/_shared/images/barracuda-3-5-4tb-hero-right-400x400.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:39Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-12-tb-st12000vn0008",
+    "image_path": "/images/products/storage/seagate-ironwolf-12-tb-st12000vn0008.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/nas-drives/ironwolf-hard-drive/_shared/images/ironwolf-12tb-front-product-detail-image.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:44Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-24-tb-st24000nt002",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-24-tb-st24000nt002.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:49Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-8-tb-st8000vn002",
+    "image_path": "/images/products/storage/seagate-ironwolf-8-tb-st8000vn002.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/nas-drives/ironwolf-hard-drive/_shared/images/ironwolf-8tb-front-product-detail-image.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:54Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-8-tb-st8000nt001",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-8-tb-st8000nt001.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:17:59Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-10-tb-st10000vn000",
+    "image_path": "/images/products/storage/seagate-ironwolf-10-tb-st10000vn000.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/nas-drives/ironwolf-hard-drive/_shared/images/ironwolf-10tb-front-product-detail-image.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:04Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-28-tb-st28000nt000",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-28-tb-st28000nt000.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:08Z"
+  },
+  {
+    "product_id": "seagate-barracuda-8-tb-st8000dm004",
+    "image_path": "/images/products/storage/seagate-barracuda-8-tb-st8000dm004.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/hard-drives/barracuda-hard-drive/_shared/images/barracuda-3-5-8tb-hero-right-400x400.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:13Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-10-tb-st10000nt001",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-10-tb-st10000nt001.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:17Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-20-tb-st20000nt001",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-20-tb-st20000nt001.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:22Z"
+  },
+  {
+    "product_id": "seagate-barracuda-2-5-5-tb-st5000lm000",
+    "image_path": "/images/products/storage/seagate-barracuda-2-5-5-tb-st5000lm000.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/hard-drives/barracuda-hard-drive/_shared/images/barracuda-2-5-5tb-hero-right-400x400.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/laptop-hard-drives/barracuda-2-5/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:26Z"
+  },
+  {
+    "product_id": "seagate-exos-7e10-8-tb-st8000nm017b",
+    "image_path": "/images/products/storage/seagate-exos-7e10-8-tb-st8000nm017b.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/support-content/internal-products/enterprise-hard-drives/exos-7e10/_shared/images/exos-7E10-270x270.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-7e10/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:28Z"
+  },
+  {
+    "product_id": "seagate-exos-x24-16-tb-st16000nm002h",
+    "image_path": "/images/products/storage/seagate-exos-x24-16-tb-st16000nm002h.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drive/enterprise-hard-drives/exos-x24/_shared/images/exos-x24-270x270.png/_jcr_content/renditions/1-1-large-640x640.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-x24/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:30Z"
+  },
+  {
+    "product_id": "seagate-exos-7e10-10-tb-st10000nm017b",
+    "image_path": "/images/products/storage/seagate-exos-7e10-10-tb-st10000nm017b.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/support-content/internal-products/enterprise-hard-drives/exos-7e10/_shared/images/exos-7E10-270x270.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-7e10/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:32Z"
+  },
+  {
+    "product_id": "seagate-exos-7e10-4-tb-st4000nm000b",
+    "image_path": "/images/products/storage/seagate-exos-7e10-4-tb-st4000nm000b.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/support-content/internal-products/enterprise-hard-drives/exos-7e10/_shared/images/exos-7E10-270x270.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-7e10/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:34Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-2-tb-st2000vn003",
+    "image_path": "/images/products/storage/seagate-ironwolf-2-tb-st2000vn003.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/nas-drives/ironwolf-hard-drive/_shared/images/ironwolf-2tb-front-product-detail-image.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:39Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-6-tb-st6000nt001",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-6-tb-st6000nt001.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:43Z"
+  },
+  {
+    "product_id": "seagate-exos-7e10-2-tb-st2000nm000b",
+    "image_path": "/images/products/storage/seagate-exos-7e10-2-tb-st2000nm000b.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/support-content/internal-products/enterprise-hard-drives/exos-7e10/_shared/images/exos-7E10-270x270.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-7e10/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:44Z"
+  },
+  {
+    "product_id": "seagate-skyhawk-ai-20-tb-st20000ve003",
+    "image_path": "/images/products/storage/seagate-skyhawk-ai-20-tb-st20000ve003.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/surveillance-drives/skyhawk-hard-drive/_shared/images/skyhawk-ai-20tb-front-image.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/video-analytics/skyhawk-ai-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:50Z"
+  },
+  {
+    "product_id": "seagate-skyhawk-ai-16-tb-st16000ve004",
+    "image_path": "/images/products/storage/seagate-skyhawk-ai-16-tb-st16000ve004.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/surveillance-drives/skyhawk-hard-drive/_shared/images/skyhawk-ai-16tb-front-600x600.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/video-analytics/skyhawk-ai-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:18:53Z"
+  },
+  {
+    "product_id": "seagate-barracuda-2-5-2-tb-st2000lm015",
+    "image_path": "/images/products/storage/seagate-barracuda-2-5-2-tb-st2000lm015.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/hard-drives/barracuda-hard-drive/_shared/images/barracuda-2-5-2tb-hero-right-600x600.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/laptop-hard-drives/barracuda-2-5/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:00Z"
+  },
+  {
+    "product_id": "seagate-skyhawk-6-tb-st6000vx009",
+    "image_path": "/images/products/storage/seagate-skyhawk-6-tb-st6000vx009.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/surveillance-drives/skyhawk-hard-drive/_shared/images/skyhawk-6tb-front-600x600.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/video-analytics/skyhawk-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:03Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-32-tb-st32000nt000",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-32-tb-st32000nt000.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:07Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-6-tb-st6000vn006",
+    "image_path": "/images/products/storage/seagate-ironwolf-6-tb-st6000vn006.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/nas-drives/ironwolf-hard-drive/_shared/images/ironwolf-6tb-front-product-detail-image.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:11Z"
+  },
+  {
+    "product_id": "seagate-exos-m-28-tb-st28000nm003k",
+    "image_path": "/images/products/storage/seagate-exos-m-28-tb-st28000nm003k.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/enterprise-hard-drives/exos-m/_shared/images/exos-m-270x270.png/_jcr_content/renditions/1-1-large-640x640.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-m/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:13Z"
+  },
+  {
+    "product_id": "seagate-exos-x24-20-tb-st20000nm002h",
+    "image_path": "/images/products/storage/seagate-exos-x24-20-tb-st20000nm002h.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drive/enterprise-hard-drives/exos-x24/_shared/images/exos-x24-270x270.png/_jcr_content/renditions/1-1-large-640x640.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-x24/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:15Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-12-tb-st12000nt001",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-12-tb-st12000nt001.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:19Z"
+  },
+  {
+    "product_id": "seagate-skyhawk-2-tb-st2000vx017",
+    "image_path": "/images/products/storage/seagate-skyhawk-2-tb-st2000vx017.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/surveillance-drives/skyhawk-hard-drive/_shared/images/skyhawk-2tb-front-600x600.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/video-analytics/skyhawk-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:22Z"
+  },
+  {
+    "product_id": "seagate-skyhawk-ai-24-tb-st24000ve002",
+    "image_path": "/images/products/storage/seagate-skyhawk-ai-24-tb-st24000ve002.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/surveillance-drives/skyhawk-hard-drive/skyhawk-ai/images/skyhawk-ai-24tb-front.png/_jcr_content/renditions/1-1-large-640x640.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/video-analytics/skyhawk-ai-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:25Z"
+  },
+  {
+    "product_id": "seagate-skyhawk-ai-8-tb-st8000ve001",
+    "image_path": "/images/products/storage/seagate-skyhawk-ai-8-tb-st8000ve001.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/surveillance-drives/skyhawk-hard-drive/_shared/images/skyhawk-ai-8tb-front-600x600.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/video-analytics/skyhawk-ai-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:28Z"
+  },
+  {
+    "product_id": "seagate-exos-m-30-tb-st30000nm004k",
+    "image_path": "/images/products/storage/seagate-exos-m-30-tb-st30000nm004k.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/enterprise-hard-drives/exos-m/_shared/images/exos-m-270x270.png/_jcr_content/renditions/1-1-large-640x640.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-m/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:30Z"
+  },
+  {
+    "product_id": "seagate-exos-x24-16-tb-st16000nm001h",
+    "image_path": "/images/products/storage/seagate-exos-x24-16-tb-st16000nm001h.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drive/enterprise-hard-drives/exos-x24/_shared/images/exos-x24-270x270.png/_jcr_content/renditions/1-1-large-640x640.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-x24/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:31Z"
+  },
+  {
+    "product_id": "seagate-ironwolf-pro-30-tb-st30000nt011",
+    "image_path": "/images/products/storage/seagate-ironwolf-pro-30-tb-st30000nt011.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-hard-drive.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:35Z"
+  },
+  {
+    "product_id": "seagate-skyhawk-1-tb-st1000vx013",
+    "image_path": "/images/products/storage/seagate-skyhawk-1-tb-st1000vx013.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/surveillance-drives/skyhawk-hard-drive/_shared/images/skyhawk-1tb-front-600x600.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/video-analytics/skyhawk-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:38Z"
+  },
+  {
+    "product_id": "seagate-barracuda-st1000dm014-1tb",
+    "image_path": "/images/products/storage/seagate-barracuda-st1000dm014-1tb.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/hard-drives/barracuda-hard-drive/_shared/images/barracuda-3-5-1tb-hero-right-400x400.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:43Z"
+  },
+  {
+    "product_id": "seagate-exos-x24-st24000nm002h-24tb",
+    "image_path": "/images/products/storage/seagate-exos-x24-st24000nm002h-24tb.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drive/enterprise-hard-drives/exos-x24/_shared/images/exos-x24-270x270.png/_jcr_content/renditions/1-1-large-640x640.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/support/internal-hard-drives/enterprise-hard-drives/exos-x24/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:44Z"
+  },
+  {
+    "product_id": "seagate-skyhawk-st8000vx010-8tb",
+    "image_path": "/images/products/storage/seagate-skyhawk-st8000vx010-8tb.webp",
+    "image_source_url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/surveillance-drives/skyhawk-hard-drive/_shared/images/skyhawk-8tb-front-600x600.png",
+    "image_scope": "family",
+    "image_page_url": "https://www.seagate.com/products/video-analytics/skyhawk-hard-drive/",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Seagate",
+    "fetched_at": "2026-11-10T22:19:46Z"
+  },
+  {
+    "product_id": "apacer-el-08g2v-gnh",
+    "image_path": "/images/products/ram/apacer-el-08g2v-gnh.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1103/11034240/1392-memoria-ram-apacer-el08g2vgnh-8gb-1x8gb-ddr4-2666mhz-cl19-dimm-unbuffered.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/memoria-ram-apacer-el-08g2v-gnh-8gb-1x8gb-ddr4-2666mhz-cl19-dimm-unbuffered",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:21Z"
+  },
+  {
+    "product_id": "apacer-el-16g2v-gnh",
+    "image_path": "/images/products/ram/apacer-el-16g2v-gnh.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1102/11029611/1932-memoria-ram-apacer-el16g2vgnh-16gb-1x16gb-ddr4-2666mhz-cl19-dimm.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/memoria-ram-apacer-el-16g2v-gnh-16gb-1x16gb-ddr4-2666mhz-cl19-dimm",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:21Z"
+  },
+  {
+    "product_id": "apacer-el-08g21-gsh",
+    "image_path": "/images/products/ram/apacer-el-08g21-gsh.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1075/10754332/119-apacer-ddr4-3200mhz-pc4-25600-8gb-cl22.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/apacer-ddr4-3200mhz-pc4-25600-8gb-cl22",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:21Z"
+  },
+  {
+    "product_id": "apacer-ah5u16g56c522mbaa-1",
+    "image_path": "/images/products/ram/apacer-ah5u16g56c522mbaa-1.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1103/11033109/1929-memoria-ram-apacer-nox-16gb-1x16gb-ddr5-5600mhz-cl40-intel-xmp-negro.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/memoria-ram-apacer-nox-16gb-1x16gb-ddr5-5600mhz-cl40-intel-xmp-negro",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:21Z"
+  },
+  {
+    "product_id": "apacer-as350x-256-gb-ap256gas350xr-1",
+    "image_path": "/images/products/storage/apacer-as350x-256-gb-ap256gas350xr-1.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1098/10982052/1340-disco-duro-apacer-as350x-256gb-ssd-25-sata-iii-560-mb-s-rendimiento-solido.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/disco-duro-apacer-as350x-256gb-ssd-2-5-sata-iii-560-mb-s-rendimiento-solido",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:22Z"
+  },
+  {
+    "product_id": "apacer-as350x-512-gb-ap512gas350xr-1",
+    "image_path": "/images/products/storage/apacer-as350x-512-gb-ap512gas350xr-1.webp",
+    "image_source_url": "https://www.coolmod.com/images/product/large/PROD-030141_1.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.coolmod.com/apacer-as350x-512gb-2-5-sata3/",
+    "image_origin": "retailer",
+    "attribution": "Imagen: Coolmod",
+    "fetched_at": "2026-11-10T22:26:22Z"
+  },
+  {
+    "product_id": "apacer-as350x-1-tb-ap1tbas350xr-1",
+    "image_path": "/images/products/storage/apacer-as350x-1-tb-ap1tbas350xr-1.webp",
+    "image_source_url": "https://www.coolmod.com/images/product/large/PROD-030140_1.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.coolmod.com/apacer-as350x-1tb-2-5-sata3/",
+    "image_origin": "retailer",
+    "attribution": "Imagen: Coolmod",
+    "fetched_at": "2026-11-10T22:26:22Z"
+  },
+  {
+    "product_id": "apacer-as2280p4u-pro-512gb",
+    "image_path": "/images/products/storage/apacer-as2280p4u-pro-512gb.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1079/10799649/1464-apacer-as2280p4u-pro-512gb-ssd-m2-pci-express-3d-nand-nvme.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/disco-duro-apacer-as2280p4u-pro-512gb-ssd-m-2-pci-express-3d-nand-nvme",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:22Z"
+  },
+  {
+    "product_id": "apacer-as2280p4-1tb",
+    "image_path": "/images/products/storage/apacer-as2280p4-1tb.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1070/10707284/1705-apacer-as2280p4-1tb-ssd-m2-2280-pcie-mejor-precio.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/disco-duro-apacer-as2280p4-1tb-ssd-m-2-2280-pcie",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:22Z"
+  },
+  {
+    "product_id": "apacer-ah4u16g32c28ytbaa-1",
+    "image_path": "/images/products/ram/apacer-ah4u16g32c28ytbaa-1.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1075/10754581/1981-apacer-tex-ddr4-3200mhz-pc4-25600-16gb-cl16.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/apacer-tex-ddr4-3200mhz-pc4-25600-16gb-cl16",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:22Z"
+  },
+  {
+    "product_id": "gigabyte-aorus-waterforce-ii-240",
+    "image_path": "/images/products/cooler/gigabyte-aorus-waterforce-ii-240.webp",
+    "image_source_url": "https://www.coolmod.com/images/product/large/PROD-031903_1.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.coolmod.com/gigabyte-aorus-waterforce-ii-240-argb-negro/",
+    "image_origin": "retailer",
+    "attribution": "Imagen: Coolmod",
+    "fetched_at": "2026-11-10T22:26:23Z"
+  },
+  {
+    "product_id": "gigabyte-aorus-waterforce-ii-360-ice",
+    "image_path": "/images/products/cooler/gigabyte-aorus-waterforce-ii-360-ice.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1092/10927767/1562-refrigeracion-liquida-gigabyte-aorus-waterforce-ii-360-ice-360-mm-3-ventiladores-led.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/refrigerador-cpu-liquido-gigabyte-aorus-waterforce-ii-360-ice-3x120mm-argb-blanco-tdp-300w",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:23Z"
+  },
+  {
+    "product_id": "gigabyte-ssd-480gb-gp-gstfs31480gntd",
+    "image_path": "/images/products/storage/gigabyte-ssd-480gb-gp-gstfs31480gntd.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/18/186792/1.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/gigabyte-solid-state-drive-480gb-ssd-sata-iii",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:23Z"
+  },
+  {
+    "product_id": "gigabyte-gp-aorus-waterforce-x-ii-360",
+    "image_path": "/images/products/cooler/gigabyte-gp-aorus-waterforce-x-ii-360.webp",
+    "image_source_url": "https://www.coolmod.com/images/product/large/PROD-031904_1.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.coolmod.com/gigabyte-aorus-waterforce-x-ii-360-argb-negro/",
+    "image_origin": "retailer",
+    "attribution": "Imagen: Coolmod",
+    "fetched_at": "2026-11-10T22:26:24Z"
+  },
+  {
+    "product_id": "gigabyte-gp-aorus-waterforce-ii-360",
+    "image_path": "/images/products/cooler/gigabyte-gp-aorus-waterforce-ii-360.webp",
+    "image_source_url": "https://www.coolmod.com/images/product/large/PROD-031902_1.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.coolmod.com/gigabyte-aorus-waterforce-ii-360-argb-negro/",
+    "image_origin": "retailer",
+    "attribution": "Imagen: Coolmod",
+    "fetched_at": "2026-11-10T22:26:24Z"
+  },
+  {
+    "product_id": "gigabyte-gp-gigabyte-gme-360",
+    "image_path": "/images/products/cooler/gigabyte-gp-gigabyte-gme-360.webp",
+    "image_source_url": "https://www.coolmod.com/images/product/large/PROD-038736_1.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.coolmod.com/gigabyte-gaming-360-argb-negro/",
+    "image_origin": "retailer",
+    "attribution": "Imagen: Coolmod",
+    "fetched_at": "2026-11-10T22:26:24Z"
+  },
+  {
+    "product_id": "gigabyte-gp-gigabyte-gme-360i",
+    "image_path": "/images/products/cooler/gigabyte-gp-gigabyte-gme-360i.webp",
+    "image_source_url": "https://www.coolmod.com/images/product/large/PROD-038735_1.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.coolmod.com/gigabyte-gaming-360-ice-argb-blanco/",
+    "image_origin": "retailer",
+    "attribution": "Imagen: Coolmod",
+    "fetched_at": "2026-11-10T22:26:24Z"
+  },
+  {
+    "product_id": "asrock-intel-arc-a310-low-profile-4gb",
+    "image_path": "/images/products/gpu/asrock-intel-arc-a310-low-profile-4gb.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1101/11019767/1498-tarjeta-grafica-asrock-intel-arc-a310-4gb-gddr6-low-profile-opiniones.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/tarjeta-grafica-asrock-intel-arc-a310-4gb-gddr6-low-profile",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:24Z"
+  },
+  {
+    "product_id": "samsung-870-evo-2tb-mz-77e2t0b-eu",
+    "image_path": "/images/products/storage/samsung-870-evo-2tb-mz-77e2t0b-eu.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/35/350361/1308-samsung-870-evo-2tb-disco-ssd-sata3-560mb.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/disco-duro-samsung-870-evo-2tb-disco-ssd-sata3-560mb",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:24Z"
+  },
+  {
+    "product_id": "gainward-geforce-rtx-5070-python-iii-12gb",
+    "image_path": "/images/products/gpu/gainward-geforce-rtx-5070-python-iii-12gb.webp",
+    "image_source_url": "https://www.gainward.com/main/product/vga/pro/p01237/p01237_pic2_165767a46d13c0fd1.png",
+    "image_scope": "model",
+    "image_page_url": "https://www.gainward.com/main/vgapro.php?id=1237&lang=en",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Gainward",
+    "fetched_at": "2026-11-10T22:26:28Z"
+  },
+  {
+    "product_id": "gainward-rtx-5080-phoenix-v1-16gb",
+    "image_path": "/images/products/gpu/gainward-rtx-5080-phoenix-v1-16gb.webp",
+    "image_source_url": "https://www.gainward.com/main/product/vga/pro/p01252/p01252_pic2_121867ff7d9295fed.png",
+    "image_scope": "model",
+    "image_page_url": "https://www.gainward.com/main/vgapro.php?id=1252&lang=en",
+    "image_origin": "manufacturer",
+    "attribution": "Imagen: Gainward",
+    "fetched_at": "2026-11-10T22:26:44Z"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-eco-4gb",
+    "image_path": "/images/products/gpu/sparkle-intel-arc-a310-eco-4gb.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1084/10847527/1553-sparkle-eco-intel-arc-a310-4-gb-gddr6-opiniones.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/tarjeta-grafica-sparkle-eco-intel-arc-a310-4-gb-gddr6",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:54Z"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a750-roc-oc-edition-8gb",
+    "image_path": "/images/products/gpu/sparkle-intel-arc-a750-roc-oc-edition-8gb.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1084/10847525/1154-sparkle-roc-oc-edition-intel-arc-a750-8-gb-gddr6.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/tarjeta-grafica-sparkle-roc-oc-edition-intel-arc-a750-8-gb-gddr6",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:54Z"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a380-elf-6gb",
+    "image_path": "/images/products/gpu/sparkle-intel-arc-a380-elf-6gb.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1089/10892106/1698-tarjeta-grafica-sparkle-technology-intel-arc-a380-elf-6gb-gddr6-8k-xess-av1-pcie-40.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/tarjeta-grafica-sparkle-technology-intel-arc-a380-elf-6gb-gddr6-8k-xess-av1-pcie-4-0",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:54Z"
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-omni-view-4gb",
+    "image_path": "/images/products/gpu/sparkle-intel-arc-a310-omni-view-4gb.webp",
+    "image_source_url": "https://img.pccomponentes.com/articles/1094/10949863/199-tarjeta-grafica-sparkle-intel-arc-a310-omni-view-4gb-gddr6-4x-hdmi-bajo-consumo-2525ce4c-a4d5-4c0b-8e0d-b6611f544350.jpg",
+    "image_scope": "model",
+    "image_page_url": "https://www.pccomponentes.com/tarjeta-grafica-sparkle-intel-arc-a310-omni-view-4gb-gddr6-4x-hdmi-bajo-consumo",
+    "image_origin": "retailer",
+    "attribution": "Imagen: PcComponentes",
+    "fetched_at": "2026-11-10T22:26:54Z"
+  }
+]

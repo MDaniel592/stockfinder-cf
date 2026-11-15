@@ -1,0 +1,490 @@
+[
+ {
+  "id": "be-quiet-shadow-base-800-fx-negro-bgw63",
+  "slug": "be-quiet-shadow-base-800-fx-negro-bgw63",
+  "name": "be quiet! Shadow Base 800 FX Negro (BGW63)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW63",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/4483",
+  "specs_verified_at": "2026-11-09T16:38:04Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "430 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "4 × 140 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm",
+   "Dimensiones": "550 × 247 × 503 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-dark-base-pro-901-blanco-bgw51",
+  "slug": "be-quiet-dark-base-pro-901-blanco-bgw51",
+  "name": "be quiet! Dark Base Pro 901 Blanco (BGW51)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW51",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5019",
+  "specs_verified_at": "2026-11-09T16:38:06Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, XL-ATX, ATX, microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "495 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "604 × 254 × 539 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-light-base-500-lx-negro-bgw85",
+  "slug": "be-quiet-light-base-500-lx-negro-bgw85",
+  "name": "be quiet! Light Base 500 LX Negro (BGW85)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW85",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/6693",
+  "specs_verified_at": "2026-11-09T16:38:08Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "432 × 305 × 410 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-light-base-500-lx-blanco-bgw86",
+  "slug": "be-quiet-light-base-500-lx-blanco-bgw86",
+  "name": "be quiet! Light Base 500 LX Blanco (BGW86)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW86",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/6694",
+  "specs_verified_at": "2026-11-09T16:38:10Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "432 × 305 × 410 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-shadow-base-800-dx-negro-bgw61",
+  "slug": "be-quiet-shadow-base-800-dx-negro-bgw61",
+  "name": "be quiet! Shadow Base 800 DX Negro (BGW61)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW61",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/4480",
+  "specs_verified_at": "2026-11-09T16:38:13Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "430 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm",
+   "Dimensiones": "550 × 247 × 503 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-shadow-base-800-dx-blanco-bgw62",
+  "slug": "be-quiet-shadow-base-800-dx-blanco-bgw62",
+  "name": "be quiet! Shadow Base 800 DX Blanco (BGW62)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW62",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/4481",
+  "specs_verified_at": "2026-11-09T16:38:15Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "430 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm",
+   "Dimensiones": "550 × 247 × 503 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-600-window-naranja-bgw20",
+  "slug": "be-quiet-pure-base-600-window-naranja-bgw20",
+  "name": "be quiet! Pure Base 600 Window Naranja (BGW20)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW20",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/938",
+  "specs_verified_at": "2026-11-09T16:38:17Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "425 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 140 mm, 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "492 × 220 × 445 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-dark-base-pro-901-negro-bgw50",
+  "slug": "be-quiet-dark-base-pro-901-negro-bgw50",
+  "name": "be quiet! Dark Base Pro 901 Negro (BGW50)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW50",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/4425",
+  "specs_verified_at": "2026-11-09T16:38:19Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, XL-ATX, ATX, microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "495 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "604 × 254 × 539 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-501-negro-bg073",
+  "slug": "be-quiet-pure-base-501-negro-bg073",
+  "name": "be quiet! Pure Base 501 Negro (BG073)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BG073",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5321",
+  "specs_verified_at": "2026-11-09T16:38:21Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "368 mm",
+   "Altura disipador máxima": "178 mm",
+   "Ventiladores incluidos": "2 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "450 × 231 × 449 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-501-airflow-negro-bg074",
+  "slug": "be-quiet-pure-base-501-airflow-negro-bg074",
+  "name": "be quiet! Pure Base 501 Airflow Negro (BG074)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BG074",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5322",
+  "specs_verified_at": "2026-11-09T16:38:23Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "368 mm",
+   "Altura disipador máxima": "178 mm",
+   "Ventiladores incluidos": "2 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "450 × 231 × 449 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-501-airflow-window-negro-bgw74",
+  "slug": "be-quiet-pure-base-501-airflow-window-negro-bgw74",
+  "name": "be quiet! Pure Base 501 Airflow Window Negro (BGW74)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW74",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5324",
+  "specs_verified_at": "2026-11-09T16:38:25Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "368 mm",
+   "Altura disipador máxima": "178 mm",
+   "Ventiladores incluidos": "2 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "450 × 231 × 449 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-501-airflow-window-blanco-bgw75",
+  "slug": "be-quiet-pure-base-501-airflow-window-blanco-bgw75",
+  "name": "be quiet! Pure Base 501 Airflow Window Blanco (BGW75)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW75",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5325",
+  "specs_verified_at": "2026-11-09T16:38:28Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "368 mm",
+   "Altura disipador máxima": "178 mm",
+   "Ventiladores incluidos": "2 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "450 × 231 × 449 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-light-base-600-lx-blanco-bgw68",
+  "slug": "be-quiet-light-base-600-lx-blanco-bgw68",
+  "name": "be quiet! Light Base 600 LX Blanco (BGW68)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW68",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5295",
+  "specs_verified_at": "2026-11-09T16:38:30Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "450 × 305 × 435 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-501-dx-negro-bgw76",
+  "slug": "be-quiet-pure-base-501-dx-negro-bgw76",
+  "name": "be quiet! Pure Base 501 DX Negro (BGW76)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW76",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5753",
+  "specs_verified_at": "2026-11-09T16:38:32Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "368 mm",
+   "Altura disipador máxima": "178 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "450 × 231 × 449 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-dark-base-701-negro-bgw58",
+  "slug": "be-quiet-dark-base-701-negro-bgw58",
+  "name": "be quiet! Dark Base 701 Negro (BGW58)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW58",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/4589",
+  "specs_verified_at": "2026-11-09T16:38:34Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "430 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "565 × 249 × 495 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-dark-base-701-blanco-bgw59",
+  "slug": "be-quiet-dark-base-701-blanco-bgw59",
+  "name": "be quiet! Dark Base 701 Blanco (BGW59)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW59",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/4590",
+  "specs_verified_at": "2026-11-09T16:38:36Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "415 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "565 × 249 × 495 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-silent-base-601-window-negro-bgw26",
+  "slug": "be-quiet-silent-base-601-window-negro-bgw26",
+  "name": "be quiet! Silent Base 601 Window Negro (BGW26)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW26",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/1507",
+  "specs_verified_at": "2026-11-09T16:38:38Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "449 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "2 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "553 × 245 × 484 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-500dx-blanco-bgw38",
+  "slug": "be-quiet-pure-base-500dx-blanco-bgw38",
+  "name": "be quiet! Pure Base 500DX Blanco (BGW38)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW38",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/1855",
+  "specs_verified_at": "2026-11-09T16:38:41Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "369 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "450 × 232 × 443 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-500-window-blanco-bgw35",
+  "slug": "be-quiet-pure-base-500-window-blanco-bgw35",
+  "name": "be quiet! Pure Base 500 Window Blanco (BGW35)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW35",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/1718",
+  "specs_verified_at": "2026-11-09T16:38:43Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "369 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "2 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "450 × 232 × 443 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-500-blanco-bg035",
+  "slug": "be-quiet-pure-base-500-blanco-bg035",
+  "name": "be quiet! Pure Base 500 Blanco (BG035)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BG035",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/1721",
+  "specs_verified_at": "2026-11-09T16:38:45Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "369 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "2 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "450 × 232 × 443 mm (L × A × H)"
+  }
+ },
+ {
+  "id": "coolbox-t360-slim-coo-pct360-2",
+  "slug": "coolbox-t360-slim-coo-pct360-2",
+  "name": "Coolbox T360 Slim (COO-PCT360-2)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCT360-2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atxmini-itx-t-360-con-fuente-300tbz/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-t310-slim-coo-pct310-1",
+  "slug": "coolbox-t310-slim-coo-pct310-1",
+  "name": "Coolbox T310 Slim (COO-PCT310-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCT310-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-t310-slim-convertible/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-t370-slim-coo-pct370-bz",
+  "slug": "coolbox-t370-slim-coo-pct370-bz",
+  "name": "Coolbox T370 Slim (COO-PCT370-BZ)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCT370-BZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-t370-slim/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-t313-slim-coo-pct313-bz",
+  "slug": "coolbox-t313-slim-coo-pct313-bz",
+  "name": "Coolbox T313 Slim (COO-PCT313-BZ)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCT313-BZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-t313-slim/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ }
+]

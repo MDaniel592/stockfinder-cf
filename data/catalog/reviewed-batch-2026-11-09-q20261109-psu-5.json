@@ -1,0 +1,682 @@
+[
+ {
+  "id": "be-quiet-pure-power-13-m-850w-bp027eu",
+  "slug": "be-quiet-pure-power-13-m-850w-bp027eu",
+  "name": "be quiet! Pure Power 13 M 850W (BP027EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP027EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5933",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-power-13-m-750w-bp026eu",
+  "slug": "be-quiet-pure-power-13-m-750w-bp026eu",
+  "name": "be quiet! Pure Power 13 M 750W (BP026EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP026EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5934",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-power-13-m-650w-bp025eu",
+  "slug": "be-quiet-pure-power-13-m-650w-bp025eu",
+  "name": "be quiet! Pure Power 13 M 650W (BP025EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP025EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5935",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-power-13-m-550w-bp024eu",
+  "slug": "be-quiet-pure-power-13-m-550w-bp024eu",
+  "name": "be quiet! Pure Power 13 M 550W (BP024EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP024EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5936",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-dark-power-pro-13-1300w-bn331",
+  "slug": "be-quiet-dark-power-pro-13-1300w-bn331",
+  "name": "be quiet! Dark Power Pro 13 1300W (BN331)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BN331",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/4394",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1300 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Titanium",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "200 mm"
+  }
+ },
+ {
+  "id": "be-quiet-straight-power-12-750w-bn336",
+  "slug": "be-quiet-straight-power-12-750w-bn336",
+  "name": "be quiet! Straight Power 12 750W (BN336)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BN336",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/4102",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-straight-power-12-850w-bn337",
+  "slug": "be-quiet-straight-power-12-850w-bn337",
+  "name": "be quiet! Straight Power 12 850W (BN337)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BN337",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/4103",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-straight-power-12-1000w-bn338",
+  "slug": "be-quiet-straight-power-12-1000w-bn338",
+  "name": "be quiet! Straight Power 12 1000W (BN338)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BN338",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/4104",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-straight-power-12-1200w-bn339",
+  "slug": "be-quiet-straight-power-12-1200w-bn339",
+  "name": "be quiet! Straight Power 12 1200W (BN339)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BN339",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/4105",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1200 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "180 mm"
+  }
+ },
+ {
+  "id": "be-quiet-power-zone-2-850w-bp007eu",
+  "slug": "be-quiet-power-zone-2-850w-bp007eu",
+  "name": "be quiet! Power Zone 2 850W (BP007EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP007EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5584",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-power-zone-2-1000w-bp008eu",
+  "slug": "be-quiet-power-zone-2-1000w-bp008eu",
+  "name": "be quiet! Power Zone 2 1000W (BP008EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP008EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5583",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-power-12-550w-bp001eu",
+  "slug": "be-quiet-pure-power-12-550w-bp001eu",
+  "name": "be quiet! Pure Power 12 550W (BP001EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP001EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5250",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "be-quiet-system-power-11-550w-bp010eu",
+  "slug": "be-quiet-system-power-11-550w-bp010eu",
+  "name": "be quiet! System Power 11 550W (BP010EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP010EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5904",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "be-quiet-system-power-11-650w-bp011eu",
+  "slug": "be-quiet-system-power-11-650w-bp011eu",
+  "name": "be quiet! System Power 11 650W (BP011EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP011EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5903",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "be-quiet-system-power-11-750w-bp012eu",
+  "slug": "be-quiet-system-power-11-750w-bp012eu",
+  "name": "be quiet! System Power 11 750W (BP012EU)",
+  "category_id": "psu",
+  "brand": "be quiet!",
+  "mpn": "BP012EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/powersupply/5906",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "lian-li-rotational-shift-rs1000g-black-with-hub-rs1000g-bh00",
+  "slug": "lian-li-rotational-shift-rs1000g-black-with-hub-rs1000g-bh00",
+  "name": "Lian Li Rotational Shift RS1000G Black with Hub (RS1000G.BH00)",
+  "category_id": "psu",
+  "brand": "Lian Li",
+  "mpn": "RS1000G.BH00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/rs/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "lian-li-rotational-shift-rs1000g-black-rs1000g-b000",
+  "slug": "lian-li-rotational-shift-rs1000g-black-rs1000g-b000",
+  "name": "Lian Li Rotational Shift RS1000G Black (RS1000G.B000)",
+  "category_id": "psu",
+  "brand": "Lian Li",
+  "mpn": "RS1000G.B000",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/rs/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "lian-li-rotational-shift-rs1000g-white-with-hub-rs1000g-wh00",
+  "slug": "lian-li-rotational-shift-rs1000g-white-with-hub-rs1000g-wh00",
+  "name": "Lian Li Rotational Shift RS1000G White with Hub (RS1000G.WH00)",
+  "category_id": "psu",
+  "brand": "Lian Li",
+  "mpn": "RS1000G.WH00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/rs/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "lian-li-rotational-shift-rs1000g-white-rs1000g-w000",
+  "slug": "lian-li-rotational-shift-rs1000g-white-rs1000g-w000",
+  "name": "Lian Li Rotational Shift RS1000G White (RS1000G.W000)",
+  "category_id": "psu",
+  "brand": "Lian Li",
+  "mpn": "RS1000G.W000",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/rs/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "lian-li-rotational-shift-rs1200g-white-with-hub-rs1200g-wh00",
+  "slug": "lian-li-rotational-shift-rs1200g-white-with-hub-rs1200g-wh00",
+  "name": "Lian Li Rotational Shift RS1200G White with Hub (RS1200G.WH00)",
+  "category_id": "psu",
+  "brand": "Lian Li",
+  "mpn": "RS1200G.WH00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/rs/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1200 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "lian-li-rotational-shift-rs1200g-black-with-hub-rs1200g-bh00",
+  "slug": "lian-li-rotational-shift-rs1200g-black-with-hub-rs1200g-bh00",
+  "name": "Lian Li Rotational Shift RS1200G Black with Hub (RS1200G.BH00)",
+  "category_id": "psu",
+  "brand": "Lian Li",
+  "mpn": "RS1200G.BH00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/rs/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1200 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "corsair-rm1000e-white-thermalprotect-cp-9020339-eu",
+  "slug": "corsair-rm1000e-white-thermalprotect-cp-9020339-eu",
+  "name": "Corsair RM1000e White ThermalProtect (CP-9020339-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020339-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/eu/en/p/psu/CP-9020339-EU/rm1000e-atx-31-low-noise-atx-power-supply-with-thermalprotect-12v-2x6-cable-white-cp-9020339-eu",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Cybenetics": "Cybenetics Platinum",
+   "Cybenetics ruido": "A-",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "corsair-rm850e-white-thermalprotect-cp-9020338-eu",
+  "slug": "corsair-rm850e-white-thermalprotect-cp-9020338-eu",
+  "name": "Corsair RM850e White ThermalProtect (CP-9020338-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020338-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/es/es/p/psu/cp-9020338-eu/rm850e-atx-3-1-low-noise-atx-power-supply-with-thermalprotect-12v-2x6-cable-white-cp-9020338-eu",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Cybenetics ruido": "A",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "corsair-rm850e-2025-cp-9020296-eu",
+  "slug": "corsair-rm850e-2025-cp-9020296-eu",
+  "name": "Corsair RM850e 2025 (CP-9020296-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020296-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/eu/en/p/psu/cp-9020296-eu/rme-series-rm850e-fully-modular-low-noise-atx-power-supply-eu-cp-9020296-eu",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Cybenetics": "Cybenetics Gold",
+   "Cybenetics ruido": "A",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "corsair-rm750e-2025-white-cp-9020292-eu",
+  "slug": "corsair-rm750e-2025-white-cp-9020292-eu",
+  "name": "Corsair RM750e 2025 White (CP-9020292-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020292-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/eu/en/p/psu/cp-9020292-eu/rme-series-rm750e-fully-modular-low-noise-atx-power-supply-white-eu-cp-9020292-eu",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Cybenetics": "Cybenetics Gold",
+   "Cybenetics ruido": "A",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "corsair-rm750x-shift-white-cp-9020273-eu",
+  "slug": "corsair-rm750x-shift-white-cp-9020273-eu",
+  "name": "Corsair RM750x SHIFT White (CP-9020273-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020273-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/eu/en/p/psu/cp-9020273-eu/rm750x-shift-80-plus-gold-fully-modular-atx-power-supply-white-eu-cp-9020273-eu",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Gold",
+   "Cybenetics ruido": "A+",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "corsair-ws3000-3000w-cp-9020312-eu",
+  "slug": "corsair-ws3000-3000w-cp-9020312-eu",
+  "name": "Corsair WS3000 3000W (CP-9020312-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020312-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/eu/en/p/psu/cp-9020312-eu/ws3000-3000w-atx-3-1-fully-modular-workstation-power-supply-eu-cp-9020312-eu",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "3000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "corsair-cx550-cp-9020277-eu",
+  "slug": "corsair-cx550-cp-9020277-eu",
+  "name": "Corsair CX550 (CP-9020277-EU)",
+  "category_id": "psu",
+  "brand": "Corsair",
+  "mpn": "CP-9020277-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/eu/en/p/psu/cp-9020277-eu/cx-series-cx550-550-watt-80-plus-bronze-atx-power-supply-eu-cp-9020277-eu",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+  "slug": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+  "name": "CoolBox Basic 500GR-T TFX 500W (COO-FA500TGR)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-FA500TGR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-t/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "TFX"
+  }
+ },
+ {
+  "id": "coolbox-coolpower-650w-coo-facpo-650",
+  "slug": "coolbox-coolpower-650w-coo-facpo-650",
+  "name": "CoolBox CoolPower 650W (COO-FACPO-650)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-FACPO-650",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/coolpower-650w/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Conector GPU": "PCIe 8 pines"
+  }
+ },
+ {
+  "id": "coolbox-deeppower-800w-dg-pws800-85b",
+  "slug": "coolbox-deeppower-800w-dg-pws800-85b",
+  "name": "CoolBox DeepPower 800W (DG-PWS800-85B)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "DG-PWS800-85B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/fuente-de-alimentacion-deeppower-800w/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "800 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "coolbox-deepenergy-rgb-600w-semi-modular-dg-pws600-mrbz",
+  "slug": "coolbox-deepenergy-rgb-600w-semi-modular-dg-pws600-mrbz",
+  "name": "CoolBox DeepEnergy RGB 600W Semi-Modular (DG-PWS600-MRBZ)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "DG-PWS600-MRBZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/fuente-de-alimentacion-semi-modulardeep-energy-600w/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "600 W",
+   "Estándar ATX": "2.x",
+   "Modular": "Semimodular",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+  "slug": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+  "name": "CoolBox Basic 500GR-S SFX 500W (COO-FA500SGR)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-FA500SGR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-s/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "SFX"
+  }
+ },
+ {
+  "id": "coolbox-powerline-iii-850w-coo-fapw3-850",
+  "slug": "coolbox-powerline-iii-850w-coo-fapw3-850",
+  "name": "CoolBox PowerLine III 850W (COO-FAPW3-850)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-FAPW3-850",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-850w-powerline3/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "coolbox-force-br-500-500w-coo-pwep500-85s",
+  "slug": "coolbox-force-br-500-500w-coo-pwep500-85s",
+  "name": "CoolBox Force BR-500 500W (COO-PWEP500-85S)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-PWEP500-85S",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-forcebr-500-80plusbronze/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Conector GPU": "PCIe 8 pines"
+  }
+ }
+]

@@ -1,0 +1,453 @@
+[
+ {
+  "id": "coolbox-m440-coo-pcm440-0c",
+  "slug": "coolbox-m440-coo-pcm440-0c",
+  "name": "Coolbox M440 (COO-PCM440-0C)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM440-0C",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atx-pc-m440/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "coolbox-ga700-darkside-coo-cha-ga700-0",
+  "slug": "coolbox-ga700-darkside-coo-cha-ga700-0",
+  "name": "Coolbox GA700 DarkSide (COO-CHA-GA700-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GA700-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-atx-ga700-darkside/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro"
+  }
+ },
+ {
+  "id": "coolbox-m460-coo-pcm460-1",
+  "slug": "coolbox-m460-coo-pcm460-1",
+  "name": "Coolbox M460 (COO-PCM460-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM460-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m460/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "coolbox-t100-slim-coo-pct100-0",
+  "slug": "coolbox-t100-slim-coo-pct100-0",
+  "name": "Coolbox T100 Slim (COO-PCT100-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCT100-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-t100-slim/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-gm220-mpfusion-coo-cha-gm220b-0",
+  "slug": "coolbox-gm220-mpfusion-coo-cha-gm220b-0",
+  "name": "Coolbox GM220 MPFusion (COO-CHA-GM220B-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GM220B-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-gm220-mpfusion/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado"
+  }
+ },
+ {
+  "id": "coolbox-ga300-grid-line-negra-coo-cha-ga300b-0",
+  "slug": "coolbox-ga300-grid-line-negra-coo-cha-ga300b-0",
+  "name": "Coolbox GA300 Grid Line Negra (COO-CHA-GA300B-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GA300B-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-ga300-grid-line/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado"
+  }
+ },
+ {
+  "id": "coolbox-m440-coo-pcm440-1",
+  "slug": "coolbox-m440-coo-pcm440-1",
+  "name": "Coolbox M440 (COO-PCM440-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM440-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atx-pc-m440/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "coolbox-m680-coo-pcm680-1",
+  "slug": "coolbox-m680-coo-pcm680-1",
+  "name": "Coolbox M680 (COO-PCM680-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM680-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m680/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "coolbox-a850-coo-pca850-0",
+  "slug": "coolbox-a850-coo-pca850-0",
+  "name": "Coolbox A850 (COO-PCA850-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCA850-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-atx-para-pc-a850/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX",
+   "Longitud GPU máxima": "330 mm"
+  }
+ },
+ {
+  "id": "coolbox-t370-slim-coo-pct370-1",
+  "slug": "coolbox-t370-slim-coo-pct370-1",
+  "name": "Coolbox T370 Slim (COO-PCT370-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCT370-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-t370-slim/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-gm200-vision-lite-negra-coo-cha-gm200b-0",
+  "slug": "coolbox-gm200-vision-lite-negra-coo-cha-gm200b-0",
+  "name": "Coolbox GM200 Vision Lite Negra (COO-CHA-GM200B-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GM200B-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-gm200-vision-lite/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado"
+  }
+ },
+ {
+  "id": "coolbox-t313-slim-coo-pct313-1",
+  "slug": "coolbox-t313-slim-coo-pct313-1",
+  "name": "Coolbox T313 Slim (COO-PCT313-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCT313-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-t313-slim/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-ga300-grid-line-blanca-coo-cha-ga300w-0",
+  "slug": "coolbox-ga300-grid-line-blanca-coo-cha-ga300w-0",
+  "name": "Coolbox GA300 Grid Line Blanca (COO-CHA-GA300W-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GA300W-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-ga300-grid-line/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado"
+  }
+ },
+ {
+  "id": "coolbox-ge2000-dualview-coo-cha-ge2000-0",
+  "slug": "coolbox-ge2000-dualview-coo-cha-ge2000-0",
+  "name": "Coolbox GE2000 DualView (COO-CHA-GE2000-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GE2000-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-ge2000-dualview/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "395 mm"
+  }
+ },
+ {
+  "id": "coolbox-ga450-star-light-blanca-coo-cha-ga450w-0",
+  "slug": "coolbox-ga450-star-light-blanca-coo-cha-ga450w-0",
+  "name": "Coolbox GA450 Star Light Blanca (COO-CHA-GA450W-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GA450W-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-ga450-star-light/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "340 mm"
+  }
+ },
+ {
+  "id": "coolbox-m550c-coo-pcm550c-1",
+  "slug": "coolbox-m550c-coo-pcm550c-1",
+  "name": "Coolbox M550C (COO-PCM550C-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM550C-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m550-usb-c-fuente-alimentacion/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "coolbox-gm100-vision-coo-cha-gm100-0",
+  "slug": "coolbox-gm100-vision-coo-cha-gm100-0",
+  "name": "Coolbox GM100 Vision (COO-CHA-GM100-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GM100-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-gm100-vision/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "340 mm"
+  }
+ },
+ {
+  "id": "coolbox-gm200-vision-lite-blanca-coo-cha-gm200w-0",
+  "slug": "coolbox-gm200-vision-lite-blanca-coo-cha-gm200w-0",
+  "name": "Coolbox GM200 Vision Lite Blanca (COO-CHA-GM200W-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GM200W-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-gm200-vision-lite/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado"
+  }
+ },
+ {
+  "id": "coolbox-ga450-star-light-negra-coo-cha-ga450b-0",
+  "slug": "coolbox-ga450-star-light-negra-coo-cha-ga450b-0",
+  "name": "Coolbox GA450 Star Light Negra (COO-CHA-GA450B-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GA450B-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-ga450-star-light/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "340 mm"
+  }
+ },
+ {
+  "id": "coolbox-mp1-mesh-blanca-coo-cha-mp1-0",
+  "slug": "coolbox-mp1-mesh-blanca-coo-cha-mp1-0",
+  "name": "Coolbox MP1 Mesh Blanca (COO-CHA-MP1-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-MP1-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-pc-blanca-mesh-atx-mp1/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "355 mm"
+  }
+ },
+ {
+  "id": "coolbox-m460-coo-pcm460-0",
+  "slug": "coolbox-m460-coo-pcm460-0",
+  "name": "Coolbox M460 (COO-PCM460-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM460-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m460/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "coolbox-t450s-slim-cajcoot450s-bz",
+  "slug": "coolbox-t450s-slim-cajcoot450s-bz",
+  "name": "Coolbox T450S Slim (CAJCOOT450S-BZ)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "CAJCOOT450S-BZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atx-t450s-slim-usb-30/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX"
+  }
+ },
+ {
+  "id": "coolbox-t310-slim-coo-pct310-bz",
+  "slug": "coolbox-t310-slim-coo-pct310-bz",
+  "name": "Coolbox T310 Slim (COO-PCT310-BZ)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCT310-BZ",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-t310-slim-convertible/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-m100-coo-pcm100-0",
+  "slug": "coolbox-m100-coo-pcm100-0",
+  "name": "Coolbox M100 (COO-PCM100-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM100-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-microatx-m100/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-m870-coo-pcm870-1",
+  "slug": "coolbox-m870-coo-pcm870-1",
+  "name": "Coolbox M870 (COO-PCM870-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM870-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m870/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-m640c-coo-pcm640c-0",
+  "slug": "coolbox-m640c-coo-pcm640c-0",
+  "name": "Coolbox M640C (COO-PCM640C-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM640C-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-m640c-coo-pcm640c-1",
+  "slug": "coolbox-m640c-coo-pcm640c-1",
+  "name": "Coolbox M640C (COO-PCM640C-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCM640C-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX"
+  }
+ },
+ {
+  "id": "coolbox-gm350-darkface-coo-cha-gm350-0",
+  "slug": "coolbox-gm350-darkface-coo-cha-gm350-0",
+  "name": "Coolbox GM350 DarkFace (COO-CHA-GM350-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-GM350-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-micro-atx-gm350-darkface/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro"
+  }
+ },
+ {
+  "id": "coolbox-mp2-coo-cha-mp2-0",
+  "slug": "coolbox-mp2-coo-cha-mp2-0",
+  "name": "Coolbox MP2 (COO-CHA-MP2-0)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-CHA-MP2-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-microatx-mp2/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Longitud GPU máxima": "350 mm"
+  }
+ },
+ {
+  "id": "coolbox-a780-coo-pca780-3",
+  "slug": "coolbox-a780-coo-pca780-3",
+  "name": "Coolbox A780 (COO-PCA780-3)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCA780-3",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-atx-a780/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX"
+  }
+ },
+ {
+  "id": "coolbox-a780-coo-pca780-1",
+  "slug": "coolbox-a780-coo-pca780-1",
+  "name": "Coolbox A780 (COO-PCA780-1)",
+  "category_id": "case",
+  "brand": "CoolBox",
+  "mpn": "COO-PCA780-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-atx-a780/",
+  "specs_verified_at": "2026-11-09T16:39:13Z",
+  "specs": {
+   "Formatos compatibles": "ATX"
+  }
+ }
+]

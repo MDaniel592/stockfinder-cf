@@ -1,0 +1,171 @@
+[
+  {
+    "id": "asus-prime-b840m-k",
+    "slug": "asus-prime-b840m-k",
+    "name": "ASUS PRIME B840M-K",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1PK0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90MB1PK0-M0EAY0/PRIME-B840M-K",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-en/90MB1PK0-M0EAY0/PRIME-B840M-K",
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b840m-k/"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B840",
+      "Formato": "microATX",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "2",
+      "Ranuras M.2": "2",
+      "Memoria máxima": "128 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop identifies product number 90MB1PK0-M0EAY0 as PRIME B840M-K; official product specifications confirm AM5/B840, microATX and DDR5.",
+    "verification_review_id": 702
+  },
+  {
+    "id": "asus-prime-a620m-k",
+    "slug": "asus-prime-a620m-k",
+    "name": "ASUS PRIME A620M-K",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1F40-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/nl/90MB1F40-M0EAY0/PRIME-A620M-K",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/nl/90MB1F40-M0EAY0/PRIME-A620M-K",
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-a620m-k/"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620",
+      "Formato": "microATX",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "96 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop identifies product number 90MB1F40-M0EAY0 as PRIME A620M-K; the official product page confirms AM5/A620, microATX and DDR5.",
+    "verification_review_id": 712
+  },
+  {
+    "id": "asus-prime-b850m-k",
+    "slug": "asus-prime-b850m-k",
+    "name": "ASUS PRIME B850M-K",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1LV0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90MB1LV0-M0EAY0/ASUS-PRIME-B850M-K-Gaming-Mainboard-Sockel-AMD-AM5",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-en/90MB1LV0-M0EAY0/ASUS-PRIME-B850M-K-Gaming-Mainboard-Sockel-AMD-AM5",
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b850m-k/"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Formato": "microATX",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop identifies product number 90MB1LV0-M0EAY0 as PRIME B850M-K; the official product page confirms AM5/B850, microATX and DDR5.",
+    "verification_review_id": 714
+  },
+  {
+    "id": "asus-prime-b860m-k",
+    "slug": "asus-prime-b860m-k",
+    "name": "ASUS PRIME B860M-K",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1JT0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90MB1JT0-M0EAY0/PRIME-B860M-K",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-en/90MB1JT0-M0EAY0/PRIME-B860M-K",
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b860m-k/"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA 1851",
+      "Chipset": "Intel B860",
+      "Formato": "microATX",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop identifies product number 90MB1JT0-M0EAY0 as PRIME B860M-K; the official product page confirms LGA1851/B860, microATX and DDR5.",
+    "verification_review_id": 718
+  },
+  {
+    "id": "asus-prime-b760m-r-d4",
+    "slug": "asus-prime-b760m-r-d4",
+    "name": "ASUS PRIME B760M-R D4",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1HA0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-fr/90MB1HA0-M0EAY0/ASUS-PRIME-B760M-R-D4-Gaming-Mainboard-Sockel-Intel-LGA-1700",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-fr/90MB1HA0-M0EAY0/ASUS-PRIME-B760M-R-D4-Gaming-Mainboard-Sockel-Intel-LGA-1700",
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-r-d4/"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "LGA 1700",
+      "Chipset": "Intel B760",
+      "Formato": "microATX",
+      "Tipo de memoria": "DDR4",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "64 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop identifies product number 90MB1HA0-M0EAY0 as PRIME B760M-R D4; official product specifications confirm LGA1700/B760, microATX and DDR4.",
+    "verification_review_id": 749
+  },
+  {
+    "id": "asus-prime-b650m-k",
+    "slug": "asus-prime-b650m-k",
+    "name": "ASUS PRIME B650M-K",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1F60-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90MB1F60-M0EAY0/PRIME-B650M-K",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-en/90MB1F60-M0EAY0/PRIME-B650M-K",
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b650m-k/"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Formato": "microATX",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "96 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop identifies product number 90MB1F60-M0EAY0 as PRIME B650M-K; official product specifications confirm AM5/B650, microATX and DDR5.",
+    "verification_review_id": 781
+  },
+  {
+    "id": "adata-ax4u320016g16a-sbkd35g",
+    "slug": "adata-ax4u320016g16a-sbkd35g",
+    "name": "ADATA XPG SPECTRIX D35G 16GB DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "A-Data Technology",
+    "mpn": "AX4U320016G16A-SBKD35G",
+    "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_spectrix_d35g_ddr4_rgb_memory_20260402.pdf",
+    "manufacturer_sources": [
+      "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_spectrix_d35g_ddr4_rgb_memory_20260402.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "model": "XPG SPECTRIX D35G DDR4 RGB",
+      "capacity": "16 GB (1×16 GB)",
+      "speed": "DDR4-3200",
+      "latency": "CL16-20-20",
+      "color": "black",
+      "EAN": "4711085943316",
+      "Perfil": "Intel XMP 2.0"
+    },
+    "manufacturer_evidence": "ADATA/XPG datasheet lists AX4U320016G16A-SBKD35G as a black single-tray 16 GB DDR4-3200 CL16-20-20 module. Coolmod title says CL18, so the listing remains pending despite exact MPN.",
+    "verification_review_id": 803
+  }
+]

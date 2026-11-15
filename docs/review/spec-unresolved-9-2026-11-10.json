@@ -1,0 +1,222 @@
+[
+  {
+    "id": "gigabyte-gen4-4000e-500gb-g440e500g",
+    "key": "Disipador integrado",
+    "reason": "La ficha oficial de GIGABYTE devuelve 403 (bloqueo anti-bot) y no se evade; sin otra fuente oficial accesible.",
+    "tried": [
+      "gigabyte.com/Solid-State-Drive/.../sp (403 con curl y WebFetch)"
+    ]
+  },
+  {
+    "id": "gigabyte-gen4-4000e-1tb-g440e1tb",
+    "key": "Disipador integrado",
+    "reason": "La ficha oficial de GIGABYTE devuelve 403 (bloqueo anti-bot) y no se evade; sin otra fuente oficial accesible.",
+    "tried": [
+      "gigabyte.com/Solid-State-Drive/.../sp (403 con curl y WebFetch)"
+    ]
+  },
+  {
+    "id": "forgeon-nimbus-1tb-fo-ssd-n-1tb-6",
+    "key": "Disipador integrado",
+    "reason": "Solo hay ficha de tienda (PcComponentes, 403) sin cita del fabricante; no se localizo ficha oficial Forgeon.",
+    "tried": [
+      "manufacturer_url pccomponentes (403)"
+    ]
+  },
+  {
+    "id": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxtr2",
+    "key": "Disipador integrado",
+    "reason": "La pagina oficial de Corsair solo dice \"compact M.2 2280\"; no publica dimensiones ni menciona disipador, y no hay datasheet accesible.",
+    "tried": [
+      "corsair.com pagina de producto (curl y WebFetch)",
+      "busqueda de datasheet"
+    ]
+  },
+  {
+    "id": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxt",
+    "key": "Disipador integrado",
+    "reason": "La pagina oficial de Corsair solo dice \"compact M.2 2280\"; no publica dimensiones ni menciona disipador, y no hay datasheet accesible.",
+    "tried": [
+      "corsair.com pagina de producto (curl y WebFetch)",
+      "busqueda de datasheet"
+    ]
+  },
+  {
+    "id": "corsair-mp600-core-xt-1tb-cssd-f1000gbmp600cxtr2",
+    "key": "Disipador integrado",
+    "reason": "La pagina oficial de Corsair solo dice \"compact M.2 2280\"; no publica dimensiones ni menciona disipador, y no hay datasheet accesible.",
+    "tried": [
+      "corsair.com pagina de producto (curl y WebFetch)",
+      "busqueda de datasheet"
+    ]
+  },
+  {
+    "id": "corsair-mp600-core-xt-4tb-cssd-f4000gbmp600cxt",
+    "key": "Disipador integrado",
+    "reason": "La pagina oficial de Corsair solo dice \"compact M.2 2280\"; no publica dimensiones ni menciona disipador, y no hay datasheet accesible.",
+    "tried": [
+      "corsair.com pagina de producto (curl y WebFetch)",
+      "busqueda de datasheet"
+    ]
+  },
+  {
+    "id": "crucial-ct1000e100ssd8",
+    "key": "Disipador integrado",
+    "reason": "crucial.com rechaza la peticion (Request Rejected). El datasheet de E100 solo lista P/N SSD3 (Heatsink: No), no el SSD8 exacto; P3 Plus sin datasheet accesible.",
+    "tried": [
+      "crucial.com (bloqueado)",
+      "datasheet E100 alojado en simms.co.uk (P/N SSD3, no coincide)"
+    ]
+  },
+  {
+    "id": "crucial-ct480e100ssd8",
+    "key": "Disipador integrado",
+    "reason": "crucial.com rechaza la peticion (Request Rejected). El datasheet de E100 solo lista P/N SSD3 (Heatsink: No), no el SSD8 exacto; P3 Plus sin datasheet accesible.",
+    "tried": [
+      "crucial.com (bloqueado)",
+      "datasheet E100 alojado en simms.co.uk (P/N SSD3, no coincide)"
+    ]
+  },
+  {
+    "id": "crucial-ct2000e100ssd8",
+    "key": "Disipador integrado",
+    "reason": "crucial.com rechaza la peticion (Request Rejected). El datasheet de E100 solo lista P/N SSD3 (Heatsink: No), no el SSD8 exacto; P3 Plus sin datasheet accesible.",
+    "tried": [
+      "crucial.com (bloqueado)",
+      "datasheet E100 alojado en simms.co.uk (P/N SSD3, no coincide)"
+    ]
+  },
+  {
+    "id": "crucial-ct2000p3pssd8",
+    "key": "Disipador integrado",
+    "reason": "crucial.com rechaza la peticion (Request Rejected). El datasheet de E100 solo lista P/N SSD3 (Heatsink: No), no el SSD8 exacto; P3 Plus sin datasheet accesible.",
+    "tried": [
+      "crucial.com (bloqueado)",
+      "datasheet E100 alojado en simms.co.uk (P/N SSD3, no coincide)"
+    ]
+  },
+  {
+    "id": "dell-400-avss",
+    "key": "Formato",
+    "reason": "dell.com devuelve 403; no hay ficha oficial accesible con P/N 400-AVSS.",
+    "tried": [
+      "dell.com/.../400-avss (403)"
+    ]
+  },
+  {
+    "id": "dell-400-avss",
+    "key": "Lectura secuencial",
+    "reason": "dell.com devuelve 403; cifras (390 vs 450 MB/s) solo en tiendas y datasheet de serie S3520, sin confirmar el M.2 480GB.",
+    "tried": [
+      "dell.com (403)",
+      "busqueda Intel DC S3520 M.2"
+    ]
+  },
+  {
+    "id": "chieftec-iceberg-pro-360-dark-clc-360-vrm-blk",
+    "key": "Sockets compatibles",
+    "reason": "chieftec.eu devuelve 403 (curl y WebFetch); no se evade. Un buscador resume la ficha pero no se acepta de segunda mano.",
+    "tried": [
+      "chieftec.eu/products-detail/678/CLC-360-VRM-BLK (403)"
+    ]
+  },
+  {
+    "id": "chieftec-iceberg-pro-360-dark-clc-360-vrm-blk",
+    "key": "Ventiladores",
+    "reason": "chieftec.eu devuelve 403 (curl y WebFetch); no se evade. Un buscador resume la ficha pero no se acepta de segunda mano.",
+    "tried": [
+      "chieftec.eu/products-detail/678/CLC-360-VRM-BLK (403)"
+    ]
+  },
+  {
+    "id": "chieftec-iceberg-pro-360-dark-clc-360-vrm-blk",
+    "key": "Radiador",
+    "reason": "chieftec.eu devuelve 403 (curl y WebFetch); no se evade. Un buscador resume la ficha pero no se acepta de segunda mano.",
+    "tried": [
+      "chieftec.eu/products-detail/678/CLC-360-VRM-BLK (403)"
+    ]
+  },
+  {
+    "id": "rampage-octagon-c60-white",
+    "key": "Altura",
+    "reason": "rampage.com.tr responde 429 (rate limit) en reintentos; no se insiste.",
+    "tried": [
+      "rampage.com.tr (429 x2)"
+    ]
+  },
+  {
+    "id": "tryx-panorama-se-360-argb-white-l-p360l-am3m-g0w",
+    "key": "Ventiladores",
+    "reason": "tryx.com es SPA sin texto; shop.tryx.com responde 429. Un buscador cita 120x120x25 mm en la ficha Black, pero el recuento de 3 ventiladores no esta explicito.",
+    "tried": [
+      "tryx.com ficha white-360 (sin contenido)",
+      "shop.tryx.com (429)"
+    ]
+  },
+  {
+    "id": "tempest-iceflow-240-argb-black-tp-lco-ice-240w-b",
+    "key": "Ventiladores",
+    "reason": "Solo ficha de tienda PcComponentes (403 desde curl); sin web oficial Tempest con especificaciones; la ficha no da el tamano del ventilador.",
+    "tried": [
+      "pccomponentes.com (403)",
+      "busqueda web"
+    ]
+  },
+  {
+    "id": "tempest-iceflow-240-argb-white-tp-lco-ice-240w-w",
+    "key": "Ventiladores",
+    "reason": "Solo ficha de tienda PcComponentes (403 desde curl); sin web oficial Tempest con especificaciones; la ficha no da el tamano del ventilador.",
+    "tried": [
+      "pccomponentes.com (403)",
+      "busqueda web"
+    ]
+  },
+  {
+    "id": "modecom-volcano-0c-t100-negro-mc-c-t100-000-b",
+    "key": "Altura",
+    "reason": "modecom.pl responde 429; la estimacion previa (153 mm) viene de otros modelos Volcano y no vale.",
+    "tried": [
+      "modecom.pl/en/products/volcano-0c-t100-120-black (429 x2)"
+    ]
+  },
+  {
+    "id": "tempest-cooler-6pipes-black-a-rgb-2x120mm-tp-coolpro-6pb2",
+    "key": "Sockets compatibles",
+    "reason": "Solo ficha de tienda PcComponentes (403); sin web oficial Tempest accesible.",
+    "tried": [
+      "pccomponentes.com (403)"
+    ]
+  },
+  {
+    "id": "tempest-cooler-6pipes-black-a-rgb-2x120mm-tp-coolpro-6pb2",
+    "key": "Altura",
+    "reason": "Solo ficha de tienda PcComponentes (403); sin web oficial Tempest accesible.",
+    "tried": [
+      "pccomponentes.com (403)"
+    ]
+  },
+  {
+    "id": "tempest-cooler-6pipes-white-a-rgb-2x120mm-tp-coolpro-6pw2",
+    "key": "Sockets compatibles",
+    "reason": "Solo ficha de tienda PcComponentes (403); sin web oficial Tempest accesible.",
+    "tried": [
+      "pccomponentes.com (403)"
+    ]
+  },
+  {
+    "id": "tempest-cooler-6pipes-white-a-rgb-2x120mm-tp-coolpro-6pw2",
+    "key": "Altura",
+    "reason": "Solo ficha de tienda PcComponentes (403); sin web oficial Tempest accesible.",
+    "tried": [
+      "pccomponentes.com (403)"
+    ]
+  },
+  {
+    "id": "amd-ryzen-7-8700g",
+    "key": "Disipador incluido",
+    "reason": "La pagina oficial AMD del 8700G no muestra el campo Thermal Solution; no se pudo comprobar.",
+    "tried": [
+      "amd.com 8700g (sin campo de refrigerador)"
+    ]
+  }
+]

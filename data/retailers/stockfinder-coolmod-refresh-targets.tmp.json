@@ -1,0 +1,51 @@
+[
+  {
+    "review_id": 750,
+    "product_id": "gigabyte-z790-aorus-elite-ax",
+    "retailer_sku": "PROD-024826",
+    "mpn": "Z790 AORUS ELITE AX",
+    "url_public": "https://www.coolmod.com/gigabyte-z790-aorus-elite-ax-socket-1700/"
+  },
+  {
+    "review_id": 760,
+    "product_id": "sapphire-52122-02-40g",
+    "retailer_sku": "PROD-044802",
+    "mpn": "52122-02-40G",
+    "url_public": "https://www.coolmod.com/sapphire-pure-x870a-wifi-7-socket-am5/"
+  },
+  {
+    "review_id": 776,
+    "product_id": "sapphire-52123-11-40g",
+    "retailer_sku": "PROD-043861",
+    "mpn": "52123-11-40G",
+    "url_public": "https://www.coolmod.com/sapphire-pure-b850a-wifi7-socket-am5/"
+  },
+  {
+    "review_id": 865,
+    "product_id": "sapphire-52112-04-40g",
+    "retailer_sku": "PROD-045428",
+    "mpn": "52112-04-40G",
+    "url_public": "https://www.coolmod.com/sapphire-b650m-e-socket-am5/"
+  },
+  {
+    "review_id": 892,
+    "product_id": "gigabyte-x870-eagle-wifi7",
+    "retailer_sku": "PROD-036901",
+    "mpn": "X870 EAGLE WIFI7",
+    "url_public": "https://www.coolmod.com/gigabyte-x870-eagle-wifi-socket-am5/"
+  },
+  {
+    "review_id": 903,
+    "product_id": "gigabyte-b650m-d3hp-ax",
+    "retailer_sku": "PROD-042538",
+    "mpn": "B650M D3HP AX",
+    "url_public": "https://www.coolmod.com/gigabyte-b650m-d3hp-ax-socket-am5/"
+  },
+  {
+    "review_id": 998,
+    "product_id": "sapphire-52123-02-40g",
+    "retailer_sku": "PROD-044720",
+    "mpn": "52123-02-40G",
+    "url_public": "https://www.coolmod.com/sapphire-pure-b850m-wifi-socket-am5/"
+  }
+]

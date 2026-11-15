@@ -1,0 +1,541 @@
+[
+ {
+  "id": "crucial-cp2k24g56c46u5",
+  "slug": "crucial-cp2k24g56c46u5",
+  "name": "Crucial Pro 48 GB (2 × 24 GB) DDR5-5600 (CP2K24G56C46U5)",
+  "category_id": "ram",
+  "brand": "Crucial",
+  "mpn": "CP2K24G56C46U5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.crucial.com/memory/ddr5/cp2k24g56c46u5",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.crucial.com/memory/ddr5/cp2k24g56c46u5",
+    "supports": "Ficha crucial.com: Crucial Pro 48GB Kit (24GBx2) DDR5-5600 UDIMM, CP2K24G56C46U5."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "48 GB",
+   "Módulos": "2 × 24 GB",
+   "Velocidad": "5600 MT/s",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 3.0 y AMD EXPO"
+  }
+ },
+ {
+  "id": "crucial-ct2k32g56c46u5",
+  "slug": "crucial-ct2k32g56c46u5",
+  "name": "Crucial 64 GB (2 × 32 GB) DDR5-5600 (CT2K32G56C46U5)",
+  "category_id": "ram",
+  "brand": "Crucial",
+  "mpn": "CT2K32G56C46U5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.crucial.com/memory/ddr5/ct2k32g56c46u5",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.crucial.com/memory/ddr5/ct2k32g56c46u5",
+    "supports": "Ficha crucial.com: Crucial 64GB Kit (32GBx2) DDR5-5600 UDIMM, CT2K32G56C46U5."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "crucial-cp16g56c46u5",
+  "slug": "crucial-cp16g56c46u5",
+  "name": "Crucial Pro 16 GB DDR5-5600 (CP16G56C46U5)",
+  "category_id": "ram",
+  "brand": "Crucial",
+  "mpn": "CP16G56C46U5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.crucial.com/memory/ddr5/cp16g56c46u5",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.crucial.com/memory/ddr5/cp16g56c46u5",
+    "supports": "Ficha crucial.com: Crucial Pro 16GB DDR5-5600 UDIMM, CP16G56C46U5."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "5600 MT/s",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 3.0 y AMD EXPO"
+  }
+ },
+ {
+  "id": "adata-ad5u480016g-r",
+  "slug": "adata-ad5u480016g-r",
+  "name": "ADATA Premier DDR5-4800 16 GB (AD5U480016G-R)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AD5U480016G-R",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.adata.com/en/consumer/category/computer-memory/dram-module-ddr5-4800-u-dimm/",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://assets.adata.com/storage/downloadfile/datasheet_ddr5_4800_u_dimm_20230829.pdf",
+    "supports": "Datasheet ADATA DDR5-4800 U-DIMM: tabla de pedido lista 16GB Retail AD5U480016G-R (EAN 4711085936462)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "4800 MT/s",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "adata-ax4u320016g16a-dtbkd35g",
+  "slug": "adata-ax4u320016g16a-dtbkd35g",
+  "name": "ADATA XPG SPECTRIX D35G RGB 32 GB (2 × 16 GB) DDR4-3200 CL16 (AX4U320016G16A-DTBKD35G)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AX4U320016G16A-DTBKD35G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.xpg.com/en/xpg/dram-modules-spectrix-d35g-rgb-ddr4",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_spectrix_d35g_ddr4_rgb_memory_20250926.pdf",
+    "supports": "Datasheet XPG SPECTRIX D35G: AX4U320016G16A-DTBKD35G, Dual Tray, 16GB por módulo, 3200 MT/s CL16-20-20 (EAN 4711085943323)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Formato": "UDIMM",
+   "Iluminación": "RGB"
+  }
+ },
+ {
+  "id": "adata-ax5u6000c3032g-slabbk",
+  "slug": "adata-ax5u6000c3032g-slabbk",
+  "name": "ADATA XPG LANCER BLADE 32 GB DDR5-6000 CL30 negro (AX5U6000C3032G-SLABBK)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AX5U6000C3032G-SLABBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.xpg.com/en/xpg/dram-modules-lancer-blade-ddr5",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://assets.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20260930.pdf",
+    "supports": "Datasheet XPG LANCER BLADE DDR5: AX5U6000C3032G-SLABBK, Single Tray, 32GB, 6000 MT/s CL30-40-40, 1.4V (EAN 4711085944566)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Formato": "UDIMM",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "adata-ax5u6000c3032g-samrbk",
+  "slug": "adata-ax5u6000c3032g-samrbk",
+  "name": "ADATA XPG ARMAX RGB 32 GB DDR5-6000 CL30 negro (AX5U6000C3032G-SAMRBK)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AX5U6000C3032G-SAMRBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.xpg.com/en/xpg/dram-modules-armax-rgb-ddr5",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_armax_rgb_ddr5_memory_20251128_v1.pdf",
+    "supports": "Datasheet XPG ARMAX RGB DDR5: AX5U6000C3032G-SAMRBK, Single Tray, 32GB, 6000 MT/s 30-40-40, 1.4V (EAN 4711658155016)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Formato": "UDIMM",
+   "Iluminación": "RGB",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "adata-ax5u6000c3016g-dtamrbk",
+  "slug": "adata-ax5u6000c3016g-dtamrbk",
+  "name": "ADATA XPG ARMAX RGB 32 GB (2 × 16 GB) DDR5-6000 CL30 negro (AX5U6000C3016G-DTAMRBK)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AX5U6000C3016G-DTAMRBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.xpg.com/en/xpg/dram-modules-armax-rgb-ddr5",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_armax_rgb_ddr5_memory_20251128_v1.pdf",
+    "supports": "Datasheet XPG ARMAX RGB DDR5: AX5U6000C3016G-DTAMRBK, Dual Tray, 16GB por módulo, 6000 MT/s 30-40-40, 1.4V (EAN 4711658154927)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Formato": "UDIMM",
+   "Iluminación": "RGB",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "adata-ax5u6000c3032g-dtamrbk",
+  "slug": "adata-ax5u6000c3032g-dtamrbk",
+  "name": "ADATA XPG ARMAX RGB 64 GB (2 × 32 GB) DDR5-6000 CL30 negro (AX5U6000C3032G-DTAMRBK)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AX5U6000C3032G-DTAMRBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.xpg.com/en/xpg/dram-modules-armax-rgb-ddr5",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_armax_rgb_ddr5_memory_20251128_v1.pdf",
+    "supports": "Datasheet XPG ARMAX RGB DDR5: AX5U6000C3032G-DTAMRBK, Dual Tray, 32GB por módulo, 6000 MT/s 30-40-40, 1.4V (EAN 4711658155023)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Formato": "UDIMM",
+   "Iluminación": "RGB",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "adata-ax5u6400c3216g-dtlabbk",
+  "slug": "adata-ax5u6400c3216g-dtlabbk",
+  "name": "ADATA XPG LANCER BLADE 32 GB (2 × 16 GB) DDR5-6400 CL32 negro (AX5U6400C3216G-DTLABBK)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AX5U6400C3216G-DTLABBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.xpg.com/en/xpg/dram-modules-lancer-blade-ddr5",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://assets.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20260930.pdf",
+    "supports": "Datasheet XPG LANCER BLADE DDR5: AX5U6400C3216G-DTLABBK, Dual Tray, 16GB por módulo, 6400 MT/s CL32-39-39, 1.4V (EAN 4711085944610)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6400 MT/s",
+   "Latencia": "CL32",
+   "Formato": "UDIMM",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "adata-ax4u360016g18i-dtbkd35",
+  "slug": "adata-ax4u360016g18i-dtbkd35",
+  "name": "ADATA XPG GAMMIX D35 32 GB (2 × 16 GB) DDR4-3600 CL18 negro (AX4U360016G18I-DTBKD35)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AX4U360016G18I-DTBKD35",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.xpg.com/en/xpg/dram-modules-gammix-d35-ddr4",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory.pdf",
+    "supports": "Datasheet XPG GAMMIX D35: AX4U360016G18I-DTBKD35, Dual Tray, 16GB por módulo, 3600 MT/s CL18-22-22 (EAN 4711085942968)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL18",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "teamgroup-tlzgd416g3200hc16cdc01",
+  "slug": "teamgroup-tlzgd416g3200hc16cdc01",
+  "name": "TEAMGROUP T-FORCE VULCAN Z gris 16 GB (2 × 8 GB) DDR4-3200 CL16 (TLZGD416G3200HC16CDC01)",
+  "category_id": "ram",
+  "brand": "TEAMGROUP",
+  "mpn": "TLZGD416G3200HC16CDC01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/vulcan-z-ddr4-gray/vulcan-z-ddr4-gray-TLZGD416G3200HC16CDC01/",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/spec-sheet/vulcan-z-en.pdf",
+    "supports": "Spec sheet oficial TEAMGROUP y ficha de producto: TLZGD416G3200HC16CDC01 figura en la tabla de modelos (2 × 8 GB, 3200 MT/s, CL16)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 2.0"
+  }
+ },
+ {
+  "id": "teamgroup-tlzgd432g3200hc16fdc01",
+  "slug": "teamgroup-tlzgd432g3200hc16fdc01",
+  "name": "TEAMGROUP T-FORCE VULCAN Z gris 32 GB (2 × 16 GB) DDR4-3200 CL16 (TLZGD432G3200HC16FDC01)",
+  "category_id": "ram",
+  "brand": "TEAMGROUP",
+  "mpn": "TLZGD432G3200HC16FDC01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/vulcan-z-ddr4-gray/vulcan-z-ddr4-gray-TLZGD432G3200HC16FDC01/",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/spec-sheet/vulcan-z-en.pdf",
+    "supports": "Spec sheet oficial TEAMGROUP y ficha de producto: TLZGD432G3200HC16FDC01 figura en la tabla de modelos (2 × 16 GB, 3200 MT/s, CL16)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 2.0"
+  }
+ },
+ {
+  "id": "teamgroup-tf3d416g3200hc16fdc01",
+  "slug": "teamgroup-tf3d416g3200hc16fdc01",
+  "name": "TEAMGROUP T-FORCE DELTA RGB negro 16 GB (2 × 8 GB) DDR4-3200 CL16 (TF3D416G3200HC16FDC01)",
+  "category_id": "ram",
+  "brand": "TEAMGROUP",
+  "mpn": "TF3D416G3200HC16FDC01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr4-black/delta-rgb-ddr4-black-TF3D416G3200HC16FDC01/",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "supports": "Spec sheet oficial TEAMGROUP y ficha de producto: TF3D416G3200HC16FDC01 figura en la tabla de modelos (2 × 8 GB, 3200 MT/s, CL16)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 2.0",
+   "Iluminación": "RGB"
+  }
+ },
+ {
+  "id": "teamgroup-tf3d432g3200hc16fdc01",
+  "slug": "teamgroup-tf3d432g3200hc16fdc01",
+  "name": "TEAMGROUP T-FORCE DELTA RGB negro 32 GB (2 × 16 GB) DDR4-3200 CL16 (TF3D432G3200HC16FDC01)",
+  "category_id": "ram",
+  "brand": "TEAMGROUP",
+  "mpn": "TF3D432G3200HC16FDC01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr4-black/delta-rgb-ddr4-black-TF3D432G3200HC16FDC01/",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "supports": "Spec sheet oficial TEAMGROUP y ficha de producto: TF3D432G3200HC16FDC01 figura en la tabla de modelos (2 × 16 GB, 3200 MT/s, CL16)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 2.0",
+   "Iluminación": "RGB"
+  }
+ },
+ {
+  "id": "teamgroup-ff3d532g7600hc36ddc01",
+  "slug": "teamgroup-ff3d532g7600hc36ddc01",
+  "name": "TEAMGROUP T-FORCE DELTA RGB negro 32 GB (2 × 16 GB) DDR5-7600 CL36 (FF3D532G7600HC36DDC01)",
+  "category_id": "ram",
+  "brand": "TEAMGROUP",
+  "mpn": "FF3D532G7600HC36DDC01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr5-black/delta-rgb-ddr5-black-FF3D532G7600HC36DDC01/",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "supports": "Spec sheet oficial TEAMGROUP y ficha de producto: FF3D532G7600HC36DDC01 figura en la tabla de modelos (2 × 16 GB, 7600 MT/s, CL36)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "7600 MT/s",
+   "Latencia": "CL36",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 3.0 y AMD EXPO",
+   "Iluminación": "RGB"
+  }
+ },
+ {
+  "id": "teamgroup-tf4d416g3600hc18jdc01",
+  "slug": "teamgroup-tf4d416g3600hc18jdc01",
+  "name": "TEAMGROUP T-FORCE DELTA RGB blanco 16 GB (2 × 8 GB) DDR4-3600 CL18 (TF4D416G3600HC18JDC01)",
+  "category_id": "ram",
+  "brand": "TEAMGROUP",
+  "mpn": "TF4D416G3600HC18JDC01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr4-white/delta-rgb-ddr4-white-TF4D416G3600HC18JDC01/",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "supports": "Spec sheet oficial TEAMGROUP y ficha de producto: TF4D416G3600HC18JDC01 figura en la tabla de modelos (2 × 8 GB, 3600 MT/s, CL18)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL18",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 2.0",
+   "Iluminación": "RGB"
+  }
+ },
+ {
+  "id": "apacer-el-08g2v-gnh",
+  "slug": "apacer-el-08g2v-gnh",
+  "name": "Apacer DDR4-2666 8 GB (EL.08G2V.GNH)",
+  "category_id": "ram",
+  "brand": "Apacer",
+  "mpn": "EL.08G2V.GNH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+    "supports": "Página oficial Apacer DDR4 Desktop Memory Module: EL.08G2V.GNH, DDR4 2666, 8GB."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "2666 MT/s",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "apacer-el-16g2v-gnh",
+  "slug": "apacer-el-16g2v-gnh",
+  "name": "Apacer DDR4-2666 16 GB (EL.16G2V.GNH)",
+  "category_id": "ram",
+  "brand": "Apacer",
+  "mpn": "EL.16G2V.GNH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+    "supports": "Página oficial Apacer DDR4 Desktop Memory Module: EL.16G2V.GNH, DDR4 2666, 16GB."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "2666 MT/s",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "apacer-el-08g21-gsh",
+  "slug": "apacer-el-08g21-gsh",
+  "name": "Apacer DDR4-3200 8 GB (EL.08G21.GSH)",
+  "category_id": "ram",
+  "brand": "Apacer",
+  "mpn": "EL.08G21.GSH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+    "supports": "Página oficial Apacer DDR4 Desktop Memory Module: EL.08G21.GSH, DDR4 3200, 8GB."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "apacer-ah5u16g56c522mbaa-1",
+  "slug": "apacer-ah5u16g56c522mbaa-1",
+  "name": "Apacer NOX 16 GB DDR5-5600 negro (AH5U16G56C522MBAA-1)",
+  "category_id": "ram",
+  "brand": "Apacer",
+  "mpn": "AH5U16G56C522MBAA-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/en/product/zadak-product/detail/zadak_memory/nox_ddr5",
+  "specs_verified_at": "2026-11-08T18:30:00Z",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Data%20Sheet_NOX%20DDR5.pdf",
+    "supports": "Datasheet Apacer NOX DDR5: AH5U16G56C522MBAA-1, DDR5-5600, 16GB 16GBx1 Single (EAN 4712389908896)."
+   }
+  ],
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "5600 MT/s",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 3.0"
+  }
+ }
+]

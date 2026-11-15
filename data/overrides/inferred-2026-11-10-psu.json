@@ -1,0 +1,452 @@
+[
+  {
+    "product_id": "forgeon-bolt-1000w-white-fo-psu-bol1001w",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-bolt-psu-1000w-80-plus-gold-full-modular-blanca",
+    "note": "INFERIDO: fuente ATX sin conector 12V-2x6/12VHPWR; las ATX 3.x lo exigen, así que es de la generación 2.x."
+  },
+  {
+    "product_id": "forgeon-bolt-850w-white-fo-psu-bol851w",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-bolt-psu-850w-80-plus-gold-full-modular-fuente-de-alimentacion-blanca",
+    "note": "INFERIDO: fuente ATX sin conector 12V-2x6/12VHPWR; las ATX 3.x lo exigen, así que es de la generación 2.x."
+  },
+  {
+    "product_id": "coolbox-coo-facpo-750",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/coolpower-750w/",
+    "note": "INFERIDO: fuente ATX sin conector 12V-2x6/12VHPWR; las ATX 3.x lo exigen, así que es de la generación 2.x."
+  },
+  {
+    "product_id": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx",
+    "note": "INFERIDO: fuente ATX sin conector 12V-2x6/12VHPWR; las ATX 3.x lo exigen, así que es de la generación 2.x."
+  },
+  {
+    "product_id": "gigabyte-gp-p750bs",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P750BS/sp",
+    "note": "INFERIDO: fuente ATX sin conector 12V-2x6/12VHPWR; las ATX 3.x lo exigen, así que es de la generación 2.x."
+  },
+  {
+    "product_id": "coolbox-coolpower-650w-coo-facpo-650",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/coolpower-650w/",
+    "note": "INFERIDO: fuente ATX sin conector 12V-2x6/12VHPWR; las ATX 3.x lo exigen, así que es de la generación 2.x."
+  },
+  {
+    "product_id": "coolbox-powerline-iii-850w-coo-fapw3-850",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "2.x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-850w-powerline3/",
+    "note": "INFERIDO: fuente ATX sin conector 12V-2x6/12VHPWR; las ATX 3.x lo exigen, así que es de la generación 2.x."
+  },
+  {
+    "product_id": "msi-mag-a750bn-pcie5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Power-Supply/MAG-A750BN-PCIE5/Specification",
+    "note": "INFERIDO: mismo valor en 2 producto(s) hermano(s) de la misma serie (msi-mag-a750bn-pcie5-ii, msi-mag-a750gl-pcie5); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "gigabyte-gp-p750bs",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P750BS/sp",
+    "note": "INFERIDO: mismo valor en 2 producto(s) hermano(s) de la misma serie (gigabyte-gp-ud750gm-pg5-v2, gigabyte-gp-p750gm); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "gigabyte-gp-ud1000gm-pg5",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "value": "3.1",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-UD1000GM-PG5/sp",
+    "note": "INFERIDO: mismo valor en 2 producto(s) hermano(s) de la misma serie (gigabyte-ud1000gm-pg5-v2, gigabyte-gp-ud1000gm-pg5-v2); no es dato de ficha de este modelo."
+  },
+  {
+    "product_id": "tooq-tqhelios-650sp",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqhelios-650sp/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqhelios-750sp",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqhelios-750sp/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqep-500s-sfx",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-500s-sfx/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqapolo-500sp",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-500sp/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqep-500sse",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-500sse/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqep-500sse-o",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-500sse-o/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqapolo-600sp",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-600sp/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqapolo-700sp",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-700sp/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqapolo-750sp",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-750sp/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqxgeii-700sap",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqxgeii-700sap/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqep-500s-int",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-500s-int/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqapolo-650sp",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqapolo-650sp/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tooq-tqep-tfx500s-o",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqep-tfx500s-o/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "gigabyte-p550b",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P550B/sp",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "coolbox-coo-fapw3-650",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-650w-powerline3/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "coolbox-coo-fapw3-750",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-750w-powerline3/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "coolbox-coo-fapw3-550",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-powerline3-550w/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "coolbox-coo-facpo-750",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/coolpower-750w/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "coolbox-coo-fa550tgr",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-tfx-basic-550gr-t-550w/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "nox-urano-pro-550w-bronze",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-550w",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "nox-urano-pro-650w-bronze",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-650w",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "nox-urano-pro-750w-bronze",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-750w",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "nox-urano-pro-white-550w-bronze",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-550w",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "nox-urano-pro-white-650w-bronze",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-650w",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "nox-urano-pro-white-750w-bronze",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-750w",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "nox-nx-650w",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/nx-650w",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "unykach-52099",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-500w-52099/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "unykach-52500",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-500w-80-plus-bronce-52500/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "unykach-uk210551",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/es/consumo/fuentes-de-alimentacion/fuentes-de-alimentacion-atx/fuente-de-alimentacion-atx-550w-gaming-uk210551/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "chieftec-value-apb-500b8",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.chieftec.eu/products-detail/181/VALUE_SERIES/250/APB-500B8",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-t/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "coolbox-basic-500gr-s-sfx-500w-coo-fa500sgr",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-s/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "coolbox-force-br-500-500w-coo-pwep500-85s",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-forcebr-500-80plusbronze/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  },
+  {
+    "product_id": "lc-power-super-silent-lc6550-v2-3-550w",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Cables fijos",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.lc-power.com/en/lc6550-v2-3/",
+    "note": "INFERIDO: gama básica (<=750 W, sin certificación superior a Bronze): estas series se venden con cableado fijo; no es dato de ficha."
+  }
+]

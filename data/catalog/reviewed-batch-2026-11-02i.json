@@ -1,0 +1,182 @@
+[
+  {
+    "id": "powercolor-reaper-rx-9070-xt-16gb",
+    "slug": "powercolor-reaper-rx-9070-xt-16gb",
+    "name": "PowerColor Reaper Radeon RX 9070 XT 16 GB",
+    "category_id": "gpu",
+    "brand": "PowerColor",
+    "manufacturer_url": "https://www.powercolor.com/product--95.htm",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    },
+    "mpn": "RX9070XT 16G-A"
+  },
+  {
+    "id": "powercolor-hellhound-reva-rx-9070-xt-16gb",
+    "slug": "powercolor-hellhound-reva-rx-9070-xt-16gb",
+    "name": "PowerColor Hellhound Reva Radeon RX 9070 XT 16 GB",
+    "category_id": "gpu",
+    "brand": "PowerColor",
+    "manufacturer_url": "https://www.powercolor.com/product-detail267.htm",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    },
+    "mpn": "RX9070XT 16G-L/OC/REVA"
+  },
+  {
+    "id": "powercolor-red-devil-rx-9070-xt-oc-16gb",
+    "slug": "powercolor-red-devil-rx-9070-xt-oc-16gb",
+    "name": "PowerColor Red Devil Radeon RX 9070 XT OC 16 GB",
+    "category_id": "gpu",
+    "brand": "PowerColor",
+    "manufacturer_url": "https://www.powercolor.com/product--95.htm",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    },
+    "mpn": "RX9070XT 16G-E/OC"
+  },
+  {
+    "id": "asrock-rx-9070-xt-challenger-16gb",
+    "slug": "asrock-rx-9070-xt-challenger-16gb",
+    "name": "ASRock Radeon RX 9070 XT Challenger 16 GB",
+    "category_id": "gpu",
+    "brand": "ASRock",
+    "manufacturer_url": "https://asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Challenger%2016GB/index.asp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    },
+    "mpn": "RX9070XT CL 16G"
+  },
+  {
+    "id": "asrock-rx-9070-xt-steel-legend-16gb",
+    "slug": "asrock-rx-9070-xt-steel-legend-16gb",
+    "name": "ASRock Radeon RX 9070 XT Steel Legend 16 GB",
+    "category_id": "gpu",
+    "brand": "ASRock",
+    "manufacturer_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%2016GB/",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    },
+    "mpn": "RX9070XT SL 16G"
+  },
+  {
+    "id": "asrock-arc-b580-challenger-12gb-oc",
+    "slug": "asrock-arc-b580-challenger-12gb-oc",
+    "name": "ASRock Intel Arc B580 Challenger 12 GB OC",
+    "category_id": "gpu",
+    "brand": "ASRock",
+    "manufacturer_url": "https://asrock.com/Graphics-Card/Intel/Intel%20Arc%20B580%20Challenger%2012GB%20OC/",
+    "specs_verified_at": "2026-11-02T10:21:03.389171+00:00",
+    "specs": {
+      "Chip gráfico": "Arc B580",
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR6"
+    },
+    "mpn": "B580 CL 12GO"
+  },
+  {
+    "id": "msi-geforce-rtx-5070-12g-ventus-2x-oc",
+    "slug": "msi-geforce-rtx-5070-12g-ventus-2x-oc",
+    "name": "MSI GeForce RTX 5070 12G VENTUS 2X OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-12G-VENTUS-2X-OC/Specification",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070",
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "192 bits",
+      "Consumo (TGP)": "250 W",
+      "Fuente recomendada": "650 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2542 MHz"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5060-8g-ventus-2x-oc",
+    "slug": "msi-geforce-rtx-5060-8g-ventus-2x-oc",
+    "name": "MSI GeForce RTX 5060 8G VENTUS 2X OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-8G-VENTUS-2X-OC/Specification",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "145 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2527 MHz"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5070-ti-16g-ventus-3x-oc",
+    "slug": "msi-geforce-rtx-5070-ti-16g-ventus-3x-oc",
+    "name": "MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-Ti-16G-VENTUS-3X-OC/Specification",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2482 MHz"
+    }
+  },
+  {
+    "id": "sapphire-pulse-rx-9060-xt-oc-16gb",
+    "slug": "sapphire-pulse-rx-9060-xt-oc-16gb",
+    "name": "Sapphire PULSE Radeon RX 9060 XT OC 16 GB",
+    "category_id": "gpu",
+    "brand": "Sapphire",
+    "manufacturer_url": "https://nation.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-16g-gddr6",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)"
+    },
+    "mpn": "11350-03-20G"
+  }
+]

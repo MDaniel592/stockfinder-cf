@@ -1,0 +1,397 @@
+[
+ {
+  "id": "nox-hummer-zx-negra-nxhummerzx",
+  "slug": "nox-hummer-zx-negra-nxhummerzx",
+  "name": "NOX Hummer ZX Negra (NXHUMMERZX)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERZX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-zx",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "415 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-void-negra-nxhummervoid",
+  "slug": "nox-hummer-void-negra-nxhummervoid",
+  "name": "NOX Hummer Void Negra (NXHUMMERVOID)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERVOID",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-void",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "320 mm",
+   "Altura disipador máxima": "154 mm",
+   "Ventiladores incluidos": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-ether-blanco-y-negro-nxhummeretherbw",
+  "slug": "nox-hummer-ether-blanco-y-negro-nxhummeretherbw",
+  "name": "NOX Hummer Ether Blanco y Negro (NXHUMMERETHERBW)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERETHERBW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-ether-black-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "390 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-ether-blanca-nxhummeretherwh",
+  "slug": "nox-hummer-ether-blanca-nxhummeretherwh",
+  "name": "NOX Hummer Ether Blanca (NXHUMMERETHERWH)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERETHERWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-ether-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "390 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-ether-negra-nxhummeretherbk",
+  "slug": "nox-hummer-ether-negra-nxhummeretherbk",
+  "name": "NOX Hummer Ether Negra (NXHUMMERETHERBK)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERETHERBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-ether-black",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "390 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-infinity-epsilon-negra-nxinftyepsilon",
+  "slug": "nox-infinity-epsilon-negra-nxinftyepsilon",
+  "name": "NOX Infinity Epsilon Negra (NXINFTYEPSILON)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXINFTYEPSILON",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/infinity-epsilon",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "310 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-signal-blanca-nxhummersignalwh",
+  "slug": "nox-hummer-signal-blanca-nxhummersignalwh",
+  "name": "NOX Hummer Signal Blanca (NXHUMMERSIGNALWH)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERSIGNALWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-signal-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "420 mm",
+   "Altura disipador máxima": "174 mm",
+   "Ventiladores incluidos": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-signal-negra-nxhummersignalbk",
+  "slug": "nox-hummer-signal-negra-nxhummersignalbk",
+  "name": "NOX Hummer Signal Negra (NXHUMMERSIGNALBK)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERSIGNALBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-signal-black",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "420 mm",
+   "Altura disipador máxima": "174 mm",
+   "Ventiladores incluidos": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-astra-neo-blanca-nxhummerastraneowh",
+  "slug": "nox-hummer-astra-neo-blanca-nxhummerastraneowh",
+  "name": "NOX Hummer Astra Neo Blanca (NXHUMMERASTRANEOWH)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERASTRANEOWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-astra-neo-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "175 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-refresh-blanca-nxhummerrefreshwh",
+  "slug": "nox-hummer-refresh-blanca-nxhummerrefreshwh",
+  "name": "NOX Hummer Refresh Blanca (NXHUMMERREFRESHWH)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERREFRESHWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-refresh-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Malla",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "355 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-refresh-negra-nxhummerrefreshbk",
+  "slug": "nox-hummer-refresh-negra-nxhummerrefreshbk",
+  "name": "NOX Hummer Refresh Negra (NXHUMMERREFRESHBK)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERREFRESHBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-refresh-black",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Malla",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "355 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-anvil-negra-nxhummeranvilbk",
+  "slug": "nox-hummer-anvil-negra-nxhummeranvilbk",
+  "name": "NOX Hummer Anvil Negra (NXHUMMERANVILBK)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERANVILBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-anvil-black",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "5 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-anvil-blanca-nxhummeranvilwh",
+  "slug": "nox-hummer-anvil-blanca-nxhummeranvilwh",
+  "name": "NOX Hummer Anvil Blanca (NXHUMMERANVILWH)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERANVILWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-anvil-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "5 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-infinity-iota-blanca-nxinftyiotawh",
+  "slug": "nox-infinity-iota-blanca-nxinftyiotawh",
+  "name": "NOX Infinity Iota Blanca (NXINFTYIOTAWH)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXINFTYIOTAWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/infinity-iota-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "4 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-horus-negra-nxhummerhorus",
+  "slug": "nox-hummer-horus-negra-nxhummerhorus",
+  "name": "NOX Hummer Horus Negra (NXHUMMERHORUS)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERHORUS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-horus",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX"
+  }
+ },
+ {
+  "id": "nox-hummer-vault-negra-nxhummervault",
+  "slug": "nox-hummer-vault-negra-nxhummervault",
+  "name": "NOX Hummer Vault Negra (NXHUMMERVAULT)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERVAULT",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-vault",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Panel lateral": "Metal"
+  }
+ },
+ {
+  "id": "nox-hummer-nemesis-blanca-nxhummernmsswh",
+  "slug": "nox-hummer-nemesis-blanca-nxhummernmsswh",
+  "name": "NOX Hummer Nemesis Blanca (NXHUMMERNMSSWH)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERNMSSWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-nemesis-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "350 mm",
+   "Altura disipador máxima": "166 mm",
+   "Ventiladores incluidos": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-blade-blanca-nxhummerbladewh",
+  "slug": "nox-hummer-blade-blanca-nxhummerbladewh",
+  "name": "NOX Hummer Blade Blanca (NXHUMMERBLADEWH)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERBLADEWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-blade-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "455 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "5 × 140 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-blade-negra-nxhummerbladebk",
+  "slug": "nox-hummer-blade-negra-nxhummerbladebk",
+  "name": "NOX Hummer Blade Negra (NXHUMMERBLADEBK)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERBLADEBK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-blade-black",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "455 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "5 × 140 mm"
+  }
+ },
+ {
+  "id": "nox-forte-negra-nxforte",
+  "slug": "nox-forte-negra-nxforte",
+  "name": "NOX Forte Negra (NXFORTE)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXFORTE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/forte",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX",
+   "Formato fuente": "ATX",
+   "Ventiladores incluidos": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-quantum-negra-nxhummerquantum",
+  "slug": "nox-hummer-quantum-negra-nxhummerquantum",
+  "name": "NOX Hummer Quantum Negra (NXHUMMERQUANTUM)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERQUANTUM",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-quantum",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX"
+  }
+ },
+ {
+  "id": "nox-hummer-tgm-negra-nxhummertgm",
+  "slug": "nox-hummer-tgm-negra-nxhummertgm",
+  "name": "NOX Hummer TGM Negra (NXHUMMERTGM)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERTGM",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/cajas/hummer-tgm",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX"
+  }
+ }
+]

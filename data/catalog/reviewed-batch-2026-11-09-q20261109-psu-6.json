@@ -1,0 +1,158 @@
+[
+ {
+  "id": "nzxt-c750-bronze-pa-7b3bb-eu",
+  "slug": "nzxt-c750-bronze-pa-7b3bb-eu",
+  "name": "NZXT C750 Bronze (PA-7B3BB-EU)",
+  "category_id": "psu",
+  "brand": "NZXT",
+  "mpn": "PA-7B3BB-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/products/c750-bronze-atx",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "nzxt-c750-gold-core-pa-7g3bb-eu",
+  "slug": "nzxt-c750-gold-core-pa-7g3bb-eu",
+  "name": "NZXT C750 Gold Core (PA-7G3BB-EU)",
+  "category_id": "psu",
+  "brand": "NZXT",
+  "mpn": "PA-7G3BB-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/en-intl/products/c750-gold-core",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "150 mm"
+  }
+ },
+ {
+  "id": "nzxt-c850-gold-atx-3-1-white-pa-8g2bw-eu",
+  "slug": "nzxt-c850-gold-atx-3-1-white-pa-8g2bw-eu",
+  "name": "NZXT C850 Gold ATX 3.1 White (PA-8G2BW-EU)",
+  "category_id": "psu",
+  "brand": "NZXT",
+  "mpn": "PA-8G2BW-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/products/c850-gold-atx",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Cybenetics": "Cybenetics Gold",
+   "Cybenetics ruido": "A-",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "nzxt-c1500-platinum-atx-3-1-pa-5p1bb-eu",
+  "slug": "nzxt-c1500-platinum-atx-3-1-pa-5p1bb-eu",
+  "name": "NZXT C1500 Platinum ATX 3.1 (PA-5P1BB-EU)",
+  "category_id": "psu",
+  "brand": "NZXT",
+  "mpn": "PA-5P1BB-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/products/c1500-platinum",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1500 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Cybenetics ruido": "A-",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "180 mm"
+  }
+ },
+ {
+  "id": "deepcool-pf700-r-pf700d-ha0b-eu",
+  "slug": "deepcool-pf700-r-pf700d-ha0b-eu",
+  "name": "DeepCool PF700 (R-PF700D-HA0B-EU)",
+  "category_id": "psu",
+  "brand": "DeepCool",
+  "mpn": "R-PF700D-HA0B-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PF700D-230V-Power-Supply-Unit/2021/15136.shtml",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "700 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS",
+   "Conector GPU": "PCIe 8 pines",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "deepcool-pf600-r-pf600d-ha0b-eu",
+  "slug": "deepcool-pf600-r-pf600d-ha0b-eu",
+  "name": "DeepCool PF600 (R-PF600D-HA0B-EU)",
+  "category_id": "psu",
+  "brand": "DeepCool",
+  "mpn": "R-PF600D-HA0B-EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PF600D-230V-Power-Supply-Unit/2021/15138.shtml",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "600 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS",
+   "Conector GPU": "PCIe 8 pines",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "nfortec-sagitta-x2-850w-nf-psu-sagittax2-fm-850w",
+  "slug": "nfortec-sagitta-x2-850w-nf-psu-sagittax2-fm-850w",
+  "name": "Nfortec Sagitta X2 850W (NF-PSU-SAGITTAX2-FM-850W)",
+  "category_id": "psu",
+  "brand": "Nfortec",
+  "mpn": "NF-PSU-SAGITTAX2-FM-850W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nfortec.com/en/nfortec-sagitta-x2-850w",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "850 W"
+  }
+ },
+ {
+  "id": "silverstone-sx1000-platinum-sst-sx1000-lpt",
+  "slug": "silverstone-sx1000-platinum-sst-sx1000-lpt",
+  "name": "SilverStone SX1000 Platinum (SST-SX1000-LPT)",
+  "category_id": "psu",
+  "brand": "SilverStone",
+  "mpn": "SST-SX1000-LPT",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.silverstonetek.com/en/product/info/power-supplies/SX1000Platinum/",
+  "specs_verified_at": "2026-11-09T16:39:15Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "SFX-L",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Platinum",
+   "Conector GPU": "PCIe 8 pines"
+  }
+ }
+]

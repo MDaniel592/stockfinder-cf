@@ -1,0 +1,149 @@
+[
+  {
+    "id": "zotac-rtx-5060-ti-twin-edge-oc-8gb",
+    "slug": "zotac-rtx-5060-ti-twin-edge-oc-8gb",
+    "name": "ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC 8 GB",
+    "category_id": "gpu",
+    "brand": "ZOTAC",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060Ti/Brochure/ZT-B50610H-10M-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0 x8",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    },
+    "mpn": "ZT-B50610H-10M"
+  },
+  {
+    "id": "zotac-rtx-5050-twin-edge-oc-white-8gb",
+    "slug": "zotac-rtx-5050-twin-edge-oc-white-8gb",
+    "name": "ZOTAC GAMING GeForce RTX 5050 Twin Edge OC White Edition 8 GB",
+    "category_id": "gpu",
+    "brand": "ZOTAC",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5050/Brochure/ZT-B50500Q-10M-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0 x8",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    },
+    "mpn": "ZT-B50500Q-10M"
+  },
+  {
+    "id": "zotac-rtx-5050-low-profile-8gb",
+    "slug": "zotac-rtx-5050-low-profile-8gb",
+    "name": "ZOTAC GAMING GeForce RTX 5050 Low Profile 8 GB",
+    "category_id": "gpu",
+    "brand": "ZOTAC",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5050/Brochure/ZT-B50500L-10L-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0 x8",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    },
+    "mpn": "ZT-B50500L-10L"
+  },
+  {
+    "id": "palit-rtx-5060-ti-dual-8gb",
+    "slug": "palit-rtx-5060-ti-dual-8gb",
+    "name": "Palit GeForce RTX 5060 Ti Dual 8 GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5545&lang=en&tab=sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Bus de memoria": "128 bits",
+      "Tipo de memoria": "GDDR7",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    },
+    "mpn": "NE7506T019P1-GB2062D"
+  },
+  {
+    "id": "pny-rtx-5090-overclocked-triple-fan-32gb",
+    "slug": "pny-rtx-5090-overclocked-triple-fan-32gb",
+    "name": "PNY GeForce RTX 5090 Overclocked Triple Fan 32 GB",
+    "category_id": "gpu",
+    "brand": "PNY",
+    "manufacturer_url": "https://www.pny.com/geforce-rtx-5090-models?sku=VCG509032TFXPB1-O",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)"
+    },
+    "mpn": "VCG509032TFXPB1-O"
+  },
+  {
+    "id": "pny-rtx-5080-argb-overclocked-triple-fan-16gb",
+    "slug": "pny-rtx-5080-argb-overclocked-triple-fan-16gb",
+    "name": "PNY GeForce RTX 5080 ARGB EPIC-X RGB Overclocked Triple Fan 16 GB",
+    "category_id": "gpu",
+    "brand": "PNY",
+    "manufacturer_url": "https://www.pny.com/geforce-rtx-5080-models?sku=VCG508016TFXXPB1-O",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)"
+    },
+    "mpn": "VCG508016TFXXPB1-O"
+  },
+  {
+    "id": "pny-rtx-5080-triple-fan-16gb",
+    "slug": "pny-rtx-5080-triple-fan-16gb",
+    "name": "PNY GeForce RTX 5080 Triple Fan 16 GB",
+    "category_id": "gpu",
+    "brand": "PNY",
+    "manufacturer_url": "https://www.pny.com/geforce-rtx-5080-models?sku=VCG508016TFXPB1",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)"
+    },
+    "mpn": "VCG508016TFXPB1"
+  },
+  {
+    "id": "pny-rtx-5070-ti-argb-epic-x-rgb-16gb",
+    "slug": "pny-rtx-5070-ti-argb-epic-x-rgb-16gb",
+    "name": "PNY GeForce RTX 5070 Ti ARGB EPIC-X RGB Triple Fan 16 GB",
+    "category_id": "gpu",
+    "brand": "PNY",
+    "manufacturer_url": "https://www.pny.com/geforce-rtx-5070-ti-models?sku=VCG5070T16TFXXPB1",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    },
+    "mpn": "VCG5070T16TFXXPB1"
+  }
+]

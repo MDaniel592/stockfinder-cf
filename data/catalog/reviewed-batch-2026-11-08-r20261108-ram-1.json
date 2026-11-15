@@ -1,0 +1,827 @@
+[
+ {
+  "id": "kingston-kf436c18bb2a-16",
+  "slug": "kingston-kf436c18bb2a-16",
+  "name": "Kingston FURY Beast RGB 16 GB (1 × 16 GB) DDR4-3600 CL18 (KF436C18BB2A/16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF436C18BB2A/16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF436C18BB2A_16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF436C18BB2A_16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL18",
+   "Perfil": "Intel XMP 2.0"
+  }
+ },
+ {
+  "id": "kingston-kf556c36bbe2-32",
+  "slug": "kingston-kf556c36bbe2-32",
+  "name": "Kingston FURY Beast 32 GB (1 × 32 GB) DDR5-5600 CL36 (KF556C36BBE2-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C36BBE2-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C36BBE2-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C36BBE2-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf556c36bbe-8",
+  "slug": "kingston-kf556c36bbe-8",
+  "name": "Kingston FURY Beast 8 GB (1 × 8 GB) DDR5-5600 CL36 (KF556C36BBE-8)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C36BBE-8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C36BBE-8.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C36BBE-8.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kvr26n19s6-8",
+  "slug": "kingston-kvr26n19s6-8",
+  "name": "Kingston ValueRAM 8 GB (1 × 8 GB) DDR4-2666 CL19 (KVR26N19S6/8)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KVR26N19S6/8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KVR26N19S6_8.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KVR26N19S6_8.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "ValueRAM",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "2666 MT/s",
+   "Latencia": "CL19"
+  }
+ },
+ {
+  "id": "kingston-kcp556us6-8",
+  "slug": "kingston-kcp556us6-8",
+  "name": "Kingston Branded 8 GB DDR5-5600 CL46 (KCP556US6-8)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KCP556US6-8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/memory/search?partId=KCP556US6-8",
+  "manufacturer_sources": [
+   "https://www.kingston.com/en/memory/search?partId=KCP556US6-8"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "Kingston Branded",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL46"
+  }
+ },
+ {
+  "id": "kingston-kf556c36bbe-32",
+  "slug": "kingston-kf556c36bbe-32",
+  "name": "Kingston FURY Beast 32 GB (1 × 32 GB) DDR5-5600 CL36 (KF556C36BBE-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C36BBE-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C36BBE-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C36BBE-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf560c36bwe2a-16",
+  "slug": "kingston-kf560c36bwe2a-16",
+  "name": "Kingston FURY Beast RGB 16 GB (1 × 16 GB) DDR5-6000 CL36 (KF560C36BWE2A-16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF560C36BWE2A-16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF560C36BWE2A-16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF560C36BWE2A-16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf564c32bwe-16",
+  "slug": "kingston-kf564c32bwe-16",
+  "name": "Kingston FURY Beast 16 GB (1 × 16 GB) DDR5-6400 CL32 (KF564C32BWE-16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF564C32BWE-16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF564C32BWE-16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF564C32BWE-16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6400 MT/s",
+   "Latencia": "CL32",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kcp556ud8-32",
+  "slug": "kingston-kcp556ud8-32",
+  "name": "Kingston Branded 32 GB DDR5-5600 CL46 (KCP556UD8-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KCP556UD8-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/memory/search?partId=KCP556UD8-32",
+  "manufacturer_sources": [
+   "https://www.kingston.com/en/memory/search?partId=KCP556UD8-32"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "Kingston Branded",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL46"
+  }
+ },
+ {
+  "id": "kingston-kf560c40bbk4-64",
+  "slug": "kingston-kf560c40bbk4-64",
+  "name": "Kingston FURY Beast 64 GB (4 × 16 GB) DDR5-6000 CL40 (KF560C40BBK4-64)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF560C40BBK4-64",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF560C40BBK4-64.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF560C40BBK4-64.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "4 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf556c36bwea-32",
+  "slug": "kingston-kf556c36bwea-32",
+  "name": "Kingston FURY Beast RGB 32 GB (1 × 32 GB) DDR5-5600 CL36 (KF556C36BWEA-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C36BWEA-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C36BWEA-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C36BWEA-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf556c40bw-32",
+  "slug": "kingston-kf556c40bw-32",
+  "name": "Kingston FURY Beast 32 GB (1 × 32 GB) DDR5-5600 CL40 (KF556C40BW-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C40BW-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C40BW-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C40BW-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf564c32rs-48",
+  "slug": "kingston-kf564c32rs-48",
+  "name": "Kingston FURY Renegade 48 GB (1 × 48 GB) DDR5-6400 CL32 (KF564C32RS-48)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF564C32RS-48",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF564C32RS-48.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF564C32RS-48.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Renegade",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "48 GB",
+   "Módulos": "1 × 48 GB",
+   "Velocidad": "6400 MT/s",
+   "Latencia": "CL32",
+   "Perfil": "Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-ktd-pe432-32g",
+  "slug": "kingston-ktd-pe432-32g",
+  "name": "Kingston Server RDIMM ECC Registered 32 GB DDR4-3200 CL22 (KTD-PE432/32G)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KTD-PE432/32G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/memory/search?partId=KTD-PE432%2F32G",
+  "manufacturer_sources": [
+   "https://www.kingston.com/en/memory/search?partId=KTD-PE432%2F32G"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "Servidor ECC Registered",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL22",
+   "ECC": "Sí, Registered"
+  }
+ },
+ {
+  "id": "kingston-kf556c40bb2k2-64",
+  "slug": "kingston-kf556c40bb2k2-64",
+  "name": "Kingston FURY Beast 64 GB (2 × 32 GB) DDR5-5600 CL40 (KF556C40BB2K2-64)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C40BB2K2-64",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C40BB2K2-64.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C40BB2K2-64.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf560c36bbe2ak2-64",
+  "slug": "kingston-kf560c36bbe2ak2-64",
+  "name": "Kingston FURY Beast RGB 64 GB (2 × 32 GB) DDR5-6000 CL36 (KF560C36BBE2AK2-64)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF560C36BBE2AK2-64",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF560C36BBE2AK2-64.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF560C36BBE2AK2-64.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf560c36bbe2k2-64",
+  "slug": "kingston-kf560c36bbe2k2-64",
+  "name": "Kingston FURY Beast 64 GB (2 × 32 GB) DDR5-6000 CL36 (KF560C36BBE2K2-64)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF560C36BBE2K2-64",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF560C36BBE2K2-64.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF560C36BBE2K2-64.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf552c40bb2-32",
+  "slug": "kingston-kf552c40bb2-32",
+  "name": "Kingston FURY Beast 32 GB (1 × 32 GB) DDR5-5200 CL40 (KF552C40BB2-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF552C40BB2-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF552C40BB2-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF552C40BB2-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5200 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf568c34bbek2-32",
+  "slug": "kingston-kf568c34bbek2-32",
+  "name": "Kingston FURY Beast 32 GB (2 × 16 GB) DDR5-6800 CL34 (KF568C34BBEK2-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF568C34BBEK2-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF568C34BBEK2-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF568C34BBEK2-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6800 MT/s",
+   "Latencia": "CL34",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf556c40bb2-32",
+  "slug": "kingston-kf556c40bb2-32",
+  "name": "Kingston FURY Beast 32 GB (1 × 32 GB) DDR5-5600 CL40 (KF556C40BB2-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C40BB2-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C40BB2-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C40BB2-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf556c40bb2a-32",
+  "slug": "kingston-kf556c40bb2a-32",
+  "name": "Kingston FURY Beast RGB 32 GB (1 × 32 GB) DDR5-5600 CL40 (KF556C40BB2A-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C40BB2A-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C40BB2A-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C40BB2A-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf568c34bbeak2-32",
+  "slug": "kingston-kf568c34bbeak2-32",
+  "name": "Kingston FURY Beast RGB 32 GB (2 × 16 GB) DDR5-6800 CL34 (KF568C34BBEAK2-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF568C34BBEAK2-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF568C34BBEAK2-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF568C34BBEAK2-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6800 MT/s",
+   "Latencia": "CL34",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf568c34bweak2-32",
+  "slug": "kingston-kf568c34bweak2-32",
+  "name": "Kingston FURY Beast RGB 32 GB (2 × 16 GB) DDR5-6800 CL34 (KF568C34BWEAK2-32)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF568C34BWEAK2-32",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF568C34BWEAK2-32.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF568C34BWEAK2-32.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6800 MT/s",
+   "Latencia": "CL34",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf584cu40rw-24",
+  "slug": "kingston-kf584cu40rw-24",
+  "name": "Kingston FURY Renegade Silver/White 24 GB DDR5-8400 CL40 CUDIMM",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF584CU40RW-24",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/memory/search?partId=KF584CU40RW-24",
+  "manufacturer_sources": [
+   "https://www.kingston.com/en/memory/search?partId=KF584CU40RW-24"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Renegade",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "24 GB",
+   "Módulos": "1 × 24 GB",
+   "Velocidad": "8400 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "Intel XMP"
+  }
+ },
+ {
+  "id": "kingston-kf584cu40rwa-24",
+  "slug": "kingston-kf584cu40rwa-24",
+  "name": "Kingston FURY Renegade RGB 24 GB (1 × 24 GB) DDR5-8400 CL40 (KF584CU40RWA-24)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF584CU40RWA-24",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF584CU40RWA-24.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF584CU40RWA-24.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Renegade RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "24 GB",
+   "Módulos": "1 × 24 GB",
+   "Velocidad": "8400 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "Intel XMP 3.0",
+   "Formato": "CUDIMM"
+  }
+ },
+ {
+  "id": "kingston-kf556c40bb-8",
+  "slug": "kingston-kf556c40bb-8",
+  "name": "Kingston FURY Beast 8 GB (1 × 8 GB) DDR5-5600 CL40 (KF556C40BB-8)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C40BB-8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C40BB-8.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C40BB-8.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf556c36bbea-8",
+  "slug": "kingston-kf556c36bbea-8",
+  "name": "Kingston FURY Beast RGB 8 GB (1 × 8 GB) DDR5-5600 CL36 (KF556C36BBEA-8)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C36BBEA-8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C36BBEA-8.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C36BBEA-8.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf560c36bbea-8",
+  "slug": "kingston-kf560c36bbea-8",
+  "name": "Kingston FURY Beast RGB 8 GB (1 × 8 GB) DDR5-6000 CL36 (KF560C36BBEA-8)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF560C36BBEA-8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF560C36BBEA-8.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF560C36BBEA-8.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf552c40bw-16",
+  "slug": "kingston-kf552c40bw-16",
+  "name": "Kingston FURY Beast 16 GB (1 × 16 GB) DDR5-5200 CL40 (KF552C40BW-16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF552C40BW-16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF552C40BW-16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF552C40BW-16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "5200 MT/s",
+   "Latencia": "CL40",
+   "Perfil": "Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf556c36bwe-16",
+  "slug": "kingston-kf556c36bwe-16",
+  "name": "Kingston FURY Beast 16 GB (1 × 16 GB) DDR5-5600 CL36 (KF556C36BWE-16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF556C36BWE-16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF556C36BWE-16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF556C36BWE-16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL36",
+   "Perfil": "AMD EXPO, Intel XMP 3.0"
+  }
+ },
+ {
+  "id": "kingston-kf432c16rb12-16",
+  "slug": "kingston-kf432c16rb12-16",
+  "name": "Kingston FURY Renegade 16 GB (1 × 16 GB) DDR4-3200 CL16 (KF432C16RB12/16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF432C16RB12/16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF432C16RB12_16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF432C16RB12_16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Renegade",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Perfil": "Intel XMP 2.0"
+  }
+ },
+ {
+  "id": "kingston-kcp426ns6-8",
+  "slug": "kingston-kcp426ns6-8",
+  "name": "Kingston Branded 8 GB DDR4-2666 CL19 (KCP426NS6/8)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KCP426NS6/8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/en/memory/search?partId=KCP426NS6%2F8",
+  "manufacturer_sources": [
+   "https://www.kingston.com/en/memory/search?partId=KCP426NS6%2F8"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "Kingston Branded",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "2666 MT/s",
+   "Latencia": "CL19"
+  }
+ },
+ {
+  "id": "kingston-kf436c17bb2a-8",
+  "slug": "kingston-kf436c17bb2a-8",
+  "name": "Kingston FURY Beast RGB 8 GB (1 × 8 GB) DDR4-3600 CL17 (KF436C17BB2A/8)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF436C17BB2A/8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF436C17BB2A_8.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF436C17BB2A_8.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Beast RGB",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL17",
+   "Perfil": "Intel XMP 2.0"
+  }
+ },
+ {
+  "id": "kingston-kf432c16rb12a-16",
+  "slug": "kingston-kf432c16rb12a-16",
+  "name": "Kingston FURY Renegade RGB 16 GB (1 × 16 GB) DDR4-3200 CL16 (KF432C16RB12A/16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF432C16RB12A/16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF432C16RB12A_16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF432C16RB12A_16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Renegade RGB",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Perfil": "Intel XMP 2.0"
+  }
+ },
+ {
+  "id": "kingston-kf432c16rb2ak2-16",
+  "slug": "kingston-kf432c16rb2ak2-16",
+  "name": "Kingston FURY Renegade RGB 16 GB (2 × 8 GB) DDR4-3200 CL16 (KF432C16RB2AK2/16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF432C16RB2AK2/16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF432C16RB2AK2_16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF432C16RB2AK2_16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Renegade RGB",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Perfil": "Intel XMP 2.0"
+  }
+ },
+ {
+  "id": "kingston-kf440c19rb2ak2-16",
+  "slug": "kingston-kf440c19rb2ak2-16",
+  "name": "Kingston FURY Renegade RGB 16 GB (2 × 8 GB) DDR4-4000 CL19 (KF440C19RB2AK2/16)",
+  "category_id": "ram",
+  "brand": "Kingston",
+  "mpn": "KF440C19RB2AK2/16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.kingston.com/datasheets/KF440C19RB2AK2_16.pdf",
+  "manufacturer_sources": [
+   "https://www.kingston.com/datasheets/KF440C19RB2AK2_16.pdf"
+  ],
+  "specs_verified_at": "2026-11-08T21:41:29Z",
+  "specs": {
+   "Línea": "FURY Renegade RGB",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "4000 MT/s",
+   "Latencia": "CL19",
+   "Perfil": "Intel XMP 2.0"
+  }
+ }
+]

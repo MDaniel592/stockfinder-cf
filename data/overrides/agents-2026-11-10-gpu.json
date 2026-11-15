@@ -1,0 +1,712 @@
+[
+  {
+    "product_id": "inno3d-geforce-rtx-5080-ichill-frostbite-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "160 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5080-ichill-frostbite",
+    "note": "ficha INNO3D C50803-16D7X-1760FB: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5090-ichill-frostbite-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "204 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5090-ichill-frostbite",
+    "note": "ficha INNO3D C50903-32D7X-1759FB: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5090-x3-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "333 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5090-x3",
+    "note": "ficha INNO3D N50903-32D7-17593928: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "3-n506t2-08d7-193075n",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "250 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2",
+    "note": "ficha INNO3D N506T2-08D7-193075N: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "3-n506t2-16d7-191073n",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "250 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-16gb-twin-x2",
+    "note": "ficha INNO3D N506T2-16D7-191073N: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "3-n506t2-16d7-191073n",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-16gb-twin-x2",
+    "note": "ficha INNO3D N506T2-16D7-191073N: Minimum System Power Requirement"
+  },
+  {
+    "product_id": "3-n506t2-16d7-191073n",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-16gb-twin-x2",
+    "note": "la ficha oficial INNO3D N506T2-16D7-191073N no publica consumo (TGP/TBP)"
+  },
+  {
+    "product_id": "3-n50803-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "300 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5080-x3",
+    "note": "ficha INNO3D N50803-16D7-176068N: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "3-n50803-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5080-x3",
+    "note": "ficha INNO3D N50803-16D7-176068N: Minimum System Power Requirement"
+  },
+  {
+    "product_id": "3-n50803-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5080-x3",
+    "note": "la ficha oficial INNO3D N50803-16D7-176068N no publica consumo (TGP/TBP)"
+  },
+  {
+    "product_id": "3-n506t2-08d7x-193075w",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc-white",
+    "note": "ficha INNO3D N506T2-08D7X-193075W: Minimum System Power Requirement"
+  },
+  {
+    "product_id": "3-n506t2-08d7x-193075w",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc-white",
+    "note": "la ficha oficial INNO3D N506T2-08D7X-193075W no publica consumo (TGP/TBP)"
+  },
+  {
+    "product_id": "3-n50702-12d7-195064n",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "250 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5070-twin-x2",
+    "note": "ficha INNO3D N50702-12D7-195064N: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "3-n50702-12d7-195064n",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5070-twin-x2",
+    "note": "ficha INNO3D N50702-12D7-195064N: Minimum System Power Requirement"
+  },
+  {
+    "product_id": "3-n50702-12d7-195064n",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5070-twin-x2",
+    "note": "la ficha oficial INNO3D N50702-12D7-195064N no publica consumo (TGP/TBP)"
+  },
+  {
+    "product_id": "3-n507t3-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "300 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5070-ti-x3",
+    "note": "ficha INNO3D N507T3-16D7-176068N: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "3-n507t3-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "750 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5070-ti-x3",
+    "note": "ficha INNO3D N507T3-16D7-176068N: Minimum System Power Requirement"
+  },
+  {
+    "product_id": "3-n507t3-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5070-ti-x3",
+    "note": "la ficha oficial INNO3D N507T3-16D7-176068N no publica consumo (TGP/TBP)"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "250 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "note": "ficha INNO3D N506T2-08D7X-193075N: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "note": "ficha INNO3D N506T2-08D7X-193075N: Minimum System Power Requirement"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "note": "la ficha oficial INNO3D N506T2-08D7X-193075N no publica consumo (TGP/TBP)"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "300 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "note": "ficha INNO3D N506T3-16D7X-191073L: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "note": "ficha INNO3D N506T3-16D7X-191073L: Minimum System Power Requirement"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "note": "la ficha oficial INNO3D N506T3-16D7X-191073L no publica consumo (TGP/TBP)"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "300 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "note": "ficha INNO3D N506T3-08D7X-193075L: Graphics Card Dimensions Length"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "note": "ficha INNO3D N506T3-08D7X-193075L: Minimum System Power Requirement"
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Consumo (TGP)",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "note": "la ficha oficial INNO3D N506T3-08D7X-193075L no publica consumo (TGP/TBP)"
+  },
+  {
+    "product_id": "nvidia-rtx-5090-founders-edition-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "ficha NVIDIA RTX 5090: Card Dimensions Length 304 mm (Founders Edition)"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5070-ti",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "ficha NVIDIA: columna RTX 5070 Ti Length = Varies by manufacturer"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5060-ti-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "ficha NVIDIA familia RTX 5060: Card Dimensions Length = Varies by manufacturer"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5060-ti-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "ficha NVIDIA familia RTX 5060: Card Dimensions Length = Varies by manufacturer"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5060",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "ficha NVIDIA familia RTX 5060: Card Dimensions Length = Varies by manufacturer"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5050",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "ficha NVIDIA RTX 5050: Card Dimensions Length = Varies by manufacturer"
+  },
+  {
+    "product_id": "amd-radeon-rx-9070-xt",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070xt.html",
+    "note": "la ficha oficial AMD solo publica TBP y PSU mínima; la longitud depende del diseño de cada socio y AMD no la indica"
+  },
+  {
+    "product_id": "amd-radeon-rx-9070",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070.html",
+    "note": "la ficha oficial AMD solo publica TBP y PSU mínima; la longitud depende del diseño de cada socio y AMD no la indica"
+  },
+  {
+    "product_id": "amd-radeon-rx-9070-gre",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070-gre.html",
+    "note": "la ficha oficial AMD solo publica TBP y PSU mínima; la longitud depende del diseño de cada socio y AMD no la indica"
+  },
+  {
+    "product_id": "amd-radeon-rx-9060-xt-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt.html",
+    "note": "la ficha oficial AMD solo publica TBP y PSU mínima; la longitud depende del diseño de cada socio y AMD no la indica"
+  },
+  {
+    "product_id": "amd-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt-8gb.html",
+    "note": "la ficha oficial AMD solo publica TBP y PSU mínima; la longitud depende del diseño de cada socio y AMD no la indica"
+  },
+  {
+    "product_id": "amd-radeon-rx-9060-xt-lp",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt-lp.html",
+    "note": "la ficha oficial AMD solo publica TBP y PSU mínima; la longitud depende del diseño de cada socio y AMD no la indica"
+  },
+  {
+    "product_id": "amd-radeon-rx-9060",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060.html",
+    "note": "la ficha oficial AMD solo publica TBP y PSU mínima; la longitud depende del diseño de cada socio y AMD no la indica"
+  },
+  {
+    "product_id": "amd-radeon-rx-9050-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9050.html",
+    "note": "la ficha oficial AMD solo publica TBP y PSU mínima; la longitud depende del diseño de cada socio y AMD no la indica"
+  },
+  {
+    "product_id": "amd-radeon-rx-9050-4gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9050-4gb.html",
+    "note": "la ficha oficial AMD solo publica TBP y PSU mínima; la longitud depende del diseño de cada socio y AMD no la indica"
+  },
+  {
+    "product_id": "nvidia-rtx-pro-6000-blackwell-workstation-96gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-6000-blackwell-workstation-edition/workstation-blackwell-rtx-pro-6000-workstation-edition-nvidia-us-3519208-web.pdf",
+    "note": "datasheet NVIDIA: System Interface PCIe 5.0 x16"
+  },
+  {
+    "product_id": "nvidia-rtx-pro-6000-blackwell-workstation-96gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "600 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-6000-blackwell-workstation-edition/workstation-blackwell-rtx-pro-6000-workstation-edition-nvidia-us-3519208-web.pdf",
+    "note": "datasheet NVIDIA: Total board power 600 W"
+  },
+  {
+    "product_id": "nvidia-rtx-pro-6000-blackwell-workstation-96gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304.8 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-6000-blackwell-workstation-edition/workstation-blackwell-rtx-pro-6000-workstation-edition-nvidia-us-3519208-web.pdf",
+    "note": "datasheet NVIDIA: Form Factor 5.4in H x 12in L (12 in = 304.8 mm)"
+  },
+  {
+    "product_id": "nvidia-rtx-pro-6000-blackwell-workstation-96gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-6000-blackwell-workstation-edition/workstation-blackwell-rtx-pro-6000-workstation-edition-nvidia-us-3519208-web.pdf",
+    "note": "ni la ficha ni el datasheet NVIDIA indican PSU recomendada (solo conector 1x PCIe CEM5 16-pin)"
+  },
+  {
+    "product_id": "nvidia-rtx-pro-4500-blackwell-workstation-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-4500-blackwell/workstation-datasheet-blackwell-rtx-pro-4500-we-nvidia-us-5108623-web.pdf",
+    "note": "datasheet NVIDIA: System interface PCIe 5.0 x16"
+  },
+  {
+    "product_id": "nvidia-rtx-pro-4500-blackwell-workstation-32gb",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "200 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-4500-blackwell/workstation-datasheet-blackwell-rtx-pro-4500-we-nvidia-us-5108623-web.pdf",
+    "note": "datasheet NVIDIA: Total board power 200 W"
+  },
+  {
+    "product_id": "nvidia-rtx-pro-4500-blackwell-workstation-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "266.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-4500-blackwell/workstation-datasheet-blackwell-rtx-pro-4500-we-nvidia-us-5108623-web.pdf",
+    "note": "datasheet NVIDIA: Form factor 4.4in x 10.5in L (10.5 in = 266.7 mm)"
+  },
+  {
+    "product_id": "nvidia-rtx-pro-4500-blackwell-workstation-32gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-4500-blackwell/workstation-datasheet-blackwell-rtx-pro-4500-we-nvidia-us-5108623-web.pdf",
+    "note": "ni la ficha ni el datasheet NVIDIA indican PSU recomendada (solo conector 1x PCIe CEM5 16-pin)"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "342 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TGAMING-OC-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-N507TGAMING-OC-16GD (via busqueda): Card size L=342 mm"
+  },
+  {
+    "product_id": "gigabyte-gv-n5090gaming-oc-32gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "342 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5090GAMING-OC-32GD/sp",
+    "note": "ficha oficial Gigabyte GV-N5090GAMING-OC-32GD (via busqueda): Card size L=342 mm"
+  },
+  {
+    "product_id": "gigabyte-gv-n5070aero-oc-12gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "324 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5070AERO-OC-12GD/sp",
+    "note": "ficha oficial Gigabyte GV-N5070AERO-OC-12GD (via busqueda): Card size L=324 mm"
+  },
+  {
+    "product_id": "gigabyte-gv-n507taorus-m-16gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "360 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TAORUS-M-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-N507TAORUS-M-16GD (via busqueda): Card size L=360 mm"
+  },
+  {
+    "product_id": "gigabyte-gv-n5080aorusm-ice-16gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "360 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5080AORUSM-ICE-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-N5080AORUSM-ICE-16GD (via busqueda): Card size L=360 mm"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TWF3OC-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-N507TWF3OC-16GD (via busqueda): Card size L=304 mm"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-windforce-oc-v2-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "261 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TWF3OCV2-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-N507TWF3OCV2-16GD (via busqueda): Card size L=261 mm"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-aero-oc-8g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/at/Graphics-Card/GV-N506TAERO-OC-8GD/sp",
+    "note": "ficha oficial Gigabyte GV-N506TAERO-OC-8GD (via busqueda): Card size L=281 mm"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/sk/Graphics-Card/GV-N507TEAGLEOC-ICE-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-N507TEAGLEOC-ICE-16GD (via busqueda): Card size L=304 mm"
+  },
+  {
+    "product_id": "igabyte-gv-r907xgamingocice-16gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "288 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R907XGAMINGOCICE-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-R907XGAMINGOCICE-16GD (via busqueda): Card size L=288 mm"
+  },
+  {
+    "product_id": "igabyte-gv-r907xgamingocice-16gd",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R907XGAMINGOCICE-16GD/sp",
+    "note": "ficha oficial Gigabyte (via busqueda): Card Bus PCI-E 5.0"
+  },
+  {
+    "product_id": "igabyte-gv-r906xgamingocice-16gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R906XGAMINGOCICE-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-R906XGAMINGOCICE-16GD (via busqueda): Card size L=281 mm"
+  },
+  {
+    "product_id": "igabyte-gv-r906xgamingocice-16gd",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R906XGAMINGOCICE-16GD/sp",
+    "note": "ficha oficial Gigabyte (via busqueda): Card Bus PCI-E 5.0"
+  },
+  {
+    "product_id": "gigabyte-aorus-radeon-rx-9070-xt-elite-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "339 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R9070XTAORUS-E-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-R9070XTAORUS-E-16GD (via busqueda): Card size L=339 mm"
+  },
+  {
+    "product_id": "gigabyte-aorus-radeon-rx-9070-xt-elite-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R9070XTAORUS-E-16GD/sp",
+    "note": "ficha oficial Gigabyte (via busqueda, pagina regional): Card Bus PCI-E 5.0"
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-7600-gaming-oc-8g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "282 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R76GAMING-OC-8GD-rev-10-11/sp",
+    "note": "ficha oficial Gigabyte GV-R76GAMING-OC-8GD (Rev. 1.0/1.1): Card size L=282 mm"
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-7600-gaming-oc-8g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 4.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R76GAMING-OC-8GD-rev-10-11/sp",
+    "note": "ficha oficial Gigabyte (Rev. 1.0/1.1): Card Bus PCI-E 4.0"
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-9070-xt-gaming-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "288 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/at/Graphics-Card/GV-R9070XTGAMING-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-R9070XTGAMING-16GD (via busqueda): Card size L=288 mm"
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-9070-xt-gaming-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/at/Graphics-Card/GV-R9070XTGAMING-16GD/sp",
+    "note": "ficha oficial Gigabyte (pagina regional, via busqueda): Card Bus PCI-E 5.0"
+  },
+  {
+    "product_id": "gigabyte-gv-r9070xtgaming-oc-16gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "288 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/de/Graphics-Card/GV-R9070XTGAMING-OC-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-R9070XTGAMING-OC-16GD (via busqueda): Card size L=288 mm"
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "215 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TEAGLEOC-ICE-16GD/sp",
+    "note": "ficha oficial Gigabyte GV-N506TEAGLEOC-ICE-16GD (via busqueda): Card size L=215 mm"
+  }
+]

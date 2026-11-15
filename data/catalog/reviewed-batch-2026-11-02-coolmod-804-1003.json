@@ -1,0 +1,1630 @@
+[
+  {
+    "id": "silicon-power-sp016gxlzu320bsi",
+    "slug": "silicon-power-sp016gxlzu320bsi",
+    "name": "Silicon Power 16GB 1x16GB 3200MHz CL16 OC",
+    "category_id": "ram",
+    "brand": "Silicon Power",
+    "mpn": "SP016GXLZU320BSI",
+    "manufacturer_url": "https://www.silicon-power.com/jp/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+    "manufacturer_sources": [
+      "https://www.silicon-power.com/jp/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "XPOWER Pulse DDR4 Gaming UDIMM",
+      "capacity": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "speed": "DDR4-3200",
+      "latency": "CL16"
+    },
+    "manufacturer_evidence": "Silicon Power official product information matches the manufacturer part number SP016GXLZU320BSI and module specifications.",
+    "verification_review_id": 812
+  },
+  {
+    "id": "corsair-cmk16gx5m1d6000z38",
+    "slug": "corsair-cmk16gx5m1d6000z38",
+    "name": "Corsair Vengeance 16GB 1x16GB 6000MHz CL38 EXPO-XMP Gris",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK16GX5M1D6000Z38",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk16gx5m1d6000z38/vengeance-16gb-1-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-%26-intel-xmp-memory-kit-grey-cmk16gx5m1d6000z38",
+    "manufacturer_sources": [
+      "https://www.corsair.com/us/en/p/memory/cmk16gx5m1d6000z38/vengeance-16gb-1-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-%26-intel-xmp-memory-kit-grey-cmk16gx5m1d6000z38"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "Vengeance DDR5",
+      "capacity": "16 GB (1×16 GB)",
+      "speed": "DDR5-6000",
+      "latency": "CL38",
+      "color": "grey"
+    },
+    "manufacturer_evidence": "Corsair product page names CMK16GX5M1D6000Z38 and confirms the single-module 16 GB DDR5-6000 CL38 variant.",
+    "verification_review_id": 817
+  },
+  {
+    "id": "gskill-f5-6000j3636f16gx2-tz5k",
+    "slug": "gskill-f5-6000j3636f16gx2-tz5k",
+    "name": "G.SKill Trident Z5 32GB 2x16GB 6000MHz CL36 Negro",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F5-6000J3636F16GX2-TZ5K",
+    "manufacturer_url": "https://www.gskill.com/product/165/371/1640229700/F5-6000J3636F16GX2-TZ5K-F5-6000J3636F16GA2-TZ5K",
+    "manufacturer_sources": [
+      "https://www.gskill.com/product/165/371/1640229700/F5-6000J3636F16GX2-TZ5K-F5-6000J3636F16GA2-TZ5K"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "model": "Trident Z5",
+      "capacity": "32 GB (2×16 GB)",
+      "speed": "DDR5-6000",
+      "latency": "CL36",
+      "Perfil": "Intel XMP 3.0, AMD EXPO"
+    },
+    "manufacturer_evidence": "G.SKILL official product page includes the exact F5-6000J3636F16GX2-TZ5K part number.",
+    "verification_review_id": 820
+  },
+  {
+    "id": "gskill-f4-3200c16d-32gis",
+    "slug": "gskill-f4-3200c16d-32gis",
+    "name": "G.SKill Aegis 32GB 2x16GB 3200MHz CL16",
+    "category_id": "ram",
+    "brand": "G.SKill",
+    "mpn": "F4-3200C16D-32GIS",
+    "manufacturer_url": "https://www.gskill.com/cn/specification/204/232/1567584227/F4-3200C16D-32GIS-Specification",
+    "manufacturer_sources": [
+      "https://www.gskill.com/cn/specification/204/232/1567584227/F4-3200C16D-32GIS-Specification"
+    ],
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "model": "Aegis",
+      "capacity": "32 GB (2×16 GB)",
+      "speed": "DDR4-3200",
+      "latency": "CL16",
+      "Perfil": "Intel XMP 2.0"
+    },
+    "manufacturer_evidence": "G.SKILL official specification page lists the exact part number F4-3200C16D-32GIS.",
+    "verification_review_id": 827
+  },
+  {
+    "id": "asus-90mb1gy0-m0eay0",
+    "slug": "asus-90mb1gy0-m0eay0",
+    "name": "Asus Prime B760M-PLUS Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1GY0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-de/90MB1GY0-M0EAY0/ASUS-PRIME-B760M-PLUS-Gaming-Mainboard-Sockel-Intel-LGA-1700",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-de/90MB1GY0-M0EAY0/ASUS-PRIME-B760M-PLUS-Gaming-Mainboard-Sockel-Intel-LGA-1700"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "PRIME B760M-PLUS",
+      "socket": "LGA 1700",
+      "chipset": "Intel B760",
+      "form_factor": "micro-ATX",
+      "memory": "DDR5"
+    },
+    "manufacturer_evidence": "ASUS manufacturer shop lists product number 90MB1GY0-M0EAY0 as PRIME B760M-PLUS.",
+    "verification_review_id": 839
+  },
+  {
+    "id": "asus-90mb1if0-m0eay0",
+    "slug": "asus-90mb1if0-m0eay0",
+    "name": "Asus ROG Strix X870-A Gaming WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1IF0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/fr/90mb1if0-m0eay0-rog-strix-x870-a-gaming-wifi.html",
+    "manufacturer_sources": [
+      "https://estore.asus.com/fr/90mb1if0-m0eay0-rog-strix-x870-a-gaming-wifi.html"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "ROG STRIX X870-A GAMING WIFI",
+      "socket": "AM5",
+      "chipset": "AMD X870",
+      "memory": "DDR5",
+      "network": "Wi-Fi 7",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop lists part number 90MB1IF0-M0EAY0 for ROG STRIX X870-A GAMING WIFI.",
+    "verification_review_id": 843
+  },
+  {
+    "id": "asus-90mb1dz0-m0eay0",
+    "slug": "asus-90mb1dz0-m0eay0",
+    "name": "Asus Pro WS W680-ACE Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1DZ0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/no-no/90MB1DZ0-M0EAY0/Pro-WS-W680-ACE",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/no-no/90MB1DZ0-M0EAY0/Pro-WS-W680-ACE"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "Pro WS W680-ACE",
+      "socket": "LGA 1700",
+      "chipset": "Intel W680",
+      "form_factor": "ATX",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    },
+    "manufacturer_evidence": "ASUS manufacturer shop lists product number 90MB1DZ0-M0EAY0 as Pro WS W680-ACE.",
+    "verification_review_id": 844
+  },
+  {
+    "id": "asus-90mb1jw0-m0eay0",
+    "slug": "asus-90mb1jw0-m0eay0",
+    "name": "Asus TUF Gaming B860M-PLUS Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1JW0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/se/90mb1jw0-m0eay0-tuf-gaming-b860m-plus.html",
+    "manufacturer_sources": [
+      "https://estore.asus.com/se/90mb1jw0-m0eay0-tuf-gaming-b860m-plus.html"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "TUF GAMING B860M-PLUS",
+      "socket": "LGA 1851",
+      "chipset": "Intel B860",
+      "form_factor": "micro-ATX",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop maps part number 90MB1JW0-M0EAY0 to TUF GAMING B860M-PLUS.",
+    "verification_review_id": 847
+  },
+  {
+    "id": "asus-90mb1eg0-m0eay0",
+    "slug": "asus-90mb1eg0-m0eay0",
+    "name": "Asus Prime B650M-A WIFI II Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1EG0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90MB1EG0-M0EAY0/PRIME-B650M-A-WIFI-II",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-en/90MB1EG0-M0EAY0/PRIME-B650M-A-WIFI-II"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "PRIME B650M-A WIFI II",
+      "socket": "AM5",
+      "chipset": "AMD B650",
+      "form_factor": "micro-ATX",
+      "memory": "DDR5",
+      "network": "Wi-Fi 6",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    },
+    "manufacturer_evidence": "ASUS manufacturer shop lists product number 90MB1EG0-M0EAY0 as PRIME B650M-A WIFI II.",
+    "verification_review_id": 849
+  },
+  {
+    "id": "asus-90mb1k30-m0eay0",
+    "slug": "asus-90mb1k30-m0eay0",
+    "name": "Asus ROG Strix B850-I Gaming WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1K30-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/fr/90mb1k30-m0eay0-rog-strix-b850-i-gaming-wifi.html",
+    "manufacturer_sources": [
+      "https://estore.asus.com/fr/90mb1k30-m0eay0-rog-strix-b850-i-gaming-wifi.html"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "ROG STRIX B850-I GAMING WIFI",
+      "socket": "AM5",
+      "chipset": "AMD B850",
+      "form_factor": "mini-ITX",
+      "memory": "DDR5",
+      "network": "Wi-Fi 7",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop lists part number 90MB1K30-M0EAY0 for ROG STRIX B850-I GAMING WIFI.",
+    "verification_review_id": 850
+  },
+  {
+    "id": "gigabyte-x870i-aorus-pro-ice",
+    "slug": "gigabyte-x870i-aorus-pro-ice",
+    "name": "Gigabyte X870I AORUS PRO ICE 1.0 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870I AORUS PRO ICE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870I-AORUS-PRO-ICE-rev-10/support",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/X870I-AORUS-PRO-ICE-rev-10/support"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "model": "X870I AORUS PRO ICE",
+      "socket": "AM5",
+      "chipset": "AMD X870",
+      "form_factor": "mini-ITX",
+      "memory": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "GIGABYTE product/support page names the exact observed model code X870I AORUS PRO ICE.",
+    "verification_review_id": 851
+  },
+  {
+    "id": "asus-90mb1iw0-m0eay0",
+    "slug": "asus-90mb1iw0-m0eay0",
+    "name": "Asus ROG Strix X870-I Gaming WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1IW0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/fr/90mb1iw0-m0eay0-rog-strix-x870-i-gaming-wifi.html",
+    "manufacturer_sources": [
+      "https://estore.asus.com/fr/90mb1iw0-m0eay0-rog-strix-x870-i-gaming-wifi.html"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "ROG STRIX X870-I GAMING WIFI",
+      "socket": "AM5",
+      "chipset": "AMD X870",
+      "form_factor": "mini-ITX",
+      "memory": "DDR5",
+      "network": "Wi-Fi 7",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    },
+    "manufacturer_evidence": "ASUS eShop lists part number 90MB1IW0-M0EAY0 for ROG STRIX X870-I GAMING WIFI.",
+    "verification_review_id": 852
+  },
+  {
+    "id": "asrock-b760m-h2-m2",
+    "slug": "asrock-b760m-h2-m2",
+    "name": "Asrock B760M-H2 M.2 Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Asrock",
+    "mpn": "B760M-H2/M.2",
+    "manufacturer_url": "https://www.asrock.com/mb/Intel/B760M-H2M.2/",
+    "manufacturer_sources": [
+      "https://www.asrock.com/mb/Intel/B760M-H2M.2/"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "B760M-H2/M.2",
+      "socket": "LGA 1700",
+      "chipset": "Intel B760",
+      "memory": "DDR5"
+    },
+    "manufacturer_evidence": "ASRock identifies B760M-H2/M.2 as the official product model, matching the observed MPN field exactly.",
+    "verification_review_id": 853
+  },
+  {
+    "id": "asus-90mb1jl0-m0eay0",
+    "slug": "asus-90mb1jl0-m0eay0",
+    "name": "Asus TUF Gaming B860-PLUS WIFI Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1JL0-M0EAY0",
+    "manufacturer_url": "https://estore.asus.com/es/90mb1jl0-m0eay0-tuf-gaming-b860-plus-wifi.html",
+    "manufacturer_sources": [
+      "https://estore.asus.com/es/90mb1jl0-m0eay0-tuf-gaming-b860-plus-wifi.html"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "TUF GAMING B860-PLUS WIFI",
+      "socket": "LGA 1851",
+      "chipset": "Intel B860",
+      "form_factor": "ATX",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "ASUS eShop lists part number 90MB1JL0-M0EAY0 for TUF GAMING B860-PLUS WIFI.",
+    "verification_review_id": 855
+  },
+  {
+    "id": "gigabyte-b850-eagle-ice",
+    "slug": "gigabyte-b850-eagle-ice",
+    "name": "Gigabyte B850 EAGLE ICE Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850 EAGLE ICE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850-EAGLE-ICE",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B850-EAGLE-ICE"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "model": "B850 EAGLE ICE",
+      "socket": "AM5",
+      "chipset": "AMD B850",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "GIGABYTE official product page confirms the exact observed product model B850 EAGLE ICE.",
+    "verification_review_id": 858
+  },
+  {
+    "id": "asus-90mb1kk0-m0eayc",
+    "slug": "asus-90mb1kk0-m0eayc",
+    "name": "Asus Prime H810M-A-CSM Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1KK0-M0EAYC",
+    "manufacturer_url": "https://webshop.asus.com/ch-de/90MB1KK0-M0EAYC/ASUS-PRIME-H810M-A-CSM-Mainboard-Sockel-Intel-LGA-1851",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-de/90MB1KK0-M0EAYC/ASUS-PRIME-H810M-A-CSM-Mainboard-Sockel-Intel-LGA-1851"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "PRIME H810M-A-CSM",
+      "socket": "LGA 1851",
+      "chipset": "Intel H810",
+      "form_factor": "micro-ATX",
+      "memory": "DDR5"
+    },
+    "manufacturer_evidence": "ASUS manufacturer webshop lists product number 90MB1KK0-M0EAYC as PRIME H810M-A-CSM.",
+    "verification_review_id": 860
+  },
+  {
+    "id": "gigabyte-x870-a-elite-wf7-ice",
+    "slug": "gigabyte-x870-a-elite-wf7-ice",
+    "name": "Gigabyte X870 AORUS Elite Ice WIFI7 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870 A ELITE WF7 ICE",
+    "manufacturer_url": "https://www.gigabyte.com/eu/Motherboard/X870-AORUS-ELITE-WIFI7-ICE-rev-10-11/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/eu/Motherboard/X870-AORUS-ELITE-WIFI7-ICE-rev-10-11/sp"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "model": "X870 A ELITE WF7 ICE",
+      "socket": "AM5",
+      "chipset": "AMD X870",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "GIGABYTE official specifications identify the product model code as X870 A ELITE WF7 ICE; title expands to X870 AORUS ELITE WIFI7 ICE.",
+    "verification_review_id": 861
+  },
+  {
+    "id": "asus-90mb1ny0-m0eay0",
+    "slug": "asus-90mb1ny0-m0eay0",
+    "name": "Asus TUF Gaming X870-PRO WIFI7 W Neo Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1NY0-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x870-pro-wifi7-w-neo/techspec/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x870-pro-wifi7-w-neo/techspec/",
+      "https://promotion.asus.com/en-gb/back-to-school-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "model": "TUF GAMING X870-PRO WIFI7 W NEO",
+      "socket": "AM5",
+      "chipset": "AMD X870",
+      "memory": "DDR5",
+      "network": "Wi-Fi 7",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "ASUS promotion explicitly maps 90MB1NY0-M0EAY0 to TUF GAMING X870-PRO WIFI7 W NEO; ASUS global product specification page confirms the model specs.",
+    "verification_review_id": 862
+  },
+  {
+    "id": "asus-90mb1ji0-m0eay0",
+    "slug": "asus-90mb1ji0-m0eay0",
+    "name": "Asus ROG Strix B860-A Gaming WIFI Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1JI0-M0EAY0",
+    "manufacturer_url": "https://promotion.asus.com/cs/football-2026/tac/",
+    "manufacturer_sources": [
+      "https://promotion.asus.com/cs/football-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "ROG STRIX B860-A GAMING WIFI"
+    },
+    "manufacturer_evidence": "ASUS official promotion table maps part number 90MB1JI0-M0EAY0 to ROG STRIX B860-A GAMING WIFI.",
+    "verification_review_id": 863
+  },
+  {
+    "id": "asus-90mb1nx0-m0eay0",
+    "slug": "asus-90mb1nx0-m0eay0",
+    "name": "Asus ROG Strix B850-F Gaming WIFI7 Neo Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1NX0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90MB1NX0-M0EAY0/ASUS-ROG-Strix-B850-F-GAMING-WIFI7-NEO-AMD-ATX-Mainboard",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-en/90MB1NX0-M0EAY0/ASUS-ROG-Strix-B850-F-GAMING-WIFI7-NEO-AMD-ATX-Mainboard"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "ROG STRIX B850-F GAMING WIFI7 NEO",
+      "socket": "AM5",
+      "chipset": "AMD B850",
+      "form_factor": "ATX",
+      "memory": "DDR5",
+      "network": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "ASUS manufacturer webshop lists product number 90MB1NX0-M0EAY0 as ROG STRIX B850-F GAMING WIFI7 NEO.",
+    "verification_review_id": 864
+  },
+  {
+    "id": "gigabyte-b850-a-stealth-ice",
+    "slug": "gigabyte-b850-a-stealth-ice",
+    "name": "Gigabyte B850 AORUS STEALTH ICE Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850 A STEALTH ICE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850-AORUS-STEALTH-ICE-rev-10/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B850-AORUS-STEALTH-ICE-rev-10/sp"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "model": "B850 A STEALTH ICE",
+      "socket": "AM5",
+      "chipset": "AMD B850",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "GIGABYTE official specifications show the exact product model code B850 A STEALTH ICE (marketed as B850 AORUS STEALTH ICE).",
+    "verification_review_id": 867
+  },
+  {
+    "id": "asus-90mb1j70-m0eay0",
+    "slug": "asus-90mb1j70-m0eay0",
+    "name": "Asus ROG Strix B850-F Gaming WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1J70-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-de/90MB1J70-M0EAY0/ASUS-ROG-STRIX-B850-F-GAMING-WIFI-Mainboard-Sockel-AMD-AM5",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-de/90MB1J70-M0EAY0/ASUS-ROG-STRIX-B850-F-GAMING-WIFI-Mainboard-Sockel-AMD-AM5"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "ROG STRIX B850-F GAMING WIFI",
+      "socket": "AM5",
+      "chipset": "AMD B850",
+      "form_factor": "ATX",
+      "memory": "DDR5",
+      "network": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "ASUS manufacturer webshop lists product number 90MB1J70-M0EAY0 as ROG STRIX B850-F GAMING WIFI; this is the standard WIFI model, not the distinct WIFI7 NEO code.",
+    "verification_review_id": 868
+  },
+  {
+    "id": "asus-90mb1it0-m0eay0",
+    "slug": "asus-90mb1it0-m0eay0",
+    "name": "Asus Prime X870-P Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1IT0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-de/90MB1IT0-M0EAY0/ASUS-PRIME-X870-P-Mainboard-Sockel-AM5",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-de/90MB1IT0-M0EAY0/ASUS-PRIME-X870-P-Mainboard-Sockel-AM5"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "PRIME X870-P",
+      "socket": "AM5",
+      "chipset": "AMD X870",
+      "form_factor": "ATX",
+      "memory": "DDR5",
+      "storage": "4 M.2"
+    },
+    "manufacturer_evidence": "ASUS manufacturer webshop lists product number 90MB1IT0-M0EAY0 as PRIME X870-P.",
+    "verification_review_id": 869
+  },
+  {
+    "id": "gigabyte-b850m-eagle-wf6e-ice",
+    "slug": "gigabyte-b850m-eagle-wf6e-ice",
+    "name": "Gigabyte B850M EAGLE WIFI6E ICE Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850M EAGLE WF6E ICE",
+    "manufacturer_url": "https://www.gigabyte.com/us/Motherboard/B850M-EAGLE-WIFI6E-ICE-rev-11/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/us/Motherboard/B850M-EAGLE-WIFI6E-ICE-rev-11/sp"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "model": "B850M EAGLE WF6E ICE",
+      "socket": "AM5",
+      "chipset": "AMD B850",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    },
+    "manufacturer_evidence": "GIGABYTE official specifications identify the product model code B850M EAGLE WF6E ICE; marketed name is B850M EAGLE WIFI6E ICE.",
+    "verification_review_id": 872
+  },
+  {
+    "id": "asus-90mb1m30-m0eay0",
+    "slug": "asus-90mb1m30-m0eay0",
+    "name": "Asus ROG Strix B850-G GAMING WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1M30-M0EAY0",
+    "manufacturer_url": "https://promotion.asus.com/en-gb/back-to-school-2026/tac/",
+    "manufacturer_sources": [
+      "https://promotion.asus.com/en-gb/back-to-school-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "model": "ROG STRIX B850-G GAMING WIFI"
+    },
+    "manufacturer_evidence": "ASUS official promotion table maps part number 90MB1M30-M0EAY0 to ROG STRIX B850-G GAMING WIFI.",
+    "verification_review_id": 875
+  },
+  {
+    "id": "gigabyte-b760-gaming-x-gen5",
+    "slug": "gigabyte-b760-gaming-x-gen5",
+    "name": "Gigabyte B760 GAMING X GEN5 Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760 GAMING X GEN5",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760-GAMING-X-GEN5/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B760-GAMING-X-GEN5/sp"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "model": "B760 GAMING X GEN5",
+      "socket": "LGA 1700",
+      "chipset": "Intel B760",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "GIGABYTE official page confirms the exact observed model code B760 GAMING X GEN5.",
+    "verification_review_id": 876
+  },
+  {
+    "id": "gigabyte-b760-ds3h-wf6e-gen5",
+    "slug": "gigabyte-b760-ds3h-wf6e-gen5",
+    "name": "Gigabyte B760 DS3H WIFI6E GEN5 Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760 DS3H WF6E GEN5",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760-DS3H-WIFI6E-GEN5/support",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B760-DS3H-WIFI6E-GEN5/support"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "model": "B760 DS3H WF6E GEN5",
+      "socket": "LGA 1700",
+      "chipset": "Intel B760",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    },
+    "manufacturer_evidence": "GIGABYTE support page uses the exact observed product model code B760 DS3H WF6E GEN5; marketed name expands WF6E to WIFI6E.",
+    "verification_review_id": 882
+  },
+  {
+    "id": "asus-90mb1nw0-m0eay0",
+    "slug": "asus-90mb1nw0-m0eay0",
+    "name": "Asus TUF Gaming B850-PRO WIFI7 W Neo Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1NW0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/nl/90MB1NW0-M0EAY0/TUF-GAMING-B850-PRO-WIFI7-W-NEO",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/nl/90MB1NW0-M0EAY0/TUF-GAMING-B850-PRO-WIFI7-W-NEO"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "TUF GAMING B850-PRO WIFI7 W NEO",
+      "socket": "AM5",
+      "chipset": "AMD B850",
+      "form_factor": "ATX",
+      "memory": "DDR5",
+      "network": "Wi-Fi 7",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "ASUS manufacturer webshop lists product number 90MB1NW0-M0EAY0 for the TUF GAMING B850-PRO WIFI7 W NEO.",
+    "verification_review_id": 883
+  },
+  {
+    "id": "gigabyte-x870e-a-pro-x-ice",
+    "slug": "gigabyte-x870e-a-pro-x-ice",
+    "name": "Gigabyte X870E AORUS PRO X3D ICE Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E A PRO X ICE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-PRO-X3D-ICE/sp?lan=en",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/X870E-AORUS-PRO-X3D-ICE/sp?lan=en"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "model": "X870E A PRO X ICE",
+      "socket": "AM5",
+      "chipset": "AMD X870E",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "GIGABYTE official specs give product model number X870E A PRO X ICE and marketed title X870E AORUS PRO X3D ICE; the abbreviated observed code is manufacturer-confirmed.",
+    "verification_review_id": 887
+  },
+  {
+    "id": "asus-90mb1lc0-m0eayc",
+    "slug": "asus-90mb1lc0-m0eayc",
+    "name": "Asus Prime B850-PLUS-CSM Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1LC0-M0EAYC",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90MB1LC0-M0EAYC/PRIME-B850-PLUS-CSM",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-en/90MB1LC0-M0EAYC/PRIME-B850-PLUS-CSM"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "PRIME B850-PLUS-CSM",
+      "socket": "AM5",
+      "chipset": "AMD B850",
+      "form_factor": "ATX",
+      "memory": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "ASUS manufacturer webshop lists product number 90MB1LC0-M0EAYC as PRIME B850-PLUS-CSM.",
+    "verification_review_id": 896
+  },
+  {
+    "id": "asus-90mb1fr0-m0eay0",
+    "slug": "asus-90mb1fr0-m0eay0",
+    "name": "Asus TUF Gaming A620-PRO WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1FR0-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90MB1FR0-M0EAY0/TUF-GAMING-A620-PRO-WIFI",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/ch-en/90MB1FR0-M0EAY0/TUF-GAMING-A620-PRO-WIFI"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "TUF GAMING A620-PRO WIFI",
+      "socket": "AM5",
+      "chipset": "AMD A620",
+      "form_factor": "ATX",
+      "memory": "DDR5",
+      "network": "Wi-Fi 6",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    },
+    "manufacturer_evidence": "ASUS manufacturer webshop lists product number 90MB1FR0-M0EAY0 as TUF GAMING A620-PRO WIFI.",
+    "verification_review_id": 901
+  },
+  {
+    "id": "asus-90mb1f00-m0eay0",
+    "slug": "asus-90mb1f00-m0eay0",
+    "name": "Asus TUF Gaming A620M-PLUS WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1F00-M0EAY0",
+    "manufacturer_url": "https://webshop.asus.com/dk-en/90MB1F00-M0EAY0/TUF-GAMING-A620M-PLUS-WIFI",
+    "manufacturer_sources": [
+      "https://webshop.asus.com/dk-en/90MB1F00-M0EAY0/TUF-GAMING-A620M-PLUS-WIFI"
+    ],
+    "specs_verified_at": "2026-11-08T22:11:08Z",
+    "specs": {
+      "model": "TUF GAMING A620M-PLUS WIFI",
+      "socket": "AM5",
+      "chipset": "AMD A620",
+      "form_factor": "micro-ATX",
+      "memory": "DDR5",
+      "network": "Wi-Fi 6",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "ASUS manufacturer webshop lists product number 90MB1F00-M0EAY0 as TUF GAMING A620M-PLUS WIFI.",
+    "verification_review_id": 902
+  },
+  {
+    "id": "asus-90mb1m10-m0eay0",
+    "slug": "asus-90mb1m10-m0eay0",
+    "name": "Asus B850 MAX GAMING WIFI W Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1M10-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/pro/b850-max-gaming-wifi-w/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/pro/b850-max-gaming-wifi-w/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/nl/90MB1M10-M0EAY0/B850-MAX-GAMING-WIFI-W"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B850",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus B850 MAX GAMING WIFI W, pero no publica ni asocia explícitamente el código observado 90MB1M10-M0EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1M10-M0EAY0 with the named model.",
+    "verification_review_id": 904
+  },
+  {
+    "id": "asus-90mb1p10-m0eay0",
+    "slug": "asus-90mb1p10-m0eay0",
+    "name": "Asus ROG Strix B850-A Gaming WIFI Neo Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1P10-M0EAY0",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b850-a-gaming-wifi-neo/spec/",
+    "manufacturer_sources": [
+      "https://rog.asus.com/motherboards/rog-strix/rog-strix-b850-a-gaming-wifi-neo/spec/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://promotion.asus.com/en-gb/back-to-school-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "Chipset/model family": "B850",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus ROG Strix B850-A Gaming WIFI Neo, pero no publica ni asocia explícitamente el código observado 90MB1P10-M0EAY0; se deja ambiguo. Official ASUS promotion table explicitly pairs the observed part number with its product model. The ASUS table spells the model “ROG STRIX B850-A GAMING WIFI7 NEO”; the retailer title omits “7”, but the part number itself matches exactly.",
+    "verification_review_id": 907
+  },
+  {
+    "id": "gigabyte-h810m-k",
+    "slug": "gigabyte-h810m-k",
+    "name": "Gigabyte H810M K Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "H810M K",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/H810M-K/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/H810M-K/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "H810",
+      "Socket": "LGA1851",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    },
+    "manufacturer_evidence": "Gigabyte official catalogue lists H810M K as a motherboard model; the observed identifier exactly matches that model name.",
+    "verification_review_id": 908
+  },
+  {
+    "id": "asus-90mb1j20-m0eay0",
+    "slug": "asus-90mb1j20-m0eay0",
+    "name": "Asus Prime B840M-A WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1J20-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b840m-a-wifi/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b840m-a-wifi/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-en/90MB1J20-M0EAY0/PRIME-B840M-A-WIFI"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B840",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Prime B840M-A WIFI, pero no publica ni asocia explícitamente el código observado 90MB1J20-M0EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1J20-M0EAY0 with the named model.",
+    "verification_review_id": 914
+  },
+  {
+    "id": "asus-90mb1ez0-m0eay0",
+    "slug": "asus-90mb1ez0-m0eay0",
+    "name": "Asus TUF Gaming A620M-PLUS Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1EZ0-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-a620m-plus/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-a620m-plus/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/no-no/90MB1EZ0-M0EAY0/TUF-GAMING-A620M-PLUS"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "A620",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus TUF Gaming A620M-PLUS, pero no publica ni asocia explícitamente el código observado 90MB1EZ0-M0EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1EZ0-M0EAY0 with the named model.",
+    "verification_review_id": 915
+  },
+  {
+    "id": "gigabyte-b760m-d3hp-wifi6",
+    "slug": "gigabyte-b760m-d3hp-wifi6",
+    "name": "Gigabyte B760M D3HP WIFI6 Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760M D3HP WIFI6",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-D3HP-WIFI6/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B760M-D3HP-WIFI6/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B760",
+      "Socket": "LGA1700",
+      "Form factor": "Micro-ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    },
+    "manufacturer_evidence": "Gigabyte official product nomenclature identifies B760M D3HP WIFI6; the observed identifier matches the model designation.",
+    "verification_review_id": 916
+  },
+  {
+    "id": "asus-90mb1iz0-m0eay0",
+    "slug": "asus-90mb1iz0-m0eay0",
+    "name": "Asus Prime B840-PLUS WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1IZ0-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b840-plus-wifi/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b840-plus-wifi/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-fr/90MB1IZ0-M0EAY0/PRIME-B840-PLUS-WIFI"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B840",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Prime B840-PLUS WIFI, pero no publica ni asocia explícitamente el código observado 90MB1IZ0-M0EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1IZ0-M0EAY0 with the named model.",
+    "verification_review_id": 919
+  },
+  {
+    "id": "asus-90mb1i70-m0eay0",
+    "slug": "asus-90mb1i70-m0eay0",
+    "name": "Asus Prime Z890-P WIFI Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1I70-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z890-p-wifi/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-z890-p-wifi/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/fi-en/90MB1I70-M0EAY0/PRIME-Z890-P-WIFI"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "Z890",
+      "Socket": "LGA1851",
+      "Form factor": "ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Prime Z890-P WIFI, pero no publica ni asocia explícitamente el código observado 90MB1I70-M0EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1I70-M0EAY0 with the named model.",
+    "verification_review_id": 920
+  },
+  {
+    "id": "msi-911-7e33-004",
+    "slug": "msi-911-7e33-004",
+    "name": "MSI MPG Z890I EDGE TI WIFI Socket 1851",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "mpn": "911-7E33-004",
+    "manufacturer_url": "https://www.msi.com/Motherboard/MPG-Z890I-EDGE-TI-WIFI/Overview",
+    "manufacturer_sources": [
+      "https://www.msi.com/Motherboard/MPG-Z890I-EDGE-TI-WIFI/Overview",
+      "https://www.msi.com/support/motherboard/cpu-support",
+      "https://eu-business-store.msi.com/de/products/mpg-z890i-edge-ti-wifi"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "Z890",
+      "Socket": "LGA1851",
+      "Form factor": "Mini-ITX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia MSI MPG Z890I EDGE TI WIFI, pero no publica ni asocia explícitamente el código observado 911-7E33-004; se deja ambiguo. MSI official EU business e-shop lists SKU 911-7E33-004 for this exact model.",
+    "verification_review_id": 924
+  },
+  {
+    "id": "gigabyte-b760m-ds3h-ddr4",
+    "slug": "gigabyte-b760m-ds3h-ddr4",
+    "name": "Gigabyte B760M DS3H D4 Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760M DS3H DDR4",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-DS3H-DDR4-rev-10/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B760M-DS3H-DDR4-rev-10/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "Chipset/model family": "B760",
+      "Socket": "LGA1700",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR4"
+    },
+    "manufacturer_evidence": "Gigabyte lists B760M DS3H DDR4 as a model; the observed identifier matches the DDR4 variant.",
+    "verification_review_id": 926
+  },
+  {
+    "id": "asus-90mb1mu0-m0eay0",
+    "slug": "asus-90mb1mu0-m0eay0",
+    "name": "Asus TUF Gaming B850M-PLUS WIFI7 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1MU0-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850m-plus-wifi7/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850m-plus-wifi7/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://promotion.asus.com/en-gb/back-to-school-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B850",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus TUF Gaming B850M-PLUS WIFI7, pero no publica ni asocia explícitamente el código observado 90MB1MU0-M0EAY0; se deja ambiguo. Official ASUS promotion table explicitly pairs the observed part number with its product model.",
+    "verification_review_id": 928
+  },
+  {
+    "id": "asus-90mb1ln0-m0eay0",
+    "slug": "asus-90mb1ln0-m0eay0",
+    "name": "Asus Prime B850M-A WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1LN0-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b850m-a-wifi/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b850m-a-wifi/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/nl/90MB1LN0-M0EAY0/PRIME-B850M-A-WIFI"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B850",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Prime B850M-A WIFI, pero no publica ni asocia explícitamente el código observado 90MB1LN0-M0EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1LN0-M0EAY0 with the named model.",
+    "verification_review_id": 933
+  },
+  {
+    "id": "asus-90mb1j10-m0eayc",
+    "slug": "asus-90mb1j10-m0eayc",
+    "name": "Asus Prime B840M-A Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1J10-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b840m-a/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b840m-a/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-en/90MB1J10-M0EAYC/PRIME-B840M-A-CSM"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B840",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Prime B840M-A, pero no publica ni asocia explícitamente el código observado 90MB1J10-M0EAYC; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1J10-M0EAYC with the named model.",
+    "verification_review_id": 936
+  },
+  {
+    "id": "asus-90mb1fy0-m1eay0",
+    "slug": "asus-90mb1fy0-m1eay0",
+    "name": "Asus ProArt B760-Creator WIFI Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1FY0-M1EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/proart/proart-b760-creator-wifi/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/proart/proart-b760-creator-wifi/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-fr/90MB1FY0-M1EAY0/ProArt-B760-CREATOR-WIFI"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B760",
+      "Socket": "LGA1700",
+      "Form factor": "ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus ProArt B760-Creator WIFI, pero no publica ni asocia explícitamente el código observado 90MB1FY0-M1EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1FY0-M1EAY0 with the named model.",
+    "verification_review_id": 938
+  },
+  {
+    "id": "asus-90mb1n30-m0eay0",
+    "slug": "asus-90mb1n30-m0eay0",
+    "name": "Asus TUF Gaming A620AM-PLUS Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1N30-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-a620am-plus/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-a620am-plus/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-en/90MB1N30-M0EAY0/TUF-GAMING-A620AM-PLUS"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "A620",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus TUF Gaming A620AM-PLUS, pero no publica ni asocia explícitamente el código observado 90MB1N30-M0EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1N30-M0EAY0 with the named model.",
+    "verification_review_id": 941
+  },
+  {
+    "id": "gigabyte-z890i-aorus-ultra",
+    "slug": "gigabyte-z890i-aorus-ultra",
+    "name": "Gigabyte Z890I AORUS ULTRA Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z890I AORUS ULTRA",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890I-AORUS-ULTRA/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/Z890I-AORUS-ULTRA/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "Z890",
+      "Socket": "LGA1851",
+      "Form factor": "Mini-ITX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "Gigabyte official product catalogue lists Z890I AORUS ULTRA; observed model identifier is identical.",
+    "verification_review_id": 945
+  },
+  {
+    "id": "asus-90mb1khp-m0eayc",
+    "slug": "asus-90mb1khp-m0eayc",
+    "name": "Asus Pro H810M-C-CSM Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1KHP-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/pro/pro-h810m-c-csm/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/pro/pro-h810m-c-csm/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-en/90MB1KHP-M0EAYC/Pro-H810M-C-CSM"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "H810",
+      "Socket": "LGA1851",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Pro H810M-C-CSM, pero no publica ni asocia explícitamente el código observado 90MB1KHP-M0EAYC; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1KHP-M0EAYC with the named model.",
+    "verification_review_id": 947
+  },
+  {
+    "id": "gigabyte-b860-ds3h",
+    "slug": "gigabyte-b860-ds3h",
+    "name": "Gigabyte B860 DS3H Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B860 DS3H",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860-DS3H-rev-10/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B860-DS3H-rev-10/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B860",
+      "Socket": "LGA1851",
+      "Form factor": "ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "Gigabyte official product catalogue lists B860 DS3H; observed model identifier is identical.",
+    "verification_review_id": 948
+  },
+  {
+    "id": "asus-90mb1ll0-m0eay0",
+    "slug": "asus-90mb1ll0-m0eay0",
+    "name": "Asus B850M MAX GAMING WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1LL0-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/pro/b850m-max-gaming-wifi/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/pro/b850m-max-gaming-wifi/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-de/90MB1LL0-M0EAY0/ASUS-B850M-MAX-GAMING-WIFI-Mainboard-Sockel-AMD-AM5"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B850",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus B850M MAX GAMING WIFI, pero no publica ni asocia explícitamente el código observado 90MB1LL0-M0EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1LL0-M0EAY0 with the named model.",
+    "verification_review_id": 951
+  },
+  {
+    "id": "msi-911-7e61-001",
+    "slug": "msi-911-7e61-001",
+    "name": "MSI MAG B850M MORTAR WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "mpn": "911-7E61-001",
+    "manufacturer_url": "https://www.msi.com/Motherboard/MAG-B850M-MORTAR-WIFI/Overview",
+    "manufacturer_sources": [
+      "https://www.msi.com/Motherboard/MAG-B850M-MORTAR-WIFI/Overview",
+      "https://www.msi.com/support/motherboard/cpu-support",
+      "https://eu-business-store.msi.com/fr-fr/products/mag-b850m-mortar-wifi-fr-motherboard"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B850",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia MSI MAG B850M MORTAR WIFI, pero no publica ni asocia explícitamente el código observado 911-7E61-001; se deja ambiguo. MSI official EU business e-shop lists SKU 911-7E61-001 for this exact model.",
+    "verification_review_id": 954
+  },
+  {
+    "id": "asus-90mb1f50-m0eayc",
+    "slug": "asus-90mb1f50-m0eayc",
+    "name": "Asus Prime A620M-E-CSM Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1F50-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-a620m-e-csm/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-a620m-e-csm/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-en/90MB1F50-M0EAYC/PRIME-A620M-E-CSM"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "A620",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "96 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Prime A620M-E-CSM, pero no publica ni asocia explícitamente el código observado 90MB1F50-M0EAYC; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1F50-M0EAYC with the named model.",
+    "verification_review_id": 955
+  },
+  {
+    "id": "asus-90mb1jc0-m0eay0",
+    "slug": "asus-90mb1jc0-m0eay0",
+    "name": "Asus Pro WS Z890-ACE SE Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1JC0-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/pro/pro-ws-z890-ace-se/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/pro/pro-ws-z890-ace-se/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/no-en/90MB1JC0-M0EAY0/Pro-WS-Z890-ACE-SE"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "Z890",
+      "Socket": "LGA1851",
+      "Form factor": "ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Pro WS Z890-ACE SE, pero no publica ni asocia explícitamente el código observado 90MB1JC0-M0EAY0; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1JC0-M0EAY0 with the named model.",
+    "verification_review_id": 960
+  },
+  {
+    "id": "asus-90mb1lb0-m0eay0",
+    "slug": "asus-90mb1lb0-m0eay0",
+    "name": "Asus ROG Crosshair X870E Extreme Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1LB0-M0EAY0",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-extreme/spec/",
+    "manufacturer_sources": [
+      "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-extreme/spec/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://promotion.asus.com/en-gb/back-to-school-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "X870E",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus ROG Crosshair X870E Extreme, pero no publica ni asocia explícitamente el código observado 90MB1LB0-M0EAY0; se deja ambiguo. Official ASUS promotion table explicitly pairs the observed part number with its product model.",
+    "verification_review_id": 961
+  },
+  {
+    "id": "asus-90mb1bi0-m0eay0",
+    "slug": "asus-90mb1bi0-m0eay0",
+    "name": "Asus ROG Strix B650E-I Gaming WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1BI0-M0EAY0",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b650e-i-gaming-wifi/spec/",
+    "manufacturer_sources": [
+      "https://rog.asus.com/motherboards/rog-strix/rog-strix-b650e-i-gaming-wifi/spec/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://promotion.asus.com/en-gb/back-to-school-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "Chipset/model family": "B650E",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus ROG Strix B650E-I Gaming WIFI, pero no publica ni asocia explícitamente el código observado 90MB1BI0-M0EAY0; se deja ambiguo. Official ASUS promotion table explicitly pairs the observed part number with its product model.",
+    "verification_review_id": 964
+  },
+  {
+    "id": "gigabyte-b650e-aorus-stealth-ice",
+    "slug": "gigabyte-b650e-aorus-stealth-ice",
+    "name": "Gigabyte B650E AORUS STEALTH ICE Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650E AORUS STEALTH ICE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650E-AORUS-STEALTH-ICE/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B650E-AORUS-STEALTH-ICE/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B650E",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "Gigabyte official product catalogue lists B650E AORUS STEALTH ICE; observed model identifier is identical.",
+    "verification_review_id": 970
+  },
+  {
+    "id": "gigabyte-b850i-aorus-pro-10",
+    "slug": "gigabyte-b850i-aorus-pro-10",
+    "name": "Gigabyte B850I AORUS Pro Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850I AORUS PRO 1.0",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850I-AORUS-PRO-rev-10/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B850I-AORUS-PRO-rev-10/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B850",
+      "Socket": "AM5",
+      "Form factor": "Mini-ITX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "Gigabyte lists B850I AORUS PRO with revision 1.0; observed model identifier matches that public model/revision.",
+    "verification_review_id": 971
+  },
+  {
+    "id": "asus-90mb1eh0-m0eayc",
+    "slug": "asus-90mb1eh0-m0eayc",
+    "name": "Asus Prime B650M-A II-CSM Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1EH0-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b650m-a-ii-csm/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-b650m-a-ii-csm/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/de/Mainboards/ASUS-PRIME-B650M-A-II-CSM-Mainboard-Sockel-AMD-AM5/90MB1EH0-M0EAYC"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B650",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Prime B650M-A II-CSM, pero no publica ni asocia explícitamente el código observado 90MB1EH0-M0EAYC; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1EH0-M0EAYC with the named model.",
+    "verification_review_id": 973
+  },
+  {
+    "id": "asus-90mb1l5m-m0eayc",
+    "slug": "asus-90mb1l5m-m0eayc",
+    "name": "Asus Pro A620AT-CSM Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1L5M-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/pro/pro-a620at-csm/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/pro/pro-a620at-csm/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-en/90MB1L5M-M0EAYC/Pro-A620AT-CSM"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "A620",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Pro A620AT-CSM, pero no publica ni asocia explícitamente el código observado 90MB1L5M-M0EAYC; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1L5M-M0EAYC with the named model.",
+    "verification_review_id": 974
+  },
+  {
+    "id": "asus-90mb1f10-m0eayc",
+    "slug": "asus-90mb1f10-m0eayc",
+    "name": "Asus Prime A620M-A-CSM Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1F10-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-a620m-a-csm/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/prime/prime-a620m-a-csm/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/se-en/90MB1F10-M0EAYC/PRIME-A620M-A-CSM"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "A620",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Prime A620M-A-CSM, pero no publica ni asocia explícitamente el código observado 90MB1F10-M0EAYC; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1F10-M0EAYC with the named model.",
+    "verification_review_id": 975
+  },
+  {
+    "id": "asus-90mb1f80-m0eayc",
+    "slug": "asus-90mb1f80-m0eayc",
+    "name": "Asus Pro A620M-C-CSM Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1F80-M0EAYC",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/pro/pro-a620m-c-csm/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/pro/pro-a620m-c-csm/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://webshop.asus.com/ch-en/90MB1F80-M0EAYC/Pro-A620M-C-CSM"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "A620",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus Pro A620M-C-CSM, pero no publica ni asocia explícitamente el código observado 90MB1F80-M0EAYC; se deja ambiguo. ASUS official webshop page explicitly lists product number 90MB1F80-M0EAYC with the named model.",
+    "verification_review_id": 978
+  },
+  {
+    "id": "asus-90mb1m90-m0eay0",
+    "slug": "asus-90mb1m90-m0eay0",
+    "name": "Asus ROG Strix X870E-H Gaming WIFI7 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1M90-M0EAY0",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870e-h-gaming-wifi7/spec/",
+    "manufacturer_sources": [
+      "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870e-h-gaming-wifi7/spec/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://promotion.asus.com/en-gb/back-to-school-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "X870E",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus ROG Strix X870E-H Gaming WIFI7, pero no publica ni asocia explícitamente el código observado 90MB1M90-M0EAY0; se deja ambiguo. Official ASUS promotion table explicitly pairs the observed part number with its product model.",
+    "verification_review_id": 979
+  },
+  {
+    "id": "asus-90mb1pr0-m0eay0",
+    "slug": "asus-90mb1pr0-m0eay0",
+    "name": "Asus B850 MAX GAMING WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1PR0-M0EAY0",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/pro/b850-max-gaming-wifi/",
+    "manufacturer_sources": [
+      "https://www.asus.com/motherboards-components/motherboards/pro/b850-max-gaming-wifi/",
+      "https://www.asus.com/motherboards-components/motherboards/",
+      "https://promotion.asus.com/en-gb/back-to-school-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model family": "B850",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Wireless networking": "Wi-Fi variant",
+      "Memory generation": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    },
+    "manufacturer_evidence": "La fuente oficial confirma el modelo/familia Asus B850 MAX GAMING WIFI, pero no publica ni asocia explícitamente el código observado 90MB1PR0-M0EAY0; se deja ambiguo. Official ASUS promotion table explicitly pairs the observed part number with its product model.",
+    "verification_review_id": 981
+  },
+  {
+    "id": "gigabyte-x870e-aorus-pro",
+    "slug": "gigabyte-x870e-aorus-pro",
+    "name": "Gigabyte X870E AORUS Pro Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E AORUS PRO",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-Pro/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/X870E-AORUS-Pro/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "Chipset/model family": "X870E",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "Memory generation": "DDR5"
+    },
+    "manufacturer_evidence": "Gigabyte official product catalogue identifies X870E AORUS PRO; observed identifier matches the model name.",
+    "verification_review_id": 987
+  },
+  {
+    "id": "gigabyte-b650i-ax",
+    "slug": "gigabyte-b650i-ax",
+    "name": "Gigabyte B650I AX Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650I AX",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650I-AX/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B650I-AX/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "Chipset/model family": "B650",
+      "Socket": "AM5",
+      "Form factor": "Mini-ITX",
+      "Memory generation": "DDR5"
+    },
+    "manufacturer_evidence": "Gigabyte official product catalogue identifies B650I AX; observed identifier matches the model name.",
+    "verification_review_id": 989
+  },
+  {
+    "id": "gigabyte-a620m-gaming-x",
+    "slug": "gigabyte-a620m-gaming-x",
+    "name": "Gigabyte A620M Gaming X Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "A620M GAMING X",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/A620M-Gaming-X/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/A620M-Gaming-X/sp",
+      "https://www.gigabyte.com/es/Support/Consumer/Faq/1681"
+    ],
+    "specs_verified_at": "2026-11-02T19:20:37Z",
+    "specs": {
+      "Chipset/model family": "A620",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "Memory generation": "DDR5"
+    },
+    "manufacturer_evidence": "Gigabyte official product catalogue identifies A620M GAMING X; observed identifier matches the model name.",
+    "verification_review_id": 1000
+  }
+]

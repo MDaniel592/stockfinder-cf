@@ -1,0 +1,84 @@
+{
+  "updated_at": "2026-11-09T21:06:16Z",
+  "processed_total": 2690,
+  "counts": {
+    "blocked:challenge/status 200": 3,
+    "blocked:challenge/status 403": 18,
+    "blocked:request failed: CertificateVerifyError": 7,
+    "blocked:request failed: Timeout": 10,
+    "ok": 1456,
+    "skip:bad_image": 187,
+    "skip:generic_image": 242,
+    "skip:image_host_not_official": 51,
+    "skip:image_too_small": 59,
+    "skip:no_image": 254,
+    "skip:non_html": 238,
+    "skip:not_found": 26,
+    "skip:robots_disallow": 139
+  },
+  "domains": {
+    "apacer.com": {
+      "consecutive_blocks": 5,
+      "total_blocks": 5,
+      "stopped": true,
+      "stopped_at": "2026-11-09T20:45:07Z"
+    },
+    "asrock.com": {
+      "consecutive_blocks": 5,
+      "total_blocks": 5,
+      "stopped": true,
+      "stopped_at": "2026-11-08T20:59:59Z"
+    },
+    "asus.com": {
+      "consecutive_blocks": 5,
+      "total_blocks": 10,
+      "stopped": true,
+      "stopped_at": "2026-11-08T21:14:09Z"
+    },
+    "marsgaming.eu": {
+      "consecutive_blocks": 0,
+      "total_blocks": 1,
+      "stopped": false
+    },
+    "mushkin.com": {
+      "consecutive_blocks": 2,
+      "total_blocks": 2,
+      "stopped": false
+    },
+    "patriotmemory.com": {
+      "consecutive_blocks": 5,
+      "total_blocks": 5,
+      "stopped": true,
+      "stopped_at": "2026-11-08T21:16:17Z"
+    },
+    "pny.com": {
+      "consecutive_blocks": 0,
+      "total_blocks": 1,
+      "stopped": false
+    },
+    "powercolor.com": {
+      "consecutive_blocks": 5,
+      "total_blocks": 5,
+      "stopped": true,
+      "stopped_at": "2026-11-08T21:12:17Z"
+    },
+    "sapphiretech.com": {
+      "consecutive_blocks": 0,
+      "total_blocks": 2,
+      "stopped": false
+    },
+    "silicon-power.com": {
+      "consecutive_blocks": 0,
+      "total_blocks": 4,
+      "stopped": false
+    },
+    "dell.com": {
+      "consecutive_blocks": 0,
+      "total_blocks": 4,
+      "stopped": false
+    }
+  },
+  "run_done": 1297,
+  "run_total": 1303,
+  "eta_utc": "2026-11-09T21:06:29Z"
+}

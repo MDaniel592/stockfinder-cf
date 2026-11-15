@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": "zalman-zm700-gv2se",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1606",
+    "note": "Manual oficial GV2SE (ZM700-GV2SE, pág. 13, Cable Specifications): dos conectores \"PCI Express (6+2) Power Connector\"."
+  },
+  {
+    "product_id": "zalman-zm800-gv2se",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "value": "2 × PCIe 6+2 pines",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1606",
+    "note": "Manual oficial GV2SE (ZM800-GV2SE, pág. 14, Cable Specifications): dos conectores \"PCI Express (6+2) Power Connector\"."
+  },
+  {
+    "product_id": "tacens-valeo-v-800m-1vv800m",
+    "category_id": "psu",
+    "key": "Modular",
+    "value": "Totalmente modular",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/en/power-supplies/1vv800m",
+    "note": "Ficha oficial 1VV800M-FICHA (descargable desde la ficha): cabecera \"FUENTE ATX MODULAR / FULL MODULAR\" y \"Tipo de cable: Modular\"."
+  }
+]

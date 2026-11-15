@@ -1,0 +1,287 @@
+[
+ {
+  "id": "nzxt-h6-flow-blanco-cc-h61fw-01",
+  "slug": "nzxt-h6-flow-blanco-cc-h61fw-01",
+  "name": "NZXT H6 Flow Blanco (CC-H61FW-01)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CC-H61FW-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h6-flow",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "365 mm",
+   "Altura disipador máxima": "163 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "nzxt-h6-flow-negro-cc-h61fb-01",
+  "slug": "nzxt-h6-flow-negro-cc-h61fb-01",
+  "name": "NZXT H6 Flow Negro (CC-H61FB-01)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CC-H61FB-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h6-flow",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "365 mm",
+   "Altura disipador máxima": "163 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "nzxt-h6-flow-rgb-negro-cc-h61fb-r1",
+  "slug": "nzxt-h6-flow-rgb-negro-cc-h61fb-r1",
+  "name": "NZXT H6 Flow RGB Negro (CC-H61FB-R1)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CC-H61FB-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h6-flow-rgb",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "365 mm",
+   "Altura disipador máxima": "163 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "nzxt-h3-flow-negro-cc-h31fb-01",
+  "slug": "nzxt-h3-flow-negro-cc-h31fb-01",
+  "name": "NZXT H3 Flow Negro (CC-H31FB-01)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CC-H31FB-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h3-flow",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador frontal máximo": "280 mm",
+   "Radiador superior máximo": "240 mm"
+  }
+ },
+ {
+  "id": "nzxt-h3-flow-blanco-cc-h31fw-01",
+  "slug": "nzxt-h3-flow-blanco-cc-h31fw-01",
+  "name": "NZXT H3 Flow Blanco (CC-H31FW-01)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CC-H31FW-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h3-flow",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador frontal máximo": "280 mm",
+   "Radiador superior máximo": "240 mm"
+  }
+ },
+ {
+  "id": "nzxt-h5-flow-rgb-negro-cc-h52fb-r1",
+  "slug": "nzxt-h5-flow-rgb-negro-cc-h52fb-r1",
+  "name": "NZXT H5 Flow RGB Negro (CC-H52FB-R1)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CC-H52FB-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h5-flow-rgb",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "1 × 360 mm (triple 120 mm) + 1 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm"
+  }
+ },
+ {
+  "id": "nzxt-h7-flow-negro-cm-h72fb-01",
+  "slug": "nzxt-h7-flow-negro-cm-h72fb-01",
+  "name": "NZXT H7 Flow Negro (CM-H72FB-01)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CM-H72FB-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h7-flow",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "nzxt-h7-flow-blanco-cm-h72fw-01",
+  "slug": "nzxt-h7-flow-blanco-cm-h72fw-01",
+  "name": "NZXT H7 Flow Blanco (CM-H72FW-01)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CM-H72FW-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h7-flow",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "nzxt-h7-flow-rgb-negro-cm-h72fb-r1",
+  "slug": "nzxt-h7-flow-rgb-negro-cm-h72fb-r1",
+  "name": "NZXT H7 Flow RGB Negro (CM-H72FB-R1)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CM-H72FB-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h7-flow-rgb",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "1 × 360 mm (triple 120 mm)",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "nzxt-h7-flow-rgb-blanco-cm-h72fw-r1",
+  "slug": "nzxt-h7-flow-rgb-blanco-cm-h72fw-r1",
+  "name": "NZXT H7 Flow RGB Blanco (CM-H72FW-R1)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CM-H72FW-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h7-flow-rgb",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "1 × 360 mm (triple 120 mm)",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ },
+ {
+  "id": "nzxt-h9-flow-blanco-2025-cm-h92fw-01",
+  "slug": "nzxt-h9-flow-blanco-2025-cm-h92fw-01",
+  "name": "NZXT H9 Flow Blanco (2025) (CM-H92FW-01)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CM-H92FW-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h9-flow",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "3 × 140 mm + 1 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm"
+  }
+ },
+ {
+  "id": "nzxt-h9-flow-rgb-negro-2025-cm-h92fb-r1",
+  "slug": "nzxt-h9-flow-rgb-negro-2025-cm-h92fb-r1",
+  "name": "NZXT H9 Flow RGB Negro (2025) (CM-H92FB-R1)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CM-H92FB-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h9-flow-rgb",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 420 mm RGB (triple 140 mm) + 1 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm"
+  }
+ },
+ {
+  "id": "nzxt-h9-flow-rgb-blanco-2025-cm-h92fw-r1",
+  "slug": "nzxt-h9-flow-rgb-blanco-2025-cm-h92fw-r1",
+  "name": "NZXT H9 Flow RGB Blanco (2025) (CM-H92FW-R1)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CM-H92FW-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h9-flow-rgb",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 420 mm RGB (triple 140 mm) + 1 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm"
+  }
+ },
+ {
+  "id": "nzxt-h9-flow-rgb-blanco-2025-cm-h92fw-p1",
+  "slug": "nzxt-h9-flow-rgb-blanco-2025-cm-h92fw-p1",
+  "name": "NZXT H9 Flow RGB+ Blanco (2025) (CM-H92FW-P1)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CM-H92FW-P1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/h9-flow-rgb-plus",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "2 × 420 mm RGB (triple 140 mm) + 1 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm"
+  }
+ }
+]

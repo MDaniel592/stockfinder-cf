@@ -1,0 +1,1195 @@
+[
+ {
+  "id": "patriot-pvv516g60c30",
+  "slug": "patriot-pvv516g60c30",
+  "name": "Patriot Viper Venom 16 GB (1 × 16 GB) DDR5-6000 CL30 (PVV516G60C30)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVV516G60C30",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N PVV516G60C30 = 16GB (1x16GB) DDR5 6000 MT/s CL30 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "patriot-pvv516g600c36k",
+  "slug": "patriot-pvv516g600c36k",
+  "name": "Patriot Viper Venom 16 GB (2 × 8 GB) DDR5-6000 CL36 (PVV516G600C36K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVV516G600C36K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N PVV516G600C36K = 16GB (2x8GB) DDR5 6000 MT/s CL36 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "patriot-pvs464g320c6k",
+  "slug": "patriot-pvs464g320c6k",
+  "name": "Patriot Viper Steel 64 GB (2 × 32 GB) DDR4-3200 CL16 (PVS464G320C6K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVS464G320C6K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+    "supports": "Ficha oficial Patriot: P/N PVS464G320C6K = 64GB (2x32GB) DDR4 3200 MT/s CL16 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Steel",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "patriot-veb516g6030w",
+  "slug": "patriot-veb516g6030w",
+  "name": "Patriot Viper Elite 5 16 GB (1 × 16 GB) DDR5-6000 CL30 (VEB516G6030W)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VEB516G6030W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/elite5-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/elite5-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N VEB516G6030W = 16GB (1x16GB) DDR5 6000 MT/s CL30 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Elite 5",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "patriot-veu564g6432k",
+  "slug": "patriot-veu564g6432k",
+  "name": "Patriot Viper Elite 5 Ultra 64 GB (2 × 32 GB) DDR5-6400 CL32 (VEU564G6432K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VEU564G6432K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/elite5-ultra-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/elite5-ultra-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N VEU564G6432K = 64GB (2x32GB) DDR5 6400 MT/s CL32 1.4 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Elite 5 Ultra",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "6400 MT/s",
+   "Latencia": "CL32",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "patriot-pvs432g320c6k",
+  "slug": "patriot-pvs432g320c6k",
+  "name": "Patriot Viper Steel 32 GB (2 × 16 GB) DDR4-3200 CL16 (PVS432G320C6K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVS432G320C6K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+    "supports": "Ficha oficial Patriot: P/N PVS432G320C6K = 32GB (2x16GB) DDR4 3200 MT/s CL16 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Steel",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "patriot-pvv532g56c38",
+  "slug": "patriot-pvv532g56c38",
+  "name": "Patriot Viper Venom 32 GB (1 × 32 GB) DDR5-5600 CL38 (PVV532G56C38)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVV532G56C38",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N PVV532G56C38 = 32GB (1x32GB) DDR5 5600 MT/s CL38 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL38",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "patriot-vvr532g60c28ak",
+  "slug": "patriot-vvr532g60c28ak",
+  "name": "Patriot Viper Venom RGB AMD Series 32 GB (2 × 16 GB) DDR5-6000 CL28 (VVR532G60C28AK)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VVR532G60C28AK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N VVR532G60C28AK = 32GB (2x16GB) DDR5 6000 MT/s CL28 1.4 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom RGB AMD Series",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL28",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "patriot-veu596g6028k",
+  "slug": "patriot-veu596g6028k",
+  "name": "Patriot Viper Elite 5 Ultra 96 GB (2 × 48 GB) DDR5-6000 CL28 (VEU596G6028K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VEU596G6028K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/elite5-ultra-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/elite5-ultra-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N VEU596G6028K = 96GB (2x48GB) DDR5 6000 MT/s CL28 1.4 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Elite 5 Ultra",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "96 GB",
+   "Módulos": "2 × 48 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL28",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "patriot-pvv516g600c36",
+  "slug": "patriot-pvv516g600c36",
+  "name": "Patriot Viper Venom 16 GB (1 × 16 GB) DDR5-6000 CL36 (PVV516G600C36)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVV516G600C36",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N PVV516G600C36 = 16GB (1x16GB) DDR5 6000 MT/s CL36 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "patriot-vv516g64c32ak",
+  "slug": "patriot-vv516g64c32ak",
+  "name": "Patriot Viper Venom AMD Series 16 GB (2 × 8 GB) DDR5-6400 CL32 (VV516G64C32AK)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VV516G64C32AK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N VV516G64C32AK = 16GB (2x8GB) DDR5 6400 MT/s CL32 1.4 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom AMD Series",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "6400 MT/s",
+   "Latencia": "CL32",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "patriot-vv532g60c28ak",
+  "slug": "patriot-vv532g60c28ak",
+  "name": "Patriot Viper Venom AMD Series 32 GB (2 × 16 GB) DDR5-6000 CL28 (VV532G60C28AK)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VV532G60C28AK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N VV532G60C28AK = 32GB (2x16GB) DDR5 6000 MT/s CL28 1.4 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom AMD Series",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL28",
+   "Voltaje": "1.4 V"
+  }
+ },
+ {
+  "id": "patriot-pvv532g700c32k",
+  "slug": "patriot-pvv532g700c32k",
+  "name": "Patriot Viper Venom 32 GB (2 × 16 GB) DDR5-7000 CL32 (PVV532G700C32K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVV532G700C32K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N PVV532G700C32K = 32GB (2x16GB) DDR5 7000 MT/s CL32 1.45 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "7000 MT/s",
+   "Latencia": "CL32",
+   "Voltaje": "1.45 V"
+  }
+ },
+ {
+  "id": "patriot-pvs432g360c8k",
+  "slug": "patriot-pvs432g360c8k",
+  "name": "Patriot Viper Steel 32 GB (2 × 16 GB) DDR4-3600 CL18 (PVS432G360C8K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVS432G360C8K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+    "supports": "Ficha oficial Patriot: P/N PVS432G360C8K = 32GB (2x16GB) DDR4 3600 MT/s CL18 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Steel",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL18",
+   "Voltaje": "1.35 V",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "patriot-pvs464g360c8k",
+  "slug": "patriot-pvs464g360c8k",
+  "name": "Patriot Viper Steel 64 GB (2 × 32 GB) DDR4-3600 CL18 (PVS464G360C8K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVS464G360C8K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+    "supports": "Ficha oficial Patriot: P/N PVS464G360C8K = 64GB (2x32GB) DDR4 3600 MT/s CL18 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Steel",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL18",
+   "Voltaje": "1.35 V",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "patriot-psp516g56002h1",
+  "slug": "patriot-psp516g56002h1",
+  "name": "Patriot Signature Line Premium 16 GB (1 × 16 GB) DDR5-5600 CL46 (PSP516G56002H1)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PSP516G56002H1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/signature-line-premium-ddr5",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/signature-line-premium-ddr5",
+    "supports": "Ficha oficial Patriot: P/N PSP516G56002H1 = 16GB (1x16GB) DDR5 5600 MT/s CL46 1.1 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Signature Line Premium",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL46",
+   "Voltaje": "1.1 V",
+   "Color": "Negro"
+  }
+ },
+ {
+  "id": "patriot-pvsr416g360c8k",
+  "slug": "patriot-pvsr416g360c8k",
+  "name": "Patriot Viper Steel RGB 16 GB (2 × 8 GB) DDR4-3600 CL18 (PVSR416G360C8K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVSR416G360C8K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-steel-rgb-ddr4-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-steel-rgb-ddr4-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N PVSR416G360C8K = 16GB (2x8GB) DDR4 3600 MT/s CL18 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Steel RGB",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL18",
+   "Voltaje": "1.35 V",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "patriot-pvsr432g320c6k",
+  "slug": "patriot-pvsr432g320c6k",
+  "name": "Patriot Viper Steel RGB 32 GB (2 × 16 GB) DDR4-3200 CL16 (PVSR432G320C6K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVSR432G320C6K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-steel-rgb-ddr4-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-steel-rgb-ddr4-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N PVSR432G320C6K = 32GB (2x16GB) DDR4 3200 MT/s CL16 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Steel RGB",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V",
+   "Formato": "UDIMM"
+  }
+ },
+ {
+  "id": "patriot-vv58g60c36a",
+  "slug": "patriot-vv58g60c36a",
+  "name": "Patriot Viper Venom AMD Series 8 GB (1 × 8 GB) DDR5-6000 CL36 (VV58G60C36A)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VV58G60C36A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N VV58G60C36A = 8GB (1x8GB) DDR5 6000 MT/s CL36 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom AMD Series",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "patriot-pvvr516g600c36k",
+  "slug": "patriot-pvvr516g600c36k",
+  "name": "Patriot Viper Venom RGB 16 GB (2 × 8 GB) DDR5-6000 CL36 (PVVR516G600C36K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVVR516G600C36K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-venom-ddr5-performance-ram",
+    "supports": "Ficha oficial Patriot: P/N PVVR516G600C36K = 16GB (2x8GB) DDR5 6000 MT/s CL36 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Venom RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "patriot-pvs416g360c7k",
+  "slug": "patriot-pvs416g360c7k",
+  "name": "Patriot Viper Steel 16 GB (2 × 8 GB) DDR4-3600 CL17 (PVS416G360C7K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVS416G360C7K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+  "manufacturer_sources": [
+   {
+    "url": "https://viper.patriotmemory.com/products/viper-steel-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory",
+    "supports": "Ficha oficial Patriot: P/N PVS416G360C7K = 16GB (2x8GB) DDR4 3600 MT/s CL17 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Steel",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL17",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "patriot-pve2432g320c8k",
+  "slug": "patriot-pve2432g320c8k",
+  "name": "Patriot Viper Elite II 32 GB (2 × 16 GB) DDR4-3200 CL18 (PVE2432G320C8K)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "PVE2432G320C8K",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.patriotmemory.com/products/viper-elite-ii-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory-gamercertified",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.patriotmemory.com/products/viper-elite-ii-ddr4-performance-memory-ram-viper-gaming-by-patriot-memory-gamercertified",
+    "supports": "Ficha oficial Patriot: P/N PVE2432G320C8K = 32GB (2x16GB) DDR4 3200 MT/s CL18 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:05:00Z",
+  "specs": {
+   "Línea": "Viper Elite II",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL18",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "gskill-f5-5600j3636d32gx1-is",
+  "slug": "gskill-f5-5600j3636d32gx1-is",
+  "name": "G.SKILL Aegis 5 32 GB (1 × 32 GB) DDR5-5600 CL36 (F5-5600J3636D32GX1-IS)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-5600J3636D32GX1-IS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/440/1734407172/F5-5600J3636D32GX1-IS-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/440/1734407172/F5-5600J3636D32GX1-IS-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-5600J3636D32GX1-IS = 32GB (1x32GB) DDR5 5600 MT/s CL36 1.25 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Aegis 5",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.25 V",
+   "Perfil": "Intel XMP / AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f4-3200c16s-16gis",
+  "slug": "gskill-f4-3200c16s-16gis",
+  "name": "G.SKILL Aegis 16 GB (1 × 16 GB) DDR4-3200 CL16 (F4-3200C16S-16GIS)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F4-3200C16S-16GIS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/185/1567584071/F4-3200C16S-16GIS-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/185/1567584071/F4-3200C16S-16GIS-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F4-3200C16S-16GIS = 16GB (1x16GB) DDR4 3200 MT/s CL16 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Aegis",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "gskill-f4-3600c16d-32gtzrc",
+  "slug": "gskill-f4-3600c16d-32gtzrc",
+  "name": "G.SKILL Trident Z RGB 32 GB (2 × 16 GB) DDR4-3600 CL16 (F4-3600C16D-32GTZRC)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F4-3600C16D-32GTZRC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/166/1562743478/F4-3600C16D-32GTZRC-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/166/1562743478/F4-3600C16D-32GTZRC-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F4-3600C16D-32GTZRC = 32GB (2x16GB) DDR4 3600 MT/s CL16 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Trident Z RGB",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "gskill-f4-3600c18d-32gvw",
+  "slug": "gskill-f4-3600c18d-32gvw",
+  "name": "G.SKILL Ripjaws V 32 GB (2 × 16 GB) DDR4-3600 CL18 (F4-3600C18D-32GVW)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F4-3600C18D-32GVW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/184/1697772687/F4-3600C18D-32GVW-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/184/1697772687/F4-3600C18D-32GVW-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F4-3600C18D-32GVW = 32GB (2x16GB) DDR4 3600 MT/s CL18 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Ripjaws V",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL18",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "gskill-f5-6800j3445g32gx2-tz5rk",
+  "slug": "gskill-f5-6800j3445g32gx2-tz5rk",
+  "name": "G.SKILL Trident Z5 RGB 64 GB (2 × 32 GB) DDR5-6800 CL34 (F5-6800J3445G32GX2-TZ5RK)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6800J3445G32GX2-TZ5RK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/374/1681884065/F5-6800J3445G32GX2-TZ5RK-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/374/1681884065/F5-6800J3445G32GX2-TZ5RK-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6800J3445G32GX2-TZ5RK = 64GB (2x32GB) DDR5 6800 MT/s CL34 1.40 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Trident Z5 RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "6800 MT/s",
+   "Latencia": "CL34",
+   "Voltaje": "1.40 V",
+   "Perfil": "Intel XMP"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j3636f16gx2-is",
+  "slug": "gskill-f5-6000j3636f16gx2-is",
+  "name": "G.SKILL Aegis 5 32 GB (2 × 16 GB) DDR5-6000 CL36 (F5-6000J3636F16GX2-IS)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J3636F16GX2-IS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/440/1729563538/F5-6000J3636F16GX2-IS-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/440/1729563538/F5-6000J3636F16GX2-IS-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J3636F16GX2-IS = 32GB (2x16GB) DDR5 6000 MT/s CL36 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Aegis 5",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V",
+   "Perfil": "Intel XMP / AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f4-2666c19d-16gis",
+  "slug": "gskill-f4-2666c19d-16gis",
+  "name": "G.SKILL Aegis 16 GB (2 × 8 GB) DDR4-2666 CL19 (F4-2666C19D-16GIS)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F4-2666C19D-16GIS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/185/1536025052/F4-2666C19D-16GIS-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/185/1536025052/F4-2666C19D-16GIS-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F4-2666C19D-16GIS = 16GB (2x8GB) DDR4 2666 MT/s CL19 1.20 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Aegis",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "2666 MT/s",
+   "Latencia": "CL19",
+   "Voltaje": "1.20 V"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j3636f16gx1-fx5",
+  "slug": "gskill-f5-6000j3636f16gx1-fx5",
+  "name": "G.SKILL Flare X5 16 GB (1 × 16 GB) DDR5-6000 CL36 (F5-6000J3636F16GX1-FX5)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J3636F16GX1-FX5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/396/1770272894/F5-6000J3636F16GX1-FX5-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/396/1770272894/F5-6000J3636F16GX1-FX5-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J3636F16GX1-FX5 = 16GB (1x16GB) DDR5 6000 MT/s CL36 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Flare X5",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V",
+   "Perfil": "Intel XMP / AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j3636f16gx2-rm5nrk",
+  "slug": "gskill-f5-6000j3636f16gx2-rm5nrk",
+  "name": "G.SKILL Ripjaws M5 Neo RGB 32 GB (2 × 16 GB) DDR5-6000 CL36 (F5-6000J3636F16GX2-RM5NRK)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J3636F16GX2-RM5NRK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/428/1727073263/F5-6000J3636F16GX2-RM5NRK-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/428/1727073263/F5-6000J3636F16GX2-RM5NRK-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J3636F16GX2-RM5NRK = 32GB (2x16GB) DDR5 6000 MT/s CL36 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Ripjaws M5 Neo RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V",
+   "Perfil": "Intel XMP / AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j3036f16gx2-tz5nrw",
+  "slug": "gskill-f5-6000j3036f16gx2-tz5nrw",
+  "name": "G.SKILL Trident Z5 Neo RGB 32 GB (2 × 16 GB) DDR5-6000 CL30 (F5-6000J3036F16GX2-TZ5NRW)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J3036F16GX2-TZ5NRW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/390/1692584545/F5-6000J3036F16GX2-TZ5NRW-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/390/1692584545/F5-6000J3036F16GX2-TZ5NRW-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J3036F16GX2-TZ5NRW = 32GB (2x16GB) DDR5 6000 MT/s CL30 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Trident Z5 Neo RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Voltaje": "1.35 V",
+   "Perfil": "Intel XMP / AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j3038f16gh2-tz5nr",
+  "slug": "gskill-f5-6000j3038f16gh2-tz5nr",
+  "name": "G.SKILL Trident Z5 Neo RGB 32 GB (2 × 16 GB) DDR5-6000 CL30 (F5-6000J3038F16GH2-TZ5NR)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J3038F16GH2-TZ5NR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/390/1772001452/F5-6000J3038F16GH2-TZ5NR-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/390/1772001452/F5-6000J3038F16GH2-TZ5NR-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J3038F16GH2-TZ5NR = 32GB (2x16GB) DDR5 6000 MT/s CL30 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Trident Z5 Neo RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Voltaje": "1.35 V",
+   "Perfil": "AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j4048f24gx2-tz5nr",
+  "slug": "gskill-f5-6000j4048f24gx2-tz5nr",
+  "name": "G.SKILL Trident Z5 Neo RGB 48 GB (2 × 24 GB) DDR5-6000 CL40 (F5-6000J4048F24GX2-TZ5NR)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J4048F24GX2-TZ5NR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/390/1682585046/F5-6000J4048F24GX2-TZ5NR-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/390/1682585046/F5-6000J4048F24GX2-TZ5NR-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J4048F24GX2-TZ5NR = 48GB (2x24GB) DDR5 6000 MT/s CL40 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Trident Z5 Neo RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "48 GB",
+   "Módulos": "2 × 24 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL40",
+   "Voltaje": "1.35 V",
+   "Perfil": "Intel XMP / AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j3244g64gx2-tz5nr",
+  "slug": "gskill-f5-6000j3244g64gx2-tz5nr",
+  "name": "G.SKILL Trident Z5 Neo RGB 128 GB (2 × 64 GB) DDR5-6000 CL32 (F5-6000J3244G64GX2-TZ5NR)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J3244G64GX2-TZ5NR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/390/1750730463/F5-6000J3244G64GX2-TZ5NR-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/390/1750730463/F5-6000J3244G64GX2-TZ5NR-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J3244G64GX2-TZ5NR = 128GB (2x64GB) DDR5 6000 MT/s CL32 1.40 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Trident Z5 Neo RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "128 GB",
+   "Módulos": "2 × 64 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL32",
+   "Voltaje": "1.40 V",
+   "Perfil": "AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f4-2666c19s-16gis",
+  "slug": "gskill-f4-2666c19s-16gis",
+  "name": "G.SKILL Aegis 16 GB (1 × 16 GB) DDR4-2666 CL19 (F4-2666C19S-16GIS)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F4-2666C19S-16GIS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/185/1575527599/F4-2666C19S-16GIS-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/185/1575527599/F4-2666C19S-16GIS-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F4-2666C19S-16GIS = 16GB (1x16GB) DDR4 2666 MT/s CL19 1.20 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Aegis",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "2666 MT/s",
+   "Latencia": "CL19",
+   "Voltaje": "1.20 V"
+  }
+ },
+ {
+  "id": "gskill-f4-3600c16q-64gvkc",
+  "slug": "gskill-f4-3600c16q-64gvkc",
+  "name": "G.SKILL Ripjaws V 64 GB (4 × 16 GB) DDR4-3600 CL16 (F4-3600C16Q-64GVKC)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F4-3600C16Q-64GVKC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/184/1562832133/F4-3600C16Q-64GVKC-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/184/1562832133/F4-3600C16Q-64GVKC-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F4-3600C16Q-64GVKC = 64GB (4x16GB) DDR4 3600 MT/s CL16 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Ripjaws V",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "64 GB",
+   "Módulos": "4 × 16 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "gskill-f4-4000c18d-16gvk",
+  "slug": "gskill-f4-4000c18d-16gvk",
+  "name": "G.SKILL Ripjaws V 16 GB (2 × 8 GB) DDR4-4000 CL18 (F4-4000C18D-16GVK)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F4-4000C18D-16GVK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/184/1562837577/F4-4000C18D-16GVK-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/184/1562837577/F4-4000C18D-16GVK-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F4-4000C18D-16GVK = 16GB (2x8GB) DDR4 4000 MT/s CL18 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Ripjaws V",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "4000 MT/s",
+   "Latencia": "CL18",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "gskill-f4-3600c16d-16gtzrc",
+  "slug": "gskill-f4-3600c16d-16gtzrc",
+  "name": "G.SKILL Trident Z RGB 16 GB (2 × 8 GB) DDR4-3600 CL16 (F4-3600C16D-16GTZRC)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F4-3600C16D-16GTZRC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/166/1562743659/F4-3600C16D-16GTZRC-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/166/1562743659/F4-3600C16D-16GTZRC-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F4-3600C16D-16GTZRC = 16GB (2x8GB) DDR4 3600 MT/s CL16 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Trident Z RGB",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3600 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j3636f16gx1-is",
+  "slug": "gskill-f5-6000j3636f16gx1-is",
+  "name": "G.SKILL Aegis 5 16 GB (1 × 16 GB) DDR5-6000 CL36 (F5-6000J3636F16GX1-IS)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J3636F16GX1-IS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/440/1729563348/F5-6000J3636F16GX1-IS-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/440/1729563348/F5-6000J3636F16GX1-IS-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J3636F16GX1-IS = 16GB (1x16GB) DDR5 6000 MT/s CL36 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Aegis 5",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V",
+   "Perfil": "Intel XMP / AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j3036f48gx2-fx5",
+  "slug": "gskill-f5-6000j3036f48gx2-fx5",
+  "name": "G.SKILL Flare X5 96 GB (2 × 48 GB) DDR5-6000 CL30 (F5-6000J3036F48GX2-FX5)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J3036F48GX2-FX5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/396/1731653457/F5-6000J3036F48GX2-FX5-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/396/1731653457/F5-6000J3036F48GX2-FX5-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J3036F48GX2-FX5 = 96GB (2x48GB) DDR5 6000 MT/s CL30 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Flare X5",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "96 GB",
+   "Módulos": "2 × 48 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Voltaje": "1.35 V",
+   "Perfil": "Intel XMP / AMD EXPO"
+  }
+ },
+ {
+  "id": "gskill-f5-6000j3038f16gh1-tz5nr",
+  "slug": "gskill-f5-6000j3038f16gh1-tz5nr",
+  "name": "G.SKILL Trident Z5 Neo RGB 16 GB (1 × 16 GB) DDR5-6000 CL30 (F5-6000J3038F16GH1-TZ5NR)",
+  "category_id": "ram",
+  "brand": "G.SKILL",
+  "mpn": "F5-6000J3038F16GH1-TZ5NR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gskill.com/specification/165/390/1772001009/F5-6000J3038F16GH1-TZ5NR-Specification",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.gskill.com/specification/165/390/1772001009/F5-6000J3038F16GH1-TZ5NR-Specification",
+    "supports": "Ficha oficial G.SKILL: P/N F5-6000J3038F16GH1-TZ5NR = 16GB (1x16GB) DDR5 6000 MT/s CL30 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:25:00Z",
+  "specs": {
+   "Línea": "Trident Z5 Neo RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Voltaje": "1.35 V",
+   "Perfil": "AMD EXPO"
+  }
+ },
+ {
+  "id": "adata-ax5u6000c3616g-dtlabrwh",
+  "slug": "adata-ax5u6000c3616g-dtlabrwh",
+  "name": "ADATA XPG Lancer Blade RGB 32 GB (2 × 16 GB) DDR5-6000 CL36 (AX5U6000C3616G-DTLABRWH)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AX5U6000C3616G-DTLABRWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260520.pdf",
+  "manufacturer_sources": [
+   {
+    "url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_rgb_ddr5_memory_20260520.pdf",
+    "supports": "Ficha oficial ADATA: P/N AX5U6000C3616G-DTLABRWH = 32GB (2x16GB) DDR5 6000 MT/s CL36 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:40:00Z",
+  "specs": {
+   "Línea": "XPG Lancer Blade RGB",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "adata-ax5u6400c3216g-dtlabwh",
+  "slug": "adata-ax5u6400c3216g-dtlabwh",
+  "name": "ADATA XPG Lancer Blade 32 GB (2 × 16 GB) DDR5-6400 CL32 (AX5U6400C3216G-DTLABWH)",
+  "category_id": "ram",
+  "brand": "ADATA",
+  "mpn": "AX5U6400C3216G-DTLABWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://assets.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20260930.pdf",
+  "manufacturer_sources": [
+   {
+    "url": "https://assets.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20260930.pdf",
+    "supports": "Ficha oficial ADATA: P/N AX5U6400C3216G-DTLABWH = 32GB (2x16GB) DDR5 6400 MT/s CL32 1.4 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:40:00Z",
+  "specs": {
+   "Línea": "XPG Lancer Blade",
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6400 MT/s",
+   "Latencia": "CL32",
+   "Voltaje": "1.4 V",
+   "Color": "Blanco"
+  }
+ },
+ {
+  "id": "biwin-bxh41632hw1-d16eb",
+  "slug": "biwin-bxh41632hw1-d16eb",
+  "name": "Biwin HW100 16 GB (2 × 8 GB) DDR4-3200 CL16 (BXH41632HW1-D16EB)",
+  "category_id": "ram",
+  "brand": "Biwin",
+  "mpn": "BXH41632HW1-D16EB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.biwintech.com/wp-content/uploads/2026/09/HW100-Specifications.pdf",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.biwintech.com/wp-content/uploads/2026/09/HW100-Specifications.pdf",
+    "supports": "Ficha oficial Biwin: P/N BXH41632HW1-D16EB = 16GB (2x8GB) DDR4 3200 MT/s CL16 1.35 V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:40:00Z",
+  "specs": {
+   "Línea": "HW100",
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V",
+   "Color": "Negro",
+   "Perfil": "Intel XMP 2.0"
+  }
+ }
+]

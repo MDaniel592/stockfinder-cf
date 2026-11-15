@@ -1,0 +1,39 @@
+[
+ {
+  "id": "tacens-valeo-v-800m-1vv800m",
+  "slug": "tacens-valeo-v-800m-1vv800m",
+  "name": "Tacens Valeo V 800M (1VV800M)",
+  "category_id": "psu",
+  "brand": "Tacens",
+  "mpn": "1VV800M",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tacens.es/en/power-supplies/1vv800m",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "800 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Eficiencia": "80 PLUS Silver",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "xpg-kyber-750w-75261250",
+  "slug": "xpg-kyber-750w-75261250",
+  "name": "XPG KYBER 750W (75261250)",
+  "category_id": "psu",
+  "brand": "XPG",
+  "mpn": "75261250",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/kyber_datasheet.pdf",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Eficiencia": "80 PLUS Gold / Cybenetics Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ }
+]

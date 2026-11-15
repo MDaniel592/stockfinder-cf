@@ -1,0 +1,29 @@
+[
+  {
+    "id": "patriot-pvvr532g640c32k",
+    "slug": "patriot-pvvr532g640c32k",
+    "name": "Patriot Viper Venom RGB 32 GB (2 × 16 GB) DDR5-6400 CL32",
+    "category_id": "ram",
+    "brand": "Patriot Memory",
+    "mpn": "PVVR532G640C32K",
+    "manufacturer_url": "https://viper.patriotmemory.ru/documents/PVVR532G640C32K_sku-sheet_111722.pdf",
+    "manufacturer_sources": [
+      "https://viper.patriotmemory.ru/documents/PVVR532G640C32K_sku-sheet_111722.pdf"
+    ],
+    "specs_verified_at": "2026-11-02T19:50:01Z",
+    "specs": {
+      "Serie": "Viper Venom RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Factor de forma": "UDIMM",
+      "Velocidad probada": "6400 MT/s",
+      "Latencia CAS": "CL32",
+      "Tiempos probados": "32-40-40-84",
+      "Voltaje probado": "1.40 V",
+      "Perfil": "Intel XMP 3.0",
+      "Iluminación": "RGB",
+      "Color": "Negro con logotipo rojo y placa plateada"
+    }
+  }
+]

@@ -1,0 +1,1116 @@
+[
+  {
+    "id": "chieftec-hunter-2-gs02b",
+    "slug": "chieftec-hunter-2-gs02b",
+    "name": "Chieftec HUNTER 2",
+    "category_id": "case",
+    "brand": "Chieftec",
+    "mpn": "GS-02B-OP",
+    "manufacturer_url": "https://www.chieftec.eu/upload/fs/catalogue-2025.pdf",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Formatos de placa base": "Mini-ITX, Micro-ATX, ATX",
+      "Dimensiones": "408 × 210 × 464 mm",
+      "Longitud GPU máxima": "320 mm",
+      "Altura disipador máxima": "170 mm",
+      "Ventiladores incluidos": "4 × ARGB",
+      "USB frontal": "USB-C 20 Gbps"
+    }
+  },
+  {
+    "id": "cougar-mx600-max-rgb-black",
+    "slug": "cougar-mx600-max-rgb-black",
+    "name": "COUGAR MX600 Max RGB Black",
+    "category_id": "case",
+    "brand": "Cougar",
+    "mpn": "382ZA50.0001",
+    "manufacturer_url": "https://cougargaming.com/products/cases/mx600-max-rgb/",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Formatos de placa base": "Mini-ITX, Micro-ATX, ATX, reverse connector",
+      "Dimensiones": "235 × 514 × 482 mm",
+      "Longitud GPU máxima": "400 mm",
+      "Altura disipador máxima": "170 mm",
+      "Ventiladores incluidos": "2 × 200 mm frontales + 1 × 120 mm trasero ARGB PWM",
+      "Radiador superior máximo": "360 mm",
+      "Color": "Negro"
+    }
+  },
+  {
+    "id": "cougar-mx600-max-rgb-white",
+    "slug": "cougar-mx600-max-rgb-white",
+    "name": "COUGAR MX600 Max RGB White",
+    "category_id": "case",
+    "brand": "Cougar",
+    "mpn": "382ZA50.0002",
+    "manufacturer_url": "https://cougargaming.com/products/cases/mx600-max-rgb/",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Formatos de placa base": "Mini-ITX, Micro-ATX, ATX, reverse connector",
+      "Dimensiones": "235 × 514 × 482 mm",
+      "Longitud GPU máxima": "400 mm",
+      "Altura disipador máxima": "170 mm",
+      "Ventiladores incluidos": "2 × 200 mm frontales + 1 × 120 mm trasero ARGB PWM",
+      "Radiador superior máximo": "360 mm",
+      "Color": "Blanco"
+    }
+  },
+  {
+    "id": "fractal-epoch-black-tg-rgb-light-tint",
+    "slug": "fractal-epoch-black-tg-rgb-light-tint",
+    "name": "Fractal Design Epoch Black TG RGB Light Tint",
+    "category_id": "case",
+    "brand": "Fractal Design",
+    "mpn": "FD-C-EPO1A-04",
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/epoch-series/epoch/epoch-black-tg-rgb-light-tint/",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Formatos de placa base": "ATX, Micro-ATX, Mini-ITX",
+      "Longitud GPU máxima": "372 mm",
+      "Altura disipador máxima": "170 mm",
+      "Ventiladores incluidos": "3 × 120 mm Momentum",
+      "Radiador frontal máximo": "360 mm",
+      "Dimensiones": "447 × 215 × 469 mm",
+      "Formato fuente": "ATX"
+    }
+  },
+  {
+    "id": "fractal-summit-blackout-tg-light-tint",
+    "slug": "fractal-summit-blackout-tg-light-tint",
+    "name": "Fractal Design Summit Blackout TG Light Tint",
+    "category_id": "case",
+    "brand": "Fractal Design",
+    "mpn": "FD-C-SUM1A-05",
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/summit-series/summit/summit-blackout-tg-light-tint/",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Formatos de placa base": "E-ATX, ATX, Micro-ATX, Mini-ITX",
+      "Longitud GPU máxima": "425 mm",
+      "Altura disipador máxima": "173 mm",
+      "Ventiladores incluidos": "3 × 120 mm frontales",
+      "Radiador máximo": "420 mm frontal",
+      "Formato fuente": "ATX"
+    }
+  },
+  {
+    "id": "hiditec-blok-pro",
+    "slug": "hiditec-blok-pro",
+    "name": "Hiditec BLOK PRO",
+    "category_id": "case",
+    "brand": "Hiditec",
+    "mpn": "CHA010066",
+    "manufacturer_url": "https://hiditec.com/es/mid-tower/78-blok-pro.html",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Formatos de placa base": "ATX, Micro-ATX, ITX",
+      "Dimensiones": "385 × 182 × 415 mm",
+      "Longitud GPU máxima": "350 mm",
+      "Altura disipador máxima": "160 mm",
+      "Ventiladores incluidos": "1 × 120 mm trasero",
+      "Fuente incluida": "No"
+    }
+  },
+  {
+    "id": "hiditec-h4-air",
+    "slug": "hiditec-h4-air",
+    "name": "Hiditec H4 AIR",
+    "category_id": "case",
+    "brand": "Hiditec",
+    "mpn": "CHA010063",
+    "manufacturer_url": "https://hiditec.com/pt/mid-tower/77-h4-air.html",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Formatos de placa base": "ATX, Micro-ATX, ITX",
+      "Dimensiones": "371 × 220 × 459 mm",
+      "Longitud GPU máxima": "325 mm",
+      "Altura disipador máxima": "174 mm",
+      "Ventiladores incluidos": "1 × 120 mm PWM",
+      "Fuente incluida": "No"
+    }
+  },
+  {
+    "id": "hiditec-origim",
+    "slug": "hiditec-origim",
+    "name": "Hiditec ORIGIM",
+    "category_id": "case",
+    "brand": "Hiditec",
+    "mpn": "CHA010064",
+    "manufacturer_url": "https://hiditec.com/gb/mid-tower/53-origim.html",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Formatos de placa base": "ATX, Micro-ATX, ITX",
+      "Dimensiones": "496 × 220 × 459 mm",
+      "Longitud GPU máxima": "420 mm",
+      "Altura disipador máxima": "174 mm",
+      "Ventiladores incluidos": "3 × 120 mm PWM",
+      "Fuente incluida": "No",
+      "Formato fuente": "ATX"
+    }
+  },
+  {
+    "id": "mars-gaming-mcvpro",
+    "slug": "mars-gaming-mcvpro",
+    "name": "Mars Gaming MCVPRO",
+    "category_id": "case",
+    "brand": "Mars Gaming",
+    "mpn": "MCVPRO",
+    "manufacturer_url": "https://marsgaming.eu/en/cases/mcvpro",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Formatos de placa base": "ATX, Micro-ATX, Mini-ITX",
+      "Dimensiones": "450 × 286 × 451 mm",
+      "Longitud GPU máxima": "430 mm",
+      "Altura disipador máxima": "160 mm",
+      "Ventiladores incluidos": "5 × 120 mm ARGB",
+      "Radiador máximo": "360 mm",
+      "Bahías": "1 × 3,5 pulgadas + 3 × 2,5 pulgadas",
+      "Formato fuente": "ATX"
+    }
+  },
+  {
+    "id": "unykach-aero-c260-500w",
+    "slug": "unykach-aero-c260-500w",
+    "name": "UNYKAch AERO C260 500W",
+    "category_id": "case",
+    "brand": "UNYKAch",
+    "mpn": "UK52260",
+    "manufacturer_url": "https://unykach.com/en/pc-cases/pc-cases-matx/pc-case-matx-aero-c260-uk52260/",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Formatos de placa base": "Micro-ATX, ITX",
+      "Dimensiones": "372 × 178 × 353 mm",
+      "Fuente incluida": "ATX 500 W",
+      "Longitud GPU máxima": "295 mm",
+      "Altura disipador máxima": "142 mm",
+      "Puertos frontales": "USB-C, USB 3.0, USB 2.0"
+    }
+  },
+  {
+    "id": "unykach-aero-c360-500w",
+    "slug": "unykach-aero-c360-500w",
+    "name": "UNYKAch AERO C360 500W",
+    "category_id": "case",
+    "brand": "UNYKAch",
+    "mpn": "UK52360",
+    "manufacturer_url": "https://unykach.com/en/pc-cases/pc-case-atx/pc-case-atx-aero-c360-uk52360/",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Formatos de placa base": "ATX, Micro-ATX, ITX",
+      "Dimensiones": "376,6 × 175 × 408,5 mm",
+      "Fuente incluida": "ATX 500 W",
+      "Longitud GPU máxima": "310 mm",
+      "Altura disipador máxima": "145 mm",
+      "Puertos frontales": "USB-C, USB 3.0, USB 2.0"
+    }
+  },
+  {
+    "id": "unykach-uk2012-300w-bronze",
+    "slug": "unykach-uk2012-300w-bronze",
+    "name": "UNYKAch UK2012 300W 80 Plus Bronze",
+    "category_id": "case",
+    "brand": "UNYKAch",
+    "mpn": "UK52012BZ",
+    "manufacturer_url": "https://unykach.com/es/consumo/cajas-pc/cajas-matx/caja-micro-atx-uk2012-uk52012bz/",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Formatos de placa base": "Micro-ATX, ITX",
+      "Dimensiones": "405 × 100 × 314 mm",
+      "Fuente incluida": "SFX 300 W, 80 Plus Bronze",
+      "Altura disipador máxima": "80 mm",
+      "Longitud GPU máxima": "210 mm",
+      "Ventilador incluido": "1 × 80 mm PWM"
+    }
+  },
+  {
+    "id": "arctic-freezer-36-s-argb-black",
+    "slug": "arctic-freezer-36-s-argb-black",
+    "name": "ARCTIC Freezer 36-S A-RGB Black",
+    "category_id": "cooler",
+    "brand": "ARCTIC",
+    "mpn": "ACFRE00198A",
+    "manufacturer_url": "https://www.arctic.de/en/Freezer-36-S-A-RGB/ACFRE00198A",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Color": "Negro",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "126 × 88 × 156 mm",
+      "Heatpipes": "4 × 6 mm",
+      "Iluminación": "12 LED A-RGB"
+    }
+  },
+  {
+    "id": "arctic-freezer-36-s-argb-white",
+    "slug": "arctic-freezer-36-s-argb-white",
+    "name": "ARCTIC Freezer 36-S A-RGB White",
+    "category_id": "cooler",
+    "brand": "ARCTIC",
+    "mpn": "ACFRE00199A",
+    "manufacturer_url": "https://www.arctic.de/en/Freezer-36-S-A-RGB-White/ACFRE00199A",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Color": "Blanco",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "126 × 88 × 156 mm",
+      "Heatpipes": "4 × 6 mm",
+      "Iluminación": "12 LED A-RGB",
+      "Altura": "156 mm"
+    }
+  },
+  {
+    "id": "arctic-freezer-36-s-black",
+    "slug": "arctic-freezer-36-s-black",
+    "name": "ARCTIC Freezer 36-S Black",
+    "category_id": "cooler",
+    "brand": "ARCTIC",
+    "mpn": "ACFRE00196A",
+    "manufacturer_url": "https://www.arctic.de/en/Freezer-36-S/ACFRE00196A",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Color": "Negro",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "126 × 88 × 156 mm",
+      "Heatpipes": "4 × 6 mm",
+      "Ventilador": "120 mm P12 Pro PWM"
+    }
+  },
+  {
+    "id": "arctic-freezer-36-s-white",
+    "slug": "arctic-freezer-36-s-white",
+    "name": "ARCTIC Freezer 36-S White",
+    "category_id": "cooler",
+    "brand": "ARCTIC",
+    "mpn": "ACFRE00194A",
+    "manufacturer_url": "https://www.arctic.de/en/Freezer-36-S/ACFRE00194A",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Color": "Blanco/estándar",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "126 × 88 × 156 mm",
+      "Heatpipes": "4 × 6 mm",
+      "Ventilador": "120 mm P12 Pro PWM",
+      "Altura": "156 mm"
+    }
+  },
+  {
+    "id": "bequiet-dark-rock-6",
+    "slug": "bequiet-dark-rock-6",
+    "name": "be quiet! Dark Rock 6",
+    "category_id": "cooler",
+    "brand": "be quiet!",
+    "mpn": "BK046",
+    "manufacturer_url": "https://www.bequiet.com/en/cpucooler/7325",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM4, AM5, LGA1150/1151/1155/1200/1700/1851",
+      "Dimensiones": "102,4 × 139 × 162 mm",
+      "Heatpipes": "6 × 6 mm",
+      "Ventilador": "135 mm Silent Wings PWM",
+      "TDP": "220 W",
+      "Altura": "162 mm"
+    }
+  },
+  {
+    "id": "bequiet-dark-rock-pro-6",
+    "slug": "bequiet-dark-rock-pro-6",
+    "name": "be quiet! Dark Rock Pro 6",
+    "category_id": "cooler",
+    "brand": "be quiet!",
+    "mpn": "BK048",
+    "manufacturer_url": "https://www.bequiet.com/en/cpucooler/7322",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire, doble torre",
+      "Sockets compatibles": "AM4, AM5, LGA1150/1151/1155/1200/1700/1851",
+      "Heatpipes": "7 de cobre",
+      "Ventiladores": "2 × Silent Wings PWM",
+      "TDP": "No publicado en la ficha consultada",
+      "Altura": "169 mm"
+    }
+  },
+  {
+    "id": "corsair-nautilus-ii-240-rs-argb-black",
+    "slug": "corsair-nautilus-ii-240-rs-argb-black",
+    "name": "Corsair NAUTILUS II 240 RS ARGB Black",
+    "category_id": "cooler",
+    "brand": "Corsair",
+    "mpn": "CW-9061047-WW",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061047-ww/nautilus-ii-240-rs-argb-liquid-cpu-cooler-ww-9061047-ww",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "AIO líquida",
+      "Radiador": "240 mm",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Ventiladores": "2 × RS II ARGB",
+      "Color": "Negro"
+    }
+  },
+  {
+    "id": "corsair-nautilus-ii-240-rs-argb-white",
+    "slug": "corsair-nautilus-ii-240-rs-argb-white",
+    "name": "Corsair NAUTILUS II 240 RS ARGB White",
+    "category_id": "cooler",
+    "brand": "Corsair",
+    "mpn": "CW-9061048-WW",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061048-ww/nautilus-ii-240-rs-argb-liquid-cpu-cooler-white-ww-9061048-ww",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "AIO líquida",
+      "Radiador": "240 mm",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Ventiladores": "2 × RS II ARGB",
+      "Color": "Blanco"
+    }
+  },
+  {
+    "id": "corsair-nautilus-ii-240-rs-black",
+    "slug": "corsair-nautilus-ii-240-rs-black",
+    "name": "Corsair NAUTILUS II 240 RS Black",
+    "category_id": "cooler",
+    "brand": "Corsair",
+    "mpn": "CW-9061055-WW",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061055-ww/nautilus-ii-240-rs-liquid-cpu-cooler-ww-9061055-ww",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "AIO líquida",
+      "Radiador": "240 mm",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Ventiladores": "2 × RS II PWM",
+      "Color": "Negro"
+    }
+  },
+  {
+    "id": "corsair-nautilus-ii-240-rs-lcd-black",
+    "slug": "corsair-nautilus-ii-240-rs-lcd-black",
+    "name": "Corsair NAUTILUS II 240 RS LCD Black",
+    "category_id": "cooler",
+    "brand": "Corsair",
+    "mpn": "CW-9061051-WW",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061051-ww/nautilus-ii-240-rs-lcd-liquid-cpu-cooler-cw-9061051-ww",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "AIO líquida",
+      "Radiador": "240 mm",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Ventiladores": "2 × RS II PWM",
+      "Pantalla": "IPS 3,5 pulgadas, 480 × 640",
+      "Color": "Negro"
+    }
+  },
+  {
+    "id": "corsair-nautilus-ii-240-rs-lcd-white",
+    "slug": "corsair-nautilus-ii-240-rs-lcd-white",
+    "name": "Corsair NAUTILUS II 240 RS LCD White",
+    "category_id": "cooler",
+    "brand": "Corsair",
+    "mpn": "CW-9061052-WW",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061052-ww/nautilus-ii-240-rs-lcd-liquid-cpu-cooler-white-cw-9061052-ww",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "AIO líquida",
+      "Radiador": "240 mm",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Ventiladores": "2 × RS II PWM",
+      "Pantalla": "IPS 3,5 pulgadas, 480 × 640",
+      "Color": "Blanco"
+    }
+  },
+  {
+    "id": "corsair-nautilus-ii-360-rs-argb-black",
+    "slug": "corsair-nautilus-ii-360-rs-argb-black",
+    "name": "Corsair NAUTILUS II 360 RS ARGB Black",
+    "category_id": "cooler",
+    "brand": "Corsair",
+    "mpn": "CW-9061049-WW",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061049-ww/nautilus-ii-360-rs-argb-liquid-cpu-cooler-ww-9061049-ww",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "AIO líquida",
+      "Radiador": "360 mm",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Ventiladores": "3 × RS II ARGB",
+      "Color": "Negro"
+    }
+  },
+  {
+    "id": "corsair-nautilus-ii-360-rs-lcd-black",
+    "slug": "corsair-nautilus-ii-360-rs-lcd-black",
+    "name": "Corsair NAUTILUS II 360 RS LCD Black",
+    "category_id": "cooler",
+    "brand": "Corsair",
+    "mpn": "CW-9061053-WW",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061053-ww/nautilus-ii-360-rs-lcd-liquid-cpu-cooler-cw-9061053-ww",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "AIO líquida",
+      "Radiador": "360 mm",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Ventiladores": "3 × RS II PWM",
+      "Pantalla": "IPS 3,5 pulgadas, 480 × 640",
+      "Color": "Negro"
+    }
+  },
+  {
+    "id": "deepcool-ag300-g2",
+    "slug": "deepcool-ag300-g2",
+    "name": "DeepCool AG300 G2",
+    "category_id": "cooler",
+    "brand": "DeepCool",
+    "mpn": "R-AG300-BKAMMG2",
+    "manufacturer_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AG300-G2-Superior-Performance-3-Heatpipe-Single-Tower-CPU-Cooler/2026/22966.shtml",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "100 × 94 × 125 mm",
+      "Heatpipes": "3 × 6 mm",
+      "Ventilador": "92 mm PWM",
+      "Altura": "125 mm"
+    }
+  },
+  {
+    "id": "deepcool-ag400-g2",
+    "slug": "deepcool-ag400-g2",
+    "name": "DeepCool AG400 G2",
+    "category_id": "cooler",
+    "brand": "DeepCool",
+    "mpn": "R-AG400-BKNPMG2-G",
+    "manufacturer_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AG400-G2-Superior-Performance-4-Heatpipe-Single-Tower-CPU-Cooler/2025/22515.shtml",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "125 × 92 × 152 mm",
+      "Heatpipes": "4 × 6 mm",
+      "Ventilador": "120 mm PWM",
+      "Altura": "152 mm"
+    }
+  },
+  {
+    "id": "deepcool-ag600-argb",
+    "slug": "deepcool-ag600-argb",
+    "name": "DeepCool AG600 ARGB",
+    "category_id": "cooler",
+    "brand": "DeepCool",
+    "mpn": "R-AG600-BKAMMG2-G",
+    "manufacturer_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AG600-ARGB-Superior-Performance-6-Heatpipe-Single-Tower-CPU-Cooler/2026/22803.shtml",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "125 × 92 × 150 mm",
+      "Heatpipes": "6 × 6 mm",
+      "Ventilador": "120 mm ARGB",
+      "Altura": "150 mm"
+    }
+  },
+  {
+    "id": "deepcool-ag620-g2",
+    "slug": "deepcool-ag620-g2",
+    "name": "DeepCool AG620 G2",
+    "category_id": "cooler",
+    "brand": "DeepCool",
+    "mpn": "R-AG620-BKNPMG2-G",
+    "manufacturer_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AG620-G2-Superior-Performance-6-Heatpipe-Dual-Tower-CPU-Cooler/2025/22513.shtml",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "129 × 136 × 159 mm",
+      "Heatpipes": "6 × 6 mm",
+      "Ventiladores": "2 × 120 mm PWM",
+      "Altura": "159 mm"
+    }
+  },
+  {
+    "id": "deepcool-ag620-g2-argb-black",
+    "slug": "deepcool-ag620-g2-argb-black",
+    "name": "DeepCool AG620 G2 ARGB",
+    "category_id": "cooler",
+    "brand": "DeepCool",
+    "mpn": "R-AG620-BKAMMG2-G",
+    "manufacturer_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AG620-G2-ARGB-Superior-Performance-6-Heatpipe-Dual-Tower-CPU-Cooler/2026/22801.shtml",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "129 × 136 × 159 mm",
+      "Heatpipes": "6 × 6 mm",
+      "Ventiladores": "2 × 120 mm PWM ARGB",
+      "Altura": "159 mm"
+    }
+  },
+  {
+    "id": "deepcool-ag620-g2-argb-white",
+    "slug": "deepcool-ag620-g2-argb-white",
+    "name": "DeepCool AG620 G2 WH ARGB",
+    "category_id": "cooler",
+    "brand": "DeepCool",
+    "mpn": "R-AG620-WHAMMG2-G",
+    "manufacturer_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AG620-G2-WH-ARGB-Superior-Performance-6-Heatpipe-Dual-Tower-CPU-Cooler/2026/22802.shtml",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Color": "Blanco",
+      "Sockets compatibles": "AM4, AM5, LGA1700, LGA1851",
+      "Dimensiones": "129 × 136 × 159 mm",
+      "Heatpipes": "6 × 6 mm",
+      "Ventiladores": "2 × 120 mm PWM ARGB",
+      "Altura": "159 mm"
+    }
+  },
+  {
+    "id": "deepcool-ak400-g2-digital-nyx",
+    "slug": "deepcool-ak400-g2-digital-nyx",
+    "name": "DeepCool AK400 G2 Digital NYX",
+    "category_id": "cooler",
+    "brand": "DeepCool",
+    "mpn": "R-AK400G2-BKNNMN-GJD-1",
+    "manufacturer_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AK400-G2-DIGITAL-NYX-AI-Dynamic-Adjustment-CPU-Cooler-with-Digital-Display/2025/21907.shtml",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM4, AM5, LGA115x/1200/1700/1851",
+      "Dimensiones": "132 × 92 × 156 mm",
+      "Heatpipes": "4 × 6 mm",
+      "Ventilador": "120 mm",
+      "Pantalla": "Sí, display digital segmentado",
+      "Altura": "156 mm"
+    }
+  },
+  {
+    "id": "deepcool-ak500-g2-digital-nyx",
+    "slug": "deepcool-ak500-g2-digital-nyx",
+    "name": "DeepCool AK500 G2 Digital NYX",
+    "category_id": "cooler",
+    "brand": "DeepCool",
+    "mpn": "R-AK500G2-BKNNMN-GJD-1",
+    "manufacturer_url": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AK500-G2-DIGITAL-NYX-AI-Dynamic-Adjustment-CPU-Cooler-with-Digital-Display/2025/21985.shtml",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM4, AM5, LGA1200, LGA1700, LGA1851",
+      "Dimensiones": "129 × 117 × 159 mm",
+      "Heatpipes": "5 × 6 mm",
+      "Ventilador": "120 mm",
+      "Pantalla": "Sí, display digital segmentado",
+      "Altura": "159 mm"
+    }
+  },
+  {
+    "id": "deepcool-le360-v2-zero-dark",
+    "slug": "deepcool-le360-v2-zero-dark",
+    "name": "DeepCool LE360 V2 ZERO DARK",
+    "category_id": "cooler",
+    "brand": "DeepCool",
+    "mpn": "R-LE360ZERO-BKLNMD-G-1",
+    "manufacturer_url": "https://global.deepcool.com/products/Cooling/cpuliquidcoolers/LE360-V2-ZERO-DARK-360mm-Silent-Liquid-CPU-Cooler/2025/22266.shtml",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "AIO líquida",
+      "Radiador": "402 × 120 × 27 mm, aluminio",
+      "Sockets compatibles": "AM4, AM5, LGA115x/1200/1700/1851",
+      "Ventiladores": "3 × 120 mm ARGB",
+      "Tubo": "410 mm"
+    }
+  },
+  {
+    "id": "hiditec-dc20-pro",
+    "slug": "hiditec-dc20-pro",
+    "name": "Hiditec DC20 PRO",
+    "category_id": "cooler",
+    "brand": "Hiditec",
+    "mpn": "CPUH10005",
+    "manufacturer_url": "https://hiditec.com/gb/air-cooling/72-dc20-pro.html",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM2/AM3/AM4/AM5, LGA1150/1151/1155/1156/1200/1700/1851",
+      "Dimensiones": "120 × 76 × 160 mm",
+      "Heatpipes": "6 de cobre",
+      "Ventilador": "1 × 120 mm FDB",
+      "TDP": "240 W"
+    }
+  },
+  {
+    "id": "hiditec-dc40-pro",
+    "slug": "hiditec-dc40-pro",
+    "name": "Hiditec DC40 PRO",
+    "category_id": "cooler",
+    "brand": "Hiditec",
+    "mpn": "CPUH10006",
+    "manufacturer_url": "https://hiditec.com/es/refrigeracion-de-aire/75-dc40-pro.html",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "Aire, doble torre",
+      "Sockets compatibles": "AM2/AM3/AM4/AM5, LGA1150/1151/1155/1156/1200/1700/1851",
+      "Dimensiones": "123 × 120 × 163 mm",
+      "Heatpipes": "6 de cobre",
+      "Ventiladores": "2 × 120 mm FDB PWM",
+      "TDP": "270 W",
+      "Pantalla": "Display digital RGB"
+    }
+  },
+  {
+    "id": "mars-gaming-mcpu-xpro",
+    "slug": "mars-gaming-mcpu-xpro",
+    "name": "Mars Gaming MCPU-XPRO",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MCPUXPRO",
+    "manufacturer_url": "https://marsgaming.eu/en/cooling-cpu-air/mcpu-xpro",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "LGA1851/1700/1200/1156/1155/1151/1150/1366, AM5/AM4",
+      "Heatpipes": "3 HCT",
+      "Ventilador": "90 mm PWM FDB",
+      "TDP": "Hasta 190 W",
+      "Altura": "136 mm"
+    }
+  },
+  {
+    "id": "mars-gaming-ml-arc360",
+    "slug": "mars-gaming-ml-arc360",
+    "name": "Mars Gaming ML-ARC360",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MLARC360",
+    "manufacturer_url": "https://marsgaming.eu/fr/refroidissement-liquide/ml-arc360",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Tipo": "AIO líquida",
+      "Radiador": "360 mm, 395 × 120 × 27 mm",
+      "Sockets compatibles": "AM4, AM5, LGA1150/1151/1155/1156/1200/1366/1700/1851/2011/2066",
+      "Ventiladores": "3 × 120 mm ARGB FDB",
+      "Pantalla": "AMOLED curvada de 6,67 pulgadas, 2400 × 1080"
+    }
+  },
+  {
+    "id": "unykach-unycool-h37",
+    "slug": "unykach-unycool-h37",
+    "name": "UNYKAch UNYCOOL H37",
+    "category_id": "cooler",
+    "brand": "UNYKAch",
+    "mpn": "UK321015",
+    "manufacturer_url": "https://unykach.com/es/consumo/coolers/coolers-fan-cpu/disipador-cpu-perfil-bajo-unycool-h37-uk321015/",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Tipo": "Aire, perfil bajo",
+      "Sockets compatibles": "AM4, AM5, LGA1150/1151/1155/1156/1200/1700/1851",
+      "Dimensiones": "103 × 92 × 37 mm",
+      "Heatpipes": "4 × 6 mm",
+      "Ventilador": "90 mm PWM",
+      "TDP": "130 W",
+      "Altura": "37 mm"
+    }
+  },
+  {
+    "id": "amd-ryzen-7-8700g",
+    "slug": "amd-ryzen-7-8700g",
+    "name": "AMD Ryzen 7 8700G",
+    "category_id": "cpu",
+    "brand": "AMD",
+    "mpn": "100-000001236",
+    "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-7-8700g.html",
+    "specs_verified_at": "2026-11-08T21:42:37Z",
+    "specs": {
+      "Socket": "AM5",
+      "Arquitectura": "Zen 4",
+      "Núcleos": "8",
+      "Hilos": "16",
+      "Frecuencia base": "4,2 GHz",
+      "Frecuencia turbo": "Hasta 5,1 GHz",
+      "Caché L2": "8 MB",
+      "Caché L3": "16 MB",
+      "TDP": "65 W",
+      "Memoria": "DDR5",
+      "Gráfica integrada": "AMD Radeon 780M, 12 CU, 2900 MHz",
+      "Memoria compatible": "DDR5",
+      "Memoria máxima": "256 GB",
+      "Gráficos integrados": "AMD Radeon 780M"
+    }
+  },
+  {
+    "id": "biostar-b760mxc-pro-ddr5",
+    "slug": "biostar-b760mxc-pro-ddr5",
+    "name": "BIOSTAR B760MXC PRO",
+    "category_id": "motherboard",
+    "brand": "BIOSTAR",
+    "mpn": "B760MXC PRO",
+    "manufacturer_url": "https://www.biostar.com.tw/app/en/mb/introduction.php?S_ID=1111",
+    "specs_verified_at": "2026-11-02T18:14:09Z",
+    "specs": {
+      "Socket": "LGA 1700",
+      "Chipset": "Intel B760",
+      "Formato": "Micro-ATX (24,4 × 24,4 cm)",
+      "Memoria": "DDR5, 4 ranuras DIMM, hasta 256 GB",
+      "Conectividad inalámbrica": "Admite módulo Wi-Fi 6/6E opcional; el módulo no está incluido"
+    }
+  },
+  {
+    "id": "asrock-pro-m1000g",
+    "slug": "asrock-pro-m1000g",
+    "name": "ASRock PRO-M1000G",
+    "category_id": "psu",
+    "brand": "ASRock",
+    "mpn": "PRO-M1000G",
+    "manufacturer_url": "https://www.asrock.com/Power-Supply/PRO/PRO-M1000G/",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Formato": "ATX 3.1",
+      "Eficiencia": "80 PLUS Gold / Cybenetics Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "135 mm FDB",
+      "Conector GPU": "12V-2x6 nativo",
+      "Dimensiones": "150 × 150 × 86 mm"
+    }
+  },
+  {
+    "id": "asrock-pro-m750g",
+    "slug": "asrock-pro-m750g",
+    "name": "ASRock PRO-M750G",
+    "category_id": "psu",
+    "brand": "ASRock",
+    "mpn": "PRO-M750G",
+    "manufacturer_url": "https://www.asrock.com/Power-Supply/PRO/PRO-M750G/",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Potencia": "750 W",
+      "Formato": "ATX 3.1",
+      "Eficiencia": "80 PLUS Gold / Cybenetics Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "135 mm FDB",
+      "Conector GPU": "12V-2x6 nativo",
+      "Dimensiones": "150 × 150 × 86 mm"
+    }
+  },
+  {
+    "id": "asrock-pro-m850g",
+    "slug": "asrock-pro-m850g",
+    "name": "ASRock PRO-M850G",
+    "category_id": "psu",
+    "brand": "ASRock",
+    "mpn": "PRO-M850G",
+    "manufacturer_url": "https://www.asrock.com/Power-Supply/PRO/PRO-M850G/",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Formato": "ATX 3.1",
+      "Eficiencia": "80 PLUS Gold / Cybenetics Gold",
+      "Modularidad": "Totalmente modular",
+      "Ventilador": "135 mm FDB",
+      "Conector GPU": "12V-2x6 nativo",
+      "Dimensiones": "150 × 150 × 86 mm"
+    }
+  },
+  {
+    "id": "bequiet-dark-power-pro-14-io-1300w",
+    "slug": "bequiet-dark-power-pro-14-io-1300w",
+    "name": "be quiet! Dark Power Pro 14 IO 1300W",
+    "category_id": "psu",
+    "brand": "be quiet!",
+    "mpn": "BP022EU",
+    "manufacturer_url": "https://www.bequiet.com/tw/powersupply/6005",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Potencia": "1300 W",
+      "Formato": "ATX 3.1",
+      "Eficiencia": "80 PLUS Titanium / Cybenetics Titanium",
+      "Modularidad": "Totalmente modular",
+      "Conector GPU": "PCIe 5.1 12V-2x6",
+      "Refrigeración": "Activa o semipasiva"
+    }
+  },
+  {
+    "id": "bequiet-pure-power-13-m-1200w",
+    "slug": "bequiet-pure-power-13-m-1200w",
+    "name": "be quiet! Pure Power 13 M 1200W",
+    "category_id": "psu",
+    "brand": "be quiet!",
+    "mpn": "BP029EU",
+    "manufacturer_url": "https://www.bequiet.com/en/powersupply/6022",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Potencia": "1200 W",
+      "Formato": "ATX 3.1",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "Totalmente modular",
+      "Conector GPU": "12V-2x6 y 4 × PCIe 6+2",
+      "Dimensiones": "160 × 150 × 86 mm"
+    }
+  },
+  {
+    "id": "mars-gaming-mpb750psid",
+    "slug": "mars-gaming-mpb750psid",
+    "name": "Mars Gaming MPB750PSID",
+    "category_id": "psu",
+    "brand": "Mars Gaming",
+    "mpn": "MPB750PSID",
+    "manufacturer_url": "https://marsgaming.eu/en/power-supplies/mpb750psid",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Potencia": "750 W",
+      "Formato": "ATX",
+      "Estándar": "ATX 3.1 / PCIe 5.1",
+      "Eficiencia": "80 PLUS Gold",
+      "Modularidad": "No modular; cableado fijo",
+      "Conector GPU": "12V-2x6",
+      "Dimensiones": "150 × 145 × 85 mm"
+    }
+  },
+  {
+    "id": "mars-gaming-mpt1000",
+    "slug": "mars-gaming-mpt1000",
+    "name": "Mars Gaming MPT1000",
+    "category_id": "psu",
+    "brand": "Mars Gaming",
+    "mpn": "MPT1000W",
+    "manufacturer_url": "https://marsgaming.eu/en/power-supplies/mpt1000",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Formato": "ATX",
+      "Estándar": "ATX 3.1 / PCIe 5.1",
+      "Eficiencia": "80 PLUS Platinum",
+      "Modularidad": "Totalmente modular",
+      "Conector GPU": "12V-2x6 nativo"
+    }
+  },
+  {
+    "id": "mars-gaming-mpt850",
+    "slug": "mars-gaming-mpt850",
+    "name": "Mars Gaming MPT850",
+    "category_id": "psu",
+    "brand": "Mars Gaming",
+    "mpn": "MPT850W",
+    "manufacturer_url": "https://marsgaming.eu/en/power-supplies/mpt850",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Formato": "ATX",
+      "Estándar": "ATX 3.1 / PCIe 5.1",
+      "Eficiencia": "80 PLUS Platinum",
+      "Modularidad": "Totalmente modular",
+      "Conector GPU": "12V-2x6 nativo"
+    }
+  },
+  {
+    "id": "goodram-rival-deep-black-16gb-ddr4-3600-cl18",
+    "slug": "goodram-rival-deep-black-16gb-ddr4-3600-cl18",
+    "name": "GOODRAM RIVAL Deep Black 16 GB (1 × 16 GB) DDR4-3600 CL18",
+    "category_id": "ram",
+    "brand": "GOODRAM",
+    "mpn": "GGDKD4-36VL18/16G",
+    "manufacturer_url": "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/",
+    "specs_verified_at": "2026-11-02T18:14:09Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18",
+      "Voltaje": "1,35 V",
+      "Color": "Deep Black"
+    }
+  },
+  {
+    "id": "goodram-rival-deep-black-16gb-2x8gb-ddr4-3600-cl18",
+    "slug": "goodram-rival-deep-black-16gb-2x8gb-ddr4-3600-cl18",
+    "name": "GOODRAM RIVAL Deep Black 16 GB (2 × 8 GB) DDR4-3600 CL18",
+    "category_id": "ram",
+    "brand": "GOODRAM",
+    "mpn": "GGDKD4-36VL18S/16GDC",
+    "manufacturer_url": "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/",
+    "specs_verified_at": "2026-11-02T18:14:09Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18",
+      "Voltaje": "1,35 V",
+      "Color": "Deep Black",
+      "Kit": "Dual Channel"
+    }
+  },
+  {
+    "id": "goodram-rival-deep-black-32gb-2x16gb-ddr4-3600-cl18",
+    "slug": "goodram-rival-deep-black-32gb-2x16gb-ddr4-3600-cl18",
+    "name": "GOODRAM RIVAL Deep Black 32 GB (2 × 16 GB) DDR4-3600 CL18",
+    "category_id": "ram",
+    "brand": "GOODRAM",
+    "mpn": "GGDKD4-36VL18/32GDC",
+    "manufacturer_url": "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/",
+    "specs_verified_at": "2026-11-02T18:14:09Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18",
+      "Voltaje": "1,35 V",
+      "Color": "Deep Black",
+      "Kit": "Dual Channel"
+    }
+  },
+  {
+    "id": "goodram-rival-radiant-32gb-ddr4-3200-cl16",
+    "slug": "goodram-rival-radiant-32gb-ddr4-3200-cl16",
+    "name": "GOODRAM RIVAL Radiant 32 GB (1 × 32 GB) DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "GOODRAM",
+    "mpn": "GGRGD4-32L16A/32G",
+    "manufacturer_url": "https://www.goodram.com/de/produkte/goodram-rival-ddr4-radiant/",
+    "specs_verified_at": "2026-11-02T18:14:09Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "1 × 32 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16 (16-20-20)",
+      "Voltaje": "1,2 V",
+      "Color": "Verde"
+    }
+  },
+  {
+    "id": "klevv-bolt-x-16gb-ddr4-3200-cl16",
+    "slug": "klevv-bolt-x-16gb-ddr4-3200-cl16",
+    "name": "KLEVV BOLT X 16 GB (1 × 16 GB) DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "KLEVV",
+    "mpn": "KD4AGU880-32A160T",
+    "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/Klevv_BoltX",
+    "specs_verified_at": "2026-11-02T18:14:09Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16-18-18-38",
+      "Voltaje": "1,35 V",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "klevv-bolt-x-8gb-ddr4-3600-cl18",
+    "slug": "klevv-bolt-x-8gb-ddr4-3600-cl18",
+    "name": "KLEVV BOLT X 8 GB (1 × 8 GB) DDR4-3600 CL18",
+    "category_id": "ram",
+    "brand": "KLEVV",
+    "mpn": "KD48GU880-36A180T",
+    "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/Klevv_BoltX",
+    "specs_verified_at": "2026-11-02T18:14:09Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18-22-22-42",
+      "Voltaje": "1,35 V",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "klevv-cudimm-16gb-ddr5-6400-cl52",
+    "slug": "klevv-cudimm-16gb-ddr5-6400-cl52",
+    "name": "KLEVV CUDIMM 16 GB (1 × 16 GB) DDR5-6400 CL52",
+    "category_id": "ram",
+    "brand": "KLEVV",
+    "mpn": "KD5AGCA80-64G5200",
+    "manufacturer_url": "https://cn.klevv.com/ken/products_details/memory/D5_CUDIMM.php",
+    "specs_verified_at": "2026-11-02T18:14:09Z",
+    "specs": {
+      "Tipo de memoria": "DDR5 CUDIMM",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL52-52-52-103",
+      "Voltaje": "1,1 V",
+      "Formato": "288-pin clocked unbuffered DIMM"
+    }
+  },
+  {
+    "id": "klevv-udimm-16gb-ddr4-3200-cl22",
+    "slug": "klevv-udimm-16gb-ddr4-3200-cl22",
+    "name": "KLEVV DDR4 UDIMM 16 GB (1 × 16 GB) DDR4-3200 CL22",
+    "category_id": "ram",
+    "brand": "KLEVV",
+    "mpn": "KD4AGU880-32N2200",
+    "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/D4_UDIMM",
+    "specs_verified_at": "2026-11-02T18:14:09Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22-22-22-51",
+      "Voltaje": "1,2 V",
+      "Formato": "288-pin unbuffered DIMM",
+      "Presentación": "Bulk"
+    }
+  },
+  {
+    "id": "patriot-viper-steel-16gb-ddr4-3600-cl18",
+    "slug": "patriot-viper-steel-16gb-ddr4-3600-cl18",
+    "name": "Patriot Viper Steel 16 GB (1 × 16 GB) DDR4-3600 CL18",
+    "category_id": "ram",
+    "brand": "Patriot",
+    "mpn": "PVS416G360C8",
+    "manufacturer_url": "https://viper.patriotmemory.ru/documents/PVS416G360C8_Sku-Sheet_040221.pdf",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18-22-22-42",
+      "Voltaje": "1,35 V",
+      "Formato": "288-pin non-ECC unbuffered DIMM",
+      "Color": "Gunmetal Grey",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "apacer-as2280q4l-512gb",
+    "slug": "apacer-as2280q4l-512gb",
+    "name": "Apacer AS2280Q4L 512 GB",
+    "category_id": "storage",
+    "brand": "Apacer",
+    "mpn": "AP512GAS2280Q4L-1",
+    "manufacturer_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Data_Sheet_AS2280Q4L.pdf",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Capacidad": "512 GB",
+      "Formato": "M.2 2280",
+      "Interfaz": "PCIe Gen4 x4, NVMe 1.4",
+      "Lectura secuencial": "Hasta 3600 MB/s",
+      "Escritura secuencial": "Hasta 3000 MB/s",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "sandisk-nas-800-3840gb",
+    "slug": "sandisk-nas-800-3840gb",
+    "name": "SanDisk NAS 800 NVMe SSD 3,84 TB",
+    "category_id": "storage",
+    "brand": "SanDisk",
+    "mpn": "SDSNP2384TAN-000E0",
+    "manufacturer_url": "https://www.sandisk.com/en-ca/products/ssd/internal-ssd/sandisk-nas-800-nvme-ssd?sku=SDSNP2384TAN-000E0",
+    "specs_verified_at": "2026-11-02T18:22:18Z",
+    "specs": {
+      "Capacidad": "3,84 TB",
+      "Formato": "M.2 2280",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Lectura secuencial": "Hasta 14 900 MB/s",
+      "Escritura secuencial": "Hasta 13 100 MB/s",
+      "Resistencia": "7000 TBW",
+      "Tipo": "SSD"
+    }
+  }
+]

@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "gigabyte-b850-eagle-wifi6e",
+    "slug": "gigabyte-b850-eagle-wifi6e",
+    "name": "Gigabyte B850 EAGLE WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB85EGL6-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850-EAGLE-WIFI6E-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b760m-ds3h-gen5",
+    "slug": "gigabyte-b760m-ds3h-gen5",
+    "name": "Gigabyte B760M DS3H GEN5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB76MS55-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-DS3H-GEN5/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-a620m-h",
+    "slug": "gigabyte-a620m-h",
+    "name": "Gigabyte A620M H",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "A620M H G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/A620M-H-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "gigabyte-z890-aorus-master",
+    "slug": "gigabyte-z890-aorus-master",
+    "name": "Gigabyte Z890 AORUS MASTER",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MZ89MSTR-00-10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-AORUS-MASTER/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b840m-d2h",
+    "slug": "gigabyte-b840m-d2h",
+    "name": "Gigabyte B840M D2H",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB84MD2H-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B840M-D2H-rev-10-11/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B840",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "gigabyte-x870e-aorus-pro-x3d",
+    "slug": "gigabyte-x870e-aorus-pro-x3d",
+    "name": "Gigabyte X870E AORUS PRO X3D",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E A PRO X",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-PRO-X3D/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b760m-d3hp-ddr4",
+    "slug": "gigabyte-b760m-d3hp-ddr4",
+    "name": "Gigabyte B760M D3HP DDR4",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760M D3HP DDR4",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-D3HP-DDR4/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR4",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "gigabyte-b860-aorus-elite-wifi7-ice",
+    "slug": "gigabyte-b860-aorus-elite-wifi7-ice",
+    "name": "Gigabyte B860 AORUS ELITE WIFI7 ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B860 A ELITE WF7 ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860-AORUS-ELITE-WIFI7-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-x870e-aorus-elite-x3d",
+    "slug": "gigabyte-x870e-aorus-elite-x3d",
+    "name": "Gigabyte X870E AORUS ELITE X3D",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E A ELITE X",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-ELITE-X3D/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b760m-h-ddr4",
+    "slug": "gigabyte-b760m-h-ddr4",
+    "name": "Gigabyte B760M H DDR4",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB76MH4-00-10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-H-DDR4-rev-10/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR4",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "64 GB"
+    }
+  },
+  {
+    "id": "gigabyte-z890-aorus-elite-x-ice",
+    "slug": "gigabyte-z890-aorus-elite-x-ice",
+    "name": "Gigabyte Z890 AORUS ELITE X ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MZ89ELXE-00-10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-AORUS-ELITE-X-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b850-gaming-x-wifi6e",
+    "slug": "gigabyte-b850-gaming-x-wifi6e",
+    "name": "Gigabyte B850 GAMING X WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB85GMX6-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850-GAMING-X-WIFI6E-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b650-aorus-elite-ax-ice",
+    "slug": "gigabyte-b650-aorus-elite-ax-ice",
+    "name": "Gigabyte B650 AORUS ELITE AX ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650 A ELITE AX ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650-AORUS-ELITE-AX-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-x870-aorus-elite-wifi7",
+    "slug": "gigabyte-x870-aorus-elite-wifi7",
+    "name": "Gigabyte X870 AORUS ELITE WIFI7",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870 A ELITE WIFI7 1.0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870-AORUS-ELITE-WIFI7-rev-12/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b650e-eagle-wifi6e",
+    "slug": "gigabyte-b650e-eagle-wifi6e",
+    "name": "Gigabyte B650E EAGLE WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650E EAGLE WF6E",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650E-EAGLE-WIFI6E/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b760m-gaming-x-wifi6e-gen5",
+    "slug": "gigabyte-b760m-gaming-x-wifi6e-gen5",
+    "name": "Gigabyte B760M GAMING X WIFI6E GEN5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760M G X WF6E GEN5",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-X-WIFI6E-GEN5/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b760m-d3hp",
+    "slug": "gigabyte-b760m-d3hp",
+    "name": "Gigabyte B760M D3HP",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB76M3HP-00-10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-D3HP/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-z790-eagle-ax",
+    "slug": "gigabyte-z790-eagle-ax",
+    "name": "Gigabyte Z790 EAGLE AX",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z790 EAGLE AX G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z790-EAGLE-AX-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel Z790",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-x870e-aorus-elite-wifi7",
+    "slug": "gigabyte-x870e-aorus-elite-wifi7",
+    "name": "Gigabyte X870E AORUS ELITE WIFI7",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E A ELITE WIFI7",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-ELITE-WIFI7-rev-12/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b850m-gaming-x-wifi6e",
+    "slug": "gigabyte-b850m-gaming-x-wifi6e",
+    "name": "Gigabyte B850M GAMING X WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB85MG6-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850M-GAMING-X-WIFI6E-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-x870e-aorus-elite-wifi7-ice",
+    "slug": "gigabyte-x870e-aorus-elite-wifi7-ice",
+    "name": "Gigabyte X870E AORUS ELITE WIFI7 ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E A ELITE WF7 ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-ELITE-WIFI7-ICE-rev-12/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-z890-eagle-wifi7",
+    "slug": "gigabyte-z890-eagle-wifi7",
+    "name": "Gigabyte Z890 EAGLE WIFI7",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MZ89EG7-00-10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-EAGLE-WIFI7/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b860-eagle-wifi6e",
+    "slug": "gigabyte-b860-eagle-wifi6e",
+    "name": "Gigabyte B860 EAGLE WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB86EGW6-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860-EAGLE-WIFI6E/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-z790-d-ax",
+    "slug": "gigabyte-z790-d-ax",
+    "name": "Gigabyte Z790 D AX",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z790 D AX G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z790-D-AX-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel Z790",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b860m-aorus-elite-wifi6e",
+    "slug": "gigabyte-b860m-aorus-elite-wifi6e",
+    "name": "Gigabyte B860M AORUS ELITE WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB86MAE6-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860M-AORUS-ELITE-WIFI6E/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b850m-d3hp",
+    "slug": "gigabyte-b850m-d3hp",
+    "name": "Gigabyte B850M D3HP",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB85MHP-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850M-D3HP-rev-10/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-b860m-ds3h-wifi6e",
+    "slug": "gigabyte-b860m-ds3h-wifi6e",
+    "name": "Gigabyte B860M DS3H WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB86MSH6-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860M-DS3H-WIFI6E-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-x870-aorus-stealth-ice",
+    "slug": "gigabyte-x870-aorus-stealth-ice",
+    "name": "Gigabyte X870 AORUS STEALTH ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870 A STEALTH ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870-AORUS-STEALTH-ICE-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b850-eagle-wifi7-ice",
+    "slug": "gigabyte-b850-eagle-wifi7-ice",
+    "name": "Gigabyte B850 EAGLE WIFI7 ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850 EAGLE WF7 ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850-EAGLE-WIFI7-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b850m-ds3h",
+    "slug": "gigabyte-b850m-ds3h",
+    "name": "Gigabyte B850M DS3H",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB85MS3H-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850M-DS3H-rev-10/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-b760m-aorus-elite-wifi6e-gen5",
+    "slug": "gigabyte-b760m-aorus-elite-wifi6e-gen5",
+    "name": "Gigabyte B760M AORUS ELITE WIFI6E GEN5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760M A E WF6E GEN5",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-AORUS-ELITE-WIFI6E-GEN5/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-z890-aorus-xtreme-ai-top",
+    "slug": "gigabyte-z890-aorus-xtreme-ai-top",
+    "name": "Gigabyte Z890 AORUS XTREME AI TOP",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9AZ89XTAT-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-AORUS-XTREME-AI-TOP/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "E-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-x870e-aorus-master-x3d-ice",
+    "slug": "gigabyte-x870e-aorus-master-x3d-ice",
+    "name": "Gigabyte X870E AORUS MASTER X3D ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E A MASTER X ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-MASTER-X3D-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b840-eagle-wifi6e",
+    "slug": "gigabyte-b840-eagle-wifi6e",
+    "name": "Gigabyte B840 EAGLE WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B840 EAGLE WF6E",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B840-EAGLE-WIFI6E/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B840",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-x870-aorus-elite-x3d-ice",
+    "slug": "gigabyte-x870-aorus-elite-x3d-ice",
+    "name": "Gigabyte X870 AORUS ELITE X3D ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870 A ELITE X ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870-AORUS-ELITE-X3D-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-z790-eagle",
+    "slug": "gigabyte-z790-eagle",
+    "name": "Gigabyte Z790 EAGLE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MZ79EGL-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z790-EAGLE-rev-10/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel Z790",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-z890m-aorus-elite-wifi7-ice",
+    "slug": "gigabyte-z890m-aorus-elite-wifi7-ice",
+    "name": "Gigabyte Z890M AORUS ELITE WIFI7 ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z890M A ELITE WF7 ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890M-AORUS-ELITE-WIFI7-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-x870e-eagle-x3d-wifi7",
+    "slug": "gigabyte-x870e-eagle-x3d-wifi7",
+    "name": "Gigabyte X870E EAGLE X3D WIFI7",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E EAGLE X WF7",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-EAGLE-X3D-WIFI7-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b850m-eagle-wifi6e",
+    "slug": "gigabyte-b850m-eagle-wifi6e",
+    "name": "Gigabyte B850M EAGLE WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850M EAGLE WF6E",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850M-EAGLE-WIFI6E-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-z890-aero-g",
+    "slug": "gigabyte-z890-aero-g",
+    "name": "Gigabyte Z890 AERO G",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z890 AERO G G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-AERO-G/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b860m-gaming-x-wifi6e",
+    "slug": "gigabyte-b860m-gaming-x-wifi6e",
+    "name": "Gigabyte B860M GAMING X WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B860M GAMING X WIFI6",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860M-GAMING-X-WIFI6E-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-z890-aorus-master-ai-top",
+    "slug": "gigabyte-z890-aorus-master-ai-top",
+    "name": "Gigabyte Z890 AORUS MASTER AI TOP",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z890 A MASTER AI TOP",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-AORUS-MASTER-AI-TOP/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "E-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b850m-force-wifi6e",
+    "slug": "gigabyte-b850m-force-wifi6e",
+    "name": "Gigabyte B850M FORCE WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850M FORCE WF6E",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850M-FORCE-WIFI6E-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b840-gaming-x-wifi6e",
+    "slug": "gigabyte-b840-gaming-x-wifi6e",
+    "name": "Gigabyte B840 GAMING X WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B840 GAMING X WFI6E",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B840-GAMING-X-WIFI6E/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B840",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b760m-ds3h-wifi6e-gen5",
+    "slug": "gigabyte-b760m-ds3h-wifi6e-gen5",
+    "name": "Gigabyte B760M DS3H WIFI6E GEN5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB76MS65-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-DS3H-WIFI6E-GEN5/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-h810m-gaming-wifi6",
+    "slug": "gigabyte-h810m-gaming-wifi6",
+    "name": "Gigabyte H810M GAMING WIFI6",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "H810M GAMING WIFI6",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/H810M-GAMING-WIFI6/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel H810",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "gigabyte-b840m-aorus-elite-wifi6e",
+    "slug": "gigabyte-b840m-aorus-elite-wifi6e",
+    "name": "Gigabyte B840M AORUS ELITE WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B840M A ELITE WIFI6E",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B840M-AORUS-ELITE-WIFI6E-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B840",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b840m-ds3h",
+    "slug": "gigabyte-b840m-ds3h",
+    "name": "Gigabyte B840M DS3H",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB84MS3H-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B840M-DS3H-rev-10/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B840",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-b760-ds3h-ddr4",
+    "slug": "gigabyte-b760-ds3h-ddr4",
+    "name": "Gigabyte B760 DS3H DDR4",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760 DS3H DDR4",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760-DS3H-DDR4-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR4",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "gigabyte-z890m-gaming-x",
+    "slug": "gigabyte-z890m-gaming-x",
+    "name": "Gigabyte Z890M GAMING X",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z890M GAMING X",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890M-GAMING-X/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-b760m-gaming-x-ddr4-gen5",
+    "slug": "gigabyte-b760m-gaming-x-ddr4-gen5",
+    "name": "Gigabyte B760M GAMING X DDR4 GEN5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760M G X DDR4 GEN5",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-X-DDR4-GEN5/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR4",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "gigabyte-z790-d",
+    "slug": "gigabyte-z790-d",
+    "name": "Gigabyte Z790 D",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z790 D",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z790-D-rev-10-12/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel Z790",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-b650m-gaming-wifi6e",
+    "slug": "gigabyte-b650m-gaming-wifi6e",
+    "name": "Gigabyte B650M GAMING WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MB65MG6-00-G12",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-WIFI6E-rev-14/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-z890-ud-wifi6e",
+    "slug": "gigabyte-z890-ud-wifi6e",
+    "name": "Gigabyte Z890 UD WIFI6E",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z890 UD WIFI6E",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-UD-WIFI6E-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-a620i-ax",
+    "slug": "gigabyte-a620i-ax",
+    "name": "Gigabyte A620I AX",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "A620I AX",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/A620I-AX-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Mini-ITX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-z890-eagle",
+    "slug": "gigabyte-z890-eagle",
+    "name": "Gigabyte Z890 EAGLE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "9MZ89EG-00-G10",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-EAGLE/sp",
+    "specs_verified_at": "2026-11-02T22:00:02Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-b650m-s2h",
+    "slug": "gigabyte-b650m-s2h",
+    "name": "Gigabyte B650M S2H",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650M S2H",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650M-S2H-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "gigabyte-x870e-aorus-pro-ice",
+    "slug": "gigabyte-x870e-aorus-pro-ice",
+    "name": "Gigabyte X870E AORUS PRO ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E AORUS PRO ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-PRO-ICE-rev-10/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-z890-aorus-elite-wifi7-ice",
+    "slug": "gigabyte-z890-aorus-elite-wifi7-ice",
+    "name": "Gigabyte Z890 AORUS ELITE WIFI7 ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z890 A ELITE WF7 ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-AORUS-ELITE-WIFI7-ICE/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b650e-aorus-elite-x-ax-ice",
+    "slug": "gigabyte-b650e-aorus-elite-x-ax-ice",
+    "name": "Gigabyte B650E AORUS ELITE X AX ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650E A ELITE X ICE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650E-AORUS-ELITE-X-AX-ICE-rev-10-11/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  }
+]

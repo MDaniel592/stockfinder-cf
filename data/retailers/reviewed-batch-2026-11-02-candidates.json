@@ -1,0 +1,170 @@
+[
+  {
+    "ean": null,
+    "mpn": "BX80768270K",
+    "name": "Procesador Intel Core Ultra 7 270K Plus 24 Núcleos 3.7 GHz Frecuencia Base 5.5 GHz Frecuencia Turbo Gráficos Integrados",
+    "brand": "Intel",
+    "shop_id": "pccomponentes",
+    "in_stock": true,
+    "url_public": "https://www.pccomponentes.com/procesador-intel-core-ultra-7-270k-plus-24-nucleos-3-7-ghz-frecuencia-base-5-5-ghz-frecuencia-turbo-graficos-integrados",
+    "price_cents": 35899,
+    "retailer_sku": "11028712",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "discovery_method",
+        "value": "public_category_link_and_product_page"
+      },
+      {
+        "key": "seller",
+        "value": "PcComponentes"
+      },
+      {
+        "key": "identity_line",
+        "value": "P/N: BX80768270K|Cod. Artículo: 11028712"
+      },
+      {
+        "key": "source_transport",
+        "value": "public_web_reader"
+      },
+      {
+        "key": "review_state",
+        "value": "pending_agent_review"
+      },
+      {
+        "key": "availability_evidence",
+        "value": "Ficha principal consultada 2026-11-02: Recíbelo mañana; vendido y enviado por PcComponentes. Precio principal y P/N coinciden, sin usar otros vendedores."
+      }
+    ],
+    "last_checked_at": "2026-11-02T00:12:12.897284+00:00"
+  },
+  {
+    "ean": null,
+    "mpn": "BX80768285K",
+    "name": "Intel Core Ultra 9 285K IA Integrada 3.2/5.7GHz Box",
+    "brand": "Intel",
+    "shop_id": "pccomponentes",
+    "in_stock": true,
+    "url_public": "https://www.pccomponentes.com/procesador-intel-core-ultra-9-285k-ia-integrada-3-2-5-7ghz-box",
+    "price_cents": 62899,
+    "retailer_sku": "10860620",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "discovery_method",
+        "value": "public_category_link_and_product_page"
+      },
+      {
+        "key": "seller",
+        "value": "PcComponentes"
+      },
+      {
+        "key": "identity_line",
+        "value": "P/N: BX80768285K|Cod. Artículo: 10860620"
+      },
+      {
+        "key": "source_transport",
+        "value": "public_web_reader"
+      },
+      {
+        "key": "review_state",
+        "value": "pending_agent_review"
+      },
+      {
+        "key": "availability_evidence",
+        "value": "Ficha principal consultada 2026-11-02: Recíbelo mañana; vendido y enviado por PcComponentes. Precio principal y P/N coinciden, sin usar otros vendedores."
+      }
+    ],
+    "last_checked_at": "2026-11-02T00:12:12.897284+00:00"
+  },
+  {
+    "ean": null,
+    "mpn": "KF560C30BBEK2-64",
+    "name": "Kingston FURY Beast DDR5 6000MHz 64GB 2x32GB CL30 AMD EXPO",
+    "brand": "Kingston",
+    "shop_id": "pccomponentes",
+    "in_stock": true,
+    "url_public": "https://www.pccomponentes.com/memoria-ram-kingston-fury-beast-ddr5-6000mhz-64gb-2x32gb-cl30-amd-expo",
+    "price_cents": 161988,
+    "retailer_sku": "10843609",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "discovery_method",
+        "value": "public_category_link_and_product_page"
+      },
+      {
+        "key": "seller",
+        "value": "PcComponentes"
+      },
+      {
+        "key": "identity_line",
+        "value": "P/N: KF560C30BBEK2-64|Cod. Artículo: 10843609"
+      },
+      {
+        "key": "source_transport",
+        "value": "public_web_reader"
+      },
+      {
+        "key": "review_state",
+        "value": "pending_agent_review"
+      },
+      {
+        "key": "availability_evidence",
+        "value": "Ficha principal consultada 2026-11-02: Recíbelo mañana; vendido y enviado por PcComponentes. Precio principal y P/N coinciden, sin usar otros vendedores."
+      }
+    ],
+    "last_checked_at": "2026-11-02T00:12:12.897284+00:00"
+  },
+  {
+    "ean": null,
+    "mpn": "GV-N5080GAMING OC-16GD",
+    "name": "Gigabyte GeForce RTX 5080 GAMING OC 16GB GDDR7 Reflex 2 RTX AI DLSS4",
+    "brand": "Gigabyte",
+    "shop_id": "pccomponentes",
+    "in_stock": true,
+    "url_public": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+    "price_cents": 250524,
+    "retailer_sku": "10867346",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "discovery_method",
+        "value": "public_retailer_search_result_and_product_page"
+      },
+      {
+        "key": "seller",
+        "value": "PcComponentes"
+      },
+      {
+        "key": "identity_line",
+        "value": "P/N: GV-N5080GAMING OC-16GD|Cod. Artículo: 10867346"
+      },
+      {
+        "key": "source_transport",
+        "value": "public_web_reader"
+      },
+      {
+        "key": "review_state",
+        "value": "pending_agent_review"
+      },
+      {
+        "key": "availability_evidence",
+        "value": "Ficha principal consultada 2026-11-02: Recíbelo mañana; vendido y enviado por PcComponentes. Precio principal y P/N coinciden, sin usar otros vendedores."
+      }
+    ],
+    "last_checked_at": "2026-11-02T00:12:12.897284+00:00"
+  }
+]

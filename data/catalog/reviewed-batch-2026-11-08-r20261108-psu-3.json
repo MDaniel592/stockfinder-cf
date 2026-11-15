@@ -1,0 +1,175 @@
+[
+ {
+  "id": "hiditec-gdx750-v3-psu010049",
+  "slug": "hiditec-gdx750-v3-psu010049",
+  "name": "Hiditec GDX750 v3 (PSU010049)",
+  "category_id": "psu",
+  "brand": "Hiditec",
+  "mpn": "PSU010049",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/80-plus-gold/15-gdx750-v3-80plus-gold-atx-31-pcie-51.html",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Gold",
+   "Ventilador": "140 mm FDB",
+   "Dimensiones": "150 x 86 x 160 mm",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "hiditec-bz550-v2-psu010053",
+  "slug": "hiditec-bz550-v2-psu010053",
+  "name": "Hiditec BZ550 v2 (PSU010053)",
+  "category_id": "psu",
+  "brand": "Hiditec",
+  "mpn": "PSU010053",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/22-bz550-v2-80plus-bronze.html",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "140 mm FDB",
+   "Dimensiones": "150 x 86 x 160 mm"
+  }
+ },
+ {
+  "id": "hiditec-bz650-v2-psu010054",
+  "slug": "hiditec-bz650-v2-psu010054",
+  "name": "Hiditec BZ650 v2 (PSU010054)",
+  "category_id": "psu",
+  "brand": "Hiditec",
+  "mpn": "PSU010054",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/21-bz650-v2-80plus-bronze.html",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "140 mm FDB",
+   "Dimensiones": "150 x 86 x 160 mm"
+  }
+ },
+ {
+  "id": "hiditec-bz750-v2-psu010055",
+  "slug": "hiditec-bz750-v2-psu010055",
+  "name": "Hiditec BZ750 v2 (PSU010055)",
+  "category_id": "psu",
+  "brand": "Hiditec",
+  "mpn": "PSU010055",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/20-bz750-v2-80plus-bronze.html",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "140 mm FDB",
+   "Dimensiones": "150 x 86 x 160 mm"
+  }
+ },
+ {
+  "id": "hiditec-bz850-v2-psu010056",
+  "slug": "hiditec-bz850-v2-psu010056",
+  "name": "Hiditec BZ850 v2 (PSU010056)",
+  "category_id": "psu",
+  "brand": "Hiditec",
+  "mpn": "PSU010056",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/19-bz850-v2-80plus-bronze.html",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "140 mm FDB",
+   "Dimensiones": "150 x 86 x 160 mm"
+  }
+ },
+ {
+  "id": "hiditec-rl550-psu010034",
+  "slug": "hiditec-rl550-psu010034",
+  "name": "Hiditec RL550 (PSU010034)",
+  "category_id": "psu",
+  "brand": "Hiditec",
+  "mpn": "PSU010034",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/23-rl550-80plus-bronze.html",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "120 mm",
+   "Dimensiones": "150 x 85 x 140 mm"
+  }
+ },
+ {
+  "id": "hiditec-bzx650-v2-psu010035",
+  "slug": "hiditec-bzx650-v2-psu010035",
+  "name": "Hiditec BZX650 V2 (PSU010035)",
+  "category_id": "psu",
+  "brand": "Hiditec",
+  "mpn": "PSU010035",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/18-bzx650-v2-80plus-bronze.html",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "140 mm FDB",
+   "Dimensiones": "150 x 86 x 160 mm"
+  }
+ },
+ {
+  "id": "hiditec-bzx750-v2-psu010036",
+  "slug": "hiditec-bzx750-v2-psu010036",
+  "name": "Hiditec BZX750 V2 (PSU010036)",
+  "category_id": "psu",
+  "brand": "Hiditec",
+  "mpn": "PSU010036",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/17-bzx750-v2-80plus-bronze.html",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "140 mm FDB",
+   "Dimensiones": "150 x 86 x 160 mm"
+  }
+ },
+ {
+  "id": "hiditec-bzx850-v2-psu010037",
+  "slug": "hiditec-bzx850-v2-psu010037",
+  "name": "Hiditec BZX850 V2 (PSU010037)",
+  "category_id": "psu",
+  "brand": "Hiditec",
+  "mpn": "PSU010037",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/80-plus-bronze/16-bzx850-v2-80plus-bronze.html",
+  "specs_verified_at": "2026-11-08T21:57:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Ventilador": "140 mm FDB",
+   "Dimensiones": "150 x 86 x 160 mm"
+  }
+ }
+]

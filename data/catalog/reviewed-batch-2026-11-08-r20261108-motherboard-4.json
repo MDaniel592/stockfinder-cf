@@ -1,0 +1,187 @@
+[
+ {
+  "id": "asus-rog-maximus-z890-extreme",
+  "slug": "asus-rog-maximus-z890-extreme",
+  "name": "ASUS ROG Maximus Z890 Extreme",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1IA0-M0EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-extreme/spec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "Intel Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "E-ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB"
+  }
+ },
+ {
+  "id": "asus-tuf-gaming-b760-plus-wifi-d4",
+  "slug": "asus-tuf-gaming-b760-plus-wifi-d4",
+  "name": "ASUS TUF GAMING B760-PLUS WIFI D4",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1DF0-M1EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b760-plus-wifi-d4/techspec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR4",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4"
+  }
+ },
+ {
+  "id": "asus-rog-strix-b760-f-gaming-wifi",
+  "slug": "asus-rog-strix-b760-f-gaming-wifi",
+  "name": "ASUS ROG STRIX B760-F GAMING WIFI",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1CT0-M0EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-f-gaming-wifi-model/spec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "192 GB"
+  }
+ },
+ {
+  "id": "asus-prime-x670e-pro-wifi",
+  "slug": "asus-prime-x670e-pro-wifi",
+  "name": "ASUS PRIME X670E-PRO WIFI",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1BL0-M0EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-x670e-pro-wifi/techspec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X670E",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4"
+  }
+ },
+ {
+  "id": "asus-prime-z790-a-wifi",
+  "slug": "asus-prime-z790-a-wifi",
+  "name": "ASUS PRIME Z790-A WIFI",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1CS0-M0EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z790-a-wifi/techspec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel Z790",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "192 GB"
+  }
+ },
+ {
+  "id": "asus-rog-crosshair-x670e-hero",
+  "slug": "asus-rog-crosshair-x670e-hero",
+  "name": "ASUS ROG CROSSHAIR X670E HERO",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1BC0-M0EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x670e-hero-model/spec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "192 GB"
+  }
+ },
+ {
+  "id": "asus-rog-strix-x670e-e-gaming-wifi",
+  "slug": "asus-rog-strix-x670e-e-gaming-wifi",
+  "name": "ASUS ROG STRIX X670E-E GAMING WIFI",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1BR0-M0EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x670e-e-gaming-wifi-model/spec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "192 GB"
+  }
+ },
+ {
+  "id": "asus-rog-strix-z790-a-gaming-wifi",
+  "slug": "asus-rog-strix-z790-a-gaming-wifi",
+  "name": "ASUS ROG STRIX Z790-A GAMING WIFI",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1E00-M0EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi-model/spec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel Z790",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "192 GB"
+  }
+ },
+ {
+  "id": "asus-tuf-gaming-x670e-plus-wifi",
+  "slug": "asus-tuf-gaming-x670e-plus-wifi",
+  "name": "ASUS TUF GAMING X670E-PLUS WIFI",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1BK0-M0EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x670e-plus-wifi/techspec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "AM5",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "192 GB"
+  }
+ },
+ {
+  "id": "asus-prime-b760m-f",
+  "slug": "asus-prime-b760m-f",
+  "name": "ASUS PRIME B760M-F",
+  "category_id": "motherboard",
+  "brand": "ASUS",
+  "mpn": "90MB1IK0-M0EAY0",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-f/techspec/",
+  "specs_verified_at": "2026-11-08T21:47:56Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX",
+   "Ranuras de memoria": "2",
+   "Memoria máxima": "96 GB"
+  }
+ }
+]

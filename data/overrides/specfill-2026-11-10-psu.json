@@ -1,0 +1,232 @@
+[
+  {
+    "product_id": "gigabyte-p550ss",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P550SS/sp",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "gigabyte-p650ss",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P650SS/sp",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "gigabyte-p650ss-ice",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Power-Supply/GP-P650SS-ICE/sp",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "lc-power-integrator-pro-lc6850b-si-v3-1-850w",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.lc-power.com/en/lc6850b-si-v3-1/",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "nox-hummer-gdx-750w-gold",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/hummer-gdx750-80-plus-gold",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "nox-urano-pro-850w-bronze",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-850w",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "nox-urano-pro-white-850w-bronze",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-850w",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "tooq-tqhelios-850sp",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqhelios-850sp/",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "tooq-tqxgeii-800sap",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqxgeii-800sap/",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "xpg-kyber-750w-75261250",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/kyber_datasheet.pdf",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "zalman-zm700-gv2se",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1606",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "zalman-zm800-gv2se",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1607",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "coolbox-powerline-iii-850w-coo-fapw3-850",
+    "category_id": "psu",
+    "key": "Modular",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-850w-powerline3/",
+    "note": "La ficha oficial no indica si los cables son fijos o modulares (solo conectores y cables planos/longitud)."
+  },
+  {
+    "product_id": "coolbox-coo-fapw3-550",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-powerline3-550w/",
+    "note": "Ficha CoolBox Powerline III: \"eficiencia de hasta el 85%, equivalente a 80 PLUS White\"; no declara certificación 80 PLUS."
+  },
+  {
+    "product_id": "coolbox-coo-fapw3-650",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-650w-powerline3/",
+    "note": "Ficha CoolBox Powerline III: \"eficiencia de hasta el 85%, equivalente a 80 PLUS White\"; no declara certificación 80 PLUS."
+  },
+  {
+    "product_id": "coolbox-coo-fapw3-750",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-750w-powerline3/",
+    "note": "Ficha CoolBox Powerline III: \"eficiencia de hasta el 85%, equivalente a 80 PLUS White\"; no declara certificación 80 PLUS."
+  },
+  {
+    "product_id": "coolbox-powerline-iii-850w-coo-fapw3-850",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-850w-powerline3/",
+    "note": "Ficha CoolBox Powerline III: \"eficiencia de hasta el 85%, equivalente a 80 PLUS White\"; no declara certificación 80 PLUS."
+  },
+  {
+    "product_id": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-t/",
+    "note": "La ficha oficial CoolBox solo lista el conector ATX 20+4; no indica certificación, estándar ATX ni conector de GPU."
+  },
+  {
+    "product_id": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-t/",
+    "note": "La ficha oficial CoolBox solo lista el conector ATX 20+4; no indica certificación, estándar ATX ni conector de GPU."
+  },
+  {
+    "product_id": "coolbox-basic-500gr-t-tfx-500w-coo-fa500tgr",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-coolbox-basic500gr-t/",
+    "note": "La ficha oficial CoolBox solo lista el conector ATX 20+4; no indica certificación, estándar ATX ni conector de GPU."
+  },
+  {
+    "product_id": "coolbox-coo-fa550tgr",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-tfx-basic-550gr-t-550w/",
+    "note": "La ficha oficial CoolBox solo lista el conector ATX 20+4; no indica certificación, estándar ATX ni conector de GPU."
+  },
+  {
+    "product_id": "coolbox-coo-fa550tgr",
+    "category_id": "psu",
+    "key": "Estándar ATX",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-tfx-basic-550gr-t-550w/",
+    "note": "La ficha oficial CoolBox solo lista el conector ATX 20+4; no indica certificación, estándar ATX ni conector de GPU."
+  },
+  {
+    "product_id": "coolbox-coo-fa550tgr",
+    "category_id": "psu",
+    "key": "Conector GPU",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-tfx-basic-550gr-t-550w/",
+    "note": "La ficha oficial CoolBox solo lista el conector ATX 20+4; no indica certificación, estándar ATX ni conector de GPU."
+  }
+]

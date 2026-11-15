@@ -1,0 +1,200 @@
+[
+  {
+    "product_id": "sandisk-nas-800-3840gb",
+    "product": "SanDisk NAS 800 3.84 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Bare M.2 enterprise/NAS module dimensions and listing; no integrated heatsink shown.",
+    "confidence": "media",
+    "verified": false
+  },
+  {
+    "product_id": "lexar-nq790-512gb",
+    "product": "Lexar NQ790 512 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Official dimensions 80×22×2.45 mm and portfolio distinguishes heatsink variants for other Lexar lines; no heatsink NQ790 SKU shown.",
+    "confidence": "media",
+    "verified": false
+  },
+  {
+    "product_id": "lexar-nm990-1tb",
+    "product": "Lexar NM990 1 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Official datasheet dimensions 80×22×2.45 mm, 6 g; thermal decal may be a spreader, not a conventional integrated heatsink.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "intenso-mi500-2tb-3836470",
+    "product": "Intenso MI500 2 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Official page lists standard M.2 2280 module; product photos appear bare, but absence not expressly stated.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "intenso-mi500-500gb-3836450",
+    "product": "Intenso MI500 500 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Same MI500 family as 2TB; standard M.2 2280 module.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "intenso-top-m2-sata-ssd-256-gb-3832440",
+    "product": "Intenso Top M.2 SATA 256 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Standard M.2 SATA module; no heatsink called out on family page.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "intenso-top-m2-sata-ssd-512-gb-3832450",
+    "product": "Intenso Top M.2 SATA 512 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Standard M.2 SATA module; no heatsink called out on family page.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "intenso-top-m2-sata-ssd-1-tb-3832460",
+    "product": "Intenso Top M.2 SATA 1 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Standard M.2 SATA module; no heatsink called out on family page.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "goodram-px600-500gb-ssdpr-px600-500-80",
+    "product": "GOODRAM PX600 500 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Official family page gives bare-module dimensions and distinguishes heat spreader on PX700.",
+    "confidence": "media",
+    "verified": false
+  },
+  {
+    "product_id": "goodram-px600-1tb-ssdpr-px600-1k0-80",
+    "product": "GOODRAM PX600 1 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Official family page gives bare-module dimensions and distinguishes heat spreader on PX700.",
+    "confidence": "media",
+    "verified": false
+  },
+  {
+    "product_id": "pny-cs1030-250-gb-m280cs1030-250-rb",
+    "product": "PNY CS1030 250 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Standard 2280 module and product listing/image shows bare SSD; no explicit absence statement located.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "pny-cs1030-500-gb-m280cs1030-500-rb",
+    "product": "PNY CS1030 500 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Standard 2280 module and product listing/image shows bare SSD; no explicit absence statement located.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "pny-cs1030-1-tb-m280cs1030-1tb-rb",
+    "product": "PNY CS1030 1 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Standard 2280 module and product listing/image shows bare SSD; no explicit absence statement located.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "pny-cs2230-500gb-m280cs2230-500-rb",
+    "product": "PNY CS2230 500 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Standard 2230 module; no heatsink indicated on official product materials.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "pny-cs2140-1tb-m280cs2140-1tb-rb",
+    "product": "PNY CS2140 1 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Standard 2280 module and official material lists compact module dimensions; no explicit absence statement located.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "teamgroup-ms30-512gb-tm8ps7512g0c101",
+    "product": "TEAMGROUP MS30 512 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Official MS30 datasheet identifies standard M.2 SATA SSD; heatsink not listed.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "teamgroup-mp33-256gb-tm8fp6256g0c101",
+    "product": "TEAMGROUP MP33 256 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Official MP33 datasheet identifies standard M.2 2280 module; heatsink not listed.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "crucial-ct1000e100ssd8",
+    "product": "Crucial E100 1 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "E100 M.2 2280 product family and exact manufacturer page unavailable during lookup; likely bare module by line.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "crucial-ct480e100ssd8",
+    "product": "Crucial E100 480 GB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "E100 M.2 2280 product family and exact manufacturer page unavailable during lookup; likely bare module by line.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "crucial-ct2000e100ssd8",
+    "product": "Crucial E100 2 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "E100 M.2 2280 product family and exact manufacturer page unavailable during lookup; likely bare module by line.",
+    "confidence": "baja",
+    "verified": false
+  },
+  {
+    "product_id": "crucial-ct2000p3pssd8",
+    "product": "Crucial P3 Plus 2 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "M.2 2280 model; separate variants sold with heatsink, ordinary SKU likely bare.",
+    "confidence": "media",
+    "verified": false
+  },
+  {
+    "product_id": "forgeon-nimbus-1tb-fo-ssd-n-1tb-6",
+    "product": "Forgeon Nimbus 1 TB",
+    "field": "Disipador integrado",
+    "candidate_value": "No",
+    "reason": "Retailer manufacturer page/catalog photo shows ordinary M.2 module without a called-out heat sink; product is retailer brand.",
+    "confidence": "baja",
+    "verified": false
+  }
+]

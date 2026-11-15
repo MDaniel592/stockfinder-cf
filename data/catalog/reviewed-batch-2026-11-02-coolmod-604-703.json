@@ -1,0 +1,205 @@
+[
+  {
+    "id": "powercolor-rx907016g-a",
+    "slug": "powercolor-rx907016g-a",
+    "name": "PowerColor Reaper AMD Radeon RX 9070 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Powercolor",
+    "mpn": "RX907016G-A",
+    "manufacturer_url": "https://www.powercolor.com/product-detail215.htm",
+    "manufacturer_sources": [
+      "https://www.powercolor.com/product-detail215.htm"
+    ],
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "Radeon RX 9070",
+      "Memoria": "16GB GDDR6",
+      "Dato oficial 3": "256-bit",
+      "Variante": "model RX9070 16G-A",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "gigabyte-b850m-a-elt-wf6e-ice",
+    "slug": "gigabyte-b850m-a-elt-wf6e-ice",
+    "name": "Gigabyte B850M AORUS Elite WIFI6E ICE Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850M A ELT WF6E ICE",
+    "manufacturer_url": "https://www.gigabyte.com/us/Motherboard/B850M-AORUS-ELITE-WIFI6E-ICE-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/us/Motherboard/B850M-AORUS-ELITE-WIFI6E-ICE-rev-1x/sp"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Conectividad inalámbrica": "wireless networking is part of the named model",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b650-eagle",
+    "slug": "gigabyte-b650-eagle",
+    "name": "Gigabyte B650 EAGLE Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650 EAGLE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650-EAGLE-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B650-EAGLE-rev-1x/sp"
+    ],
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Chipset/model": "family B650",
+      "Socket": "AM5"
+    }
+  },
+  {
+    "id": "gigabyte-b650-gaming-x-ax-v2",
+    "slug": "gigabyte-b650-gaming-x-ax-v2",
+    "name": "Gigabyte B650 Gaming X AX V2 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650 GAMING X AX V2",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650-GAMING-X-AX-V2-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B650-GAMING-X-AX-V2-rev-1x/sp"
+    ],
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Chipset/model": "family B650",
+      "Socket": "AM5"
+    }
+  },
+  {
+    "id": "asus-90mb1p20-m0eay0",
+    "slug": "asus-90mb1p20-m0eay0",
+    "name": "Asus ROG Strix X870E-E Gaming WIFI7 Neo Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1P20-M0EAY0",
+    "manufacturer_url": "https://promotion.asus.com/en-gb/back-to-school-2026/tac/",
+    "manufacturer_sources": [
+      "https://promotion.asus.com/en-gb/back-to-school-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Socket": "AM5",
+      "Conectividad inalámbrica": "wireless networking is part of the named model"
+    }
+  },
+  {
+    "id": "gigabyte-x870-gaming-x-wifi7",
+    "slug": "gigabyte-x870-gaming-x-wifi7",
+    "name": "Gigabyte X870 Gaming X WIFI7 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870 GAMING X WIFI7",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870-GAMING-X-WIFI7-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/X870-GAMING-X-WIFI7-rev-1x/sp"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Chipset/model": "family X870",
+      "Socket": "AM5",
+      "Conectividad inalámbrica": "wireless networking is part of the named model",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-90mb1ip0-m0eay0",
+    "slug": "asus-90mb1ip0-m0eay0",
+    "name": "Asus ROG Maximus Z890 Apex WIFI Socket 1851",
+    "category_id": "motherboard",
+    "brand": "Asus",
+    "mpn": "90MB1IP0-M0EAY0",
+    "manufacturer_url": "https://promotion.asus.com/sk/football-2026/tac/",
+    "manufacturer_sources": [
+      "https://promotion.asus.com/sk/football-2026/tac/"
+    ],
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Chipset/model": "family Z890",
+      "Socket": "LGA1851",
+      "Conectividad inalámbrica": "wireless networking is part of the named model"
+    }
+  },
+  {
+    "id": "sapphire-52123-03-40g",
+    "slug": "sapphire-52123-03-40g",
+    "name": "Sapphire Nitro+ B850A WIFI7 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Sapphire",
+    "mpn": "52123-03-40G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/mb_nitro_b850a-wifi7",
+    "specs_verified_at": "2026-11-02T19:12:58Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Conectividad inalámbrica": "WiFi 7"
+    }
+  },
+  {
+    "id": "sapphire-52123-04-40g",
+    "slug": "sapphire-52123-04-40g",
+    "name": "Sapphire Pulse B850M WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Sapphire",
+    "mpn": "52123-04-40G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/mb_pulse_b850m",
+    "specs_verified_at": "2026-11-02T19:12:58Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Conectividad inalámbrica": "WiFi 6"
+    }
+  },
+  {
+    "id": "gigabyte-b760-ds3h-gen5",
+    "slug": "gigabyte-b760-ds3h-gen5",
+    "name": "Gigabyte B760 DS3H GEN5 Socket 1700",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B760 DS3H GEN5",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760-DS3H-GEN5-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B760-DS3H-GEN5-rev-1x/sp"
+    ],
+    "specs_verified_at": "2026-11-02T20:00:00Z",
+    "specs": {
+      "Chipset/model": "family B760",
+      "Socket": "LGA1700"
+    }
+  },
+  {
+    "id": "gigabyte-b650m-d3hp",
+    "slug": "gigabyte-b650m-d3hp",
+    "name": "Gigabyte B650M D3HP Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650M D3HP",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650M-D3HP-rev-1x/sp",
+    "manufacturer_sources": [
+      "https://www.gigabyte.com/Motherboard/B650M-D3HP-rev-1x/sp"
+    ],
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  }
+]

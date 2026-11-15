@@ -1,0 +1,394 @@
+[
+ {
+  "id": "noctua-nh-d15s",
+  "slug": "noctua-nh-d15s",
+  "name": "Noctua NH-D15S",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D15S",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-d15s/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 140 mm",
+   "Altura": "160 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-d9-tr5-sp6-4u",
+  "slug": "noctua-nh-d9-tr5-sp6-4u",
+  "name": "Noctua NH-D9 TR5-SP6 4U",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D9 TR5-SP6 4U",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-d9-tr5-sp6-4u/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "sTR5, SP6",
+   "Ventiladores": "2 × 92 mm",
+   "Altura": "134 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-u14s-tr5-sp6",
+  "slug": "noctua-nh-u14s-tr5-sp6",
+  "name": "Noctua NH-U14S TR5-SP6",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-U14S TR5-SP6",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-u14s-tr5-sp6/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "sTR5, SP6",
+   "Ventiladores": "2 × 140 mm",
+   "Altura": "165 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-u9s",
+  "slug": "noctua-nh-u9s",
+  "name": "Noctua NH-U9S",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-U9S",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-u9s/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 92 mm",
+   "Altura": "125 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-u14s-dx-4677",
+  "slug": "noctua-nh-u14s-dx-4677",
+  "name": "Noctua NH-U14S DX-4677",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-U14S DX-4677",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-u14s-dx-4677/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA4677, LGA4710",
+   "Ventiladores": "2 × 140 mm",
+   "Altura": "165 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-l9x65",
+  "slug": "noctua-nh-l9x65",
+  "name": "Noctua NH-L9x65",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-L9x65",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-l9x65/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 92 mm",
+   "Altura": "65 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-d12l",
+  "slug": "noctua-nh-d12l",
+  "name": "Noctua NH-D12L",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D12L",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-d12l/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "145 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-d15",
+  "slug": "noctua-nh-d15",
+  "name": "Noctua NH-D15",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D15",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-d15/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "2 × 140 mm",
+   "Altura": "168 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-c14s",
+  "slug": "noctua-nh-c14s",
+  "name": "Noctua NH-C14S",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-C14S",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-c14s/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 140 mm",
+   "Altura": "142 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-l9x65-chromax-black",
+  "slug": "noctua-nh-l9x65-chromax-black",
+  "name": "Noctua NH-L9x65 chromax.black",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-L9x65 chromax.black",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-l9x65-chromax-black/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 92 mm",
+   "Altura": "65 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-d9l",
+  "slug": "noctua-nh-d9l",
+  "name": "Noctua NH-D9L",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D9L",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-d9l/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 92 mm",
+   "Altura": "110 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-d9l-chromax-black",
+  "slug": "noctua-nh-d9l-chromax-black",
+  "name": "Noctua NH-D9L chromax.black",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D9L chromax.black",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-d9l-chromax-black/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 92 mm",
+   "Altura": "110 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-u12a-chromax-black",
+  "slug": "noctua-nh-u12a-chromax-black",
+  "name": "Noctua NH-U12A chromax.black",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-U12A chromax.black",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-u12a-chromax-black/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "158 mm",
+   "Heatpipes": "7"
+  }
+ },
+ {
+  "id": "noctua-nh-u12s-dx-4677",
+  "slug": "noctua-nh-u12s-dx-4677",
+  "name": "Noctua NH-U12S DX-4677",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-U12S DX-4677",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-u12s-dx-4677/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA4677, LGA4710",
+   "Ventiladores": "2 × 120 mm",
+   "Altura": "158 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-d12l-chromax-black",
+  "slug": "noctua-nh-d12l-chromax-black",
+  "name": "Noctua NH-D12L chromax.black",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D12L chromax.black",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-d12l-chromax-black/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "145 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-l12s",
+  "slug": "noctua-nh-l12s",
+  "name": "Noctua NH-L12S",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-L12S",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-l12s/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "86 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-u9-dx-4677",
+  "slug": "noctua-nh-u9-dx-4677",
+  "name": "Noctua NH-U9 DX-4677",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-U9 DX-4677",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-u9-dx-4677/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA4677, LGA4710",
+   "Ventiladores": "2 × 92 mm",
+   "Altura": "125 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-l9i-17xx-chromax-black",
+  "slug": "noctua-nh-l9i-17xx-chromax-black",
+  "name": "Noctua NH-L9i-17xx chromax.black",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-L9i-17xx chromax.black",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-l9i-17xx-chromax-black/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA1954, LGA1851, LGA1700",
+   "Ventiladores": "1 × 92 mm",
+   "Altura": "37 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-u12s-redux",
+  "slug": "noctua-nh-u12s-redux",
+  "name": "Noctua NH-U12S redux",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-U12S redux",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-u12s-redux/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "158 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-l9a-am5-chromax-black",
+  "slug": "noctua-nh-l9a-am5-chromax-black",
+  "name": "Noctua NH-L9a-AM5 chromax.black",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-L9a-AM5 chromax.black",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-l9a-am5-chromax-black/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5",
+   "Ventiladores": "1 × 92 mm",
+   "Altura": "37 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-d15-g2-hbc",
+  "slug": "noctua-nh-d15-g2-hbc",
+  "name": "Noctua NH-D15 G2 HBC",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D15 G2 HBC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-d15-g2-hbc/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "2 × 140 mm",
+   "Altura": "168 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-d9-dx-4677-4u",
+  "slug": "noctua-nh-d9-dx-4677-4u",
+  "name": "Noctua NH-D9 DX-4677 4U",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-D9 DX-4677 4U",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-d9-dx-4677-4u/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA4677, LGA4710",
+   "Ventiladores": "2 × 92 mm",
+   "Altura": "134 mm"
+  }
+ },
+ {
+  "id": "noctua-nh-u12s",
+  "slug": "noctua-nh-u12s",
+  "name": "Noctua NH-U12S",
+  "category_id": "cooler",
+  "brand": "Noctua",
+  "mpn": "NH-U12S",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://noctua.at/en/nh-u12s/specification",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1954, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "1 × 120 mm",
+   "Altura": "158 mm"
+  }
+ }
+]

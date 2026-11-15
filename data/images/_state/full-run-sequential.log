@@ -1,0 +1,55 @@
+1564 products to process (dry_run=False)
+{"id": "abysm-morpheo-gx5-1000w-ab211001", "domain": "abysmgaming.com", "status": "ok", "scope": "model", "image_host": "www.abysmgaming.com", "bytes": 56254, "width": 800, "height": 800}
+{"id": "adata-ax5u6000c3016g-dclarwh", "domain": "adata.com", "status": "skip", "reason": "non_html"}
+{"id": "amd-ryzen-9-9950x3d", "domain": "amd.com", "status": "ok", "scope": "model", "image_host": "www.amd.com", "bytes": 8468, "width": 800, "height": 450}
+{"id": "apacer-nox-16gb-ddr5-5200-cl40", "domain": "apacer.com", "status": "skip", "reason": "non_html"}
+{"id": "arctic-freezer-36-s-argb-white", "domain": "arctic.de", "status": "ok", "scope": "model", "image_host": "www.arctic.de", "bytes": 38508, "width": 800, "height": 800}
+{"id": "asrock-b850-steel-legend-wifi", "domain": "asrock.com", "status": "blocked", "reason": "challenge/status 200"}
+{"id": "asus-rog-strix-z890-e-gaming-wifi", "domain": "asus.com", "status": "ok", "scope": "model", "image_host": "dlcdnwebimgs.asus.com", "bytes": 72946, "width": 800, "height": 800}
+{"id": "bequiet-dark-rock-pro-6", "domain": "bequiet.com", "status": "ok", "scope": "model", "image_host": "www.bequiet.com", "bytes": 31666, "width": 800, "height": 800}
+{"id": "biostar-b760mxc-pro-ddr5", "domain": "biostar.com.tw", "status": "skip", "reason": "no_image"}
+{"id": "cooler-master-hyper-212-black-rr-s4kk-25sn-r1", "domain": "coolermaster.com", "status": "ok", "scope": "model", "image_host": "www.coolermaster.com", "bytes": 55230, "width": 800, "height": 800}
+{"id": "corsair-cmk32gx5m2d6000z38w", "domain": "corsair.com", "status": "ok", "scope": "model", "image_host": "assets.corsair.com", "bytes": 45776, "width": 800, "height": 800}
+{"id": "cougar-mx600-max-rgb-white", "domain": "cougargaming.com", "status": "skip", "reason": "bad_image", "scope": "model", "image_host": "cougargaming.com"}
+{"id": "crucial-ct32g56c46u5", "domain": "crucial.com", "status": "skip", "reason": "bad_image", "scope": "model", "image_host": "assets.micron.com"}
+{"id": "darkflash-ds500-rgb-black", "domain": "darkflash.com", "status": "ok", "scope": "model", "image_host": "darkflash-iberia.com", "bytes": 72166, "width": 800, "height": 800}
+{"id": "deepcool-ag400-g2", "domain": "deepcool.com", "status": "skip", "reason": "no_image"}
+{"id": "einarex-pulse-pm300-core-black", "domain": "einarex.com", "status": "ok", "scope": "family", "image_host": "einarex.com", "bytes": 79842, "width": 576, "height": 576}
+{"id": "endorfy-fera-5-dual-fan-ey3a006", "domain": "endorfy.com", "status": "ok", "scope": "model", "image_host": "endorfy.com", "bytes": 34488, "width": 800, "height": 450}
+{"id": "fractal-epoch-black-tg-rgb-light-tint", "domain": "fractal-design.com", "status": "ok", "scope": "model", "image_host": "assets.fractal-design.com", "bytes": 59616, "width": 800, "height": 800}
+{"id": "fsp-advan-gm-750w-ppa7508300", "domain": "fsplifestyle.com", "status": "skip", "reason": "bad_image", "scope": "family", "image_host": "www.fsplifestyle.com"}
+{"id": "ainward-ne7506t019p1-gb2062b", "domain": "gainward.com", "status": "skip", "reason": "no_image"}
+{"id": "gigabyte-x870e-aorus-master", "domain": "gigabyte.com", "status": "ok", "scope": "model", "image_host": "static.gigabyte.com", "bytes": 67710, "width": 800, "height": 510}
+{"id": "gembird-fornax-k300", "domain": "gmb-online.nl", "status": "skip", "reason": "no_image"}
+{"id": "goodram-rival-deep-black-16gb-ddr4-3600-cl18", "domain": "goodram.com", "status": "skip", "reason": "no_image"}
+{"id": "gskill-ripjaws-v-f4-3200c16d-16gvkb", "domain": "gskill.com", "status": "skip", "reason": "robots_disallow"}
+{"id": "gembird-fornax-2000-rgb", "domain": "gzhls.at", "status": "skip", "reason": "non_html"}
+{"id": "hiditec-blok-pro", "domain": "hiditec.com", "status": "ok", "scope": "model", "image_host": "hiditec.com", "bytes": 4830, "width": 390, "height": 484}
+{"id": "inno3d-geforce-rtx-5070-twin-x2-oc-12gb", "domain": "inno3d.com", "status": "skip", "reason": "no_image"}
+{"id": "intel-core-ultra-5-250kf-plus-tray", "domain": "intel.com", "status": "ok", "scope": "family", "image_host": "www.intel.com", "bytes": 10528, "width": 800, "height": 450}
+{"id": "kingston-fury-beast-32gb-ddr5-6400-cl32-expo", "domain": "kingston.com", "status": "skip", "reason": "non_html"}
+{"id": "kioxia-exceria-plus-g3-1tb", "domain": "kioxia.com", "status": "ok", "scope": "model", "image_host": "europe.kioxia.com", "bytes": 2110, "width": 800, "height": 420}
+{"id": "klevv-bolt-x-16gb-ddr4-3200-cl16", "domain": "klevv.com", "status": "skip", "reason": "no_image"}
+{"id": "lenovo-rtx-5080-16gb-4x61u02755", "domain": "lenovo.com", "status": "skip", "reason": "image_host_not_official"}
+{"id": "lexar-ld4au008g-b3200gsst", "domain": "lexar.com", "status": "ok", "scope": "family", "image_host": "americas.lexar.com", "bytes": 6184, "width": 500, "height": 500}
+{"id": "chieftec-iceberg-pro-360-dark-clc-360-vrm-blk", "domain": "linkedin.com", "status": "skip", "reason": "robots_disallow"}
+{"id": "mars-gaming-ml-arc360-mlarc360w", "domain": "marsgaming.eu", "status": "skip", "reason": "bad_image", "scope": "family", "image_host": "marsgaming.eu"}
+{"id": "modecom-volcano-0c-t100-negro-mc-c-t100-000-b", "domain": "modecom.pl", "status": "ok", "scope": "model", "image_host": "modecom.com", "bytes": 35610, "width": 800, "height": 800}
+{"id": "msi-mag-x870-tomahawk-wifi", "domain": "msi.com", "status": "ok", "scope": "model", "image_host": "storage-asset.msi.com", "bytes": 74374, "width": 800, "height": 640}
+{"id": "mushkin-mre5u480fffd16g", "domain": "mushkin.com", "status": "blocked", "reason": "request failed: Timeout"}
+{"id": "noctua-nh-l12sx77", "domain": "noctua.at", "status": "ok", "scope": "model", "image_host": "cdn.noctua.at", "bytes": 29538, "width": 800, "height": 541}
+{"id": "nox-hummer-gdm-750w-gold", "domain": "nox-xtreme.com", "status": "skip", "reason": "bad_image", "scope": "model", "image_host": "api.nox-xtreme.com"}
+{"id": "nvidia-geforce-rtx-5070-ti", "domain": "nvidia.com", "status": "ok", "scope": "family", "image_host": "www.nvidia.com", "bytes": 41984, "width": 800, "height": 420}
+{"id": "nzxt-h6-2026-black", "domain": "nzxt.com", "status": "skip", "reason": "image_too_small", "scope": "model", "image_host": "support.nzxt.com"}
+{"id": "palit-geforce-rtx-5060-ti-infinity-3-16gb", "domain": "palit.com", "status": "skip", "reason": "no_image"}
+{"id": "patriot-psd416g32002", "domain": "patriotmemory.com", "status": "blocked", "reason": "request failed: Timeout"}
+{"id": "patriot-memory-pvv532g560c36k", "domain": "patriotmemory.ru", "status": "skip", "reason": "non_html"}
+{"id": "forgeon-tiberium-evo-house-pride-hufflepuff", "domain": "pccomponentes.com", "status": "skip", "reason": "image_too_small", "scope": "model", "image_host": "thumb.pccomponentes.com"}
+{"id": "forgeon-tiberium-evo-house-pride-ravenclaw", "domain": "pccomponentes.it", "status": "skip", "reason": "image_too_small", "scope": "model", "image_host": "thumb.pccomponentes.com"}
+{"id": "pny-geforce-rtx-5070-ti-oc-triple-fan-16gb", "domain": "pny.com", "status": "skip", "reason": "non_html"}
+{"id": "coolmod-ram-md16gsd43200-tb", "domain": "pny.com.tw", "status": "skip", "reason": "non_html"}
+{"id": "powercolor-rx907016g-a", "domain": "powercolor.com", "status": "blocked", "reason": "request failed: CertificateVerifyError"}
+{"id": "rampage-octagon-c60-white", "domain": "rampage.com.tr", "status": "ok", "scope": "model", "image_host": "www.rampage.com.tr", "bytes": 79746, "width": 800, "height": 800}
+{"id": "samsung-9100-pro-8tb-heatsink", "domain": "samsung.com", "status": "ok", "scope": "model", "image_host": "images.samsung.com", "bytes": 2618, "width": 330, "height": 330}
+{"id": "sandisk-nas-800-3840gb", "domain": "sandisk.com", "status": "ok", "scope": "model", "image_host": "www.sandisk.com", "bytes": 12694, "width": 800, "height": 800}
+{"updated_at": "2026-11-08T20:59:51Z", "processed_total": 72, "counts": {"blocked:challenge/status 200": 1, "blocked:request failed: CertificateVerifyError": 1, "blocked:request failed: Timeout": 2, "ok": 32, "skip:bad_image": 6, "skip:image_host_not_official": 1, "skip:image_too_small": 3, "skip:no_image": 9, "skip:non_html": 14, "skip:not_found": 1, "skip:robots_disallow": 2}, "domains": {"asrock.com": {"consecutive_blocks": 2, "total_blocks": 2, "stopped": false}, "mushkin.com": {"consecutive_blocks": 1, "total_blocks": 1, "stopped": false}, "patriotmemory.com": {"consecutive_blocks": 1, "total_blocks": 1, "stopped": false}, "powercolor.com": {"consecutive_blocks": 1, "total_blocks": 1, "stopped": false}}, "run_done": 53, "run_total": 1564, "eta_utc": "2026-11-09T00:57:51Z"}

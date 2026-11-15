@@ -1,0 +1,84 @@
+[
+  {
+    "id": "asrock-arc-pro-b70-creator-32gb",
+    "slug": "asrock-arc-pro-b70-creator-32gb",
+    "name": "ASRock Intel Arc Pro B70 Creator 32 GB",
+    "category_id": "gpu",
+    "brand": "ASRock",
+    "manufacturer_url": "https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20Pro%20B70%20Creator%2032GB/",
+    "specs_verified_at": "2026-11-02T10:32:40.483279+00:00",
+    "specs": {
+      "Chip gráfico": "Arc Pro B70",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Interfaz": "PCIe 5.0 x16"
+    },
+    "mpn": "B70 CT 32G"
+  },
+  {
+    "id": "nvidia-rtx-pro-6000-blackwell-workstation-96gb",
+    "slug": "nvidia-rtx-pro-6000-blackwell-workstation-96gb",
+    "name": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/",
+    "specs_verified_at": "2026-11-02T10:32:40.483279+00:00",
+    "specs": {
+      "Chip gráfico": "RTX PRO 6000 Blackwell Workstation Edition",
+      "Memoria": "96 GB",
+      "Tipo de memoria": "GDDR7",
+      "ECC": "Sí"
+    }
+  },
+  {
+    "id": "nvidia-rtx-pro-4500-blackwell-workstation-32gb",
+    "slug": "nvidia-rtx-pro-4500-blackwell-workstation-32gb",
+    "name": "NVIDIA RTX PRO 4500 Blackwell Workstation Edition 32 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/",
+    "specs_verified_at": "2026-11-02T10:32:40.483279+00:00",
+    "specs": {
+      "Chip gráfico": "RTX PRO 4500 Blackwell Workstation Edition",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "ECC": "Sí"
+    }
+  },
+  {
+    "id": "gigabyte-x870-aorus-stealth",
+    "slug": "gigabyte-x870-aorus-stealth",
+    "name": "Gigabyte X870 AORUS STEALTH",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870-AORUS-STEALTH/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Formato": "ATX",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "nvidia-rtx-5090-founders-edition-32gb",
+    "slug": "nvidia-rtx-5090-founders-edition-32gb",
+    "name": "NVIDIA GeForce RTX 5090 Founders Edition 32 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)"
+    }
+  }
+]

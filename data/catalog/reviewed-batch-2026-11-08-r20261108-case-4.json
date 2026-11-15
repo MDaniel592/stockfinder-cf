@@ -1,0 +1,166 @@
+[
+ {
+  "id": "mars-gaming-mcpulsar",
+  "slug": "mars-gaming-mcpulsar",
+  "name": "Mars Gaming MC-PULSAR Negra (MCPULSAR)",
+  "category_id": "case",
+  "brand": "Mars Gaming",
+  "mpn": "MCPULSAR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/cases/mc-pulsar",
+  "specs_verified_at": "2026-11-08T22:12:35Z",
+  "specs": {
+   "Formatos compatibles": "ATX, Micro-ATX, Mini-ITX",
+   "Longitud GPU máxima": "332 mm",
+   "Altura disipador máxima": "162 mm",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Dimensiones": "450 × 190 × 340 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcquantum",
+  "slug": "mars-gaming-mcquantum",
+  "name": "Mars Gaming MC-QUANTUM Negra (MCQUANTUM)",
+  "category_id": "case",
+  "brand": "Mars Gaming",
+  "mpn": "MCQUANTUM",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/cases/mc-quantum",
+  "specs_verified_at": "2026-11-08T22:12:35Z",
+  "specs": {
+   "Formatos compatibles": "ATX, Micro-ATX, Mini-ITX",
+   "Altura disipador máxima": "170 mm",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Dimensiones": "375 × 220 × 445 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcvectorw",
+  "slug": "mars-gaming-mcvectorw",
+  "name": "Mars Gaming MC-VECTOR Blanca (MCVECTORW)",
+  "category_id": "case",
+  "brand": "Mars Gaming",
+  "mpn": "MCVECTORW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/cases/mc-vector",
+  "specs_verified_at": "2026-11-08T22:12:35Z",
+  "specs": {
+   "Formatos compatibles": "Micro-ATX, Mini-ITX",
+   "Longitud GPU máxima": "282 mm",
+   "Altura disipador máxima": "163 mm",
+   "Formato fuente": "ATX",
+   "Dimensiones": "335 × 203 × 397 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcvector",
+  "slug": "mars-gaming-mcvector",
+  "name": "Mars Gaming MC-VECTOR Negra (MCVECTOR)",
+  "category_id": "case",
+  "brand": "Mars Gaming",
+  "mpn": "MCVECTOR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/cases/mc-vector",
+  "specs_verified_at": "2026-11-08T22:12:35Z",
+  "specs": {
+   "Formatos compatibles": "Micro-ATX, Mini-ITX",
+   "Longitud GPU máxima": "282 mm",
+   "Altura disipador máxima": "163 mm",
+   "Formato fuente": "ATX",
+   "Dimensiones": "335 × 203 × 397 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcvisionm",
+  "slug": "mars-gaming-mcvisionm",
+  "name": "Mars Gaming MC-VISIONM Negra (MCVISIONM)",
+  "category_id": "case",
+  "brand": "Mars Gaming",
+  "mpn": "MCVISIONM",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/cases/mc-visionm",
+  "specs_verified_at": "2026-11-08T22:12:35Z",
+  "specs": {
+   "Formatos compatibles": "Micro-ATX, Mini-ITX",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "159 mm",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Dimensiones": "350 × 277 × 329 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcvisionmp",
+  "slug": "mars-gaming-mcvisionmp",
+  "name": "Mars Gaming MC-VISIONM Rosa (MCVISIONMP)",
+  "category_id": "case",
+  "brand": "Mars Gaming",
+  "mpn": "MCVISIONMP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/cases/mc-visionm",
+  "specs_verified_at": "2026-11-08T22:12:35Z",
+  "specs": {
+   "Formatos compatibles": "Micro-ATX, Mini-ITX",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "159 mm",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Dimensiones": "350 × 277 × 329 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcxpsw",
+  "slug": "mars-gaming-mcxpsw",
+  "name": "Mars Gaming MC-XPS Blanca (MCXPSW)",
+  "category_id": "case",
+  "brand": "Mars Gaming",
+  "mpn": "MCXPSW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/cases/mc-xps",
+  "specs_verified_at": "2026-11-08T22:12:35Z",
+  "specs": {
+   "Formatos compatibles": "Micro-ATX, Mini-ITX",
+   "Altura disipador máxima": "165 mm",
+   "Panel lateral": "Cristal templado",
+   "Dimensiones": "392 × 196 × 289 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcxps",
+  "slug": "mars-gaming-mcxps",
+  "name": "Mars Gaming MC-XPS Negra (MCXPS)",
+  "category_id": "case",
+  "brand": "Mars Gaming",
+  "mpn": "MCXPS",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/cases/mc-xps",
+  "specs_verified_at": "2026-11-08T22:12:35Z",
+  "specs": {
+   "Formatos compatibles": "Micro-ATX, Mini-ITX",
+   "Altura disipador máxima": "165 mm",
+   "Panel lateral": "Cristal templado",
+   "Dimensiones": "392 × 196 × 289 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcv5w",
+  "slug": "mars-gaming-mcv5w",
+  "name": "Mars Gaming MCV5 Blanca (MCV5W)",
+  "category_id": "case",
+  "brand": "Mars Gaming",
+  "mpn": "MCV5W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/en/cases/mcv5",
+  "specs_verified_at": "2026-11-08T22:12:35Z",
+  "specs": {
+   "Formatos compatibles": "ATX, Micro-ATX, Mini-ITX",
+   "Longitud GPU máxima": "416 mm",
+   "Altura disipador máxima": "165 mm",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Dimensiones": "430 × 286 × 402 mm"
+  }
+ }
+]

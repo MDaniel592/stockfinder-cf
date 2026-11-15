@@ -1,0 +1,60 @@
+{
+  "_comment": "Explicit extra domains allowed for manufacturer_url, keyed by brand name lowercased without non-alphanumerics. A product also passes when the registrable domain label of manufacturer_url matches the brand (e.g. rog.asus.com for ASUS). Add an entry only for a documented relationship; do not whitelist retailers or social networks for third-party brands.",
+  "forgeon": [
+    "pccomponentes.com",
+    "pccomponentes.it"
+  ],
+  "tempest": [
+    "pccomponentes.com"
+  ],
+  "crucial": [
+    "micron.com"
+  ],
+  "micron": [
+    "crucial.com"
+  ],
+  "wd": [
+    "westerndigital.com",
+    "wd.com",
+    "sandisk.com"
+  ],
+  "westerndigital": [
+    "wd.com",
+    "sandisk.com"
+  ],
+  "sandisk": [
+    "westerndigital.com",
+    "wd.com"
+  ],
+  "adata": [
+    "xpg.com"
+  ],
+  "xpg": [
+    "adata.com"
+  ],
+  "gigabyte": [
+    "aorus.com"
+  ],
+  "viper": [
+    "patriotmemory.com"
+  ],
+  "vipergaming": [
+    "patriotmemory.com"
+  ],
+  "kioxia": [
+    "kioxia.com"
+  ],
+  "gembird": [
+    "gzhls.at",
+    "gmb-online.nl"
+  ],
+  "chieftec": [
+    "linkedin.com"
+  ],
+  "patriotmemory": [
+    "digitaloceanspaces.com"
+  ],
+  "wdblack": [
+    "westerndigital.com"
+  ]
+}

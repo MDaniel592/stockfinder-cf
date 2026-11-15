@@ -1,0 +1,379 @@
+[
+ {
+  "id": "tooq-tqhelios-650sp",
+  "slug": "tooq-tqhelios-650sp",
+  "name": "TooQ TQHELIOS-650SP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQHELIOS-650SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqhelios-650sp/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "tooq-tqhelios-750sp",
+  "slug": "tooq-tqhelios-750sp",
+  "name": "TooQ TQHELIOS-750SP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQHELIOS-750SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqhelios-750sp/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "tooq-tqep-500s-sfx",
+  "slug": "tooq-tqep-500s-sfx",
+  "name": "TooQ TQEP-500S-SFX",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQEP-500S-SFX",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqep-500s-sfx/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "SFX"
+  }
+ },
+ {
+  "id": "tooq-tqapolo-500sp",
+  "slug": "tooq-tqapolo-500sp",
+  "name": "TooQ TQAPOLO-500SP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQAPOLO-500SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqapolo-500sp/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "tooq-tqep-500sse",
+  "slug": "tooq-tqep-500sse",
+  "name": "TooQ TQEP-500SSE",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQEP-500SSE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqep-500sse/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "tooq-tqep-500sse-o",
+  "slug": "tooq-tqep-500sse-o",
+  "name": "TooQ TQEP-500SSE-O",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQEP-500SSE-O",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqep-500sse-o/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "tooq-tqhelios-850sp",
+  "slug": "tooq-tqhelios-850sp",
+  "name": "TooQ TQHELIOS-850SP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQHELIOS-850SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqhelios-850sp/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "tooq-tqapolo-600sp",
+  "slug": "tooq-tqapolo-600sp",
+  "name": "TooQ TQAPOLO-600SP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQAPOLO-600SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqapolo-600sp/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "600 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "tooq-tqapolo-700sp",
+  "slug": "tooq-tqapolo-700sp",
+  "name": "TooQ TQAPOLO-700SP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQAPOLO-700SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqapolo-700sp/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "700 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "tooq-tqapolo-750sp",
+  "slug": "tooq-tqapolo-750sp",
+  "name": "TooQ TQAPOLO-750SP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQAPOLO-750SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqapolo-750sp/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "tooq-tqxgeii-700sap",
+  "slug": "tooq-tqxgeii-700sap",
+  "name": "TooQ TQXGEII-700SAP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQXGEII-700SAP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqxgeii-700sap/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "700 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "tooq-tqxgeii-800sap",
+  "slug": "tooq-tqxgeii-800sap",
+  "name": "TooQ TQXGEII-800SAP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQXGEII-800SAP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqxgeii-800sap/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "800 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "tooq-tqep-500s-int",
+  "slug": "tooq-tqep-500s-int",
+  "name": "TooQ TQEP-500S-INT",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQEP-500S-INT",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqep-500s-int/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "tooq-tqapolo-650sp",
+  "slug": "tooq-tqapolo-650sp",
+  "name": "TooQ TQAPOLO-650SP",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQAPOLO-650SP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqapolo-650sp/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "tooq-tqep-tfx500s-o",
+  "slug": "tooq-tqep-tfx500s-o",
+  "name": "TooQ TQEP-TFX500S-O",
+  "category_id": "psu",
+  "brand": "TooQ",
+  "mpn": "TQEP-TFX500S-O",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://tooq.com/producto/tqep-tfx500s-o/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "TFX"
+  }
+ },
+ {
+  "id": "gigabyte-p550b",
+  "slug": "gigabyte-p550b",
+  "name": "Gigabyte P550B",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-P550B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/GP-P550B/sp",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "gigabyte-p850gm",
+  "slug": "gigabyte-p850gm",
+  "name": "Gigabyte P850GM",
+  "category_id": "psu",
+  "brand": "Gigabyte",
+  "mpn": "GP-P850GM",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Power-Supply/P850GM/sp",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Eficiencia 80 PLUS": "80 PLUS Gold"
+  }
+ },
+ {
+  "id": "coolbox-dg-pws850-mrg",
+  "slug": "coolbox-dg-pws850-mrg",
+  "name": "CoolBox Energy-G 850W 80 Plus Gold (DG-PWS850-MRG)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "DG-PWS850-MRG",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/fuente-de-alimentacion-energy-g-850w-80plus-gold-2/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.0",
+   "Eficiencia 80 PLUS": "80 PLUS Gold"
+  }
+ },
+ {
+  "id": "coolbox-coo-fapw3-650",
+  "slug": "coolbox-coo-fapw3-650",
+  "name": "CoolBox PowerLine III 650W (COO-FAPW3-650)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-FAPW3-650",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-650w-powerline3/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x"
+  }
+ },
+ {
+  "id": "coolbox-coo-fapw3-750",
+  "slug": "coolbox-coo-fapw3-750",
+  "name": "CoolBox PowerLine III 750W (COO-FAPW3-750)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-FAPW3-750",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-750w-powerline3/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x"
+  }
+ },
+ {
+  "id": "coolbox-coo-fapw3-550",
+  "slug": "coolbox-coo-fapw3-550",
+  "name": "CoolBox PowerLine III 550W (COO-FAPW3-550)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-FAPW3-550",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-powerline3-550w/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x"
+  }
+ },
+ {
+  "id": "coolbox-dg-pws650-85b",
+  "slug": "coolbox-dg-pws650-85b",
+  "name": "CoolBox DeepPower 650W 80 Plus Bronze (DG-PWS650-85B)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "DG-PWS650-85B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/fuente-alimentacion-deeppower-650w/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "650 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "coolbox-coo-facpo-750",
+  "slug": "coolbox-coo-facpo-750",
+  "name": "CoolBox CoolPower 750W 80 Plus Bronze (COO-FACPO-750)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-FACPO-750",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/coolpower-750w/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze"
+  }
+ },
+ {
+  "id": "coolbox-coo-fa550tgr",
+  "slug": "coolbox-coo-fa550tgr",
+  "name": "CoolBox TFX BASIC Black 550GR-T 550W (COO-FA550TGR)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "COO-FA550TGR",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/cajas-pc-y-componentes/fuentes-de-alimentacion/fuente-de-alimentacion-tfx-basic-550gr-t-550w/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "TFX"
+  }
+ }
+]

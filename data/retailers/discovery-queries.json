@@ -1,0 +1,12 @@
+[
+  {"query":"9850x3d","hint":"cpu"},
+  {"query":"9950x3d","hint":"cpu"},
+  {"query":"270k plus","hint":"cpu"},
+  {"query":"285k","hint":"cpu"},
+  {"query":"RTX 5090","hint":"gpu"},
+  {"query":"RTX 5080","hint":"gpu"},
+  {"query":"RX 9070 XT","hint":"gpu"},
+  {"query":"X870E","hint":"motherboard"},
+  {"query":"Z890","hint":"motherboard"},
+  {"query":"DDR5 6000 32GB","hint":"ram"}
+]

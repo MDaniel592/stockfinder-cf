@@ -1,0 +1,67 @@
+[
+ {
+  "id": "cooler-master-masterbox-td300-mesh-td300-kgnn-s00",
+  "slug": "cooler-master-masterbox-td300-mesh-td300-kgnn-s00",
+  "name": "Cooler Master MasterBox TD300 Mesh (TD300-KGNN-S00)",
+  "category_id": "case",
+  "brand": "Cooler Master",
+  "mpn": "TD300-KGNN-S00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/td300-mesh.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "344 mm",
+   "Altura disipador máxima": "166 mm",
+   "Ventiladores incluidos": "2 × 120 mm",
+   "Radiador frontal máximo": "280 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "366.5 × 210 × 410 mm"
+  }
+ },
+ {
+  "id": "cooler-master-elite-502-white-e502-wgnn-s00",
+  "slug": "cooler-master-elite-502-white-e502-wgnn-s00",
+  "name": "Cooler Master Elite 502 White (E502-WGNN-S00)",
+  "category_id": "case",
+  "brand": "Cooler Master",
+  "mpn": "E502-WGNN-S00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/elite-502/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "435 × 230 × 465 mm"
+  }
+ },
+ {
+  "id": "cooler-master-elite-302-e302-kgnn-s00",
+  "slug": "cooler-master-elite-302-e302-kgnn-s00",
+  "name": "Cooler Master Elite 302 (E302-KGNN-S00)",
+  "category_id": "case",
+  "brand": "Cooler Master",
+  "mpn": "E302-KGNN-S00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/elite-302/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "365 mm",
+   "Altura disipador máxima": "163.5 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "377 × 203.5 × 410 mm"
+  }
+ }
+]

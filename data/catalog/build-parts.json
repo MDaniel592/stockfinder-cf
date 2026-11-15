@@ -1,0 +1,223 @@
+[
+  {
+    "id": "asus-tuf-gaming-b850-plus-wifi",
+    "slug": "asus-tuf-gaming-b850-plus-wifi",
+    "name": "ASUS TUF Gaming B850-Plus WiFi",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850-plus-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Chipset": "AMD B850",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "msi-mag-z890-tomahawk-wifi",
+    "slug": "msi-mag-z890-tomahawk-wifi",
+    "name": "MSI MAG Z890 Tomahawk WiFi",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Motherboard/MAG-Z890-TOMAHAWK-WIFI/Specification",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Chipset": "Intel Z890",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "corsair-vengeance-32gb-ddr5-6000-cl30",
+    "slug": "corsair-vengeance-32gb-ddr5-6000-cl30",
+    "name": "Corsair Vengeance 32 GB (2 × 16 GB) DDR5-6000 CL30",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK32GX5M2B6000Z30",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6000z30/vengeance-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-amd-expo-memory-black-cmk32gx5m2b6000z30",
+    "specs_verified_at": "2026-11-01T23:29:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Formato": "UDIMM",
+      "Perfil": "AMD EXPO e Intel XMP"
+    }
+  },
+  {
+    "id": "corsair-vengeance-32gb-ddr5-6400-cl32",
+    "slug": "corsair-vengeance-32gb-ddr5-6400-cl32",
+    "name": "Corsair Vengeance 32 GB (2 × 16 GB) DDR5-6400 CL32",
+    "category_id": "ram",
+    "brand": "Corsair",
+    "mpn": "CMK32GX5M2B6400C32",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6400c32/vengeance-32gb-2x16gb-ddr5-dram-6400mhz-c32-memory-kit-black-cmk32gx5m2b6400c32",
+    "specs_verified_at": "2026-11-01T23:29:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL32",
+      "Formato": "UDIMM",
+      "Perfil": "Intel XMP"
+    }
+  },
+  {
+    "id": "corsair-rm850e-2025",
+    "slug": "corsair-rm850e-2025",
+    "name": "Corsair RM850e (2025)",
+    "category_id": "psu",
+    "brand": "Corsair",
+    "mpn": "CP-9020296-NA",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/psu/cp-9020296-na/rme-series-rm850e-fully-modular-low-noise-atx-power-supply-cp-9020296-na",
+    "specs_verified_at": "2026-11-01T23:29:00Z",
+    "specs": {
+      "Potencia": "850 W",
+      "Formato": "ATX",
+      "Estándar ATX": "3.1",
+      "Modular": "Totalmente modular",
+      "Eficiencia": "Cybenetics Gold",
+      "Conector GPU": "12V-2x6",
+      "Longitud": "140 mm"
+    }
+  },
+  {
+    "id": "corsair-rm1000e-2025",
+    "slug": "corsair-rm1000e-2025",
+    "name": "Corsair RM1000e (2025)",
+    "category_id": "psu",
+    "brand": "Corsair",
+    "mpn": "CP-9020297-NA",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/psu/cp-9020297-na/rme-series-rm1000e-fully-modular-low-noise-atx-power-supply-cp-9020297-na",
+    "specs_verified_at": "2026-11-01T23:29:00Z",
+    "specs": {
+      "Potencia": "1000 W",
+      "Formato": "ATX",
+      "Estándar ATX": "3.1",
+      "Modular": "Totalmente modular",
+      "Eficiencia": "Cybenetics Gold",
+      "Conector GPU": "12V-2x6",
+      "Longitud": "140 mm"
+    }
+  },
+  {
+    "id": "fractal-north-charcoal-black-tg-dark",
+    "slug": "fractal-north-charcoal-black-tg-dark",
+    "name": "Fractal Design North Charcoal Black TG Dark",
+    "category_id": "case",
+    "brand": "Fractal Design",
+    "mpn": "FD-C-NOR1C-02",
+    "manufacturer_url": "https://www.fractal-design.com/app/uploads/2022/12/North_Product-Sheet_EN.pdf",
+    "specs_verified_at": "2026-11-01T23:29:00Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Longitud GPU máxima": "355 mm",
+      "Altura disipador máxima": "170 mm",
+      "Formato fuente": "ATX",
+      "Panel lateral": "Cristal templado oscuro",
+      "Radiador frontal máximo": "360 mm",
+      "Radiador superior máximo": "240 mm",
+      "GPU con radiador frontal de 360 mm": "300 mm"
+    }
+  },
+  {
+    "id": "fractal-north-xl-charcoal-black-tg-dark",
+    "slug": "fractal-north-xl-charcoal-black-tg-dark",
+    "name": "Fractal Design North XL Charcoal Black TG Dark",
+    "category_id": "case",
+    "brand": "Fractal Design",
+    "mpn": "FD-C-NOR1X-02",
+    "manufacturer_url": "https://www.fractal-design.com/app/uploads/2025/03/North-XL_Product-Sheet_EN.pdf",
+    "specs_verified_at": "2026-11-01T23:29:00Z",
+    "specs": {
+      "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+      "Longitud GPU máxima": "413 mm",
+      "Altura disipador máxima": "185 mm",
+      "Formato fuente": "ATX",
+      "Panel lateral": "Cristal templado oscuro",
+      "Radiador frontal máximo": "420 mm",
+      "Radiador superior máximo": "360 mm",
+      "GPU con radiador frontal de 360/420 mm": "380 mm"
+    }
+  },
+  {
+    "id": "samsung-990-pro-2tb",
+    "slug": "samsung-990-pro-2tb",
+    "name": "Samsung 990 Pro 2 TB",
+    "category_id": "storage",
+    "brand": "Samsung",
+    "manufacturer_url": "https://news.samsung.com/global/samsung-electronics-unveils-high-performance-990-pro-ssd-optimized-for-gaming-and-creative-applications",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Tipo": "SSD",
+      "Lectura secuencial": "7450 MB/s",
+      "Escritura secuencial": "6900 MB/s"
+    }
+  },
+  {
+    "id": "samsung-9100-pro-2tb",
+    "slug": "samsung-9100-pro-2tb",
+    "name": "Samsung 9100 Pro 2 TB",
+    "category_id": "storage",
+    "brand": "Samsung",
+    "manufacturer_url": "https://www.samsung.com/us/memory-storage/nvme-ssd/9100-pro-nvme-ssd-sku-mz-vap2t0b-am/",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Tipo": "SSD",
+      "Lectura secuencial": "14800 MB/s",
+      "Escritura secuencial": "13400 MB/s"
+    }
+  },
+  {
+    "id": "noctua-nh-d15-g2",
+    "slug": "noctua-nh-d15-g2",
+    "name": "Noctua NH-D15 G2",
+    "category_id": "cooler",
+    "brand": "Noctua",
+    "manufacturer_url": "https://noctua.at/en/nh-d15-g2.html",
+    "specs_verified_at": "2026-11-01T23:29:00Z",
+    "specs": {
+      "Tipo": "Aire",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+      "Altura": "168 mm",
+      "Ventiladores": "2 × 140 mm",
+      "Altura RAM con dos ventiladores": "32 mm"
+    }
+  },
+  {
+    "id": "arctic-liquid-freezer-iii-pro-360",
+    "slug": "arctic-liquid-freezer-iii-pro-360",
+    "name": "ARCTIC Liquid Freezer III Pro 360",
+    "category_id": "cooler",
+    "brand": "ARCTIC",
+    "mpn": "ACFRE00180A",
+    "manufacturer_url": "https://www.arctic.de/media/e3/d9/86/1741780098/Spec_Sheet_Liquid_Freezer_III_Pro_360_EN.pdf",
+    "specs_verified_at": "2026-11-01T23:29:00Z",
+    "specs": {
+      "Tipo": "Líquida AIO",
+      "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+      "Radiador": "360 mm",
+      "Dimensiones radiador": "398 × 120 × 38 mm",
+      "Ventiladores": "3 × 120 mm"
+    }
+  }
+]

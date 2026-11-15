@@ -1,0 +1,192 @@
+[
+  {
+    "product_id": "adata-ad4u320016g22-sgn",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.adata.com/en/consumer/category/computer-memory/computer-memory-ddr4-3200-udimm/",
+    "note": "Ficha oficial ADATA Premier DDR4 3200 U-DIMM: \"Complies with JEDEC standards\", 1.2 V y CL22; no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "adata-ad4u32008g22-sgn",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.adata.com/en/consumer/category/computer-memory/computer-memory-ddr4-3200-udimm/",
+    "note": "Ficha oficial ADATA Premier DDR4 3200 U-DIMM: \"Complies with JEDEC standards\", 1.2 V y CL22; no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "adata-ad5u560016g-s",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_ddr5_5600_u_dimm_memory_module_v1.pdf",
+    "note": "Datasheet oficial ADATA DDR5-5600 U-DIMM: 288-pin, CAS Latencies 46-45-45, DRAM VDD 1.1 V; no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "adata-ax5u6000c3016g-dclarwh",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.xpg.com/en/xpg/dram-modules-lancer-rgb-ddr5",
+    "note": "Ficha XPG Lancer RGB DDR5: \"equipped with Intel XMP 3.0 and AMD EXPO\"; el EXPO se admite hasta 6400 MT/s, por lo que aplica a este módulo de 6000 MT/s."
+  },
+  {
+    "product_id": "apacer-ah5u16g56c522mbaa-1",
+    "category_id": "ram",
+    "key": "Latencia",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/en/product/zadak-product/detail/zadak_memory/nox_ddr5",
+    "note": "La ficha oficial Apacer NOX DDR5 lista seis latencias para toda la serie (40-40-40-80 / 38-48-48-96 / 30-40-40-96 / 36-48-48-104 / 32-39-39-84 / 36-46-46-84) sin asociarlas a cada referencia; no publica la latencia de este MPN."
+  },
+  {
+    "product_id": "apacer-ah5u16g60c622mbaa-1",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/en/product/zadak-product/detail/zadak_memory/nox_ddr5",
+    "note": "Ficha oficial Apacer NOX DDR5: AMD EXPO YES / Intel XMP 3.0 YES."
+  },
+  {
+    "product_id": "crucial-ct32g64c52cu5",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL52",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://uk.crucial.com/memory/ddr5/ct32g64c52cu5",
+    "note": "Datos de producto de la ficha Crucial: \"CAS latency: 52\"."
+  },
+  {
+    "product_id": "crucial-ct32g64c52cu5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "CUDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://uk.crucial.com/memory/ddr5/ct32g64c52cu5",
+    "note": "Ficha Crucial: \"Crucial 32GB DDR5-6400 CUDIMM | CT32G64C52CU5\"; el módulo incorpora clock driver (CUDIMM)."
+  },
+  {
+    "product_id": "crucial-ct32g64c52cu5",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://uk.crucial.com/memory/ddr5/ct32g64c52cu5",
+    "note": "Ficha Crucial: funciona a velocidades JEDEC de hasta 6400 MT/s; no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "goodram-ggrgd4-32l16sa-16gdc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+    "note": "La ficha oficial GOODRAM RIVAL Radiant DDR4 (frecuencia, CL16, tensión y capacidades) no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "goodram-ggrrd4-32l16sa-16gdc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+    "note": "La ficha oficial GOODRAM RIVAL Radiant DDR4 (frecuencia, CL16, tensión y capacidades) no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "goodram-ggrrd4-32l16sa-8g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+    "note": "La ficha oficial GOODRAM RIVAL Radiant DDR4 (frecuencia, CL16, tensión y capacidades) no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "goodram-ir-x3200d464l16a-16g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/",
+    "note": "La ficha oficial GOODRAM IRDM X DDR4 (frecuencia, CL16, tensión y capacidades) no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "goodram-ir-x3200d464l16sa-8g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/",
+    "note": "La ficha oficial GOODRAM IRDM X DDR4 (frecuencia, CL16, tensión y capacidades) no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "goodram-rival-deep-black-16gb-2x8gb-ddr4-3600-cl18",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/",
+    "note": "La ficha oficial GOODRAM RIVAL DDR4 DEEP BLACK (3600 MHz, CL18, 1,35 V y capacidades) no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "goodram-rival-deep-black-16gb-ddr4-3600-cl18",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/",
+    "note": "La ficha oficial GOODRAM RIVAL DDR4 DEEP BLACK (3600 MHz, CL18, 1,35 V y capacidades) no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "goodram-rival-deep-black-32gb-2x16gb-ddr4-3600-cl18",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/es/productos/goodram-rival-ddr4-deep-black/",
+    "note": "La ficha oficial GOODRAM RIVAL DDR4 DEEP BLACK (3600 MHz, CL18, 1,35 V y capacidades) no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "goodram-rival-radiant-32gb-ddr4-3200-cl16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/de/produkte/goodram-rival-ddr4-radiant/",
+    "note": "La ficha oficial GOODRAM RIVAL Radiant DDR4 (3200 MHz, CL16, tensión y capacidades) no declara XMP ni EXPO."
+  },
+  {
+    "product_id": "teamgroup-tf13d416g3600hc18jdc01",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/xtreem-argb-white/edm/xtreem-argb-white-en.pdf",
+    "note": "Ficha T-Force XTREEM ARGB White DDR4: \"Support O.C. Profile for one click overclocking\" y nota \"automatic reading of the overclocking value (XMP or D.O.C.P)\"."
+  }
+]

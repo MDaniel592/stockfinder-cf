@@ -1,0 +1,58 @@
+[
+ {
+  "product_id": "gigabyte-gv-n5070wf3oc-12gd",
+  "kind": "mpn",
+  "value": "9VN5070WO-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7/",
+  "note": "Código comercial de Coolmod de la variante WindForce OC SFF, 12 GB GDDR7. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-N5070WF3OC-12GD/sp coincide en modelo, memoria y edición. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "gigabyte-gv-n5070gaming-oc-12gd",
+  "kind": "mpn",
+  "value": "9VN5070GO-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7/",
+  "note": "Código comercial de Coolmod de la variante Gaming OC, 12 GB GDDR7. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-N5070GAMING-OC-12GD/sp coincide en modelo, memoria y edición. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "gigabyte-gv-n5070aero-oc-12gd",
+  "kind": "mpn",
+  "value": "9VN5070AO-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-geforce-rtx-5070-aero-oc-12gb-gddr7/",
+  "note": "Código comercial de Coolmod de la variante AERO OC, 12 GB GDDR7. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-N5070AERO-OC-12GD/sp coincide en modelo, memoria y edición. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "gigabyte-gv-n507taorus-m-16gd",
+  "kind": "mpn",
+  "value": "9VN507TAM-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-aorus-geforce-rtx-5070-ti-master-16gb-gddr7/",
+  "note": "Código comercial de Coolmod de la variante AORUS Master, 16 GB GDDR7. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-N507TAORUS-M-16GD/sp coincide en modelo, memoria y edición. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "gigabyte-gv-n5080aorusm-ice-16gd",
+  "kind": "mpn",
+  "value": "9VN5080AMI-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-geforce-rtx-5080-aorus-master-ice-16gb-gddr7-dlss4/",
+  "note": "Código comercial de Coolmod de la variante AORUS Master ICE, 16 GB GDDR7. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-N5080AORUSM-ICE-16GD/sp coincide en modelo, memoria y edición. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "gigabyte-gv-n5090gaming-oc-32gd",
+  "kind": "mpn",
+  "value": "9VN5090GO-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-geforce-rtx-5090-gaming-oc-32gb-gddr7/",
+  "note": "Código comercial de Coolmod de la variante Gaming OC, 32 GB GDDR7. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-N5090GAMING-OC-32GD/sp coincide en modelo, memoria y edición. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "gigabyte-gv-n5090aorus-m-32gd",
+  "kind": "mpn",
+  "value": "9VN5090AM-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-geforce-rtx-5090-aorus-master-32gb-gddr7-dlss4/",
+  "note": "Código comercial de Coolmod de la variante AORUS Master, 32 GB GDDR7. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-N5090AORUS-M-32GD/sp coincide en modelo, memoria y edición. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "gigabyte-rtx-5080-gaming-oc-16g",
+  "kind": "mpn",
+  "value": "9VN5080GO-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7/",
+  "note": "Código comercial de Coolmod de la variante Gaming OC 16 GB GDDR7. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-N5080GAMING-OC-16GD/sp coincide en modelo, memoria y edición OC. No se presenta como dato del fabricante."
+ }
+]

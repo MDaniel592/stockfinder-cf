@@ -1,0 +1,165 @@
+[
+  {
+    "id": "forgeon-tiberium-evo-house-pride-hufflepuff",
+    "slug": "forgeon-tiberium-evo-house-pride-hufflepuff",
+    "name": "Forgeon Tiberium EVO House Pride Hufflepuff",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-TIBEV1B+House Pride Hufflepuff",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra-house-pride-hufflepuff",
+    "specs_verified_at": "2026-11-02T19:13:28Z",
+    "specs": {
+      "Model base": "Tiberium EVO",
+      "Edition": "Harry Potter House Pride — Hufflepuff; black chassis",
+      "Form factor": "Mid-Tower; ATX / Micro ATX / ITX",
+      "Materials": "0.7 mm SPCC steel, ABS and 3 mm tempered glass",
+      "Chassis dimensions": "395 × 285 × 425 mm; 415 × 285 × 425 mm including feet",
+      "Included fans": "4 magnetic ARGB fans; supports up to 10 × 120 mm fans",
+      "Front I/O": "2 × USB 3.2 Type-A, 1 × USB-C and combined HD Audio",
+      "Clearance": "GPU 420 mm; CPU cooler 160 mm; PSU 260 mm",
+      "Radiator support": "Up to 360 mm at top and bottom"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra-house-pride-hufflepuff",
+        "supports": "Forgeon is identified as PcComponentes-owned brand; exact edition and printed MPN; Tiberium EVO specifications."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-tiberium-evo-house-pride-ravenclaw",
+    "slug": "forgeon-tiberium-evo-house-pride-ravenclaw",
+    "name": "Forgeon Tiberium EVO House Pride Ravenclaw",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-TIBEV1B+House Pride Ravenclaw",
+    "manufacturer_url": "https://www.pccomponentes.it/pc-case-torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra-house-pride-ravenclaw",
+    "specs_verified_at": "2026-11-02T19:13:28Z",
+    "specs": {
+      "Model base": "Tiberium EVO",
+      "Edition": "Harry Potter House Pride — Ravenclaw; black chassis",
+      "Form factor": "Mid-Tower; ATX / Micro ATX / ITX",
+      "Materials": "0.7 mm SPCC steel, ABS and 3 mm tempered glass",
+      "Chassis dimensions": "395 × 285 × 425 mm; 415 × 285 × 425 mm including feet",
+      "Included fans": "4 magnetic ARGB fans; supports up to 10 × 120 mm fans",
+      "Front I/O": "2 × USB 3.2 Type-A, 1 × USB-C and combined HD Audio",
+      "Clearance": "GPU 420 mm; CPU cooler 160 mm; PSU 260 mm",
+      "Radiator support": "Up to 360 mm at top and bottom"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.it/pc-case-torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra-house-pride-ravenclaw",
+        "supports": "Forgeon is identified as PcComponentes-owned brand; exact edition and printed MPN; Tiberium EVO specifications."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-tiberium-evo-house-pride-gryffindor",
+    "slug": "forgeon-tiberium-evo-house-pride-gryffindor",
+    "name": "Forgeon Tiberium EVO House Pride Gryffindor",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-TIBEV1B+House Pride Gryfindor",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra-house-pride-gryfindorq",
+    "specs_verified_at": "2026-11-02T19:13:28Z",
+    "specs": {
+      "Model base": "Tiberium EVO",
+      "Edition": "Harry Potter House Pride — Gryffindor; black chassis; source P/N spells Gryfindor",
+      "Form factor": "Mid-Tower; ATX / Micro ATX / ITX",
+      "Materials": "0.7 mm SPCC steel, ABS and 3 mm tempered glass",
+      "Chassis dimensions": "395 × 285 × 425 mm; 415 × 285 × 425 mm including feet",
+      "Included fans": "4 magnetic ARGB fans; supports up to 10 × 120 mm fans",
+      "Front I/O": "2 × USB 3.2 Type-A, 1 × USB-C and combined HD Audio",
+      "Clearance": "GPU 420 mm; CPU cooler 160 mm; PSU 260 mm",
+      "Radiator support": "Up to 360 mm at top and bottom"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra-house-pride-gryfindorq",
+        "supports": "Forgeon is identified as PcComponentes-owned brand; exact edition and printed MPN; Tiberium EVO specifications."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-tiberium-evo-house-pride-slytherin",
+    "slug": "forgeon-tiberium-evo-house-pride-slytherin",
+    "name": "Forgeon Tiberium EVO House Pride Slytherin",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-TIBEV1B+House Pride Slytherin",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra-house-pride-slytherin",
+    "specs_verified_at": "2026-11-02T19:13:28Z",
+    "specs": {
+      "Model base": "Tiberium EVO",
+      "Edition": "Harry Potter House Pride — Slytherin; black chassis",
+      "Form factor": "Mid-Tower; ATX / Micro ATX / ITX",
+      "Materials": "0.7 mm SPCC steel, ABS and 3 mm tempered glass",
+      "Chassis dimensions": "395 × 285 × 425 mm; 415 × 285 × 425 mm including feet",
+      "Included fans": "4 magnetic ARGB fans; supports up to 10 × 120 mm fans",
+      "Front I/O": "2 × USB 3.2 Type-A, 1 × USB-C and combined HD Audio",
+      "Clearance": "GPU 420 mm; CPU cooler 160 mm; PSU 260 mm",
+      "Radiator support": "Up to 360 mm at top and bottom"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra-house-pride-slytherin",
+        "supports": "Forgeon is identified as PcComponentes-owned brand; exact edition and printed MPN; Tiberium EVO specifications."
+      }
+    ]
+  },
+  {
+    "id": "mars-gaming-ml-arc360-mlarc360w",
+    "slug": "mars-gaming-ml-arc360-mlarc360w",
+    "name": "Mars Gaming ML-ARC360 360 mm AIO (MLARC360W)",
+    "category_id": "cooler",
+    "brand": "Mars Gaming",
+    "mpn": "MLARC360W",
+    "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Model base": "ML-ARC360",
+      "Exact manufacturer catalog reference": "MLARC360W",
+      "Cooling type": "360 mm AIO liquid cooler",
+      "Display": "Curved 6.67-inch AMOLED, 1080 × 2400 px, 3D effect, magnetic mount",
+      "Fans": "3 × 120 mm ARGB FDB; 800–2300 ±10% RPM; 27.2–76.6 CFM",
+      "Pump": "4th-generation OptiChamber; 3300 RPM ±10%; copper microchannel base",
+      "Radiator": "395 × 120 × 27 mm aluminum",
+      "TDP claim": "Up to 600 W",
+      "Sockets": "Intel LGA 2066/2011/1851/1700/1366/1200/1156/1155/1151/1150; AMD AM5/AM4",
+      "Radiador": "360 mm"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+        "supports": "Official Mars Gaming catalog lists exact reference MLARC360W for ML-ARC360; color options are shown but suffix-to-color mapping is not asserted."
+      },
+      {
+        "url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-arc360",
+        "supports": "Official product page and technical specifications for ML-ARC360."
+      }
+    ]
+  },
+  {
+    "id": "chieftec-iceberg-pro-360-dark-clc-360-vrm-blk",
+    "slug": "chieftec-iceberg-pro-360-dark-clc-360-vrm-blk",
+    "name": "Chieftec ICEBERG PRO 360 DARK (CLC-360-VRM-BLK)",
+    "category_id": "cooler",
+    "brand": "Chieftec",
+    "mpn": "CLC-360-VRM-BLK",
+    "manufacturer_url": "https://www.linkedin.com/company/chieftec-arena-electronic-gmbh",
+    "specs_verified_at": "2026-11-02T19:13:28Z",
+    "specs": {
+      "Model": "ICEBERG PRO 360 DARK",
+      "Edition": "Black/non-ARGB",
+      "Cooling type": "360 mm AIO CPU liquid cooler",
+      "Distinctive feature": "Integrated centrifugal VRM fan for active cooling of VRMs, M.2 SSDs and memory",
+      "Fans": "Snap-On interlocking radiator fans"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.linkedin.com/company/chieftec-arena-electronic-gmbh",
+        "supports": "Official CHIEFTEC/Arena Electronic GmbH announcement explicitly pairs ICEBERG PRO 360 DARK with exact code CLC-360-VRM-BLK and describes features."
+      }
+    ]
+  }
+]

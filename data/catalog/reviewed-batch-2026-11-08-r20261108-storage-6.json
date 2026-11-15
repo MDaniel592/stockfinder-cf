@@ -1,0 +1,447 @@
+[
+ {
+  "id": "intenso-high-ssd-240-gb-3813440",
+  "slug": "intenso-high-ssd-240-gb-3813440",
+  "name": "Intenso High SSD 2.5\" 240 GB (3813440)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3813440",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/2-5-ssd-sata-iii-high/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "240 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "520 MB/s",
+   "Escritura secuencial": "480 MB/s"
+  }
+ },
+ {
+  "id": "intenso-high-ssd-480-gb-3813450",
+  "slug": "intenso-high-ssd-480-gb-3813450",
+  "name": "Intenso High SSD 2.5\" 480 GB (3813450)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3813450",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/2-5-ssd-sata-iii-high/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "480 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "520 MB/s",
+   "Escritura secuencial": "480 MB/s"
+  }
+ },
+ {
+  "id": "intenso-high-ssd-960-gb-3813460",
+  "slug": "intenso-high-ssd-960-gb-3813460",
+  "name": "Intenso High SSD 2.5\" 960 GB (3813460)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3813460",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/2-5-ssd-sata-iii-high/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "960 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "520 MB/s",
+   "Escritura secuencial": "480 MB/s"
+  }
+ },
+ {
+  "id": "intenso-top-ssd-128-gb-3812430",
+  "slug": "intenso-top-ssd-128-gb-3812430",
+  "name": "Intenso Top SSD 2.5\" 128 GB (3812430)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3812430",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/2-5-ssd-sata-iii-top/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "128 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "intenso-top-ssd-256-gb-3812440",
+  "slug": "intenso-top-ssd-256-gb-3812440",
+  "name": "Intenso Top SSD 2.5\" 256 GB (3812440)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3812440",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/2-5-ssd-sata-iii-top/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "256 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "intenso-top-ssd-512-gb-3812450",
+  "slug": "intenso-top-ssd-512-gb-3812450",
+  "name": "Intenso Top SSD 2.5\" 512 GB (3812450)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3812450",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/2-5-ssd-sata-iii-top/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "512 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "intenso-top-ssd-1-tb-3812460",
+  "slug": "intenso-top-ssd-1-tb-3812460",
+  "name": "Intenso Top SSD 2.5\" 1 TB (3812460)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3812460",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/2-5-ssd-sata-iii-top/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "intenso-top-ssd-2-tb-3812470",
+  "slug": "intenso-top-ssd-2-tb-3812470",
+  "name": "Intenso Top SSD 2.5\" 2 TB (3812470)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3812470",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/2-5-ssd-sata-iii-top/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "intenso-top-m2-sata-ssd-256-gb-3832440",
+  "slug": "intenso-top-m2-sata-ssd-256-gb-3832440",
+  "name": "Intenso Top SSD M.2 SATA III 256 GB (3832440)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3832440",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-sata-iii-top/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "256 GB",
+   "Interfaz": "SATA III",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "intenso-top-m2-sata-ssd-512-gb-3832450",
+  "slug": "intenso-top-m2-sata-ssd-512-gb-3832450",
+  "name": "Intenso Top SSD M.2 SATA III 512 GB (3832450)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3832450",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-sata-iii-top/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "512 GB",
+   "Interfaz": "SATA III",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "intenso-top-m2-sata-ssd-1-tb-3832460",
+  "slug": "intenso-top-m2-sata-ssd-1-tb-3832460",
+  "name": "Intenso Top SSD M.2 SATA III 1 TB (3832460)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3832460",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-sata-iii-top/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "intenso-mi500-500gb-3836450",
+  "slug": "intenso-mi500-500gb-3836450",
+  "name": "Intenso MI500 500 GB (3836450)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3836450",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-pcie-mi500/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "5300 MB/s",
+   "Escritura secuencial": "4000 MB/s"
+  }
+ },
+ {
+  "id": "kioxia-exceria-sata-480-gb-ltc10z480gg8",
+  "slug": "kioxia-exceria-sata-480-gb-ltc10z480gg8",
+  "name": "Kioxia EXCERIA SATA SSD 480 GB (LTC10Z480GG8)",
+  "category_id": "storage",
+  "brand": "Kioxia",
+  "mpn": "LTC10Z480GG8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-sata-ssd.html",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "480 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "kioxia-exceria-sata-960-gb-ltc10z960gg8",
+  "slug": "kioxia-exceria-sata-960-gb-ltc10z960gg8",
+  "name": "Kioxia EXCERIA SATA SSD 960 GB (LTC10Z960GG8)",
+  "category_id": "storage",
+  "brand": "Kioxia",
+  "mpn": "LTC10Z960GG8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-sata-ssd.html",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "960 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\""
+  }
+ },
+ {
+  "id": "kioxia-exceria-basic-1-tb-lsf10z001tg8",
+  "slug": "kioxia-exceria-basic-1-tb-lsf10z001tg8",
+  "name": "Kioxia EXCERIA BASIC 1 TB (LSF10Z001TG8)",
+  "category_id": "storage",
+  "brand": "Kioxia",
+  "mpn": "LSF10Z001TG8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-basic.html",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe 2.0",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "kioxia-exceria-basic-2-tb-lsf10z002tg8",
+  "slug": "kioxia-exceria-basic-2-tb-lsf10z002tg8",
+  "name": "Kioxia EXCERIA BASIC 2 TB (LSF10Z002TG8)",
+  "category_id": "storage",
+  "brand": "Kioxia",
+  "mpn": "LSF10Z002TG8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-basic.html",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe 2.0",
+   "Formato": "M.2 2280"
+  }
+ },
+ {
+  "id": "goodram-cx400-gen2-128-gb-ssdpr-cx400-128-g2",
+  "slug": "goodram-cx400-gen2-128-gb-ssdpr-cx400-128-g2",
+  "name": "GOODRAM CX400 gen.2 128 GB (SSDPR-CX400-128-G2)",
+  "category_id": "storage",
+  "brand": "GOODRAM",
+  "mpn": "SSDPR-CX400-128-G2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/ssd-cx400-gen-2-sata-iii-25/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "128 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "460 MB/s"
+  }
+ },
+ {
+  "id": "goodram-cx400-gen2-256-gb-ssdpr-cx400-256-g2",
+  "slug": "goodram-cx400-gen2-256-gb-ssdpr-cx400-256-g2",
+  "name": "GOODRAM CX400 gen.2 256 GB (SSDPR-CX400-256-G2)",
+  "category_id": "storage",
+  "brand": "GOODRAM",
+  "mpn": "SSDPR-CX400-256-G2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/ssd-cx400-gen-2-sata-iii-25/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "256 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "goodram-cx400-gen2-512-gb-ssdpr-cx400-512-g2",
+  "slug": "goodram-cx400-gen2-512-gb-ssdpr-cx400-512-g2",
+  "name": "GOODRAM CX400 gen.2 512 GB (SSDPR-CX400-512-G2)",
+  "category_id": "storage",
+  "brand": "GOODRAM",
+  "mpn": "SSDPR-CX400-512-G2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/ssd-cx400-gen-2-sata-iii-25/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "512 GB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "goodram-cx400-gen2-1-tb-ssdpr-cx400-01t-g2",
+  "slug": "goodram-cx400-gen2-1-tb-ssdpr-cx400-01t-g2",
+  "name": "GOODRAM CX400 gen.2 1 TB (SSDPR-CX400-01T-G2)",
+  "category_id": "storage",
+  "brand": "GOODRAM",
+  "mpn": "SSDPR-CX400-01T-G2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/ssd-cx400-gen-2-sata-iii-25/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "goodram-cx400-gen2-2-tb-ssdpr-cx400-02t-g2",
+  "slug": "goodram-cx400-gen2-2-tb-ssdpr-cx400-02t-g2",
+  "name": "GOODRAM CX400 gen.2 2 TB (SSDPR-CX400-02T-G2)",
+  "category_id": "storage",
+  "brand": "GOODRAM",
+  "mpn": "SSDPR-CX400-02T-G2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/ssd-cx400-gen-2-sata-iii-25/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "2 TB",
+   "Interfaz": "SATA III",
+   "Formato": "2.5\"",
+   "Lectura secuencial": "550 MB/s",
+   "Escritura secuencial": "500 MB/s"
+  }
+ },
+ {
+  "id": "goodram-px600-500gb-ssdpr-px600-500-80",
+  "slug": "goodram-px600-500gb-ssdpr-px600-500-80",
+  "name": "GOODRAM PX600 500 GB (SSDPR-PX600-500-80)",
+  "category_id": "storage",
+  "brand": "GOODRAM",
+  "mpn": "SSDPR-PX600-500-80",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/goodram-px600-ssd/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "500 GB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "4700 MB/s",
+   "Escritura secuencial": "1700 MB/s"
+  }
+ },
+ {
+  "id": "goodram-px600-1tb-ssdpr-px600-1k0-80",
+  "slug": "goodram-px600-1tb-ssdpr-px600-1k0-80",
+  "name": "GOODRAM PX600 1 TB (SSDPR-PX600-1K0-80)",
+  "category_id": "storage",
+  "brand": "GOODRAM",
+  "mpn": "SSDPR-PX600-1K0-80",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/goodram-px600-ssd/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "5000 MB/s",
+   "Escritura secuencial": "3200 MB/s"
+  }
+ },
+ {
+  "id": "goodram-px700-1tb-ssdpr-px700-01t-80",
+  "slug": "goodram-px700-1tb-ssdpr-px700-01t-80",
+  "name": "GOODRAM PX700 1 TB (SSDPR-PX700-01T-80)",
+  "category_id": "storage",
+  "brand": "GOODRAM",
+  "mpn": "SSDPR-PX700-01T-80",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/goodram-px700-ssd/",
+  "specs_verified_at": "2026-11-08T22:12:34Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe"
+  }
+ }
+]

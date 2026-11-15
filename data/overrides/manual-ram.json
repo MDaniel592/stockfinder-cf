@@ -1,0 +1,2708 @@
+[
+  {
+    "product_id": "klevv-bolt-x-16gb-ddr4-3200-cl16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/ken/products_details/memory/Klevv_BoltX",
+    "note": "La página oficial BOLT X enumera el P/N exacto KD4AGU880-32A160T y especifica “288 Pin DDR4 Unbuffered DIMM”."
+  },
+  {
+    "product_id": "klevv-bolt-x-8gb-ddr4-3600-cl18",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/ken/products_details/memory/Klevv_BoltX",
+    "note": "La página oficial BOLT X enumera el P/N exacto KD48GU880-36A180T y especifica “288 Pin DDR4 Unbuffered DIMM”."
+  },
+  {
+    "product_id": "klevv-kd5bgua80-60a300g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/HyAdmin/upload/goodFile/KLEVV_Product%20Sheet_MEMORY_CRAS%20V%20RGB_v9_EN.pdf",
+    "note": "La hoja oficial CRAS V RGB enumera KD5BGUA80-60A300G (64GB, 2×32GB) y especifica Form Factor “288 Pin DDR5 Unbuffered DIMM”."
+  },
+  {
+    "product_id": "klevv-kd5agua80-60b280g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/HyAdmin/upload/goodFile/KLEVV_Product%20Sheet_MEMORY_CRAS%20V%20RGB_v9_EN.pdf",
+    "note": "La hoja oficial CRAS V RGB enumera KD5AGUA80-60B280G (32GB, 2×16GB) y especifica Form Factor “288 Pin DDR5 Unbuffered DIMM”."
+  },
+  {
+    "product_id": "corsair-vengeance-32gb-ddr5-6000-cl38-black-xmp",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ww/en/p/memory/cmk32gx5m2b6000c38/vengeance-32gb-2x16gb-ddr5-dram-6000mts-cl38-memory-kit-black-cmk32gx5m2b6000c38"
+  },
+  {
+    "product_id": "kingston-kf432c16bb-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/fr/memory/search?partid=KF432C16BB%2F16"
+  },
+  {
+    "product_id": "kingston-kf432c16bbk2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/es/memory/search?partId=KF432C16BBK2%2F64"
+  },
+  {
+    "product_id": "lexar-ld5u16g56c46st-hgn",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf"
+  },
+  {
+    "product_id": "kingston-kvr32n22s6-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search/model/97020/msi-x399-gaming-pro-carbon-ac",
+    "note": "La página técnica de Kingston identifica el P/N KVR32N22S6/8 como memoria DDR4 ValueRAM Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kvr32n22s8-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/unitedkingdom/en/memory?ktc_campaign=config_bilendenal&memorytype=search+by+specification",
+    "note": "En la lista oficial de Kingston, el P/N KVR32N22S8/16 está descrito como DDR4 Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbeak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF556C36BBEAK2-32-EXPO.pdf",
+    "note": "El informe de autocomprobación EXPO del fabricante enumera el P/N KF556C36BBEAK2-32 y especifica el tipo de módulo Unbuffered DIMM (UDIMM)."
+  },
+  {
+    "product_id": "kingston-kf552c40bbk2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search/model/109880/gigabyte-b650m-d2hp-motherboard",
+    "note": "La página de compatibilidad oficial enumera KF552C40BBK2-64 como kit Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bbeak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search/model/109880/gigabyte-b650m-d2hp-motherboard",
+    "note": "La lista oficial de Kingston identifica el P/N KF560C30BBEAK2-32 como kit Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb12a-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search/model/98724/asus-prime-b450m-k",
+    "note": "Kingston especifica el P/N KF432C16BB12A/16 como módulo FURY Beast RGB DDR4 Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bbk2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search/model/98724/asus-prime-b450m-k",
+    "note": "Kingston especifica el P/N KF432C16BBK2/16 como kit FURY Beast DDR4 Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2d6000z38w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2d6000z38w/vengeance-32gb-2-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-intel-xmp-memory-kit-white-cmk32gx5m2d6000z38w",
+    "note": "La ficha de CORSAIR vincula el SKU CMK32GX5M2D6000Z38W y publica “Package Memory Format: UDIMM”."
+  },
+  {
+    "product_id": "kingston-kvr32n22d8-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/unitedkingdom/en/memory/search/?partid=KVR32N22D8%2F16",
+    "note": "La ficha oficial de Kingston identifica exactamente el P/N KVR32N22D8/16 como memoria Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kvr26n19s6-4",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/unitedkingdom/en/memory/client/ddr4-2666mts-non_ecc-unbuffered-dimm",
+    "note": "La ficha oficial de Kingston identifica exactamente el P/N KVR26N19S6/4 como memoria Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kf436c18bb-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search/model/103927/gigabyte-z690-ud-ddr4-motherboard",
+    "note": "La ficha oficial de Kingston identifica exactamente el P/N KF436C18BB/32 como memoria Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb2a-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/unitedkingdom/en/memory/search/model/105986/asus-h610a-im-a-motherboard",
+    "note": "La ficha oficial de Kingston identifica exactamente el P/N KF432C16BB2A/16 como memoria Non-ECC Unbuffered DIMM."
+  },
+  {
+    "product_id": "corsair-cmk32gx4m2e3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx4m2e3200c16/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk32gx4m2e3200c16",
+    "note": "La tabla técnica CORSAIR para SKU CMK32GX4M2E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk16gx4m1a2400c14",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m1a2400c14/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-2400mhz-c14-memory-kit-black-cmk16gx4m1a2400c14",
+    "note": "La tabla técnica CORSAIR para SKU CMK16GX4M1A2400C14 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk64gx5m4b6000z36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk64gx5m4b6000z36/vengeance-64gb-4x16gb-ddr5-dram-6000mt-s-cl36-amd-expo-memory-black-cmk64gx5m4b6000z36",
+    "note": "La tabla técnica CORSAIR para SKU CMK64GX5M4B6000Z36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2b6000c38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c38/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mts-cl38-memory-kit-black-cmh32gx5m2b6000c38",
+    "note": "La tabla técnica CORSAIR para SKU CMH32GX5M2B6000C38 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk16gx4m2e3200c16w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2e3200c16w/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-white-cmk16gx4m2e3200c16w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK16GX4M2E3200C16W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh16gx4m2e3200c16w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh16gx4m2e3200c16w/vengeance-rgb-pro-sl-16gb-2x8gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh16gx4m2e3200c16w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH16GX4M2E3200C16W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2b6400z32w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6400z32w/vengeance-32gb-2x16gb-ddr5-dram-6400mts-cl32-amd-expo-intel-xmp-memory-kit-white-cmk32gx5m2b6400z32w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK32GX5M2B6400Z32W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmt64gx5m2b5200c40w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmt64gx5m2b5200c40w/dominatora-platinum-rgb-64gb-2x32gb-ddr5-dram-5200mhz-c40-memory-kit-a-white-cmt64gx5m2b5200c40w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMT64GX5M2B5200C40W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2b6400z32w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ww/en/p/memory/cmh32gx5m2b6400z32w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mts-cl32-amd-expo-intel-xmp-memory-kit-white-cmh32gx5m2b6400z32w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2B6400Z32W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmw32gx4m2e3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16/vengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmw32gx4m2e3200c16",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMW32GX4M2E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2b6400c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/ddr5-ram/cmk32gx5m2b6400c36/vengeance-32gb-2x16gb-ddr5-dram-6400mt-s-c36-memory-kit-black-cmk32gx5m2b6400c36",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK32GX5M2B6400C36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmh64gx4m4e3200c16w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/null/cmh64gx4m4e3200c16w/vengeance-rgb-pro-sl-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh64gx4m4e3200c16w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH64GX4M4E3200C16W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2b6400c32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6400c32/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mhz-c32-memory-kit-black",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2B6400C32 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmp48gx5m2x7200c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/CMP48GX5M2X7200C36/dominator-titanium-rgb-2x16gb-ddr5-dram-7200mt-s-c34-intel-xmp-memory-kit-CMP48GX5M2X7200C36",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMP48GX5M2X7200C36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmkc48gx5m2x8400c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "CUDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmkc48gx5m2x8400c40/vengeance-48gb-2x24gb-ddr5-cudimm-8400mts-cl40-memory-kit-silver-cmkc48gx5m2x8400c40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMKC48GX5M2X8400C40 especifica «Package Memory Format: CUDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmh16gx5m2b5200z40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m2b5200z40/vengeance-rgb-16gb-2x8gb-ddr5-dram-5200mt-s-c40-amd-expo-memory-kit-cmh16gx5m2b5200z40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH16GX5M2B5200Z40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmk48gx5m2e6000c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk48gx5m2e6000c36/vengeance-48gb-2x24gb-ddr5-dram-6000mt-s-cl36-memory-kit-black-cmk48gx5m2e6000c36",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK48GX5M2E6000C36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmh32gx5m2b6000c30w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-memory-kit-white-cmh32gx5m2b6000c30w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2B6000C30W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmh32gx5m2b6400c36w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6400c36w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-cl36-memory-kit-white-cmh32gx5m2b6400c36w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2B6400C36W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmh32gx5m2b6000c30",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-c30-memory-kit-black-cmh32gx5m2b6000c30",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2B6000C30 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmh48gx5m2b5600c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh48gx5m2b5600c40/vengeance-rgb-48gb-2x24gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmh48gx5m2b5600c40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH48GX5M2B5600C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmt32gx5m2b5200c40w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmt32gx5m2b5200c40w/dominatora-platinum-rgb-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-a-white-cmt32gx5m2b5200c40w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMT32GX5M2B5200C40W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmt64gx5m2b5600c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmt64gx5m2b5600c40/dominator-platinum-rgb-64gb-2x32gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmt64gx5m2b5600c40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMT64GX5M2B5600C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmn32gx4m2z3600c18w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmn32gx4m2z3600c18w/vengeancea-rgb-rt-32gb-2-x-16gb-ddr4-dram-3600mhz-c18-memory-kit-a-white-cmn32gx4m2z3600c18w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMN32GX4M2Z3600C18W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmg16gx4m2e3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmg16gx4m2e3200c16/vengeancea-rgb-rs-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-cmg16gx4m2e3200c16",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMG16GX4M2E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-cmk64gx5m2b5200c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk64gx5m2b5200c40/vengeancea-64gb-2x32gb-ddr5-dram-5200mhz-c40-memory-kit-a-black-cmk64gx5m2b5200c40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK64GX5M2B5200C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk16gx5m1d6000z38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx5m1d6000z38/vengeance-16gb-1-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-%26-intel-xmp-memory-kit-grey-cmk16gx5m1d6000z38",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK16GX5M1D6000Z38 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmw16gx4m2e3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmw16gx4m2e3200c16-tuf/vengeancea-rgb-pro-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-a-tuf-gaming-edition-cmw16gx4m2e3200c16-tuf",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMW16GX4M2E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmg16gx4m1e3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmg16gx4m1e3200c16/vengeancea-rgb-rs-16gb-1-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-cmg16gx4m1e3200c16?position=17&queryID=de68f3a6905a528b75ea35eb081dc111",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMG16GX4M1E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmg32gx4m2e3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmg32gx4m2e3200c16/vengeance-rgb-rs-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-cmg32gx4m2e3200c16?position=19&queryID=5bbf9f9082185c38f8ab4d7ddc68210e",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMG32GX4M2E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmg8gx4m1e3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmg8gx4m1e3200c16/vengeancea-rgb-rs-8gb-1-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-cmg8gx4m1e3200c16?position=8&queryID=fc87083633b278b24ae9650fc8c3b178",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMG8GX4M1E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh16gx5m1d6000z38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m1d6000z38/vengeance-rgb-16gb-1-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-&-intel-xmp-memory-kit-gray-cmh16gx5m1d6000z38",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH16GX5M1D6000Z38 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh16gx5m2b5200c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m2b5200c40/vengeance-rgb-16gb-2x8gb-ddr5-dram-5200mts-cl40-memory-kit-black-cmh16gx5m2b5200c40?position=1&queryID=2a318be7ef2b6fc5d2f171c1a5bb4ab2",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH16GX5M2B5200C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx4m2e3200c16w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx4m2e3200c16w/vengeance-rgb-pro-sl-32gb-2x16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh32gx4m2e3200c16w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX4M2E3200C16W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx4m4e3200c16w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx4m4e3200c16w/vengeance-rgb-pro-sl-32gb-4x8gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh32gx4m4e3200c16w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX4M4E3200C16W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m1b5200z40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m1b5200z40/vengeance-rgb-32gb-1x32gb-ddr5-dram-5200mts-cl40-amd-expo-intel-xmp-memory-kit-cmh32gx5m1b5200z40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M1B5200Z40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2b5200c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b5200c40/vengeance-rgb-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-black-cmh32gx5m2b5200c40?position=23&queryID=b96abb37437a8169e6e47b33da1ce84e",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2B5200C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2b6000z38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000z38/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl38-memory-kit-grey-cmh32gx5m2b6000z38",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2B6000Z38 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2b6400c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/ddr5-ram/cmh32gx5m2b6400c36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-c36-memory-kit-black-cmh32gx5m2b6400c36?position=24&queryID=657dc4b94c1caf8cd68bdf1a07668e81",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2B6400C36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2d6000z38w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2d6000z38w/vengeance-rgb-32gb-2-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-%26-intel-xmp-memory-kit-white-cmh32gx5m2d6000z38w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2D6000Z38W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2e6000c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/ddr5-ram/cmh32gx5m2e6000c36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-c36-memory-kit-black-cmh32gx5m2e6000c36?position=8&queryID=b18ad7b824ed443d2e80b5d095e62eac",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2E6000C36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2e6000z36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2e6000z36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mts-cl36-amd-expo-memory-kit-cmh32gx5m2e6000z36",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2E6000Z36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2e6200c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2e6200c36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6200mt-s-c36-memory-kit-black-cmh32gx5m2e6200c36",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2E6200C36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2x7000c34",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2x7000c34/vengeance-rgb-32gb-2x16gb-ddr5-dram-7000mt-s-c34-memory-kit-black-cmh32gx5m2x7000c34",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH32GX5M2X7000C34 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh64gx5m2b6000c30",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh64gx5m2b6000c30/vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-memory-kit-black-cmh64gx5m2b6000c30?position=16&queryID=807d21f99a3462e9f2b616c1b66ca07e",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH64GX5M2B6000C30 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh64gx5m2d5600z40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh64gx5m2d5600z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-5600mt-s-cl40-memory-kit-grey-cmh64gx5m2d5600z40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH64GX5M2D5600Z40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh64gx5m2d6000z40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh64gx5m2d6000z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH64GX5M2D6000Z40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmh64gx5m4b6000c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh64gx5m4b6000c36/vengeance-rgb-64gb-4x16gb-ddr5-dram-6000mt-s-cl36-memory-kit-black-cmh64gx5m4b6000c36?position=15&queryID=fa83e4f071a0a502ad78f411ecb57a43",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH64GX5M4B6000C36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk16gx4m1a2400c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m1a2400c16/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-2400mhz-c16-memory-kit-black-cmk16gx4m1a2400c16?position=4&queryID=151ed198f9a71a319bcf5dfddaf323f8",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK16GX4M1A2400C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk16gx4m2a2400c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2a2400c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-2400mhz-c16-memory-kit-black-cmk16gx4m2a2400c16",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK16GX4M2A2400C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk16gx4m2e3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2e3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2e3200c16?position=5&queryID=85eef06c0b1ba5a187f80510c3417bea",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK16GX4M2E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk16gx5m1e6000z36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx5m1e6000z36/vengeance-16gb-1x16gb-ddr5-dram-6000mts-cl36-amd-expo-&-intel-xmp-memory-kit-cmk16gx5m1e6000z36",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK16GX5M1E6000Z36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk16gx5m2b5200z40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx5m2b5200z40/vengeance-16gb-2x8gb-ddr5-dram-5200mts-cl40-amd-expo-intel-xmp-memory-kit-cmk16gx5m2b5200z40?position=6&queryID=73f32d07e09a8c77e3f8496ce34eadc6",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK16GX5M2B5200Z40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk32gx4m2a2666c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx4m2a2666c16/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-2666mhz-c16-memory-kit-black-cmk32gx4m2a2666c16?position=17&queryID=85eef06c0b1ba5a187f80510c3417bea",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK32GX4M2A2666C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk32gx4m2d3000c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx4m2d3000c16/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-3000mhz-c16-memory-kit-black-cmk32gx4m2d3000c16",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK32GX4M2D3000C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2b5200c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b5200c40/vengeancea-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-a-black-cmk32gx5m2b5200c40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK32GX5M2B5200C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2b6000c30",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6000c30/vengeance-32gb-2x16gb-ddr5-dram-6000mt-s-c30-memory-kit-black-cmk32gx5m2b6000c30?position=1&queryID=49cab7e3fa3dacdbcc04d7e54ab08a5b",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK32GX5M2B6000C30 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2b6000c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6000c36/vengeance-32gb-2x16gb-ddr5-dram-6000mhz-c36-memory-kit-black-cmk32gx5m2b6000c36?position=1&queryID=9f60b8029b9bda6c18b526afdf4dfe08",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK32GX5M2B6000C36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2b6000z38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b6000z38/vengeance-32gb-2x16gb-ddr5-dram-6000mt-s-cl38-memory-kit-grey-cmk32gx5m2b6000z38?position=20&queryID=4e06e56d4abffa14a90a51358cc02719",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK32GX5M2B6000Z38 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2e6000z36w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2e6000z36w/vengeance-32gb-2x16gb-ddr5-dram-6000mts-cl36-amd-expo-intel-xmp-memory-kit-white-cmk32gx5m2e6000z36w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK32GX5M2E6000Z36W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk48gx5m2b5200c38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk48gx5m2b5200c38/vengeance-48gb-2x24gb-ddr5-dram-5200mhz-c38-memory-kit-black-cmk48gx5m2b5200c38?position=8&queryID=75a42aad312a80b682ccc3cce195138b",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK48GX5M2B5200C38 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk48gx5m2b7000c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk48gx5m2b7000c36/vengeance-48gb-2x24gb-ddr5-dram-7000mts-cl36-memory-kit-cmk48gx5m2b7000c36?position=5&queryID=999c3344b68d1bca66a809ed250fba20",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK48GX5M2B7000C36 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk64gx5m2d6000c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk64gx5m2d6000c40/vengeance-64gb-2x32gb-ddr5-dram-6000mt-s-cl40-memory-kit-black-cmk64gx5m2d6000c40?position=7&queryID=807d21f99a3462e9f2b616c1b66ca07e",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK64GX5M2D6000C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk8gx4m1e3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk8gx4m1e3200c16/vengeancea-lpx-8gb-1-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk8gx4m1e3200c16?position=9&queryID=92346126d51a31dd4259e4f476df10ef",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK8GX4M1E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk8gx5m1b5200c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk8gx5m1b5200c40/vengeance-8gb-1x8gb-ddr5-dram-5200mt-s-cl40-memory-kit-black-cmk8gx5m1b5200c40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK8GX5M1B5200C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmk96gx5m4b5600c40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk96gx5m4b5600c40/vengeance-96gb-4x24gb-ddr5-dram-5600mt-s-cl40-memory-kit-black-cmk96gx5m4b5600c40?position=10&queryID=89e2d6e1a38be6f36f4a95ffce803f66",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK96GX5M4B5600C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmkc48gx5m2x8000c38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "CUDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmkc48gx5m2x8000c38/vengeance-48gb-2x24gb-ddr5-cudimm-8000mts-cl38-memory-kit-silver-cmkc48gx5m2x8000c38?position=4&queryID=e952980a95b85ad8fe89ffd7293d904d",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMKC48GX5M2X8000C38 especifica «Package Memory Format: CUDIMM»."
+  },
+  {
+    "product_id": "corsair-cmt16gx4m2z3200c16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmt16gx4m2z3200c16/dominatora-platinum-rgb-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-amd-ryzen-memory-kit-cmt16gx4m2z3200c16?position=5&queryID=0de0f3895ad5eeb9c48c1753e6de816a",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMT16GX4M2Z3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmt32gx5m2b6400c32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmt32gx5m2b6400c32/dominator-platinum-rgb-32gb-2x16gb-ddr5-dram-6400mhz-c32-memory-kit-black-cmt32gx5m2b6400c32?position=12&queryID=8a10e1414e37fdea57d7050acaf081b3",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMT32GX5M2B6400C32 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-cmw32gx4m2e3200c16w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16w/vengeancea-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmw32gx4m2e3200c16w",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMW32GX4M2E3200C16W especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-dominator-titanium-rgb-32gb-ddr5-6000-cl30",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmp32gx5m2b6000c30/dominator-titanium-rgb-2x16gb-ddr5-dram-6000mt-s-cl30-intel-xmp-memory-kit-cmp32gx5m2b6000c30",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMP32GX5M2B6000C30 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-dominator-titanium-rgb-32gb-ddr5-6400-cl32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmp32gx5m2b6400c32/dominator-titanium-rgb-2x16gb-ddr5-dram-6400mt-s-cl32-intel-xmp-memory-kit-cmp32gx5m2b6400c32",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMP32GX5M2B6400C32 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-vengeance-lpx-16gb-ddr4-3200-cl16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m1e3200c16/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m1e3200c16",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMK16GX4M1E3200C16 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "corsair-vengeance-rgb-8gb-ddr5-5200-cl40",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ww/en/p/memory/cmh8gx5m1b5200c40/vengeance-rgb-8gb-1x8gb-ddr5-dram-5200mt-s-cl40-memory-kit-black-cmh8gx5m1b5200c40",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH8GX5M1B5200C40 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "kingston-kf564r32rbe2k4-128",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "RDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF564R32RBE2K4-128.pdf",
+    "note": "La primera página identifica el módulo exacto como «Registered EC8 288-Pin DIMM»."
+  },
+  {
+    "product_id": "kingston-ksm56r46bd4-64md",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "RDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KSM56R46BD4-64MD.pdf",
+    "note": "La primera página identifica el módulo exacto como «Registered EC8 288-Pin DIMM»."
+  },
+  {
+    "product_id": "kingston-kf584cu40rwak2-48",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "CUDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF584CU40RWAK2-48.pdf",
+    "note": "La primera página lo identifica como «288-Pin CUDIMM» y desarrolla CUDIMM como Clocked Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kf584cu40rsa-24",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "CUDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF584CU40RSA-24.pdf",
+    "note": "La primera página lo identifica como «288-Pin CUDIMM» y desarrolla CUDIMM como Clocked Unbuffered DIMM."
+  },
+  {
+    "product_id": "kingston-kvr64a52bd8-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "CUDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR64A52BD8-64.pdf",
+    "note": "La primera página identifica el módulo exacto como «PC5-6400 CL52 288-Pin CUDIMM» y desarrolla CUDIMM como Clocked Unbuffered DIMM."
+  },
+  {
+    "product_id": "corsair-cmh48gx5m2b5200c38",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh48gx5m2b5200c38/vengeance-rgb-48gb-2x24gb-ddr5-dram-5200mhz-c38-memory-kit-black-cmh48gx5m2b5200c38",
+    "note": "La ficha técnica oficial CORSAIR para SKU exacto CMH48GX5M2B5200C38 especifica «Package Memory Format: UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-ctced532g6400hc32adc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/expert/spec-sheet/expert-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto CTCED532G6400HC32ADC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-ctcwd532g6000hc30dc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr5-white/expert-u-dimm-ddr5-white-CTCWD532G6000HC30DC01/",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto CTCWD532G6000HC30DC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-ff3d532g7200hc34adc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto FF3D532G7200HC34ADC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-ff7d532g6000hc30dc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-alpha-rgb/spec-sheet/delta-alpha-rgb-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto FF7D532G6000HC30DC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-flabd516g6000hc3001",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan-alpha/spec-sheet/vulcan-alpha-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto FLABD516G6000HC3001 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-flbd516g6000hc3001",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto FLBD516G6000HC3001 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-flbd532g6000hc30dc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto FLBD532G6000HC30DC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-tf13d416g3200hc16cdc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/xtreem-argb-white/spec-sheet/xtreem-argb-white-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TF13D416G3200HC16CDC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "team-group-ff3d564g6000hc38adc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/edm/delta-rgb-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto FF3D564G6000HC38ADC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-ctced532g6000hc30dc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr5-black/expert-u-dimm-ddr5-black-CTCED532G6000HC34CDC01/",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto CTCED532G6000HC30DC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-elite-8gb-ddr4-3200-cl22",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/elite/spec-sheet/elite-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TED48G3200C2201 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-ff4d532g6400hc32adc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto FF4D532G6400HC32ADC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-ff4d564g6000hc38adc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto FF4D564G6000HC38ADC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-ted416g3200c2201",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/elite/spec-sheet/elite-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TED416G3200C2201 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-tf13d416g3600hc18jdc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/xtreem-argb-white/edm/xtreem-argb-white-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TF13D416G3600HC18JDC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-tf3d416g3200hc16cdc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/edm/delta-rgb-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TF3D416G3200HC16CDC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-tf3d416g3600hc18jdc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TF3D416G3600HC18JDC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-tf4d416g3200hc16fdc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TF4D416G3200HC16FDC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-tforce-delta-rgb-32gb-ddr5-6000-cl30",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto FF3D532G6000HC30DC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-tlzgd416g3200hc16f01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/spec-sheet/vulcan-z-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TLZGD416G3200HC16F01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-tlzgd416g3600hc18jdc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/spec-sheet/vulcan-z-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TLZGD416G3600HC18JDC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-tlzgd48g3200hc16c01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/spec-sheet/vulcan-z-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TLZGD48G3200HC16C01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-tlzgd48g3600hc18j01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/spec-sheet/vulcan-z-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TLZGD48G3600HC18J01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-ttced432g3200hc16fdc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/expert-oc10l/spec-sheet/expert-oc10l-en.pdf",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TTCED432G3200HC16FDC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "teamgroup-ttced432g3600hc18jdc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr4/expert-u-dimm-ddr4-TTCED432G3600HC18JDC01/",
+    "note": "La ficha oficial TEAMGROUP incluye el MPN exacto TTCED432G3600HC18JDC01 y especifica el tipo de módulo «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "adata-ad5u480016g-s",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_ddr5_4800_u_dimm_v2.pdf",
+    "note": "La hoja técnica oficial ADATA incluye el modelo exacto AD5U480016G-S; el título y la línea de tipo identifican la serie como «U-DIMM»."
+  },
+  {
+    "product_id": "adata-ad5u48008g-s",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_ddr5_4800_u_dimm_v2.pdf",
+    "note": "La hoja técnica oficial ADATA incluye el modelo exacto AD5U48008G-S; el título y la línea de tipo identifican la serie como «U-DIMM»."
+  },
+  {
+    "product_id": "adata-ad4u32008g22-sgn",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_premier_ddr4_3200_u_dimm_v2.pdf",
+    "note": "La hoja técnica oficial ADATA incluye el modelo exacto AD4U32008G22-SGN; el título y la línea de tipo identifican la serie como «U-DIMM»."
+  },
+  {
+    "product_id": "adata-ad4u320016g22-sgn",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_premier_ddr4_3200_u_dimm_v2.pdf",
+    "note": "La hoja técnica oficial ADATA incluye el modelo exacto AD4U320016G22-SGN; el título y la línea de tipo identifican la serie como «U-DIMM»."
+  },
+  {
+    "product_id": "adata-ad5u560016g-s",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_ddr5_5600_u_dimm_20251111_v2.pdf",
+    "note": "La hoja técnica oficial ADATA incluye el modelo exacto AD5U560016G-S; el título y la línea de tipo identifican la serie como «U-DIMM»."
+  },
+  {
+    "product_id": "adata-ad4u266616g19-sgn",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_premier_ddr4_2666_u_dimm_v2.pdf",
+    "note": "La ficha técnica oficial ADATA incluye el modelo exacto AD4U266616G19-SGN; título y hoja indican «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "adata-ad4u26668g19-sgn",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_premier_ddr4_2666_u_dimm_v2.pdf",
+    "note": "La ficha técnica oficial ADATA incluye el modelo exacto AD4U26668G19-SGN; título y hoja indican «Unbuffered DIMM»."
+  },
+  {
+    "product_id": "klevv-kd5agu880-60b280f",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/HyAdmin/upload/goodFile/KLEVV_Product%20Sheet_MEMORY_FIT%20V_v4_EN.pdf",
+    "note": "La fuente oficial KLEVV lista el SKU exacto KD5AGU880-60B280F y especifica el formato «Unbuffered DIMM» (DIMM sin búfer)."
+  },
+  {
+    "product_id": "klevv-kd5agua80-56g460a",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/ken/products_details/memory/D5_UDIMM",
+    "note": "La fuente oficial KLEVV lista el SKU exacto KD5AGUA80-56G460A y especifica el formato «Unbuffered DIMM» (DIMM sin búfer)."
+  },
+  {
+    "product_id": "klevv-kd58gu880-56g4600",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/ken/products_details/memory/D5_UDIMM",
+    "note": "La fuente oficial KLEVV lista el SKU exacto KD58GU880-56G4600 y especifica el formato «Unbuffered DIMM» (DIMM sin búfer)."
+  },
+  {
+    "product_id": "klevv-kd5agua80-60b280m",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/HyAdmin/upload/goodFile/KLEVV_Product%20Sheet_MEMORY_URBANE%20V%20RGB_v5_EN.pdf",
+    "note": "La fuente oficial KLEVV lista el SKU exacto KD5AGUA80-60B280M y especifica el formato «Unbuffered DIMM» (DIMM sin búfer)."
+  },
+  {
+    "product_id": "klevv-kd48gu880-32n2200",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/HyAdmin/upload/goodFile/KLEVV_Product%20Sheet_DRAM_Standard%20Memory_DDR4_U-DIMM_v10_EN.pdf",
+    "note": "La fuente oficial KLEVV lista el SKU exacto KD48GU880-32N2200 y especifica el formato «Unbuffered DIMM» (DIMM sin búfer)."
+  },
+  {
+    "product_id": "goodram-ir-6000d564l30s-32gdc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "La ficha oficial GOODRAM lista el MPN exacto IR-6000D564L30S/32GDC y declara «Module type UDIMM»."
+  },
+  {
+    "product_id": "goodram-ir-6400d564l32s-32gdc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "La ficha oficial GOODRAM lista el MPN exacto IR-6400D564L32S/32GDC y declara «Module type UDIMM»."
+  },
+  {
+    "product_id": "goodram-ir-7200d564l34s-16g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "La ficha oficial GOODRAM lista el MPN exacto IR-7200D564L34S/16G y declara «Module type UDIMM»."
+  },
+  {
+    "product_id": "goodram-ir-7200d564l34s-32gdc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "La ficha oficial GOODRAM lista el MPN exacto IR-7200D564L34S/32GDC y declara «Module type UDIMM»."
+  },
+  {
+    "product_id": "goodram-ir-7600d564l36s-32gdc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "La ficha oficial GOODRAM lista el MPN exacto IR-7600D564L36S/32GDC y declara «Module type UDIMM»."
+  },
+  {
+    "product_id": "goodram-irg-60d5l30s-32gdc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-rgb-ddr5/",
+    "note": "La ficha oficial GOODRAM lista el MPN exacto IRG-60D5L30S/32GDC y declara «Module type UDIMM»."
+  },
+  {
+    "product_id": "coolmod-ram-sp008gxlzu320bsi",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silicon-power.com/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+    "note": "La página oficial Silicon Power presenta la familia como UDIMM e incluye el P/N exacto SP008GXLZU320BSI en la tabla de variantes."
+  },
+  {
+    "product_id": "silicon-power-sp016gxlzu320bsi",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silicon-power.com/jp/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+    "note": "La página oficial Silicon Power presenta la familia como UDIMM e incluye el P/N exacto SP016GXLZU320BSI en la tabla de variantes."
+  },
+  {
+    "product_id": "silicon-power-sp008gblfu320x02",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silicon-power.com/product-detail/DDR4_UDIMM/",
+    "note": "La página oficial Silicon Power presenta la familia como UDIMM e incluye el P/N exacto SP008GBLFU320X02 en la tabla de variantes."
+  },
+  {
+    "product_id": "silicon-power-sp016gblfu320x02",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silicon-power.com/product-detail/DDR4_UDIMM/",
+    "note": "La página oficial Silicon Power presenta la familia como UDIMM e incluye el P/N exacto SP016GBLFU320X02 en la tabla de variantes."
+  },
+  {
+    "product_id": "coolmod-ram-f4-3600c16d-16gvkc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1562831134/F4-3600C16D-16GVKC-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3600C16D-16GVKC y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "coolmod-ram-f4-3000c16s-8gisb",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1535968498/F4-3000C16S-8GISB-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3000C16S-8GISB y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "coolmod-ram-f4-3600c18d-32gtzr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/166/1562823993/F4-3600C18D-32GTZR-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3600C18D-32GTZR y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "g-skill-f4-3600c18d-32gtzn",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/cn/specification/204/328/1562840525/F4-3600C18D-32GTZN-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3600C18D-32GTZN y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "g-skill-f4-3600c16d-16gtznc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/326/1562840073/F4-3600C16D-16GTZNC-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3600C16D-16GTZNC y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "g-skill-f4-3200c16d-32gtzr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/cn/specification/204/206/1536654621/F4-3200C16D-32GTZR-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3200C16D-32GTZR y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "g-skill-f4-3600c18d-16gtzrx",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/167/1536719010/F4-3600C18D-16GTZRX-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3600C18D-16GTZRX y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "g-skill-f4-3200c16d-16gtzrx",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/167/1536718509/F4-3200C16D-16GTZRX-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3200C16D-16GTZRX y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "g-skill-f4-3200c16d-16gtzr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/tw/specification/203/205/1536654268/F4-3200C16D-16GTZR-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3200C16D-16GTZR y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "g-skill-f4-3200c16d-32gtzrx",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/167/1536718734/F4-3200C16D-32GTZRX-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3200C16D-32GTZRX y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "gskill-f4-3200c16d-16gtzn",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/326/1562838776/F4-3200C16D-16GTZN-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3200C16D-16GTZN y declara DDR4 con «Registered/Unbuffered: Unbuffered»; corresponde a módulo DIMM sin registro."
+  },
+  {
+    "product_id": "kingston-kcp432ns6-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432NS6%2F8",
+    "note": "La ficha oficial de Kingston para el P/N exacto KCP432NS6/8 lo identifica como «DDR4 3200MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kcp432nd8-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432ND8%2F16",
+    "note": "La ficha oficial de Kingston para el P/N exacto KCP432ND8/16 lo identifica como «DDR4 3200MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB%2F8",
+    "note": "La ficha oficial de Kingston para el P/N exacto KF432C16BB/8 lo identifica como «DDR4 3200MT/s FURY Beast; Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c18rb2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF436C18RB2%2F32",
+    "note": "La ficha oficial de Kingston para el P/N exacto KF436C18RB2/32 lo identifica como «DDR4 3600MT/s FURY Renegade; Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "coolmod-ram-kcp432ns8-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432NS8%2F16",
+    "note": "La ficha oficial de Kingston para el P/N exacto KCP432NS8/16 lo identifica como «DDR4 3200MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "coolmod-ram-kcp432ns8-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432NS8%2F8",
+    "note": "La ficha oficial de Kingston para el P/N exacto KCP432NS8/8 lo identifica como «DDR4 3200MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr32n22s8-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KVR32N22S8%2F8",
+    "note": "La ficha oficial de Kingston para el P/N exacto KVR32N22S8/8 lo identifica como «DDR4 3200MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr32n22d8-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KVR32N22D8%2F32",
+    "note": "La ficha oficial de Kingston para el P/N exacto KVR32N22D8/32 lo identifica como «DDR4 3200MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kcp432nd8-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432ND8%2F32",
+    "note": "La ficha oficial de Kingston para el P/N exacto KCP432ND8/32 lo identifica como «DDR4 3200MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr56u46bs8-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KVR56U46BS8-16",
+    "note": "La ficha oficial de Kingston para el P/N exacto KVR56U46BS8-16 lo identifica como «DDR5 5600MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr56u46bs6-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KVR56U46BS6-8",
+    "note": "La ficha oficial de Kingston para el P/N exacto KVR56U46BS6-8 lo identifica como «DDR5 5600MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr56u46bd8-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KVR56U46BD8-32",
+    "note": "La ficha oficial de Kingston para el P/N exacto KVR56U46BD8-32 lo identifica como «DDR5 5600MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr56u46bd8-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KVR56U46BD8-64",
+    "note": "La ficha oficial de Kingston para el P/N exacto KVR56U46BD8-64 lo identifica como «DDR5 5600MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr32n22s6-4",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KVR32N22S6%2F4",
+    "note": "La ficha oficial de Kingston para el P/N exacto KVR32N22S6/4 lo identifica como «DDR4 3200MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr26n19s6-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KVR26N19S6%2F8",
+    "note": "La ficha oficial de Kingston para el P/N exacto KVR26N19S6/8 lo identifica como «DDR4 2666MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kcp556us6-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP556US6-8",
+    "note": "La ficha oficial de Kingston para el P/N exacto KCP556US6-8 lo identifica como «DDR5 5600MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kcp556ud8-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP556UD8-32",
+    "note": "La ficha oficial de Kingston para el P/N exacto KCP556UD8-32 lo identifica como «DDR5 5600MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kcp426ns6-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP426NS6%2F8",
+    "note": "La ficha oficial de Kingston para el P/N exacto KCP426NS6/8 lo identifica como «DDR4 2666MT/s Non-ECC Unbuffered DIMM»; el módulo aparece como DIMM unbuffered y corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf440c19rb12-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF440C19RB12%2F16",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF440C19RB12/16 como DDR4 FURY Renegade XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c18bb-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF436C18BB%2F16",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF436C18BB/16 como DDR4 FURY Beast XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb2ak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB2AK2%2F32",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF432C16BB2AK2/32 como DDR4 FURY Beast RGB XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB%2F32",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF432C16BB/32 como DDR4 FURY Beast XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb1k2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB1K2%2F32",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF432C16BB1K2/32 como DDR4 FURY Beast XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb2ak2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB2AK2%2F64",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF432C16BB2AK2/64 como DDR4 FURY Beast RGB XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb2a-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB2A%2F32",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF432C16BB2A/32 como DDR4 FURY Beast RGB XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb1-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB1%2F16",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF432C16BB1/16 como DDR4 FURY Beast XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c17bb2ak2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF436C17BB2AK2%2F16",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF436C17BB2AK2/16 como DDR4 FURY Beast RGB XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c17bb-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF436C17BB%2F8",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF436C17BB/8 como DDR4 FURY Beast RGB XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c18bb2ak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF436C18BB2AK2%2F32",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF436C18BB2AK2/32 como DDR4 FURY Beast RGB XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c18bbk2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF436C18BBK2%2F64",
+    "note": "La ficha de búsqueda oficial de Kingston identifica el P/N exacto KF436C18BBK2/64 como DDR4 FURY Beast XMP, Non-ECC Unbuffered DIMM; «Non-ECC Unbuffered DIMM» corresponde a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f4-3200c16d-16gis",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1567584549/F4-3200C16D-16GIS-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3200C16D-16GIS y especifica «DDR4; Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g32gx2-fx5w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/398/1732006357/F5-6000J2836G32GX2-FX5W-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F5-6000J2836G32GX2-FX5W y especifica «DDR5; Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-5600j3636c16gx2-rs5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1640229565/F5-5600J3636C16GX2-RS5K-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F5-5600J3636C16GX2-RS5K y especifica «DDR5; Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f4-3200c16s-16gvk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1535687484/F4-3200C16S-16GVK-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3200C16S-16GVK y especifica «DDR4; Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-5600j3636d32gx2-rs5w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1648538890/F5-5600J3636D32GX2-RS5W-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F5-5600J3636D32GX2-RS5W y especifica «DDR5; Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f4-3600c18d-16gvk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1562832515/F4-3600C18D-16GVK-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3600C18D-16GVK y especifica «DDR4; Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f4-3600c18d-32gvk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1562833535/F4-3600C18D-32GVK-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N F4-3600C18D-32GVK y especifica «DDR4; Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6400j3039g16gx2-tr5ns",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/tw/specification/203/426/1723429792/F5-6400J3039G16GX2-TR5NS-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6400J3039G16GX2-TR5NS y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238g32gx2-rs5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/cn/specification/204/379/1649749474/F5-6000J3238G32GX2-RS5K-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J3238G32GX2-RS5K y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-5600j4040c16gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/cn/specification/204/376/1640229271/F5-5600J4040C16GX2-TZ5RK-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-5600J4040C16GX2-TZ5RK y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040g32gx2-rm5nrw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/428/1731477891/F5-6000J3040G32GX2-RM5NRW-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J3040G32GX2-RM5NRW y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040f16gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/cn/specification/204/376/1649235161/F5-6000J3040F16GX2-TZ5RK-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J3040F16GX2-TZ5RK y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g32gx2-rs5w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1731652113/F5-6000J2836G32GX2-RS5W-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J2836G32GX2-RS5W y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g16gx2-tz5nrw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1725610848/F5-6000J2836G16GX2-TZ5NRW-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J2836G16GX2-TZ5NRW y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238g32gx2-tz5n",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/393/1665020484/F5-6000J3238G32GX2-TZ5N-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J3238G32GX2-TZ5N y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f32gx2-fx5w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1731987422/F5-6000J3636F32GX2-FX5W-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J3636F32GX2-FX5W y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f32gx2-tz5rw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1688607621/F5-6000J3636F32GX2-TZ5RW-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J3636F32GX2-TZ5RW y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040g32gx2-tz5n",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/393/1665020366/F5-6000J3040G32GX2-TZ5N-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J3040G32GX2-TZ5N y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f4-3200c16d-32gvk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/tw/specification/203/217/1536110922/F4-3200C16D-32GVK-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F4-3200C16D-32GVK y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-8000j3848h16gx2-tz5rs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1669019808/F5-8000J3848H16GX2-TZ5RS-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-8000J3848H16GX2-TZ5RS y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238g32gx2-rm5nrk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/428/1731477612/F5-6000J3238G32GX2-RM5NRK-Specification",
+    "note": "La ficha técnica oficial de G.SKILL identifica el P/N exacto F5-6000J3238G32GX2-RM5NRK y declara «Registered/Unbuffered: Unbuffered»; se clasifica como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238f16gx2-tz5rs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1641798846/F5-6000J3238F16GX2-TZ5RS-F5-6000J3238F16GA2-TZ5RS-Specification",
+    "note": "La ficha oficial de G.SKILL para F5-6000J3238F16GX2-TZ5RS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»; corresponde a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040f16gx2-tz5s",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/371/1649667352/F5-6000J3040F16GX2-TZ5S-F5-6000J3040F16GA2-TZ5S-Specification",
+    "note": "La ficha oficial de G.SKILL para F5-6000J3040F16GX2-TZ5S indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»; corresponde a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3038f16gh1-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1765263872/F5-6000J3038F16GH1-FX5-Specification",
+    "note": "La ficha oficial de G.SKILL para F5-6000J3038F16GH1-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»; corresponde a UDIMM."
+  },
+  {
+    "product_id": "g-skill-f4-3000c16q-32gtzn",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/326/1562838269/F4-3000C16Q-32GTZN-Specification",
+    "note": "La ficha oficial de G.SKILL para F4-3000C16Q-32GTZN indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»; corresponde a UDIMM."
+  },
+  {
+    "product_id": "lexar-ld5u16g56c46st-bgs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf",
+    "note": "La ficha técnica oficial Lexar DDR5 Standard UDIMM enumera explícitamente el SKU LD5U16G56C46ST-BGS en la tabla de tipos y piezas como UDIMM."
+  },
+  {
+    "product_id": "coolmod-ram-ld5u32g56c46st-bgs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf",
+    "note": "La ficha técnica oficial Lexar DDR5 Standard UDIMM enumera explícitamente el SKU LD5U32G56C46ST-BGS en la tabla de tipos y piezas como UDIMM."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238f16gx2-rs5w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1649665723/F5-6000J3238F16GX2-RS5W-F5-6000J3238F16GA2-RS5W-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3238F16GX2-RS5W indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2636h16gx2-tz5nrw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1741936865/F5-6000J2636H16GX2-TZ5NRW-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J2636H16GX2-TZ5NRW indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3036g32gx2-tz5nrw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1692584825/F5-6000J3036G32GX2-TZ5NRW-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3036G32GX2-TZ5NRW indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f4-3000c16d-16gisb",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1536026353/F4-3000C16D-16GISB-Specification",
+    "note": "La especificación oficial G.SKILL para F4-3000C16D-16GISB indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-7600j3646g16gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1665644764/F5-7600J3646G16GX2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-7600J3646G16GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "coolmod-ram-f5-5600j3636c8gh2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1765260800/F5-5600J3636C8GH2-FX5-Specification",
+    "note": "La especificación oficial G.SKILL para F5-5600J3636C8GH2-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "coolmod-ram-f5-5200j4040a32gx2-is",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/440/1734407772/F5-5200J4040A32GX2-IS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-5200J4040A32GX2-IS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "coolmod-ram-f5-5600j4040d48gx2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1683011081/F5-5600J4040D48GX2-FX5-Specification",
+    "note": "La especificación oficial G.SKILL para F5-5600J4040D48GX2-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "coolmod-ram-f5-7200j3445g16gx2-tz5rs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1665644713/F5-7200J3445G16GX2-TZ5RS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-7200J3445G16GX2-TZ5RS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "coolmod-ram-f5-6400j3239g32gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1665644504/F5-6400J3239G32GX2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6400J3239G32GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040f16gx2-rs5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1649234797/F5-6000J3040F16GX2-RS5K-F5-6000J3040F16GA2-RS5K-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3040F16GX2-RS5K indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-5200j4040a32gx2-rm5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/421/1716885342/F5-5200J4040A32GX2-RM5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-5200J4040A32GX2-RM5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6400j3239g16gx2-tz5nrw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1692585385/F5-6400J3239G16GX2-TZ5NRW-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6400J3239G16GX2-TZ5NRW indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g32gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1735194294/F5-6000J2836G32GX2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J2836G32GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6800j3445g16gx2-tz5rs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1665644426/F5-6800J3445G16GX2-TZ5RS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6800J3445G16GX2-TZ5RS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040f16gx2-tz5rs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1649235095/F5-6000J3040F16GX2-TZ5RS-F5-6000J3040F16GA2-TZ5RS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3040F16GX2-TZ5RS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040g32gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1649234977/F5-6000J3040G32GX2-TZ5RK-F5-6000J3040G32GA2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3040G32GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f16gx2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1662622664/F5-6000J3636F16GX2-FX5-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F16GX2-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f16gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1640229752/F5-6000J3636F16GX2-TZ5RK-F5-6000J3636F16GA2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F16GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238f16gx2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1661410273/F5-6000J3238F16GX2-FX5-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3238F16GX2-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f16gx2-tz5rs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1640229797/F5-6000J3636F16GX2-TZ5RS-F5-6000J3636F16GA2-TZ5RS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F16GX2-TZ5RS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6400j3239g32gx2-tz5rs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1665644571/F5-6400J3239G32GX2-TZ5RS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6400J3239G32GX2-TZ5RS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6400j3239g16gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1642064699/F5-6400J3239G16GX2-TZ5RK-F5-6400J3239G16GA2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6400J3239G16GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f32gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1682577043/F5-6000J3636F32GX2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F32GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-5600j3636c16gx2-tz5rs",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1640229125/F5-5600J3636C16GX2-TZ5RS-F5-5600J3636C16GA2-TZ5RS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-5600J3636C16GX2-TZ5RS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040g32gx2-rs5w",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1649234514/F5-6000J3040G32GX2-RS5W-F5-6000J3040G32GA2-RS5W-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3040G32GX2-RS5W indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3038f16gx2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1673491242/F5-6000J3038F16GX2-FX5-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3038F16GX2-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f32gx2-rs5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1684288195/F5-6000J3636F32GX2-RS5K-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F32GX2-RS5K indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f16gx2-tz5n",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/393/1662622235/F5-6000J3636F16GX2-TZ5N-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F16GX2-TZ5N indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g32gx2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1731653269/F5-6000J2836G32GX2-FX5-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J2836G32GX2-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238g32gx2-tz5s",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/371/1649666726/F5-6000J3238G32GX2-TZ5S-F5-6000J3238G32GA2-TZ5S-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3238G32GX2-TZ5S indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f16gx2-tz5s",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/371/1640229844/F5-6000J3636F16GX2-TZ5S-F5-6000J3636F16GA2-TZ5S-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F16GX2-TZ5S indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g16gx2-tr5ns",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/425/1723009556/F5-6000J2836G16GX2-TR5NS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J2836G16GX2-TR5NS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238g32gx2-tz5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/371/1649667031/F5-6000J3238G32GX2-TZ5K-F5-6000J3238G32GA2-TZ5K-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3238G32GX2-TZ5K indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f16gx2-rm5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/421/1725420239/F5-6000J3636F16GX2-RM5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F16GX2-RM5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6400j3239g16gx2-tz5nr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1693902326/F5-6400J3239G16GX2-TZ5NR-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6400J3239G16GX2-TZ5NR indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-5600j3636c16gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1640229071/F5-5600J3636C16GX2-TZ5RK-F5-5600J3636C16GA2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-5600J3636C16GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g32gx2-rs5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1731651928/F5-6000J2836G32GX2-RS5K-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J2836G32GX2-RS5K indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g16gx2-tr5g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/418/1735194587/F5-6000J2836G16GX2-TR5G-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J2836G16GX2-TR5G indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f32gx2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1730883223/F5-6000J3636F32GX2-FX5-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F32GX2-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-5600j3636d32gx2-is",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/440/1734414282/F5-5600J3636D32GX2-IS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-5600J3636D32GX2-IS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040g32gx2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1691400033/F5-6000J3040G32GX2-FX5-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3040G32GX2-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "g-skill-f5-5600j3636d32gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1648545408/F5-5600J3636D32GX2-TZ5RK-F5-5600J3636D32GA2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-5600J3636D32GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-aegis-8gb-ddr4-3200-cl16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1567584456/F4-3200C16S-8GIS-Specification",
+    "note": "La especificación oficial G.SKILL para F4-3200C16S-8GIS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f5-5600j3636d32gx1-is",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/440/1734407172/F5-5600J3636D32GX1-IS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-5600J3636D32GX1-IS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f4-3200c16s-16gis",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1567584071/F4-3200C16S-16GIS-Specification",
+    "note": "La especificación oficial G.SKILL para F4-3200C16S-16GIS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f4-3600c16d-32gtzrc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/166/1562743478/F4-3600C16D-32GTZRC-Specification",
+    "note": "La especificación oficial G.SKILL para F4-3600C16D-32GTZRC indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f4-3600c18d-32gvw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1697772687/F4-3600C18D-32GVW-Specification",
+    "note": "La especificación oficial G.SKILL para F4-3600C18D-32GVW indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f5-6800j3445g32gx2-tz5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1681884065/F5-6800J3445G32GX2-TZ5RK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6800J3445G32GX2-TZ5RK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f5-6000j3636f16gx2-is",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/440/1729563538/F5-6000J3636F16GX2-IS-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F16GX2-IS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f4-2666c19d-16gis",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1536025052/F4-2666C19D-16GIS-Specification",
+    "note": "La especificación oficial G.SKILL para F4-2666C19D-16GIS indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f5-6000j3636f16gx1-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1770272894/F5-6000J3636F16GX1-FX5-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F16GX1-FX5 indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f5-6000j3636f16gx2-rm5nrk",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/428/1727073263/F5-6000J3636F16GX2-RM5NRK-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3636F16GX2-RM5NRK indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f5-6000j3036f16gx2-tz5nrw",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1692584545/F5-6000J3036F16GX2-TZ5NRW-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3036F16GX2-TZ5NRW indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f5-6000j3038f16gh2-tz5nr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1772001452/F5-6000J3038F16GH2-TZ5NR-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J3038F16GH2-TZ5NR indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  },
+  {
+    "product_id": "gskill-f5-6000j4048f24gx2-tz5nr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1682585046/F5-6000J4048F24GX2-TZ5NR-Specification",
+    "note": "La especificación oficial G.SKILL para F5-6000J4048F24GX2-TZ5NR indica «Registered/Unbuffered: Unbuffered» y «Non-ECC»."
+  }
+]

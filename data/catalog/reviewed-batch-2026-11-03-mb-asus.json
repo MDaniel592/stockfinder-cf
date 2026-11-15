@@ -1,0 +1,623 @@
+[
+  {
+    "id": "asus-prime-b760-plus-d4",
+    "slug": "asus-prime-b760-plus-d4",
+    "name": "ASUS PRIME B760-PLUS D4",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1CW0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760-plus-d4/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR4",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "asus-prime-z790m-plus",
+    "slug": "asus-prime-z790m-plus",
+    "name": "ASUS PRIME Z790M-PLUS",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1E70-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z790m-plus/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel Z790",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    }
+  },
+  {
+    "id": "asus-prime-b760-plus",
+    "slug": "asus-prime-b760-plus",
+    "name": "ASUS PRIME B760-PLUS",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1EF0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760-plus/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    }
+  },
+  {
+    "id": "asus-prime-b760m-a-wifi-d4",
+    "slug": "asus-prime-b760m-a-wifi-d4",
+    "name": "ASUS PRIME B760M-A WIFI D4",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1CX0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-a-wifi-d4/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR4",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-prime-z790-p-wifi",
+    "slug": "asus-prime-z790-p-wifi",
+    "name": "ASUS PRIME Z790-P WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1CJ0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z790-p-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel Z790",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-prime-b760m-k",
+    "slug": "asus-prime-b760m-k",
+    "name": "ASUS PRIME B760M-K",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1FI0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-k/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "96 GB"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b760-i-gaming-wifi",
+    "slug": "asus-rog-strix-b760-i-gaming-wifi",
+    "name": "ASUS ROG STRIX B760-I GAMING WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1D90-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b760-i-gaming-wifi-model/spec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Mini-ITX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "96 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-prime-b760m-k-d4",
+    "slug": "asus-prime-b760m-k-d4",
+    "name": "ASUS PRIME B760M-K D4",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1DS0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-k-d4/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR4",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "64 GB"
+    }
+  },
+  {
+    "id": "asus-prime-b650-plus-wifi",
+    "slug": "asus-prime-b650-plus-wifi",
+    "name": "ASUS PRIME B650-PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1KP0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b650-plus-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-prime-b850m-f-wifi",
+    "slug": "asus-prime-b850m-f-wifi",
+    "name": "ASUS PRIME B850M-F WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1N80-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://uk.store.asus.com/prime-b850m-f-wifi3682-90mb1n80-m0eay0.html",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX"
+    }
+  },
+  {
+    "id": "asus-prime-z790-p",
+    "slug": "asus-prime-z790-p",
+    "name": "ASUS PRIME Z790-P",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1CK0-M1EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z790-p/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel Z790",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    }
+  },
+  {
+    "id": "asus-prime-a620am-k",
+    "slug": "asus-prime-a620am-k",
+    "name": "ASUS PRIME A620AM-K",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1GX0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-a620am-k/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620A",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "asus-prime-b760m-a-csm",
+    "slug": "asus-prime-b760m-a-csm",
+    "name": "ASUS PRIME B760M-A-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1EK0-M0EAYC",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/prime-b760m-a-csm/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-a620am-plus-wifi",
+    "slug": "asus-tuf-gaming-a620am-plus-wifi",
+    "name": "ASUS TUF GAMING A620AM-PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1MZ0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-a620am-plus-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620A",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-prime-b760m-a-wifi",
+    "slug": "asus-prime-b760m-a-wifi",
+    "name": "ASUS PRIME B760M-A WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1EL0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-a-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b760m-btf-wifi-d4",
+    "slug": "asus-tuf-gaming-b760m-btf-wifi-d4",
+    "name": "ASUS TUF GAMING B760M-BTF WIFI D4",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1E50-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b760m-btf-wifi-d4/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR4",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-prime-b850-plus-wifi",
+    "slug": "asus-prime-b850-plus-wifi",
+    "name": "ASUS PRIME B850-PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1L80-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b850-plus-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b760-a-gaming-wifi",
+    "slug": "asus-rog-strix-b760-a-gaming-wifi",
+    "name": "ASUS ROG STRIX B760-A GAMING WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1EP0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-a-gaming-wifi/spec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-h770-pro-wifi",
+    "slug": "asus-tuf-gaming-h770-pro-wifi",
+    "name": "ASUS TUF GAMING H770-PRO WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1D50-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-h770-pro-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel H770",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-pro-b650m-ct-csm",
+    "slug": "asus-pro-b650m-ct-csm",
+    "name": "ASUS Pro B650M-CT-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1EC0-M0EAYC",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/pro-b650m-ct-csm/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    }
+  },
+  {
+    "id": "asus-prime-b650-plus-csm",
+    "slug": "asus-prime-b650-plus-csm",
+    "name": "ASUS PRIME B650-PLUS-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1BS0-M0EAYC",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/prime-b650-plus-csm/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-z790-plus-wifi",
+    "slug": "asus-tuf-gaming-z790-plus-wifi",
+    "name": "ASUS TUF GAMING Z790-PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1D80-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-z790-plus-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel Z790",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b760-g-gaming-wifi",
+    "slug": "asus-rog-strix-b760-g-gaming-wifi",
+    "name": "ASUS ROG STRIX B760-G GAMING WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1EQ0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-g-gaming-wifi/spec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asus-prime-h810m-a-wifi",
+    "slug": "asus-prime-h810m-a-wifi",
+    "name": "ASUS PRIME H810M-A WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1KJ0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-h810m-a-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel H810",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  },
+  {
+    "id": "asus-pro-b760m-c-csm",
+    "slug": "asus-pro-b760m-c-csm",
+    "name": "ASUS Pro B760M-C-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1DX0-M1EAYC",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/pro-b760m-c-csm/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    }
+  },
+  {
+    "id": "asus-prime-b650m-r",
+    "slug": "asus-prime-b650m-r",
+    "name": "ASUS PRIME B650M-R",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1H30-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b650m-r/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "96 GB"
+    }
+  },
+  {
+    "id": "asus-pro-a620m-dash-csm",
+    "slug": "asus-pro-a620m-dash-csm",
+    "name": "ASUS Pro A620M-DASH-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1GD0-M0EAYC",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/pro-a620m-dash-csm/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "96 GB"
+    }
+  },
+  {
+    "id": "asus-pro-b760m-ct-csm",
+    "slug": "asus-pro-b760m-ct-csm",
+    "name": "ASUS Pro B760M-CT-CSM",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1DY0-M1EAYC",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/csm/pro-b760m-ct-csm/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1700",
+      "Chipset": "Intel B760",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB"
+    }
+  },
+  {
+    "id": "asus-pro-ws-b850m-ace-se",
+    "slug": "asus-pro-ws-b850m-ace-se",
+    "name": "ASUS Pro WS B850M-ACE SE",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1MN0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/proart/pro-ws-b850m-ace-se/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-prime-z890-p",
+    "slug": "asus-prime-z890-p",
+    "name": "ASUS PRIME Z890-P",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1I50-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z890-p/techspec/",
+    "specs_verified_at": "2026-11-03T08:00:00Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-prime-z890m-plus-wifi",
+    "slug": "asus-prime-z890m-plus-wifi",
+    "name": "ASUS PRIME Z890M-PLUS WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1J80-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z890m-plus-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b650-e-wifi",
+    "slug": "asus-tuf-gaming-b650-e-wifi",
+    "name": "ASUS TUF GAMING B650-E WIFI",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1GT0-M0EAY0",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-e-wifi/techspec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "192 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  }
+]

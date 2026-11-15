@@ -1,0 +1,672 @@
+[
+ {
+  "product_id": "nox-hummer-ether-blanco-y-negro-nxhummeretherbw",
+  "image_path": "/images/products/case/nox-hummer-ether-blanco-y-negro-nxhummeretherbw.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_ether_white-black_main_2-qy1indw2wm.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-ether-black-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-ether-blanca-nxhummeretherwh",
+  "image_path": "/images/products/case/nox-hummer-ether-blanca-nxhummeretherwh.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_ether_white_conf_main-16urxj6g4v.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-ether-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-ether-negra-nxhummeretherbk",
+  "image_path": "/images/products/case/nox-hummer-ether-negra-nxhummeretherbk.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_ether_black_conf_main_2-w0y09c30vm.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-ether-black",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-infinity-epsilon-negra-nxinftyepsilon",
+  "image_path": "/images/products/case/nox-infinity-epsilon-negra-nxinftyepsilon.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_infinity_epsilon_main01-w051hiv4ny.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/infinity-epsilon",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-signal-blanca-nxhummersignalwh",
+  "image_path": "/images/products/case/nox-hummer-signal-blanca-nxhummersignalwh.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_signal_white_main_2-tca7uoaoxd.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-signal-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-signal-negra-nxhummersignalbk",
+  "image_path": "/images/products/case/nox-hummer-signal-negra-nxhummersignalbk.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_signal_black_main_4-u7xncm745j.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-signal-black",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-astra-neo-blanca-nxhummerastraneowh",
+  "image_path": "/images/products/case/nox-hummer-astra-neo-blanca-nxhummerastraneowh.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_astra_neo_white_conf_main-arc9epiu6t.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-astra-neo-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-refresh-blanca-nxhummerrefreshwh",
+  "image_path": "/images/products/case/nox-hummer-refresh-blanca-nxhummerrefreshwh.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_refresh_white_main_2-ycugpj0zqa.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-refresh-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-refresh-negra-nxhummerrefreshbk",
+  "image_path": "/images/products/case/nox-hummer-refresh-negra-nxhummerrefreshbk.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_refresh_black_main3-so7egxnl5r.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-refresh-black",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-anvil-negra-nxhummeranvilbk",
+  "image_path": "/images/products/case/nox-hummer-anvil-negra-nxhummeranvilbk.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_anvil_black_conf_main-u30j1yuzcq.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-anvil-black",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-anvil-blanca-nxhummeranvilwh",
+  "image_path": "/images/products/case/nox-hummer-anvil-blanca-nxhummeranvilwh.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_anvil_white_conf_main-d53vp9pppl.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-anvil-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-infinity-iota-blanca-nxinftyiotawh",
+  "image_path": "/images/products/case/nox-infinity-iota-blanca-nxinftyiotawh.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_infinity_iota_white_main-9s930t1th2.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/infinity-iota-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-horus-negra-nxhummerhorus",
+  "image_path": "/images/products/case/nox-hummer-horus-negra-nxhummerhorus.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_horus_assembly_1-bhwm3ksdm3.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-horus",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-vault-negra-nxhummervault",
+  "image_path": "/images/products/case/nox-hummer-vault-negra-nxhummervault.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/97ubdhzfbb-nox_hummer_vault_1.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-vault",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-nemesis-blanca-nxhummernmsswh",
+  "image_path": "/images/products/case/nox-hummer-nemesis-blanca-nxhummernmsswh.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/hummer_nemesis_white_main02-s4730a8mm8.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-nemesis-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-blade-blanca-nxhummerbladewh",
+  "image_path": "/images/products/case/nox-hummer-blade-blanca-nxhummerbladewh.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_blade_white_main_1-de4yr3uxre.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-blade-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-blade-negra-nxhummerbladebk",
+  "image_path": "/images/products/case/nox-hummer-blade-negra-nxhummerbladebk.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_blade_black_main_1-n5f8h2ulwr.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/cajas/hummer-blade-black",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-urano-pro-550w-bronze",
+  "image_path": "/images/products/psu/nox-urano-pro-550w-bronze.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_urano_pro550w_main1-8vtmknjyph.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.nox-xtreme.com/fuentes/urano-pro-550w",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-urano-pro-650w-bronze",
+  "image_path": "/images/products/psu/nox-urano-pro-650w-bronze.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_urano_pro550w_main1-8vtmknjyph.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.nox-xtreme.com/fuentes/urano-pro-650w",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-urano-pro-750w-bronze",
+  "image_path": "/images/products/psu/nox-urano-pro-750w-bronze.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_urano_pro550w_main1-8vtmknjyph.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.nox-xtreme.com/fuentes/urano-pro-750w",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-urano-pro-850w-bronze",
+  "image_path": "/images/products/psu/nox-urano-pro-850w-bronze.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_urano_pro550w_main1-8vtmknjyph.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.nox-xtreme.com/fuentes/urano-pro-850w",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-urano-pro-white-550w-bronze",
+  "image_path": "/images/products/psu/nox-urano-pro-white-550w-bronze.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_urano_pro_white_main_2-xb1dmheux7.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-550w",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-urano-pro-white-650w-bronze",
+  "image_path": "/images/products/psu/nox-urano-pro-white-650w-bronze.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_urano_pro_white_main_2-j5zyukfmpz.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-650w",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-urano-pro-white-750w-bronze",
+  "image_path": "/images/products/psu/nox-urano-pro-white-750w-bronze.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_urano_pro_white_main_2-j5zyukfmpz.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-750w",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-urano-pro-white-850w-bronze",
+  "image_path": "/images/products/psu/nox-urano-pro-white-850w-bronze.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_urano_pro_white_main_2-j5zyukfmpz.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.nox-xtreme.com/fuentes/urano-pro-white-850w",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-650w-bronze",
+  "image_path": "/images/products/psu/nox-hummer-650w-bronze.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/vgs5akdjtc-galeria02.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/fuentes/hummer-80-plus-bronze-650w",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "nox-hummer-vision-blanco-nxhummervsnwh",
+  "image_path": "/images/products/case/nox-hummer-vision-blanco-nxhummervsnwh.webp",
+  "image_source_url": "https://api.nox-xtreme.com/thumbnails/product_gallery_image/uploads/product/gallery/images/nox_hummer_vision_main-pcoidzaose.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.nox-xtreme.com/en/chassis/hummer-vision-white",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NOX",
+  "fetched_at": "2026-11-10T22:20:55Z"
+ },
+ {
+  "product_id": "wd-black-sn7100-4-tb-wds400t4x0e",
+  "image_path": "/images/products/storage/wd-black-sn7100-4-tb-wds400t4x0e.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/internal-storage/wd-black-sn7100-nvme-internal-ssd/gallery/wd-black-sn7100-nvme-internal-ssd-4tb-left.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn7100-nvme-internal-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Western Digital / SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "wd-blue-sn5000-1-tb-wds100t4b0e",
+  "image_path": "/images/products/storage/wd-blue-sn5000-1-tb-wds100t4b0e.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/internal-storage/wd-blue-sn5000-nvme-ssd/gallery/wd-blue-sn5000-nvme-ssd-1tb-front.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.westerndigital.com/products/internal-drives/wd-blue-sn5000-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Western Digital / SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "wd-green-sn350-500-gb-wds500g2g0c-00cdh0",
+  "image_path": "/images/products/storage/wd-green-sn350-500-gb-wds500g2g0c-00cdh0.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/internal-storage/wd-green-sn350-nvme-ssd/gallery/2022/wd-green-sn350-nvme-ssd-500gb-hero.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.westerndigital.com/products/internal-drives/wd-green-sn350-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Western Digital / SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "wd-blue-sn5100-2-tb-wds200t5b0e-00cpe0",
+  "image_path": "/images/products/storage/wd-blue-sn5100-2-tb-wds200t5b0e-00cpe0.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/internal-storage/wd-blue-sn5100-nvme-ssd/gallery/wd-blue-sn5100-nvme-ssd-2tb-front.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-blue-sn5100-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Western Digital / SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "wd-red-sa500-nas-2-tb-2-5-wds200t2r0a",
+  "image_path": "/images/products/storage/wd-red-sa500-nas-2-tb-2-5-wds200t2r0a.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/internal-storage/wd-red-sata-ssd/gallery/wd-red-sata-ssd-2tb.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-red-sata-2-5-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Western Digital / SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "wd-red-sa500-nas-1-tb-m-2-wds100t1r0b",
+  "image_path": "/images/products/storage/wd-red-sa500-nas-1-tb-m-2-wds100t1r0b.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/internal-storage/wd-red-sata-ssd/gallery/wd-red-sa500-nas-sata-ssd-1TB-front.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-red-sata-m-2-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Western Digital / SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "wd-blue-sa510-500-gb-m-2-wds500g3b0b",
+  "image_path": "/images/products/storage/wd-blue-sa510-500-gb-m-2-wds500g3b0b.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/internal-storage/wd-blue-sa510-sata-m-2-ssd/gallery/wd-blue-sa510-sata-m2-500gb-front.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-blue-sa510-sata-m-2-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Western Digital / SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "wd-black-sn8100-4-tb-wds400t1x0m",
+  "image_path": "/images/products/storage/wd-black-sn8100-4-tb-wds400t1x0m.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/internal-storage/wd-black-sn8100-nvme-ssd/gallery/wd-black-sn8100-nvme-ssd-front.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn8100-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "wd-black-sn8100-1-tb-wds100t1x0m",
+  "image_path": "/images/products/storage/wd-black-sn8100-1-tb-wds100t1x0m.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/internal-storage/wd-black-sn8100-nvme-ssd/gallery/wd-black-sn8100-nvme-ssd-front.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn8100-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "sandisk-optimus-5100-2-tb-sdsp51200tan-000e0",
+  "image_path": "/images/products/storage/sandisk-optimus-5100-2-tb-sdsp51200tan-000e0.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/internal-storage/optimus-5100m-internal-nvme-ssd/gallery/optimus-5100-front.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "sandisk-optimus-5100-1-tb-sdsp51100tan-000e0",
+  "image_path": "/images/products/storage/sandisk-optimus-5100-1-tb-sdsp51100tan-000e0.webp",
+  "image_source_url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/internal-storage/optimus-5100m-internal-nvme-ssd/gallery/optimus-5100-front.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: SanDisk",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "mars-gaming-mllcd240w",
+  "image_path": "/images/products/cooler/mars-gaming-mllcd240w.webp",
+  "image_source_url": "https://marsgaming.eu/34852-large_default/refrigeracion-liquida-ml-lcd240.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-ml-lcd240#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mllcd360w",
+  "image_path": "/images/products/cooler/mars-gaming-mllcd360w.webp",
+  "image_source_url": "https://marsgaming.eu/34861-large_default/refrigeracion-liquida-argb-ml-lcd360.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-argb-ml-lcd360#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mlone360w",
+  "image_path": "/images/products/cooler/mars-gaming-mlone360w.webp",
+  "image_source_url": "https://marsgaming.eu/34890-large_default/kit-refrigeracion-liquida-ml-one360.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-ml-one360#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mlultra240w",
+  "image_path": "/images/products/cooler/mars-gaming-mlultra240w.webp",
+  "image_source_url": "https://marsgaming.eu/34901-large_default/kit-refrigeracion-liquida-premium-ml-ultra240.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-premium-ml-ultra240#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mlultra360w",
+  "image_path": "/images/products/cooler/mars-gaming-mlultra360w.webp",
+  "image_source_url": "https://marsgaming.eu/34909-large_default/kit-refrigeracion-liquida-premium-ml-ultra360.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-premium-ml-ultra360#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mlvision360w",
+  "image_path": "/images/products/cooler/mars-gaming-mlvision360w.webp",
+  "image_source_url": "https://marsgaming.eu/34932-large_default/refrigeracion-liquida-ml-vision360.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-ml-vision360#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mlvisionii360w",
+  "image_path": "/images/products/cooler/mars-gaming-mlvisionii360w.webp",
+  "image_source_url": "https://marsgaming.eu/41116-large_default/ml-visionii360.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-visionii360#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mlproii240w",
+  "image_path": "/images/products/cooler/mars-gaming-mlproii240w.webp",
+  "image_source_url": "https://marsgaming.eu/41045-large_default/ml-proii240.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-proii240#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mltwo120w",
+  "image_path": "/images/products/cooler/mars-gaming-mltwo120w.webp",
+  "image_source_url": "https://marsgaming.eu/41069-large_default/ml-two120.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-two120#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mltwo240w",
+  "image_path": "/images/products/cooler/mars-gaming-mltwo240w.webp",
+  "image_source_url": "https://marsgaming.eu/41076-large_default/ml-two240.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-two240#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mltwo360w",
+  "image_path": "/images/products/cooler/mars-gaming-mltwo360w.webp",
+  "image_source_url": "https://marsgaming.eu/41082-large_default/ml-two360.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-two360#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mlvisionpro240w",
+  "image_path": "/images/products/cooler/mars-gaming-mlvisionpro240w.webp",
+  "image_source_url": "https://marsgaming.eu/36100-large_default/ml-visionpro240.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-visionpro240#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "mars-gaming-mlvisionpro360w",
+  "image_path": "/images/products/cooler/mars-gaming-mlvisionpro360w.webp",
+  "image_source_url": "https://marsgaming.eu/36091-large_default/ml-visionpro360.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://marsgaming.eu/es/refrigeracion-liquida/ml-visionpro360#/5-color-blanco",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Mars Gaming",
+  "fetched_at": "2026-11-10T22:31:05Z"
+ },
+ {
+  "product_id": "klevv-kd5agua80-56g460a",
+  "image_path": "/images/products/ram/klevv-kd5agua80-56g460a.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1103/11033131/1924-memoria-ram-klevv-u-dimm-16gb-1x16gb-ddr5-5600mhz-unbuffered-pc-servidor-opiniones.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-klevv-u-dimm-16gb-1x16gb-ddr5-5600mhz-unbuffered-pc-servidor",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:35:31Z"
+ },
+ {
+  "product_id": "klevv-kd58gu880-56g4600",
+  "image_path": "/images/products/ram/klevv-kd58gu880-56g4600.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1103/11033131/1924-memoria-ram-klevv-u-dimm-16gb-1x16gb-ddr5-5600mhz-unbuffered-pc-servidor-opiniones.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-klevv-u-dimm-16gb-1x16gb-ddr5-5600mhz-unbuffered-pc-servidor",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:35:31Z"
+ },
+ {
+  "product_id": "klevv-kd5bgua80-60a300g",
+  "image_path": "/images/products/ram/klevv-kd5bgua80-60a300g.webp",
+  "image_source_url": "https://www.klevv.com/kimg/prd_details/memory/CrasVRGB/CrasVRGB_banner_pic01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.klevv.com/ken/products_details/memory/Klevv_CrasVRGB",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Klevv",
+  "fetched_at": "2026-11-10T22:35:31Z"
+ },
+ {
+  "product_id": "klevv-kd5agua80-60b280g",
+  "image_path": "/images/products/ram/klevv-kd5agua80-60b280g.webp",
+  "image_source_url": "https://www.klevv.com/kimg/prd_details/memory/CrasVRGB/CrasVRGB_banner_pic01.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.klevv.com/ken/products_details/memory/Klevv_CrasVRGB",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Klevv",
+  "fetched_at": "2026-11-10T22:35:31Z"
+ },
+ {
+  "product_id": "klevv-kd5agua80-60b280m",
+  "image_path": "/images/products/ram/klevv-kd5agua80-60b280m.webp",
+  "image_source_url": "https://www.klevv.com/kimg/prd_details/memory/UrbaneV/UrbaneV_banner_product.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.klevv.com/ken/products_details/memory/Klevv_UrbaneVRGB",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Klevv",
+  "fetched_at": "2026-11-10T22:35:31Z"
+ },
+ {
+  "product_id": "cooler-master-elite-502-white-e502-wgnn-s00",
+  "image_path": "/images/products/case/cooler-master-elite-502-white-e502-wgnn-s00.webp",
+  "image_source_url": "https://www.coolermaster.com/on/demandware.static/-/Sites-cooler-master-main/default/dw9c8f8a14/Assets/elite-502/large/gallary-02.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.coolermaster.com/en-global/products/elite-502/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Cooler Master",
+  "fetched_at": "2026-11-10T22:37:30Z"
+ },
+ {
+  "product_id": "cooler-master-masterbox-600-blanco-mb600-wgnn-s00",
+  "image_path": "/images/products/case/cooler-master-masterbox-600-blanco-mb600-wgnn-s00.webp",
+  "image_source_url": "https://www.coolermaster.com/on/demandware.static/-/Sites-cooler-master-main/default/dwdf4f0f32/Assets/masterbox-600/large/mb600-white-gallery-01.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.coolermaster.com/en-global/products/masterbox-600/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Cooler Master",
+  "fetched_at": "2026-11-10T22:37:30Z"
+ },
+ {
+  "product_id": "lian-li-ga2alcd36w",
+  "image_path": "/images/products/cooler/lian-li-ga2alcd36w.webp",
+  "image_source_url": "https://lian-li.com/wp-content/uploads/2023/11/360_lcd_w_c.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://lian-li.com/product/galahad-ii-lcd/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Lian Li",
+  "fetched_at": "2026-11-10T22:40:10Z"
+ },
+ {
+  "product_id": "lian-li-lancool-217-blanco-lan217w",
+  "image_path": "/images/products/case/lian-li-lancool-217-blanco-lan217w.webp",
+  "image_source_url": "https://lian-li.com/wp-content/uploads/2025/04/217_g002.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://lian-li.com/product/lancool-217/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Lian Li",
+  "fetched_at": "2026-11-10T22:40:10Z"
+ },
+ {
+  "product_id": "lian-li-o11-dynamic-mini-v2-blanco-o11dmiv2w",
+  "image_path": "/images/products/case/lian-li-o11-dynamic-mini-v2-blanco-o11dmiv2w.webp",
+  "image_source_url": "https://lian-li.com/wp-content/uploads/2025/07/o11dmini_007.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://lian-li.com/product/o11-dynamic-mini-v2/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Lian Li",
+  "fetched_at": "2026-11-10T22:40:10Z"
+ },
+ {
+  "product_id": "lian-li-o11-dynamic-mini-v2-flow-blanco-o11dmiv2fw",
+  "image_path": "/images/products/case/lian-li-o11-dynamic-mini-v2-flow-blanco-o11dmiv2fw.webp",
+  "image_source_url": "https://lian-li.com/wp-content/uploads/2025/07/o11dmini_011.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://lian-li.com/product/o11-dynamic-mini-v2/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Lian Li",
+  "fetched_at": "2026-11-10T22:40:10Z"
+ },
+ {
+  "product_id": "lian-li-o11-vision-compact-blanco-o11vpw",
+  "image_path": "/images/products/case/lian-li-o11-vision-compact-blanco-o11vpw.webp",
+  "image_source_url": "https://lian-li.com/wp-content/uploads/2024/10/O11VP_W01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://lian-li.com/product/o11-vision-compact/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Lian Li",
+  "fetched_at": "2026-11-10T22:40:10Z"
+ },
+ {
+  "product_id": "lian-li-rotational-shift-rs1000g-white-rs1000g-w000",
+  "image_path": "/images/products/psu/lian-li-rotational-shift-rs1000g-white-rs1000g-w000.webp",
+  "image_source_url": "https://lian-li.com/wp-content/uploads/2025/11/rs-004.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://lian-li.com/product/rs/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Lian Li",
+  "fetched_at": "2026-11-10T22:40:10Z"
+ },
+ {
+  "product_id": "lian-li-rotational-shift-rs1000g-white-with-hub-rs1000g-wh00",
+  "image_path": "/images/products/psu/lian-li-rotational-shift-rs1000g-white-with-hub-rs1000g-wh00.webp",
+  "image_source_url": "https://lian-li.com/wp-content/uploads/2025/11/rs-004.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://lian-li.com/product/rs/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Lian Li",
+  "fetched_at": "2026-11-10T22:40:10Z"
+ },
+ {
+  "product_id": "lian-li-rotational-shift-rs1200g-white-with-hub-rs1200g-wh00",
+  "image_path": "/images/products/psu/lian-li-rotational-shift-rs1200g-white-with-hub-rs1200g-wh00.webp",
+  "image_source_url": "https://lian-li.com/wp-content/uploads/2025/11/rs-003.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://lian-li.com/product/rs/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Lian Li",
+  "fetched_at": "2026-11-10T22:40:10Z"
+ },
+ {
+  "product_id": "sapphire-pulse-radeon-rx-9060-xt-8gb",
+  "image_path": "/images/products/gpu/sapphire-pulse-radeon-rx-9060-xt-8gb.webp",
+  "image_source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11350_05_rx9060xt_pulse_8ggddr6_metal/11350_05rx9060xt_pulse_8gb_photo_c02_800x500.ashx?v=c42fa741ea444a79ad2ea0deb32d9c5c",
+  "image_scope": "model",
+  "image_page_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-8g-m-gddr6",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Sapphire",
+  "fetched_at": "2026-11-10T22:40:10Z"
+ }
+]

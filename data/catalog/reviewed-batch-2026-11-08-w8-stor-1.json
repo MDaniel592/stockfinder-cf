@@ -1,0 +1,848 @@
+[
+  {
+    "id": "adata-legend-900-512gb",
+    "slug": "adata-legend-900-512gb",
+    "name": "ADATA LEGEND 900 512 GB",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "SLEG-900-512GCS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.adata.com/en/consumer/category/ssds/solid-state-drives-legend-900/",
+    "specs_verified_at": "2026-11-08T15:57:15Z",
+    "manufacturer_sources": [
+      {
+        "url": "https://assets.adata.com/storage/downloadfile/datasheet_legend_900_pcie_gen4_x4_m2_2280_solid_state_drive_20260706.pdf",
+        "supports": "Datasheet ADATA LEGEND 900: tabla Ordering Information lista 512GB SLEG-900-512GCS (EAN 4711085944146); tabla de rendimiento 512GB 6.200/2.300 MB/s, 300 TBW."
+      }
+    ],
+    "specs": {
+      "Capacidad": "512 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "6200 MB/s",
+      "Escritura secuencial": "2300 MB/s",
+      "Resistencia": "300 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "adata-legend-900-1tb",
+    "slug": "adata-legend-900-1tb",
+    "name": "ADATA LEGEND 900 1 TB",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "SLEG-900-1TCS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.adata.com/en/consumer/category/ssds/solid-state-drives-legend-900/",
+    "specs_verified_at": "2026-11-08T15:57:15Z",
+    "manufacturer_sources": [
+      {
+        "url": "https://assets.adata.com/storage/downloadfile/datasheet_legend_900_pcie_gen4_x4_m2_2280_solid_state_drive_20260706.pdf",
+        "supports": "Datasheet ADATA LEGEND 900: Ordering Information 1TB SLEG-900-1TCS (EAN 4711085944153); tabla de rendimiento 1TB 7.000/4.700 MB/s, 600 TBW."
+      }
+    ],
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "4700 MB/s",
+      "Resistencia": "600 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "adata-legend-900-2tb",
+    "slug": "adata-legend-900-2tb",
+    "name": "ADATA LEGEND 900 2 TB",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "SLEG-900-2TCS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.adata.com/en/consumer/category/ssds/solid-state-drives-legend-900/",
+    "specs_verified_at": "2026-11-08T15:57:15Z",
+    "manufacturer_sources": [
+      {
+        "url": "https://assets.adata.com/storage/downloadfile/datasheet_legend_900_pcie_gen4_x4_m2_2280_solid_state_drive_20260706.pdf",
+        "supports": "Datasheet ADATA LEGEND 900: Ordering Information 2TB SLEG-900-2TCS (EAN 4711085944160); tabla de rendimiento 2TB 7.000/5.400 MB/s, 1.200 TBW (coincide con la ficha web)."
+      }
+    ],
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "5400 MB/s",
+      "Resistencia": "1200 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "adata-legend-860-500gb",
+    "slug": "adata-legend-860-500gb",
+    "name": "ADATA LEGEND 860 500 GB",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "SLEG-860-500GCS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.adata.com/en/consumer/category/ssds/solid-state-drives-legend-860/",
+    "specs_verified_at": "2026-11-08T15:57:15Z",
+    "manufacturer_sources": [
+      {
+        "url": "https://assets.adata.com/storage/downloadfile/datasheet_legend_860_pcie_gen4_x4_m2_2280_ssd_20260706.pdf",
+        "supports": "Datasheet ADATA LEGEND 860: Ordering Information 500GB SLEG-860-500GCS (EAN 4711085949486); tabla de rendimiento 500GB 5.000/3.000 MB/s, 160 TBW."
+      }
+    ],
+    "specs": {
+      "Capacidad": "500 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "3000 MB/s",
+      "Resistencia": "160 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "adata-legend-860-1tb",
+    "slug": "adata-legend-860-1tb",
+    "name": "ADATA LEGEND 860 1 TB",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "SLEG-860-1000GCS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.adata.com/en/consumer/category/ssds/solid-state-drives-legend-860/",
+    "specs_verified_at": "2026-11-08T15:57:15Z",
+    "manufacturer_sources": [
+      {
+        "url": "https://assets.adata.com/storage/downloadfile/datasheet_legend_860_pcie_gen4_x4_m2_2280_ssd_20260706.pdf",
+        "supports": "Datasheet ADATA LEGEND 860: Ordering Information 1000GB SLEG-860-1000GCS (EAN 4711085949493); tabla de rendimiento 1000GB 6.000/4.000 MB/s, 320 TBW."
+      }
+    ],
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "6000 MB/s",
+      "Escritura secuencial": "4000 MB/s",
+      "Resistencia": "320 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "adata-legend-960-1tb",
+    "slug": "adata-legend-960-1tb",
+    "name": "ADATA LEGEND 960 1 TB",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "ALEG-960-1TCS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.adata.com/en/consumer/category/ssds/solid-state-drives-legend-960/",
+    "specs_verified_at": "2026-11-08T15:57:15Z",
+    "manufacturer_sources": [
+      {
+        "url": "https://assets.adata.com/storage/downloadfile/datasheet_legend_960_pcie_gen4_x4_m2_2280_ssd_20260706.pdf",
+        "supports": "Datasheet ADATA LEGEND 960: Ordering Information 1TB ALEG-960-1TCS (EAN 4711085937506); controlador SMI SM2264; 1TB 7.400/6.000 MB/s, 780 TBW; la ficha web describe el disipador del LEGEND 960."
+      }
+    ],
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "Sí",
+      "Lectura secuencial": "7400 MB/s",
+      "Escritura secuencial": "6000 MB/s",
+      "Resistencia": "780 TBW",
+      "Controlador": "SMI SM2264",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "adata-legend-960-max-4tb",
+    "slug": "adata-legend-960-max-4tb",
+    "name": "ADATA LEGEND 960 MAX 4 TB",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "ALEG-960M-4TCS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.adata.com/en/consumer/category/ssds/solid-state-drives-legend-960-max/",
+    "specs_verified_at": "2026-11-08T15:57:15Z",
+    "manufacturer_sources": [
+      {
+        "url": "https://assets.adata.com/storage/downloadfile/datasheet_legend_960_max_pcie_gen4_x4_m2_2280_ssd_20260706.pdf",
+        "supports": "Datasheet ADATA LEGEND 960 MAX: Ordering Information 4TB ALEG-960M-4TCS (EAN 4711085938879); controlador SMI SM2264; 4TB 7.400/6.800 MB/s, 3.120 TBW; diseño con disipador aleteado."
+      }
+    ],
+    "specs": {
+      "Capacidad": "4 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "Sí",
+      "Lectura secuencial": "7400 MB/s",
+      "Escritura secuencial": "6800 MB/s",
+      "Resistencia": "3120 TBW",
+      "Controlador": "SMI SM2264",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "adata-xpg-gammix-s60-512gb",
+    "slug": "adata-xpg-gammix-s60-512gb",
+    "name": "ADATA XPG GAMMIX S60 512 GB",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "AGAMMIXS60-512G-CS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_s60_pcie_gen4_x4_m2_ssd_mea_20250715.pdf",
+    "specs_verified_at": "2026-11-08T15:57:15Z",
+    "manufacturer_sources": [
+      {
+        "url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_s60_pcie_gen4_x4_m2_ssd_mea_20250715.pdf",
+        "supports": "Datasheet XPG GAMMIX S60: Ordering Information 512GB AGAMMIXS60-512G-CS (EAN 4711085946140; la variante negra es -CSBK); tabla de rendimiento 512GB 4.700/1.700 MB/s, 110 TBW."
+      }
+    ],
+    "specs": {
+      "Capacidad": "512 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "4700 MB/s",
+      "Escritura secuencial": "1700 MB/s",
+      "Resistencia": "110 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "adata-xpg-gammix-s60-2tb",
+    "slug": "adata-xpg-gammix-s60-2tb",
+    "name": "ADATA XPG GAMMIX S60 2 TB",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "AGAMMIXS60-2T-CS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.xpg.com/us/xpg/solid-state-drive-gammix-s60?tab=spec",
+    "specs_verified_at": "2026-11-08T15:57:15Z",
+    "manufacturer_sources": [
+      {
+        "url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_s60_pcie_gen4_x4_m2_ssd_mea_20250715.pdf",
+        "supports": "Datasheet XPG GAMMIX S60: Ordering Information 2TB AGAMMIXS60-2T-CS (EAN 4711085946164; la variante negra es -CSBK); 2TB 5.000/4.200 MB/s, 450 TBW (coincide con la ficha xpg.com)."
+      }
+    ],
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "4200 MB/s",
+      "Resistencia": "450 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp600-elite-2tb-ps5-cssd-f2000gbmp600ecs",
+    "slug": "corsair-mp600-elite-2tb-ps5-cssd-f2000gbmp600ecs",
+    "name": "Corsair MP600 ELITE 2 TB para PS5 (CSSD-F2000GBMP600ECS)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP600ECS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600ecs/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Disipador integrado": "Sí",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "6500 MB/s",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp600-elite-2tb-heatsink-cssd-f2000gbmp600ehs",
+    "slug": "corsair-mp600-elite-2tb-heatsink-cssd-f2000gbmp600ehs",
+    "name": "Corsair MP600 ELITE 2 TB con disipador (CSSD-F2000GBMP600EHS)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP600EHS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600ehs/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Disipador integrado": "Sí",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "6500 MB/s",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp600-elite-2tb-cssd-f2000gbmp600enh",
+    "slug": "corsair-mp600-elite-2tb-cssd-f2000gbmp600enh",
+    "name": "Corsair MP600 ELITE 2 TB sin disipador (CSSD-F2000GBMP600ENH)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP600ENH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600enh/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "6500 MB/s",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxtr2",
+    "slug": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxtr2",
+    "name": "Corsair MP600 CORE XT 2 TB (CSSD-F2000GBMP600CXTR2)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP600CXTR2",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600cxtr2/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "4400 MB/s",
+      "Tipo de NAND": "3D QLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxt",
+    "slug": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxt",
+    "name": "Corsair MP600 CORE XT 2 TB (CSSD-F2000GBMP600CXT)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP600CXT",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600cxt/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "4400 MB/s",
+      "Tipo de NAND": "3D QLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp600-core-xt-1tb-cssd-f1000gbmp600cxtr2",
+    "slug": "corsair-mp600-core-xt-1tb-cssd-f1000gbmp600cxtr2",
+    "name": "Corsair MP600 CORE XT 1 TB (CSSD-F1000GBMP600CXTR2)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F1000GBMP600CXTR2",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp600cxtr2/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "4400 MB/s",
+      "Tipo de NAND": "3D QLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp600-mini-1tb-cssd-f1000gbmp600mnr2",
+    "slug": "corsair-mp600-mini-1tb-cssd-f1000gbmp600mnr2",
+    "name": "Corsair MP600 MINI 1 TB (CSSD-F1000GBMP600MNR2)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F1000GBMP600MNR2",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp600mnr2/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2230",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp600-pro-hydro-x-2tb-cssd-f2000gbmp600hxe",
+    "slug": "corsair-mp600-pro-hydro-x-2tb-cssd-f2000gbmp600hxe",
+    "name": "Corsair MP600 PRO Hydro X Edition 2 TB (CSSD-F2000GBMP600HXE)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP600HXE",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600hxe/x",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "6550 MB/s"
+    }
+  },
+  {
+    "id": "corsair-mp600-pro-nh-2tb-cssd-f2000gbmp600pnh",
+    "slug": "corsair-mp600-pro-nh-2tb-cssd-f2000gbmp600pnh",
+    "name": "Corsair MP600 PRO NH 2 TB (CSSD-F2000GBMP600PNH)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP600PNH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600pnh/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "6500 MB/s",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp600-pro-xt-1tb-cssd-f1000gbmp600pxt",
+    "slug": "corsair-mp600-pro-xt-1tb-cssd-f1000gbmp600pxt",
+    "name": "Corsair MP600 PRO XT 1 TB (CSSD-F1000GBMP600PXT)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F1000GBMP600PXT",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp600pxt/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Lectura secuencial": "7100 MB/s",
+      "Escritura secuencial": "6800 MB/s",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp700-pro-1tb-cssd-f1000gbmp700pnh",
+    "slug": "corsair-mp700-pro-1tb-cssd-f1000gbmp700pnh",
+    "name": "Corsair MP700 PRO 1 TB (CSSD-F1000GBMP700PNH)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F1000GBMP700PNH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp700pnh/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Disipador integrado": "No",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp700-pro-2tb-cssd-f2000gbmp700pnh",
+    "slug": "corsair-mp700-pro-2tb-cssd-f2000gbmp700pnh",
+    "name": "Corsair MP700 PRO 2 TB (CSSD-F2000GBMP700PNH)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP700PNH",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp700pnh/x",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Disipador integrado": "No",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD",
+      "Lectura secuencial": "12400 MB/s",
+      "Escritura secuencial": "11800 MB/s"
+    }
+  },
+  {
+    "id": "corsair-mp700-pro-1tb-air-cooler-cssd-f1000gbmp700pro",
+    "slug": "corsair-mp700-pro-1tb-air-cooler-cssd-f1000gbmp700pro",
+    "name": "Corsair MP700 PRO 1 TB con refrigerador de aire (CSSD-F1000GBMP700PRO)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F1000GBMP700PRO",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp700pro/x",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Disipador integrado": "Sí",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "corsair-mp700-pro-2tb-air-cooler-cssd-f2000gbmp700pro",
+    "slug": "corsair-mp700-pro-2tb-air-cooler-cssd-f2000gbmp700pro",
+    "name": "Corsair MP700 PRO 2 TB con refrigerador de aire (CSSD-F2000GBMP700PRO)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP700PRO",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp700pro/x",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Disipador integrado": "Sí",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD",
+      "Lectura secuencial": "12400 MB/s",
+      "Escritura secuencial": "11800 MB/s"
+    }
+  },
+  {
+    "id": "corsair-mp700-pro-se-2tb-air-cooler-cssd-f2000gbmp700pros",
+    "slug": "corsair-mp700-pro-se-2tb-air-cooler-cssd-f2000gbmp700pros",
+    "name": "Corsair MP700 PRO SE 2 TB con refrigerador de aire (CSSD-F2000GBMP700PROS)",
+    "category_id": "storage",
+    "brand": "Corsair",
+    "mpn": "CSSD-F2000GBMP700PROS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp700pros/x",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Disipador integrado": "Sí",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD",
+      "Lectura secuencial": "14000 MB/s",
+      "Escritura secuencial": "12000 MB/s"
+    }
+  },
+  {
+    "id": "crucial-ct1000p310ssd8",
+    "slug": "crucial-ct1000p310ssd8",
+    "name": "Crucial P310 1 TB M.2 2280 (CT1000P310SSD8)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT1000P310SSD8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/p310/ct1000p310ssd8",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7100 MB/s",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "crucial-ct1000p310ssd5",
+    "slug": "crucial-ct1000p310ssd5",
+    "name": "Crucial P310 1 TB con disipador (CT1000P310SSD5)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT1000P310SSD5",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/p310/ct1000p310ssd5",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "Sí",
+      "Lectura secuencial": "7100 MB/s",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "crucial-ct500p310ssd8",
+    "slug": "crucial-ct500p310ssd8",
+    "name": "Crucial P310 500 GB M.2 2280 (CT500P310SSD8)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT500P310SSD8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/p310/ct500p310ssd8",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "500 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Tipo": "SSD",
+      "Lectura secuencial": "7100 MB/s"
+    }
+  },
+  {
+    "id": "crucial-ct2000p310ssd8",
+    "slug": "crucial-ct2000p310ssd8",
+    "name": "Crucial P310 2 TB M.2 2280 (CT2000P310SSD8)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT2000P310SSD8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/p310/ct2000p310ssd8",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7100 MB/s",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "crucial-ct1000p310ssd2",
+    "slug": "crucial-ct1000p310ssd2",
+    "name": "Crucial P310 1 TB M.2 2230 (CT1000P310SSD2)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT1000P310SSD2",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/p310/ct1000p310ssd2",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2230",
+      "Disipador integrado": "No",
+      "Tipo": "SSD",
+      "Lectura secuencial": "7100 MB/s"
+    }
+  },
+  {
+    "id": "crucial-ct1000e100ssd8",
+    "slug": "crucial-ct1000e100ssd8",
+    "name": "Crucial E100 1 TB (CT1000E100SSD8)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT1000E100SSD8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/e100/ct1000e100ssd8",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Lectura secuencial": "5000 MB/s",
+      "Tipo": "SSD",
+      "Escritura secuencial": "4500 MB/s"
+    }
+  },
+  {
+    "id": "crucial-ct480e100ssd8",
+    "slug": "crucial-ct480e100ssd8",
+    "name": "Crucial E100 480 GB (CT480E100SSD8)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT480E100SSD8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/e100/ct480e100ssd8",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "480 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Lectura secuencial": "5000 MB/s",
+      "Tipo": "SSD",
+      "Escritura secuencial": "4500 MB/s"
+    }
+  },
+  {
+    "id": "crucial-ct2000e100ssd8",
+    "slug": "crucial-ct2000e100ssd8",
+    "name": "Crucial E100 2 TB (CT2000E100SSD8)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT2000E100SSD8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/e100/ct2000e100ssd8",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Lectura secuencial": "5000 MB/s",
+      "Tipo": "SSD",
+      "Escritura secuencial": "4500 MB/s"
+    }
+  },
+  {
+    "id": "crucial-ct2000p510ssd8",
+    "slug": "crucial-ct2000p510ssd8",
+    "name": "Crucial P510 2 TB (CT2000P510SSD8)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT2000P510SSD8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/p510/ct2000p510ssd8",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Disipador integrado": "No",
+      "Tipo": "SSD",
+      "Lectura secuencial": "11000 MB/s",
+      "Escritura secuencial": "9500 MB/s"
+    }
+  },
+  {
+    "id": "crucial-ct1000p510ssd5",
+    "slug": "crucial-ct1000p510ssd5",
+    "name": "Crucial P510 1 TB con disipador (CT1000P510SSD5)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT1000P510SSD5",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/p510/ct1000p510ssd5",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "Sí",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "crucial-ct2000t710ssd8",
+    "slug": "crucial-ct2000t710ssd8",
+    "name": "Crucial T710 2 TB M.2 2280 (CT2000T710SSD8)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT2000T710SSD8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/t710/ct2000t710ssd8",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Tipo": "SSD",
+      "Lectura secuencial": "14900 MB/s",
+      "Escritura secuencial": "13800 MB/s"
+    }
+  },
+  {
+    "id": "crucial-ct2000p3pssd8",
+    "slug": "crucial-ct2000p3pssd8",
+    "name": "Crucial P3 Plus 2 TB M.2 2280 (CT2000P3PSSD8)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT2000P3PSSD8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/p3-plus/ct2000p3pssd8",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "4200 MB/s",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "crucial-ct2000t700ssd5",
+    "slug": "crucial-ct2000t700ssd5",
+    "name": "Crucial T700 2 TB con disipador (CT2000T700SSD5)",
+    "category_id": "storage",
+    "brand": "Crucial",
+    "mpn": "CT2000T700SSD5",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.crucial.com/ssd/t700/ct2000t700ssd5",
+    "specs_verified_at": "2026-11-08T22:25:03Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Disipador integrado": "Sí",
+      "Tipo": "SSD",
+      "Lectura secuencial": "12400 MB/s"
+    }
+  },
+  {
+    "id": "gigabyte-gen4-4000e-500gb-g440e500g",
+    "slug": "gigabyte-gen4-4000e-500gb-g440e500g",
+    "name": "GIGABYTE Gen4 4000E SSD 500 GB (G440E500G)",
+    "category_id": "storage",
+    "brand": "Gigabyte",
+    "mpn": "G440E500G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Solid-State-Drive/GIGABYTE-Gen4-4000E-SSD-500GB/sp",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "500 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "3600 MB/s",
+      "Escritura secuencial": "3000 MB/s",
+      "Resistencia": "300 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "gigabyte-gen4-4000e-1tb-g440e1tb",
+    "slug": "gigabyte-gen4-4000e-1tb-g440e1tb",
+    "name": "GIGABYTE Gen4 4000E SSD 1 TB (G440E1TB)",
+    "category_id": "storage",
+    "brand": "Gigabyte",
+    "mpn": "G440E1TB",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Solid-State-Drive/GIGABYTE-Gen4-4000E-SSD-1TB/sp",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "4000 MB/s",
+      "Escritura secuencial": "3900 MB/s",
+      "Resistencia": "320 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "adata-xpg-mars-980-blade-2tb",
+    "slug": "adata-xpg-mars-980-blade-2tb",
+    "name": "ADATA XPG MARS 980 BLADE 2 TB (SMAR-980B-2TCS)",
+    "category_id": "storage",
+    "brand": "ADATA",
+    "mpn": "SMAR-980B-2TCS",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_mars_980_blade_pcie_gen5_x4_m2_ssd_20250630.pdf",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "14000 MB/s",
+      "Escritura secuencial": "13000 MB/s",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "forgeon-nimbus-1tb-fo-ssd-n-1tb-6",
+    "slug": "forgeon-nimbus-1tb-fo-ssd-n-1tb-6",
+    "name": "Forgeon Nimbus 1 TB (FO-SSD-N-1TB-6)",
+    "category_id": "storage",
+    "brand": "Forgeon",
+    "mpn": "FO-SSD-N-1TB-6",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/disco-duro-forgeon-nimbus-disco-ssd-1tb-6400-mb-s-nvme-pcie-4-0-m-2-2280",
+    "specs_verified_at": "2026-11-08T20:08:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "6400 MB/s",
+      "Tipo": "SSD"
+    }
+  }
+]

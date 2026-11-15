@@ -1,0 +1,113 @@
+[
+  {
+    "id": "gigabyte-rtx-5050-windforce-oc-8gb",
+    "slug": "gigabyte-rtx-5050-windforce-oc-8gb",
+    "name": "Gigabyte GeForce RTX 5050 WINDFORCE OC 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050WF2OC-8GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    },
+    "mpn": "GV-N5050WF2OC-8GD"
+  },
+  {
+    "id": "gigabyte-rx-9060-xt-gaming-oc-8gb",
+    "slug": "gigabyte-rx-9060-xt-gaming-oc-8gb",
+    "name": "Gigabyte Radeon RX 9060 XT GAMING OC 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-R9060XTGAMING-OC-8GD/sp",
+    "specs_verified_at": "2026-11-02T10:29:20.536650+00:00",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0"
+    },
+    "mpn": "GV-R9060XTGAMING OC-8GD"
+  },
+  {
+    "id": "gigabyte-rx-9060-xt-gaming-oc-16gb",
+    "slug": "gigabyte-rx-9060-xt-gaming-oc-16gb",
+    "name": "Gigabyte Radeon RX 9060 XT GAMING OC 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-R9060XTGAMING-OC-16GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)"
+    },
+    "mpn": "GV-R9060XTGAMING OC-16GD"
+  },
+  {
+    "id": "gigabyte-rtx-5060-ti-windforce-max-oc-8gb",
+    "slug": "gigabyte-rtx-5060-ti-windforce-max-oc-8gb",
+    "name": "Gigabyte GeForce RTX 5060 Ti WINDFORCE MAX OC 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TWF2MAX-OC-8GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    },
+    "mpn": "GV-N506TWF2MAX OC-8GD"
+  },
+  {
+    "id": "gigabyte-rtx-5060-ti-aero-oc-16gb",
+    "slug": "gigabyte-rtx-5060-ti-aero-oc-16gb",
+    "name": "Gigabyte GeForce RTX 5060 Ti AERO OC 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TAERO-OC-16GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    },
+    "mpn": "GV-N506TAERO OC-16GD"
+  },
+  {
+    "id": "gigabyte-rtx-5060-ti-windforce-oc-8gb",
+    "slug": "gigabyte-rtx-5060-ti-windforce-oc-8gb",
+    "name": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TWF2OC-8GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    },
+    "mpn": "GV-N506TWF2OC-8GD"
+  }
+]

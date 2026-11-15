@@ -1,0 +1,69 @@
+# LDLC y Neobyte (curl_cffi, sin navegador) como servicios, en bases AISLADAS (stockfinder_ldlc_local / stockfinder_neobyte_local).
+# Sustituye a `bash scripts/ldlc_local.sh` y `bash scripts/neobyte_local.sh` del NAS. Ningun publicador ni sync-agent apunta a estas bases.
+# Arranque (perfil `crawlers`):  docker compose ... --profile crawlers up -d ldlc-pipeline neobyte-pipeline
+x-crawler: &crawler
+  image: stockfinder-v2-sync-agent
+  working_dir: /app
+  environment:
+    PGPASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD}
+  profiles: [crawlers]
+  depends_on:
+    postgres: {condition: service_healthy}
+  restart: unless-stopped
+  mem_limit: 128m
+  cpus: 0.5
+  pids_limit: 64
+  read_only: true
+  tmpfs:
+    - /tmp:size=64m
+  cap_drop: [ALL]
+  security_opt: [no-new-privileges:true]
+  logging: {driver: json-file, options: {max-size: 10m, max-file: '3'}}
+services:
+  ldlc-crawl:
+    <<: *crawler
+    # `--watch` ejecuta UNA pasada y termina; `--refresh` vuelve a consultar precio y stock. Una pasada completa cada 24 h
+    # (reintento en 1 h si falla). Pausas >= 2 s entre peticiones (8 s por bloqueos anteriores) y cooldown tras 403/429/503.
+    command:
+      - sh
+      - -c
+      - while true; do if python scripts/ldlc_local.py --database-url postgresql://stockfinder@postgres/stockfinder_ldlc_local --output /output --watch --refresh; then sleep 86400; else sleep 3600; fi; done
+    volumes:
+      - ../../scripts:/app/scripts:ro
+      - ../../nas:/app/nas:ro
+      - ../../data:/app/data:ro
+      - ../../db:/app/db:ro
+      - ../../artifacts/ldlc/checkpoints:/output
+  ldlc-pipeline:
+    <<: *crawler
+    command: [python, scripts/ldlc_pipeline.py, --database-url, 'postgresql://stockfinder@postgres/stockfinder_ldlc_local',
+              --directory, /output, --watch]
+    volumes:
+      - ../../scripts:/app/scripts:ro
+      - ../../nas:/app/nas:ro
+      - ../../data:/app/data:ro
+      - ../../db:/app/db:ro
+      - ../../artifacts/ldlc:/output
+  neobyte-crawl:
+    <<: *crawler
+    # Igual que ldlc-crawl: una pasada completa de precio y stock cada 24 h (reintento en 1 h si falla).
+    command:
+      - sh
+      - -c
+      - while true; do if python scripts/neobyte_local.py --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output --watch --refresh; then sleep 86400; else sleep 3600; fi; done
+    volumes:
+      - ../../scripts:/app/scripts:ro
+      - ../../nas:/app/nas:ro
+      - ../../data:/app/data:ro
+      - ../../db:/app/db:ro
+      - ../../artifacts/neobyte/checkpoints:/output
+  neobyte-pipeline:
+    <<: *crawler
+    command: [python, scripts/neobyte_pipeline.py, --database-url, 'postgresql://stockfinder@postgres/stockfinder_neobyte_local',
+              --directory, /output, --watch]
+    volumes:
+      - ../../scripts:/app/scripts:ro
+      - ../../nas:/app/nas:ro
+      - ../../data:/app/data:ro
+      - ../../db:/app/db:ro
+      - ../../artifacts/neobyte:/output

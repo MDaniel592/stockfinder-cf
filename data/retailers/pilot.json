@@ -1,0 +1,36 @@
+[
+  {
+    "product_id": "amd-ryzen-7-9800x3d",
+    "shop_id": "pccomponentes",
+    "retailer_sku": "10860456",
+    "mpn": "100-100001084WOF",
+    "url_public": "https://www.pccomponentes.com/procesador-amd-ryzen-7-9800x3d-4-7-5-2ghz",
+    "price_cents": 47714,
+    "in_stock": true,
+    "last_checked_at": "2026-11-01T23:20:02Z",
+    "match_evidence": "Instantánea manual de la página primaria de PcComponentes: MPN exacto de la CPU boxed confirmado en la ficha oficial AMD; código de artículo 10860456. Oferta vendida y enviada por PcComponentes, botón de compra y entrega mostrada para el 3 de noviembre. Precio visible de la página, sin validar checkout ni destino Canarias. No es una extracción automática del NAS: su acceso HTTP directo devolvió 403."
+  },
+  {
+    "product_id": "amd-ryzen-7-9850x3d",
+    "shop_id": "pccomponentes",
+    "retailer_sku": "11011562",
+    "mpn": "100-100001973WOF",
+    "url_public": "https://www.pccomponentes.com/procesador-amd-ryzen-7-9850x3d-8-nucleos-4-7-ghz-frecuencia-base-5-6-ghz-turbo-graficos-integrados",
+    "price_cents": 51900,
+    "in_stock": true,
+    "last_checked_at": "2026-11-01T23:20:02Z",
+    "match_evidence": "Instantánea manual de la página primaria de PcComponentes: MPN exacto de la CPU boxed confirmado en la ficha oficial AMD; código de artículo 11011562. Oferta vendida y enviada por PcComponentes, botón de compra y entrega mostrada para el 3 de noviembre. Precio visible de la página, sin validar checkout ni destino Canarias. No es una extracción automática del NAS: su acceso HTTP directo devolvió 403."
+  },
+  {
+    "product_id": "amd-ryzen-7-9800x3d",
+    "shop_id": "coolmod",
+    "retailer_sku": "PROD-036673",
+    "mpn": "100-100001084WOF",
+    "ean": "730143315289",
+    "url_public": "https://www.coolmod.com/amd-ryzen-7-9800x3d-5-2ghz-socket-am5-boxed",
+    "price_cents": 40995,
+    "in_stock": true,
+    "last_checked_at": "2026-11-01T23:22:55Z",
+    "match_evidence": "Producto primario leído con Chromium normal, HTTP200, sin sortear bloqueos. JSON-LD Product: SKU PROD-036673, MPN 100-100001084WOF y oferta EUR409.95 con disponibilidad schema.org/InStock. La página muestra el mismo precio y EAN730143315289. Coincidencia exacta con el MPN boxed oficial AMD. Precio visible sin validar checkout ni envío/impuestos de Canarias; no hay scheduler activo."
+  }
+]

@@ -1,0 +1,1773 @@
+[
+  {
+    "ean": null,
+    "mpn": "RX9070XT16G-A",
+    "name": "Tarjeta Gráfica PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6 ",
+    "brand": "Powercolor",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9070-xt-16gb-gddr6",
+    "price_cents": 107995,
+    "retailer_sku": "PROD-037384",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:15:15.686Z"
+  },
+  {
+    "ean": null,
+    "mpn": "RX9070XT 16G-L/OC/REVA",
+    "name": "Tarjeta Gráfica PowerColor HellHound Reva AMD Radeon RX 9070 XT 16GB GDDR6 ",
+    "brand": "Powercolor",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/powercolor-hellhound-reva-amd-radeon-rx-9070-xt-16gb-gddr6",
+    "price_cents": 104995,
+    "retailer_sku": "PROD-042691",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:15:22.178Z"
+  },
+  {
+    "ean": null,
+    "mpn": "RX9070XT16G-E/OC",
+    "name": "Tarjeta Gráfica PowerColor Red Devil AMD Radeon RX 9070 XT OC 16GB GDDR6 ",
+    "brand": "Powercolor",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/powercolor-red-devil-amd-radeon-rx-9070-xt-oc-16gb-gddr6",
+    "price_cents": 114995,
+    "retailer_sku": "PROD-037382",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:15:27.998Z"
+  },
+  {
+    "ean": null,
+    "mpn": "911-7E49-08S",
+    "name": "Placa Base MSI MPG X870E CARBON WIFI Socket AM5 ",
+    "brand": "MSI",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/msi-mpg-x870e-carbon-wifi-socket-am5",
+    "price_cents": 42995,
+    "retailer_sku": "PROD-035345",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:15:35.903Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100000910WOF",
+    "name": "Procesador  AMD Ryzen 7 7800X3D 5.0GHz Socket AM5 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-7-7800x-3d-5-0ghz-socket-am5-boxed",
+    "price_cents": 31995,
+    "retailer_sku": "PROD-024047",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:15:44.170Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100001978WOF",
+    "name": "Procesador AMD Ryzen 9 9950X3D2 5.6GHz Socket AM5 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-9-9950x3d2-5-6ghz-socket-am5-boxed",
+    "price_cents": 66112,
+    "retailer_sku": "PROD-045775",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:15:49.989Z"
+  },
+  {
+    "ean": null,
+    "mpn": "AMD-Ryzen-9-9900X3D",
+    "name": "Procesador AMD Ryzen 9 9900X3D 5.5GHz Socket AM5 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-9-9900x3d-5-5ghz-socket-am5-boxed",
+    "price_cents": 55995,
+    "retailer_sku": "PROD-038056",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:15:56.709Z"
+  },
+  {
+    "ean": null,
+    "mpn": "BX8071513700KF",
+    "name": "Procesador Intel Core i7-13700KF 5.4GHz Socket 1700 Boxed ",
+    "brand": "Intel",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/intel-core-i7-13700kf-5-4ghz-socket-1700-boxed",
+    "price_cents": 34995,
+    "retailer_sku": "PROD-021840",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:16:05.082Z"
+  },
+  {
+    "ean": null,
+    "mpn": "BX8071512600",
+    "name": "Procesador Intel Core i5-12600 4.8GHz Socket 1700 Boxed ",
+    "brand": "Intel",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/intel-core-i5-12600-4-6ghz-socket-1700-boxed-procesador",
+    "price_cents": 23995,
+    "retailer_sku": "PROD-017013",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:16:11.879Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100001590BOX",
+    "name": "Procesador AMD Ryzen 7 8700F 5.0GHz Socket AM5 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-7-8700f-5-0ghz-socket-am5-boxed",
+    "price_cents": 22495,
+    "retailer_sku": "PROD-033239",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:16:17.797Z"
+  },
+  {
+    "ean": null,
+    "mpn": "BX8071513700F",
+    "name": "Procesador Intel Core i7-13700F 5.2GHz Socket 1700 Boxed ",
+    "brand": "Intel",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/intel-core-i7-13700f-5-2ghz-socket-1700-boxed",
+    "price_cents": 37995,
+    "retailer_sku": "PROD-023256",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:16:23.908Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100000457BOX",
+    "name": "Procesador AMD Ryzen 5 5500 4.2GHz Socket AM4 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-5-5500-4-2ghz-socket-am4-boxed",
+    "price_cents": 9495,
+    "retailer_sku": "PROD-019292",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:16:29.089Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-000001905",
+    "name": "Procesador AMD Ryzen 5 5500F 4.4GHz Socket AM4 Tray ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-5-5500f-4-4ghz-socket-am4-tray",
+    "price_cents": 9495,
+    "retailer_sku": "PROD-048751",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:16:37.869Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-000001015",
+    "name": "Procesador AMD Ryzen 5 7600 5.1GHz Socket AM5 Tray ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-5-7600-5-1ghz-socket-am5",
+    "price_cents": 17995,
+    "retailer_sku": "PROD-027916",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:16:45.177Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-000000597",
+    "name": "Procesador AMD Ryzen 5 7500F 5.0GHz Socket AM5 Tray ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-5-7500f-5-0-ghz-socket-am5-tray",
+    "price_cents": 16995,
+    "retailer_sku": "PROD-035773",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:16:50.980Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100000651POF",
+    "name": "Procesador AMD Ryzen 7 5800X3D 4.5GHz Socket AM4 Boxed 10th Aniversary ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-7-5800x3d-4-5ghz-socket-am4-boxed-10th-aniversary",
+    "price_cents": 33995,
+    "retailer_sku": "PROD-047482",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:16:56.516Z"
+  },
+  {
+    "ean": null,
+    "mpn": "BX8071512400F",
+    "name": "Procesador Intel Core i5-12400F 4.4GHz Socket 1700 Boxed ",
+    "brand": "Intel",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/intel-core-i5-12400f-4-4ghz-socket-1700-boxed-procesador",
+    "price_cents": 13495,
+    "retailer_sku": "PROD-017015",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:17:04.083Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100001361WOF",
+    "name": "Procesador AMD Threadripper Pro 9995WX 5.4GHz Socket STR5 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-threadripper-pro-9995wx-5-4ghz-socket-str5-boxed",
+    "price_cents": 1331195,
+    "retailer_sku": "PROD-040824",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:17:10.771Z"
+  },
+  {
+    "ean": null,
+    "mpn": "BX8071514400",
+    "name": "Procesador Intel Core i5-14400 4.7GHz Socket 1700 Boxed ",
+    "brand": "Intel",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/intel-core-i5-14400-4-7ghz-socket-1700-boxed",
+    "price_cents": 17495,
+    "retailer_sku": "PROD-029882",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:17:17.680Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100001352WOF",
+    "name": "Procesador AMD Threadripper 7960X 5.3Ghz Socket sTR5 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-threadripper-7960x-5-3ghz-socket-str5-boxed",
+    "price_cents": 183095,
+    "retailer_sku": "PROD-029253",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:17:24.685Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100000723WOF",
+    "name": "Procesador AMD Threadripper Pro 9975WX 5.4GHz Socket STR5 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-threadripper-pro-9975wx-5-4ghz-socket-str5-boxed",
+    "price_cents": 482994,
+    "retailer_sku": "PROD-040826",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:17:30.668Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-000000724",
+    "name": "Procesador AMD Threadripper Pro 9965WX 5.4GHz Socket STR5 Tray ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-threadripper-pro-9965wx-5-4ghz-socket-str5-tray",
+    "price_cents": 323795,
+    "retailer_sku": "PROD-040835",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:17:37.413Z"
+  },
+  {
+    "ean": null,
+    "mpn": "BX80768225",
+    "name": "Procesador Intel Core Ultra 5 225 4.9GHz Socket 1851 Boxed ",
+    "brand": "Intel",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/intel-core-ultra-5-225-4-9ghz-socket-1851-boxed",
+    "price_cents": 17995,
+    "retailer_sku": "PROD-037581",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:17:44.685Z"
+  },
+  {
+    "ean": null,
+    "mpn": "RX9070GRE 12G-A",
+    "name": "Tarjeta Gráfica Powercolor REAPER AMD Radeon RX 9070 GRE 12GB GDDR6 ",
+    "brand": "Powercolor",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9070-gre-12gb-gddr6",
+    "price_cents": 59995,
+    "retailer_sku": "PROD-047346",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:17:49.713Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90YV0GH6-M0NA00",
+    "name": "Tarjeta Gráfica Asus Dual GeForce RTX 3050 V2 OC Edition 8GB GDDR6 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-dual-geforce-rtx-3050-v2-oc-edition-8gb-gddr6",
+    "price_cents": 37995,
+    "retailer_sku": "PROD-030490",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:17:56.799Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90YV0PS0-M0NA00",
+    "name": "Tarjeta Gráfica Asus Dual GeForce RTX 5060 OC Advanced Edition 8GB GDDR7 DLSS4 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-dual-geforce-rtx-5060-oc-advanced-edition-8gb-gddr7-dlss4",
+    "price_cents": 49995,
+    "retailer_sku": "PROD-048934",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:18:02.578Z"
+  },
+  {
+    "ean": null,
+    "mpn": "912-V532-003",
+    "name": "Tarjeta Gráfica MSI GeForce RTX 5070 VENTUS 2X OC 12GB GDDR7 DLSS4 ",
+    "brand": "MSI",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/msi-geforce-rtx-5070-ventus-2x-oc-12gb-gddr7-dlss4",
+    "price_cents": 99994,
+    "retailer_sku": "PROD-037952",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:18:09.283Z"
+  },
+  {
+    "ean": null,
+    "mpn": "912-V536-001",
+    "name": "Tarjeta Gráfica MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS 8GB GDDR7 DLSS4 ",
+    "brand": "MSI",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-8gb-gddr7-dlss4",
+    "price_cents": 55995,
+    "retailer_sku": "PROD-038325",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:18:17.300Z"
+  },
+  {
+    "ean": null,
+    "mpn": "ZT-B50500Q-10M",
+    "name": "Tarjeta Gráfica Zotac Gaming GeForce RTX 5050 Twin Edge OC White Edition 8GB GDDR6 ",
+    "brand": "Zotac",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/zotac-gaming-geforce-rtx-5050-twin-edge-oc-white-edition-8gb-gddr6",
+    "price_cents": 59995,
+    "retailer_sku": "PROD-045192",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:18:24.967Z"
+  },
+  {
+    "ean": null,
+    "mpn": "ZT-B50500L-10L",
+    "name": "Tarjeta Gráfica Zotac Gaming GeForce RTX 5050 Perfil Bajo 8GB GDDR6 DLSS4 ",
+    "brand": "Zotac",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/zotac-gaming-geforce-rtx-5050-perfil-bajo-8gb-gddr6-dlss4",
+    "price_cents": 59995,
+    "retailer_sku": "PROD-046465",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:18:31.095Z"
+  },
+  {
+    "ean": null,
+    "mpn": "912-V537-002",
+    "name": "Tarjeta Gráfica MSI GeForce RTX 5060 VENTUS 2X OC 8GB GDDR7 DLSS4 ",
+    "brand": "MSI",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-dlss4",
+    "price_cents": 48995,
+    "retailer_sku": "PROD-038948",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:18:38.118Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90YV0LG2-M0NA00",
+    "name": "Tarjeta Gráfica Asus Dual Radeon RX 9060 XT 16GB GDDR6 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-dual-radeon-rx-9060-xt-16gb-gddr6",
+    "price_cents": 68995,
+    "retailer_sku": "PROD-042001",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:18:45.375Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90YV0MP2-M0NA00",
+    "name": "Tarjeta Gráfica Asus Dual GeForce RTX 5060 Ti OC 8GB GDDR7 DLSS4 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-dual-geforce-rtx-5060-ti-oc-8gb-gddr7-dlss4",
+    "price_cents": 59995,
+    "retailer_sku": "PROD-038626",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:18:50.384Z"
+  },
+  {
+    "ean": null,
+    "mpn": "1A1-G00433800G",
+    "name": "Tarjeta Gráfica Powercolor Reaper AMD Radeon RX 9060 XT 16GB GDDR6 ",
+    "brand": "Powercolor",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9060-xt-16gb-gddr6",
+    "price_cents": 71595,
+    "retailer_sku": "PROD-039253",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:18:56.809Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90-GA6GZZ-00UANF",
+    "name": "Tarjeta Gráfica ASRock Intel Arc Pro B70 Creator 32GB GDDR6 ",
+    "brand": "Asrock",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asrock-intel-arc-pro-b70-creator-32gb-gddr6",
+    "price_cents": 179995,
+    "retailer_sku": "PROD-049167",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:19:02.669Z"
+  },
+  {
+    "ean": null,
+    "mpn": "RX-97TSWF3B9",
+    "name": "Tarjeta Gráfica XFX Swift AMD Radeon RX 9070 XT Gaming 16GB GDDR6 ",
+    "brand": "XFX",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/xfx-swift-amd-radeon-rx-9070-xt-gaming-16gb-gddr6",
+    "price_cents": 115795,
+    "retailer_sku": "PROD-039550",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:19:10.094Z"
+  },
+  {
+    "ean": null,
+    "mpn": "912-V531-083",
+    "name": "Tarjeta Gráfica MSI GeForce RTX 5070 Ti VENTUS 3X OC 16GB GDDR7 DLSS4 ",
+    "brand": "MSI",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/msi-geforce-rtx-5070-ti-ventus-3x-oc-16gb-gddr7-dlss4",
+    "price_cents": 170795,
+    "retailer_sku": "PROD-037764",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:19:17.492Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90YV0MH0-M0NA00",
+    "name": "Tarjeta Gráfica Asus Dual GeForce RTX 5060 Ti OC 16GB GDDR7 DLSS4 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-dual-geforce-rtx-5060-ti-oc-16gb-gddr7-dlss4",
+    "price_cents": 87894,
+    "retailer_sku": "PROD-038542",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:19:24.009Z"
+  },
+  {
+    "ean": null,
+    "mpn": "900-5G144-2200-000",
+    "name": "Tarjeta Gráfica NVIDIA RTX PRO 6000 IA Blackwell Workstation Edition 96GB GDDR7 Bulk ",
+    "brand": "Nvidia",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/nvidia-rtx-pro-6000-ia-blackwell-workstation-edition-96gb-gddr7-bulk",
+    "price_cents": 1829595,
+    "retailer_sku": "PROD-047738",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:19:29.090Z"
+  },
+  {
+    "ean": null,
+    "mpn": "900-5G147-2250-000",
+    "name": "Tarjeta Gráfica NVIDIA RTX PRO 4500 IA Blackwell 32GB GDDR7 ECC Bulk ",
+    "brand": "Nvidia",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/nvidia-rtx-pro-4500-ia-blackwell-32gb-gddr7-ecc-bulk",
+    "price_cents": 614394,
+    "retailer_sku": "PROD-046475",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:19:34.099Z"
+  },
+  {
+    "ean": null,
+    "mpn": "GV-R9060XTGAMING OC-16",
+    "name": "Tarjeta Gráfica Gigabyte AMD Radeon RX 9060 XT Gaming OC 16GB GDDR6 ",
+    "brand": "Gigabyte",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/gigabyte-amd-radeon-rx-9060-xt-gaming-oc-16gb-gddr6",
+    "price_cents": 91195,
+    "retailer_sku": "PROD-039217",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:19:40.930Z"
+  },
+  {
+    "ean": null,
+    "mpn": "RX9070XT CL 16G",
+    "name": "Tarjeta Gráfica ASRock AMD Radeon RX 9070 XT Challenger 16GB GDDR6 ",
+    "brand": "Asrock",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asrock-amd-radeon-rx-9070-xt-challenger-16gb-gddr6",
+    "price_cents": 111595,
+    "retailer_sku": "PROD-043104",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:19:47.869Z"
+  },
+  {
+    "ean": null,
+    "mpn": "RX-97SWFB3W9",
+    "name": "Tarjeta Gráfica XFX Swift AMD Radeon RX 9070 OC Gaming Edition White 16GB GDDR6 ",
+    "brand": "XFX",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/xfx-swift-amd-radeon-rx-9070-oc-gaming-edition-white-16gb-gddr6",
+    "price_cents": 99095,
+    "retailer_sku": "PROD-044887",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:19:53.991Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90YV0MF0-M0NA00",
+    "name": "Tarjeta Gráfica Asus Prime GeForce RTX 5070 Ti OC 16GB GDDR7 DLSS4 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-prime-geforce-rtx-5070-ti-oc-16gb-gddr7",
+    "price_cents": 167095,
+    "retailer_sku": "PROD-037653",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:20:00.970Z"
+  },
+  {
+    "ean": null,
+    "mpn": "911-7E80-002",
+    "name": "Placa Base MSI PRO B850-S WIFI6E Socket AM5 ",
+    "brand": "MSI",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/msi-placa-base-pro-b850-s-wifi6e-atx-am5",
+    "price_cents": 14995,
+    "retailer_sku": "PROD-041189",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:20:07.670Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1LY0-M0EAY0",
+    "name": "Placa Base Asus X870 MAX GAMING WIFI7 Socket AM5 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-x870-max-gaming-wifi7-socket-am5",
+    "price_cents": 24395,
+    "retailer_sku": "PROD-038570",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:20:13.368Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1IS0-M0EAY0",
+    "name": "Placa Base Asus Prime X870-P WIFI Socket AM5 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-prime-x870-p-wifi-socket-am5",
+    "price_cents": 23495,
+    "retailer_sku": "PROD-035966",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:20:18.730Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1M20-M0EAY0",
+    "name": "Placa Base Asus TUF Gaming B650E-PLUS WIFI Socket AM5 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-tuf-gaming-b650e-plus-wifi-socket-am5",
+    "price_cents": 14995,
+    "retailer_sku": "PROD-043991",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:20:24.582Z"
+  },
+  {
+    "ean": null,
+    "mpn": "X870 AORUS STEALTH",
+    "name": "Placa Base Gigabyte X870 AORUS STEALTH W7 Socket AM5 ",
+    "brand": "Gigabyte",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/gigabyte-x870-aorus-stealth-w7-socket-am5",
+    "price_cents": 31995,
+    "retailer_sku": "PROD-048358",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:20:31.307Z"
+  },
+  {
+    "ean": null,
+    "mpn": "B650 EAGLE AX",
+    "name": "Placa Base Gigabyte B650 EAGLE AX Socket AM5 ",
+    "brand": "Gigabyte",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/gigabyte-b650-eagle-ax-socket-am5",
+    "price_cents": 11995,
+    "retailer_sku": "PROD-032406",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:20:39.776Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1BP0-M0EAY0",
+    "name": "Placa Base Asus ROG Strix B650-A Gaming WIFI Socket AM5 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-rog-strix-b650-a-gaming-wifi-socket-am5",
+    "price_cents": 19995,
+    "retailer_sku": "PROD-021896",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:20:47.898Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1LD0-M0EAY0",
+    "name": "Placa Base Asus MAX GAMING WIFI B650E Socket AM5 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-max-gaming-wifi-b650e-socket-am5",
+    "price_cents": 14995,
+    "retailer_sku": "PROD-038476",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:20:54.376Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1J30-M0EAY0",
+    "name": "Placa Base Asus TUF Gaming B850-PLUS WIFI Socket AM5 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-tuf-gaming-b850-plus-wifi-socket-am5",
+    "price_cents": 19995,
+    "retailer_sku": "PROD-037284",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:00.579Z"
+  },
+  {
+    "ean": null,
+    "mpn": "9MB85GW-00-G10",
+    "name": "Placa Base Gigabyte B850 Gaming WIFI6 Socket AM5 ",
+    "brand": "Gigabyte",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/gigabyte-b850-gaming-wifi6-socket-am5",
+    "price_cents": 15995,
+    "retailer_sku": "PROD-038209",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:05.187Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1BZ0-M0EAY0",
+    "name": "Placa Base Asus TUF Gaming B650-PLUS WIFI Socket AM5 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-tuf-gaming-b650-plus-wifi-socket-am5",
+    "price_cents": 14995,
+    "retailer_sku": "PROD-021898",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:11.684Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1BB0-M0EAY0",
+    "name": "Placa Base Asus ROG Strix B650E-E Gaming WIFI Socket AM5 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-rog-strix-b650e-e-gaming-wifi-socket-am5",
+    "price_cents": 24995,
+    "retailer_sku": "PROD-021894",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:18.271Z"
+  },
+  {
+    "ean": null,
+    "mpn": "9MX87GW-00-10",
+    "name": "Placa Base Gigabyte X870 Gaming WIFI6 Socket AM5 ",
+    "brand": "Gigabyte",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/gigabyte-x870-gaming-wifi-socket-am5",
+    "price_cents": 20495,
+    "retailer_sku": "PROD-036903",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:25.290Z"
+  },
+  {
+    "ean": null,
+    "mpn": "911-7E56-05S",
+    "name": "Placa Base MSI B850 GAMING PLUS WIFI Socket AM5 ",
+    "brand": "MSI",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/msi-b850-gaming-plus-wifi-socket-am5",
+    "price_cents": 17995,
+    "retailer_sku": "PROD-037258",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:31.584Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1JY0-M0EAY0",
+    "name": "Placa Base Asus Prime B860M-A WIFI Socket 1851 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-prime-b860m-a-wifi-socket-1851",
+    "price_cents": 16395,
+    "retailer_sku": "PROD-037277",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:36.977Z"
+  },
+  {
+    "ean": null,
+    "mpn": "911-7E80-001",
+    "name": "Placa Base MSI B850 GAMING PLUS WIFI6E Socket AM5 ",
+    "brand": "MSI",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/msi-b850-gaming-plus-wifi6e",
+    "price_cents": 17995,
+    "retailer_sku": "PROD-041203",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:42.538Z"
+  },
+  {
+    "ean": null,
+    "mpn": "CMH8GX5M1B5200C40",
+    "name": "Memoria DDR5 Corsair Vengeance RGB 8GB 1x8GB 5200MHz CL40 XMP ",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rgb-8gb-1x8gb-5200mhz-cl40-xmp",
+    "price_cents": 15495,
+    "retailer_sku": "PROD-045243",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:49.322Z"
+  },
+  {
+    "ean": null,
+    "mpn": "U6000C3616G-DTLABRBK",
+    "name": "Memoria DDR5 Adata XPG Lancer Blade RGB 16GB 2x8GB 6000MHz CL36 EXPO-XMP Negro ",
+    "brand": "A-Data Technology",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/adata-xpg-lancer-blade-rgb-16gb-2x8gb-6000mhz-cl36-expo-xmp-negro",
+    "price_cents": 45995,
+    "retailer_sku": "PROD-038148",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:21:56.394Z"
+  },
+  {
+    "ean": null,
+    "mpn": "CMK5X8G1A52C40B2",
+    "name": "Memoria DDR5 Corsair Vengeance 8GB 1x8GB 5200MHz CL40 XMP 3.0 Negro OEM ",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-8gb-1x8gb-5200mhz-cl40-xmp-3-0-negro-oem",
+    "price_cents": 14996,
+    "retailer_sku": "PROD-045425",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:02.286Z"
+  },
+  {
+    "ean": null,
+    "mpn": "CMK16GX4M1E3200C16",
+    "name": "Memoria DDR4 Corsair Vengeance LPX Black 16GB 1x16GB 3200MHz CL16 ",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-lpx-black-16gb-1x16gb-3200mhz-pc4-25600-cl16-memoria-ddr4",
+    "price_cents": 14995,
+    "retailer_sku": "PROD-010303",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:07.402Z"
+  },
+  {
+    "ean": null,
+    "mpn": "LD5U16G60C380V-RGS",
+    "name": "Memoria DDR5 Lexar THOR 2.0 16GB 1x16GB 6000MHz CL38 EXPO-XMP ",
+    "brand": "Lexar",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/lexar-thor-2-0-16gb-1x16gb-6000mhz-cl38-expo-xmp",
+    "price_cents": 24995,
+    "retailer_sku": "PROD-048922",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:13.222Z"
+  },
+  {
+    "ean": null,
+    "mpn": "LD4AU016G-B3200GSST",
+    "name": "Memoria DDR4 Lexar LD4AU016G-B3200GSST 16GB 1x16GB 3200MHz CL22 ",
+    "brand": "Lexar",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/lexar-ld4au016g-b3200gsst-16gb-1x16gb-3200mhz-cl22",
+    "price_cents": 13995,
+    "retailer_sku": "PROD-031022",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:19.295Z"
+  },
+  {
+    "ean": null,
+    "mpn": "TED48G3200C2201",
+    "name": "Memoria DDR4 Team Group Elite 8GB 1x8GB 3200MHz CL22 ",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-elite-8gb-1x8gb-3200mhz-cl22",
+    "price_cents": 7495,
+    "retailer_sku": "PROD-026810",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:25.768Z"
+  },
+  {
+    "ean": null,
+    "mpn": "F4-3200C16S-8GIS",
+    "name": "Memoria DDR4 G.Skill Aegis 8GB 1x8GB 3200MHz CL16 ",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-aegis-8gb-1x8gb-3200mhz-cl16",
+    "price_cents": 7495,
+    "retailer_sku": "PROD-026115",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:31.572Z"
+  },
+  {
+    "ean": null,
+    "mpn": "LD5U16G60C380V-RGD",
+    "name": "Memoria DDR5 Lexar THOR 2.0 32GB 2x16GB 6000MHz CL38 EXPO-XMP ",
+    "brand": "Lexar",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/lexar-thor-2-0-32gb-2x16gb-6000mhz-cl38-expo-xmp",
+    "price_cents": 52995,
+    "retailer_sku": "PROD-048842",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:36.981Z"
+  },
+  {
+    "ean": null,
+    "mpn": "LD5U08G60C380V-RGD",
+    "name": "Memoria DDR5 Lexar THOR 2nd Gen 16GB 2x8GB 6000MHz CL38 EXPO-XMP Negra ",
+    "brand": "Lexar",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/lexar-thor-2nd-gen-16gb-2x8gb-6000mhz-cl38-expo-xmp-negra",
+    "price_cents": 29995,
+    "retailer_sku": "PROD-048843",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:43.083Z"
+  },
+  {
+    "ean": null,
+    "mpn": "PVV532G600C36K",
+    "name": "Memoria DDR5 Patriot Viper Venom 32GB 2x16GB 6000MHz CL36 ",
+    "brand": "Patriot Memory",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/patriot-viper-venom-32gb-2x16gb-6000mhz-cl36",
+    "price_cents": 59995,
+    "retailer_sku": "PROD-026273",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:49.664Z"
+  },
+  {
+    "ean": null,
+    "mpn": "PVV532G600C30K",
+    "name": "Memoria DDR5 Patriot Viper Venom 32GB 2x16GB 6000MHz CL30 EXPO-XMP Negro ",
+    "brand": "Patriot Memory",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/patriot-viper-venom-32gb-2x16gb-6000mhz-cl30-expo-xmp-negro",
+    "price_cents": 59795,
+    "retailer_sku": "PROD-046538",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:22:56.482Z"
+  },
+  {
+    "ean": null,
+    "mpn": "CMP32GX5M2B6400C32",
+    "name": "Memoria DDR5 Corsair Dominator Titanium RGB 32GB 2x16GB 6400MHz CL32 XMP Negro ",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-dominator-titanium-rgb-32gb-2x16gb-6400mhz-cl32-xmp-negro",
+    "price_cents": 93695,
+    "retailer_sku": "PROD-034303",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:23:03.173Z"
+  },
+  {
+    "ean": null,
+    "mpn": "MD16GSD43200-SI",
+    "name": "Memoria DDR4 PNY 16GB 1x16GB 3200Mhz CL22 Bulk ",
+    "brand": "PNY",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/pny-16gb-1x16gb-3200mhz-cl22-bulk",
+    "price_cents": 12995,
+    "retailer_sku": "PROD-046777",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:23:08.687Z"
+  },
+  {
+    "ean": null,
+    "mpn": "CMP32GX5M2B6000C30",
+    "name": "Memoria DDR5 Corsair Dominator Titanium RGB 32GB 2x16GB 6000MHz CL30 XMP Negro ",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-dominator-titanium-rgb-32-gb-2-x16gb-6000mhz-cl30-xmp-negro",
+    "price_cents": 103195,
+    "retailer_sku": "PROD-034285",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:23:14.778Z"
+  },
+  {
+    "ean": null,
+    "mpn": "MD16GSD55600-BLK",
+    "name": "Memoria DDR5 PNY 16GB 1x16GB 5600MHz CL46 Bulk  ",
+    "brand": "PNY",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/pny-16gb-1x16gb-5600mhz-cl46-bulk-tray",
+    "price_cents": 32995,
+    "retailer_sku": "PROD-048386",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:23:20.977Z"
+  },
+  {
+    "ean": null,
+    "mpn": "CMK32GX5M2B6000C38",
+    "name": "Memoria DDR5 Corsair Vengeance 32GB 2x16GB 6000MHz CL38 XMP Negro ",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-cmk32gx5m2b6000c38-32gb-2x16gb-6000mhz-cl38-xmp-negro",
+    "price_cents": 64995,
+    "retailer_sku": "PROD-036327",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:23:27.370Z"
+  }
+]

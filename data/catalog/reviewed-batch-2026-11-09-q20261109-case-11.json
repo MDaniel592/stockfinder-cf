@@ -1,0 +1,130 @@
+[
+ {
+  "id": "fractal-design-north-chalk-white-fd-c-nor1c-03",
+  "slug": "fractal-design-north-chalk-white-fd-c-nor1c-03",
+  "name": "Fractal Design North Chalk White (FD-C-NOR1C-03)",
+  "category_id": "case",
+  "brand": "Fractal Design",
+  "mpn": "FD-C-NOR1C-03",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.fractal-design.com/products/cases/north/north/chalk-white/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Malla",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "355 mm",
+   "Altura disipador máxima": "145 mm",
+   "Ventiladores incluidos": "2 × 140 mm (Aspect 14 PWM, frontal)",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "447 × 215 × 469 mm"
+  }
+ },
+ {
+  "id": "fractal-design-north-charcoal-black-fd-c-nor1c-01",
+  "slug": "fractal-design-north-charcoal-black-fd-c-nor1c-01",
+  "name": "Fractal Design North Charcoal Black (FD-C-NOR1C-01)",
+  "category_id": "case",
+  "brand": "Fractal Design",
+  "mpn": "FD-C-NOR1C-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.fractal-design.com/products/cases/north/north/charcoal-black/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Malla",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "355 mm",
+   "Altura disipador máxima": "145 mm",
+   "Ventiladores incluidos": "2 × 140 mm (Aspect 14 PWM, frontal)",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "447 × 215 × 469 mm"
+  }
+ },
+ {
+  "id": "fractal-design-north-xl-chalk-white-mesh-fd-c-nor1x-03",
+  "slug": "fractal-design-north-xl-chalk-white-mesh-fd-c-nor1x-03",
+  "name": "Fractal Design North XL Chalk White Mesh (FD-C-NOR1X-03)",
+  "category_id": "case",
+  "brand": "Fractal Design",
+  "mpn": "FD-C-NOR1X-03",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.fractal-design.com/products/cases/north/north-xl/chalk-white/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Malla",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "413 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "3 × 140 mm (Aspect 14 PWM, frontal)",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "503 × 240 × 509 mm"
+  }
+ },
+ {
+  "id": "fractal-design-pop-2-air-white-tg-rgb-fd-c-poa2a-04",
+  "slug": "fractal-design-pop-2-air-white-tg-rgb-fd-c-poa2a-04",
+  "name": "Fractal Design Pop 2 Air White TG RGB (FD-C-POA2A-04)",
+  "category_id": "case",
+  "brand": "Fractal Design",
+  "mpn": "FD-C-POA2A-04",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.fractal-design.com/products/cases/pop/pop-2-air/white-tg/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "416 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "3 × 120 mm (Aspect 12X)",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "481 × 215 × 462 mm"
+  }
+ },
+ {
+  "id": "fractal-design-define-7-compact-black-solid-fd-c-def7c-01",
+  "slug": "fractal-design-define-7-compact-black-solid-fd-c-def7c-01",
+  "name": "Fractal Design Define 7 Compact Black Solid (FD-C-DEF7C-01)",
+  "category_id": "case",
+  "brand": "Fractal Design",
+  "mpn": "FD-C-DEF7C-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.fractal-design.com/products/cases/define/define-7-compact/black-solid/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "341 mm",
+   "Altura disipador máxima": "169 mm",
+   "Ventiladores incluidos": "1 × 120 mm (trasero) + 1 × 140 mm (frontal)",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "427 × 210 × 474 mm"
+  }
+ },
+ {
+  "id": "nox-hummer-vision-blanco-nxhummervsnwh",
+  "slug": "nox-hummer-vision-blanco-nxhummervsnwh",
+  "name": "NOX Hummer Vision Blanco (NXHUMMERVSNWH)",
+  "category_id": "case",
+  "brand": "NOX",
+  "mpn": "NXHUMMERVSNWH",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.nox-xtreme.com/en/chassis/hummer-vision-white",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "300 mm",
+   "Altura disipador máxima": "165 mm",
+   "Dimensiones": "212 × 487 × 346 mm (ancho × alto × fondo)"
+  }
+ }
+]

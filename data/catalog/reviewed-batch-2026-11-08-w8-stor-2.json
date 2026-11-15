@@ -1,0 +1,840 @@
+[
+  {
+    "id": "kingston-nv3-500gb",
+    "slug": "kingston-nv3-500gb",
+    "name": "Kingston NV3 500 GB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SNV3S/500G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "specs_verified_at": "2026-11-08T15:53:02Z",
+    "specs": {
+      "Capacidad": "500 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "3000 MB/s",
+      "Resistencia": "160 TBW",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-nv3-1tb",
+    "slug": "kingston-nv3-1tb",
+    "name": "Kingston NV3 1 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SNV3S/1000G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "specs_verified_at": "2026-11-08T15:53:02Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "6000 MB/s",
+      "Escritura secuencial": "4000 MB/s",
+      "Resistencia": "320 TBW",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-nv3-2tb",
+    "slug": "kingston-nv3-2tb",
+    "name": "Kingston NV3 2 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SNV3S/2000G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "specs_verified_at": "2026-11-08T15:53:02Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "6000 MB/s",
+      "Escritura secuencial": "5000 MB/s",
+      "Resistencia": "640 TBW",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-nv3-4tb",
+    "slug": "kingston-nv3-4tb",
+    "name": "Kingston NV3 4 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SNV3S/4000G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "specs_verified_at": "2026-11-08T15:53:02Z",
+    "specs": {
+      "Capacidad": "4 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "6000 MB/s",
+      "Escritura secuencial": "5000 MB/s",
+      "Resistencia": "1280 TBW",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-nv3-2230-500gb",
+    "slug": "kingston-nv3-2230-500gb",
+    "name": "Kingston NV3 M.2 2230 500 GB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SNV3SM3/500G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "specs_verified_at": "2026-11-08T15:53:02Z",
+    "specs": {
+      "Capacidad": "500 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2230",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "3000 MB/s",
+      "Resistencia": "160 TBW",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-nv3-2230-1tb",
+    "slug": "kingston-nv3-2230-1tb",
+    "name": "Kingston NV3 M.2 2230 1 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SNV3SM3/1T0",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "specs_verified_at": "2026-11-08T15:53:02Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2230",
+      "Lectura secuencial": "6000 MB/s",
+      "Escritura secuencial": "4000 MB/s",
+      "Resistencia": "320 TBW",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-nv3-2230-2tb",
+    "slug": "kingston-nv3-2230-2tb",
+    "name": "Kingston NV3 M.2 2230 2 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SNV3SM3/2T0",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "specs_verified_at": "2026-11-08T15:53:02Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2230",
+      "Lectura secuencial": "6000 MB/s",
+      "Escritura secuencial": "5000 MB/s",
+      "Resistencia": "640 TBW",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-kc3000-512gb",
+    "slug": "kingston-kc3000-512gb",
+    "name": "Kingston KC3000 512 GB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SKC3000S/512G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/kc3000-nvme-m2-solid-state-drive",
+    "specs_verified_at": "2026-11-08T15:57:13Z",
+    "specs": {
+      "Capacidad": "512 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "3900 MB/s",
+      "Resistencia": "400 TBW",
+      "Controlador": "Phison E18",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.kingston.com/datasheets/KC3000_us.pdf",
+        "supports": "Datasheet oficial Kingston KC3000: tabla Part Numbers (SKC3000S/512G, SKC3000S/1024G, SKC3000D/2048G, SKC3000D/4096G), capacidades, velocidades, TBW, controlador Phison E18 y NAND 3D TLC."
+      }
+    ]
+  },
+  {
+    "id": "kingston-kc3000-1tb",
+    "slug": "kingston-kc3000-1tb",
+    "name": "Kingston KC3000 1 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SKC3000S/1024G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/kc3000-nvme-m2-solid-state-drive",
+    "specs_verified_at": "2026-11-08T15:57:13Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "6000 MB/s",
+      "Resistencia": "800 TBW",
+      "Controlador": "Phison E18",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.kingston.com/datasheets/KC3000_us.pdf",
+        "supports": "Datasheet oficial Kingston KC3000: tabla Part Numbers (SKC3000S/512G, SKC3000S/1024G, SKC3000D/2048G, SKC3000D/4096G), capacidades, velocidades, TBW, controlador Phison E18 y NAND 3D TLC."
+      }
+    ]
+  },
+  {
+    "id": "kingston-kc3000-2tb",
+    "slug": "kingston-kc3000-2tb",
+    "name": "Kingston KC3000 2 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SKC3000D/2048G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/kc3000-nvme-m2-solid-state-drive",
+    "specs_verified_at": "2026-11-08T15:57:13Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "7000 MB/s",
+      "Resistencia": "1600 TBW",
+      "Controlador": "Phison E18",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.kingston.com/datasheets/KC3000_us.pdf",
+        "supports": "Datasheet oficial Kingston KC3000: tabla Part Numbers (SKC3000S/512G, SKC3000S/1024G, SKC3000D/2048G, SKC3000D/4096G), capacidades, velocidades, TBW, controlador Phison E18 y NAND 3D TLC."
+      }
+    ]
+  },
+  {
+    "id": "kingston-kc3000-4tb",
+    "slug": "kingston-kc3000-4tb",
+    "name": "Kingston KC3000 4 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SKC3000D/4096G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/kc3000-nvme-m2-solid-state-drive",
+    "specs_verified_at": "2026-11-08T15:57:13Z",
+    "specs": {
+      "Capacidad": "4 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "7000 MB/s",
+      "Resistencia": "3200 TBW",
+      "Controlador": "Phison E18",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.kingston.com/datasheets/KC3000_us.pdf",
+        "supports": "Datasheet oficial Kingston KC3000: tabla Part Numbers (SKC3000S/512G, SKC3000S/1024G, SKC3000D/2048G, SKC3000D/4096G), capacidades, velocidades, TBW, controlador Phison E18 y NAND 3D TLC."
+      }
+    ]
+  },
+  {
+    "id": "kingston-fury-renegade-g5-1tb",
+    "slug": "kingston-fury-renegade-g5-1tb",
+    "name": "Kingston FURY Renegade G5 1 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SFYR2S/1T0",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-g5-nvme-m2-ssd",
+    "specs_verified_at": "2026-11-08T15:57:41Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "14200 MB/s",
+      "Escritura secuencial": "11000 MB/s",
+      "Resistencia": "1000 TBW",
+      "Controlador": "Silicon Motion SM2508",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-fury-renegade-g5-2tb",
+    "slug": "kingston-fury-renegade-g5-2tb",
+    "name": "Kingston FURY Renegade G5 2 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SFYR2S/2T0",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-g5-nvme-m2-ssd",
+    "specs_verified_at": "2026-11-08T15:57:41Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "14700 MB/s",
+      "Escritura secuencial": "14000 MB/s",
+      "Resistencia": "2000 TBW",
+      "Controlador": "Silicon Motion SM2508",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-fury-renegade-g5-4tb",
+    "slug": "kingston-fury-renegade-g5-4tb",
+    "name": "Kingston FURY Renegade G5 4 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SFYR2S/4T0",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-g5-nvme-m2-ssd",
+    "specs_verified_at": "2026-11-08T15:57:41Z",
+    "specs": {
+      "Capacidad": "4 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "14800 MB/s",
+      "Escritura secuencial": "14000 MB/s",
+      "Resistencia": "4000 TBW",
+      "Controlador": "Silicon Motion SM2508",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-fury-renegade-g5-8tb",
+    "slug": "kingston-fury-renegade-g5-8tb",
+    "name": "Kingston FURY Renegade G5 8 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SFYR2D/8T1",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-g5-nvme-m2-ssd",
+    "specs_verified_at": "2026-11-08T15:57:41Z",
+    "specs": {
+      "Capacidad": "8 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "14800 MB/s",
+      "Escritura secuencial": "14000 MB/s",
+      "Resistencia": "8000 TBW",
+      "Controlador": "Silicon Motion SM2508",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-fury-renegade-2tb-heatsink",
+    "slug": "kingston-fury-renegade-2tb-heatsink",
+    "name": "Kingston FURY Renegade 2 TB con disipador",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SFYRDK/2000G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-nvme-m2-ssd/",
+    "specs_verified_at": "2026-11-08T15:58:36Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "Sí",
+      "Lectura secuencial": "7300 MB/s",
+      "Escritura secuencial": "7000 MB/s",
+      "Resistencia": "2000 TBW",
+      "Controlador": "Phison E18",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.kingston.com/datasheets/SFYR_en.pdf",
+        "supports": "Datasheet oficial Kingston FURY Renegade PCIe 4.0 (M.2 2280 con heatsink): tabla Part Numbers SFYRSK/1000G, SFYRDK/2000G, SFYRDK/4000G; velocidades, resistencia, Phison E18 y 3D TLC."
+      }
+    ]
+  },
+  {
+    "id": "kingston-fury-renegade-4tb-heatsink",
+    "slug": "kingston-fury-renegade-4tb-heatsink",
+    "name": "Kingston FURY Renegade 4 TB con disipador",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SFYRDK/4000G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-nvme-m2-ssd/",
+    "specs_verified_at": "2026-11-08T15:58:36Z",
+    "specs": {
+      "Capacidad": "4 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "Sí",
+      "Lectura secuencial": "7300 MB/s",
+      "Escritura secuencial": "7000 MB/s",
+      "Resistencia": "4000 TBW",
+      "Controlador": "Phison E18",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.kingston.com/datasheets/SFYR_en.pdf",
+        "supports": "Datasheet oficial Kingston FURY Renegade PCIe 4.0 (M.2 2280 con heatsink): tabla Part Numbers SFYRSK/1000G, SFYRDK/2000G, SFYRDK/4000G; velocidades, resistencia, Phison E18 y 3D TLC."
+      }
+    ]
+  },
+  {
+    "id": "kingston-dc3000me-3-84tb",
+    "slug": "kingston-dc3000me-3-84tb",
+    "name": "Kingston DC3000ME 3,84 TB",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SEDC3000ME/3T8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/dc3000me-data-center-solid-state-drive",
+    "specs_verified_at": "2026-11-08T15:58:53Z",
+    "specs": {
+      "Capacidad": "3,84 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "U.2 2,5\" x 15 mm",
+      "Lectura secuencial": "14000 MB/s",
+      "Escritura secuencial": "5800 MB/s",
+      "Resistencia": "7008 TBW",
+      "Tipo de NAND": "3D eTLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kingston-dc2000b-240gb-no-heatsink",
+    "slug": "kingston-dc2000b-240gb-no-heatsink",
+    "name": "Kingston DC2000B 240 GB sin disipador",
+    "category_id": "storage",
+    "brand": "Kingston",
+    "mpn": "SEDC2000BYM8/240G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.kingston.com/en/ssd/dc2000b-data-center-solid-state-drive",
+    "specs_verified_at": "2026-11-08T15:59:13Z",
+    "specs": {
+      "Capacidad": "240 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "4500 MB/s",
+      "Escritura secuencial": "400 MB/s",
+      "Resistencia": "175 TBW",
+      "Tipo de NAND": "3D TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kioxia-exceria-plus-g3-1tb",
+    "slug": "kioxia-exceria-plus-g3-1tb",
+    "name": "Kioxia EXCERIA PLUS G3 1 TB",
+    "category_id": "storage",
+    "brand": "Kioxia",
+    "mpn": "LSD10Z001TG8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-plus-g3-nvme-ssd.html",
+    "specs_verified_at": "2026-11-08T15:59:51Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "3900 MB/s",
+      "Resistencia": "600 TBW",
+      "Tipo de NAND": "BiCS FLASH TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kioxia-exceria-plus-g3-2tb",
+    "slug": "kioxia-exceria-plus-g3-2tb",
+    "name": "Kioxia EXCERIA PLUS G3 2 TB",
+    "category_id": "storage",
+    "brand": "Kioxia",
+    "mpn": "LSD10Z002TG8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-plus-g3-nvme-ssd.html",
+    "specs_verified_at": "2026-11-08T15:59:51Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "5000 MB/s",
+      "Escritura secuencial": "3900 MB/s",
+      "Resistencia": "1200 TBW",
+      "Tipo de NAND": "BiCS FLASH TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kioxia-exceria-pro-g2-1tb",
+    "slug": "kioxia-exceria-pro-g2-1tb",
+    "name": "Kioxia EXCERIA PRO G2 1 TB",
+    "category_id": "storage",
+    "brand": "Kioxia",
+    "mpn": "LVE10Z1T02G8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-pro-g2.html",
+    "specs_verified_at": "2026-11-08T16:00:34Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "14400 MB/s",
+      "Escritura secuencial": "12700 MB/s",
+      "Resistencia": "600 TBW",
+      "Tipo de NAND": "BiCS FLASH TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kioxia-exceria-pro-g2-4tb",
+    "slug": "kioxia-exceria-pro-g2-4tb",
+    "name": "Kioxia EXCERIA PRO G2 4 TB",
+    "category_id": "storage",
+    "brand": "Kioxia",
+    "mpn": "LVE10Z4T09G8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-pro-g2.html",
+    "specs_verified_at": "2026-11-08T16:00:34Z",
+    "specs": {
+      "Capacidad": "4 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "14900 MB/s",
+      "Escritura secuencial": "13700 MB/s",
+      "Resistencia": "2400 TBW",
+      "Tipo de NAND": "BiCS FLASH TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kioxia-exceria-plus-g4-1tb",
+    "slug": "kioxia-exceria-plus-g4-1tb",
+    "name": "Kioxia EXCERIA PLUS G4 1 TB",
+    "category_id": "storage",
+    "brand": "Kioxia",
+    "mpn": "LVD10Z001TG8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-plus-g4-nvme-ssd.html",
+    "specs_verified_at": "2026-11-08T16:01:05Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "10000 MB/s",
+      "Escritura secuencial": "7900 MB/s",
+      "Resistencia": "600 TBW",
+      "Tipo de NAND": "BiCS FLASH TLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kioxia-exceria-g3-1tb",
+    "slug": "kioxia-exceria-g3-1tb",
+    "name": "Kioxia EXCERIA G3 1 TB",
+    "category_id": "storage",
+    "brand": "Kioxia",
+    "mpn": "LVC10Z001TG8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-g3.html",
+    "specs_verified_at": "2026-11-08T16:01:20Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "10000 MB/s",
+      "Escritura secuencial": "8900 MB/s",
+      "Resistencia": "600 TBW",
+      "Tipo de NAND": "BiCS FLASH QLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "kioxia-exceria-g3-2tb",
+    "slug": "kioxia-exceria-g3-2tb",
+    "name": "Kioxia EXCERIA G3 2 TB",
+    "category_id": "storage",
+    "brand": "Kioxia",
+    "mpn": "LVC10Z002TG8",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-g3.html",
+    "specs_verified_at": "2026-11-08T16:01:20Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "10000 MB/s",
+      "Escritura secuencial": "9600 MB/s",
+      "Resistencia": "1200 TBW",
+      "Tipo de NAND": "BiCS FLASH QLC",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "lexar-nm790-1tb",
+    "slug": "lexar-nm790-1tb",
+    "name": "Lexar NM790 1 TB",
+    "category_id": "storage",
+    "brand": "Lexar",
+    "mpn": "LNM790X001T-RNNNG",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.lexar.com/global/products/Lexar-NM790-M-2-2280-PCIe-Gen-4x4-NVMe-SSD/",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7400 MB/s",
+      "Escritura secuencial": "6500 MB/s",
+      "Resistencia": "1000 TBW",
+      "Tipo de NAND": "3D TLC NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "lexar-nm790-2tb",
+    "slug": "lexar-nm790-2tb",
+    "name": "Lexar NM790 2 TB",
+    "category_id": "storage",
+    "brand": "Lexar",
+    "mpn": "LNM790X002T-RNNNG",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.lexar.com/global/products/Lexar-NM790-M-2-2280-PCIe-Gen-4x4-NVMe-SSD/",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7400 MB/s",
+      "Escritura secuencial": "6500 MB/s",
+      "Resistencia": "1500 TBW",
+      "Tipo de NAND": "3D TLC NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "lexar-nm790-4tb",
+    "slug": "lexar-nm790-4tb",
+    "name": "Lexar NM790 4 TB",
+    "category_id": "storage",
+    "brand": "Lexar",
+    "mpn": "LNM790X004T-RNNNG",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.lexar.com/global/products/Lexar-NM790-M-2-2280-PCIe-Gen-4x4-NVMe-SSD/",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "4 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7400 MB/s",
+      "Escritura secuencial": "6500 MB/s",
+      "Resistencia": "3000 TBW",
+      "Tipo de NAND": "3D TLC NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "lexar-nm790-8tb",
+    "slug": "lexar-nm790-8tb",
+    "name": "Lexar NM790 8 TB",
+    "category_id": "storage",
+    "brand": "Lexar",
+    "mpn": "LNM790X008T-RNNNG",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.lexar.com/global/products/Lexar-NM790-M-2-2280-PCIe-Gen-4x4-NVMe-SSD/",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "8 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "6200 MB/s",
+      "Resistencia": "6000 TBW",
+      "Tipo de NAND": "3D TLC NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "lexar-nq790-1tb",
+    "slug": "lexar-nq790-1tb",
+    "name": "Lexar NQ790 1 TB",
+    "category_id": "storage",
+    "brand": "Lexar",
+    "mpn": "LNQ790X001T-RNNNG",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.lexar.com/global/products/Lexar-NQ790-PCIe-4-0-SSD/",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "6000 MB/s",
+      "Resistencia": "600 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "lexar-nq790-2tb",
+    "slug": "lexar-nq790-2tb",
+    "name": "Lexar NQ790 2 TB",
+    "category_id": "storage",
+    "brand": "Lexar",
+    "mpn": "LNQ790X002T-RNNNG",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.lexar.com/global/products/Lexar-NQ790-PCIe-4-0-SSD/",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7000 MB/s",
+      "Escritura secuencial": "6000 MB/s",
+      "Resistencia": "1200 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "lexar-nm990-4tb",
+    "slug": "lexar-nm990-4tb",
+    "name": "Lexar NM990 4 TB",
+    "category_id": "storage",
+    "brand": "Lexar",
+    "mpn": "LNM990X004T-RNNNG",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.lexar.com/global/products/Lexar-NM990-M-2-2280-PCIe-5-0-NVMe-SSD/",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "4 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "14000 MB/s",
+      "Escritura secuencial": "11000 MB/s",
+      "Resistencia": "3000 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "msi-spatium-m560-1-tb",
+    "slug": "msi-spatium-m560-1-tb",
+    "name": "MSI SPATIUM M560 1 TB",
+    "category_id": "storage",
+    "brand": "MSI",
+    "mpn": "S78-440L0F0-P83",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://pl-store.msi.com/products/spatium-m560-pcie-5-0-nvme-m-2-1tb",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "10200 MB/s",
+      "Escritura secuencial": "8400 MB/s",
+      "Resistencia": "600 TBW",
+      "Controlador": "PHISON E31T",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "msi-spatium-m560-2-tb",
+    "slug": "msi-spatium-m560-2-tb",
+    "name": "MSI SPATIUM M560 2 TB",
+    "category_id": "storage",
+    "brand": "MSI",
+    "mpn": "S78-440Q940-P83",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://pl-store.msi.com/products/spatium-m560-pcie-5-0-nvme-m-2-2tb",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "10300 MB/s",
+      "Escritura secuencial": "8700 MB/s",
+      "Resistencia": "1200 TBW",
+      "Controlador": "PHISON E31T",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "msi-spatium-m470-pro-1-tb",
+    "slug": "msi-spatium-m470-pro-1-tb",
+    "name": "MSI SPATIUM M470 PRO 1 TB",
+    "category_id": "storage",
+    "brand": "MSI",
+    "mpn": "S78-440L0J0-P83",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://pl-store.msi.com/products/spatium-m470-pro-pcie-4-0-nvme-m-2-1tb",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "6000 MB/s",
+      "Escritura secuencial": "4500 MB/s",
+      "Resistencia": "320 TBW",
+      "Controlador": "PHISON E27T",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "msi-spatium-m480-pro-2-tb",
+    "slug": "msi-spatium-m480-pro-2-tb",
+    "name": "MSI SPATIUM M480 PRO 2 TB",
+    "category_id": "storage",
+    "brand": "MSI",
+    "mpn": "S78-440Q600-P83",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://pl-store.msi.com/products/spatium-m480-pro-pcie-4-0-nvme-m-2-2tb",
+    "specs_verified_at": "2026-11-08T19:55:55Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "7400 MB/s",
+      "Escritura secuencial": "7000 MB/s",
+      "Resistencia": "1400 TBW",
+      "Controlador": "PHISON E18",
+      "Tipo de NAND": "3D NAND",
+      "Tipo": "SSD"
+    }
+  }
+]

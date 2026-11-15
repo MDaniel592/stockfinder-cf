@@ -1,0 +1,21 @@
+[
+  {
+    "id": "corsair-2500x-white-bamboo",
+    "slug": "corsair-2500x-white-bamboo",
+    "name": "Corsair 2500X White/Bamboo Wood",
+    "category_id": "case",
+    "brand": "Corsair",
+    "mpn": "CC-9011288-WW",
+    "manufacturer_url": "https://www.corsair.com/ww/en/p/pc-cases/CC-9011288-WW/2500x-micro-atx-dual-chamber-pc-case-white-bamboo-wood-cc-9011288-ww",
+    "specs_verified_at": "2026-11-08T22:06:05Z",
+    "specs": {
+      "Formatos de placa base": "Mini-ITX, Micro-ATX",
+      "Dimensiones": "376 × 304 × 469 mm",
+      "Longitud GPU máxima": "400 mm",
+      "Altura disipador máxima": "180 mm",
+      "Radiador superior/inferior máximo": "360 mm",
+      "Ventiladores incluidos": "Ninguno",
+      "Formato fuente": "ATX"
+    }
+  }
+]

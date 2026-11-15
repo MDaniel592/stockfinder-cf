@@ -1,0 +1,9 @@
+[
+ {
+  "product_id": "intel-core-ultra-7-265k",
+  "kind": "mpn",
+  "value": "BX80768265K",
+  "source_url": "https://www.pccomponentes.com/procesador-intel-core-ultra-7-265k-ia-integrada-3-3-5-5ghz-box",
+  "note": "Código BX80768265K impreso por la tienda para el Core Ultra 7 265K Box. Coincide literalmente con el Ordering Code Boxed (Spec Code SRQCW) de la ficha oficial https://www.intel.com/content/www/us/en/products/sku/241063/intel-core-ultra-7-processor-265k-30m-cache-up-to-5-50-ghz/ordering.html (criterio A); el producto canónico existente no tenía mpn registrado."
+ }
+]

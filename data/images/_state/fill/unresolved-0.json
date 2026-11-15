@@ -1,0 +1,182 @@
+[
+  {
+    "id": "asrock-b850m-challenger",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/MB/AMD/B850M%20Challenger/index.us.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b850m-pro-rs-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/mb/AMD/B850M%20Pro%20RS%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b860-lightning-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://pg.asrock.com/mb/Intel/B860%20Lightning%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b860m-pro-a-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/mb/Intel/B860M%20Pro-A%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b860-pro-rs",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/MB/Intel/B860%20Pro%20RS/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-h810m-h",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/mb/Intel/H810M-H/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-a620am-pro-a-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/mb/AMD/A620AM%20Pro-A%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b850m-steel-legend-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://asrock.com/mb/AMD/B850M%20Steel%20Legend%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-h810m-x",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/MB/Intel/H810M-X/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-h810m-x-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/mb/Intel/H810M-X%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b850m-riptide-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://pg.asrock.com/mb/AMD/B850M%20Riptide%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b860-pro-a",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/MB/Intel/B860%20Pro-A/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b860-pro-a-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/mb/Intel/B860%20Pro-A%20WIFI/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b850m-pro-a",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/MB/AMD/B850M%20Pro-A/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b850m-pro-a-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/mb/AMD/B850M%20Pro-A%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-x870-nova-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://pg.asrock.com/mb/AMD/X870%20Nova%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-x870-livemixer-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/mb/AMD/X870%20LiveMixer%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-z790-livemixer",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://asrock.com/mb/intel/z790%20livemixer/Specification.es.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b860m-lightning-wifi",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://pg.asrock.com/mb/Intel/B860M%20Lightning%20WiFi/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  },
+  {
+    "id": "asrock-b760m-hdv-m2-d4",
+    "reason": "sin procedencia: .webp existente (no en manifiesto) con foto de producto correcta (placa+caja, modelo coincide por nombre) pero la ficha asrock.com/pg.asrock.com sirve desafio Incapsula (robots.txt tambien) y no se puede verificar la URL de origen sin eludirlo; fichero conservado en su ruta",
+    "tried": [
+      "https://www.asrock.com/mb/Intel/B760M-HDVM.2%20D4/index.asp",
+      "https://www.asrock.com/robots.txt",
+      "https://pg.asrock.com/robots.txt"
+    ]
+  }
+]

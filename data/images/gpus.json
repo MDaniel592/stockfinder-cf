@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": "nvidia-geforce-rtx-5090",
+    "image_path": "/images/products/gpu/nvidia-geforce-rtx-5090.jpg",
+    "image_source_url": "https://www.nvidia.com/content/nvidiaGDC/us/en_US/geforce/graphics-cards/50-series/rtx-5090/_jcr_content/root/responsivegrid/nv_modalcontainer_170491730/nv_image.coreimg.jpeg/1788439977659/geforce-rtx-5090-gallery-shot-3-ari.jpeg",
+    "image_page_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5080",
+    "image_path": "/images/products/gpu/nvidia-geforce-rtx-5080.jpg",
+    "image_source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/graphic-cards/50-series/rtx-5080/geforce-rtx-5080-af550-t.jpg",
+    "image_page_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5070",
+    "image_path": "/images/products/gpu/nvidia-geforce-rtx-5070.png",
+    "image_source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/graphic-cards/50-series/5070-family/geforce-rtx-5070-banner-offset-bm-af-bottom-phone@2x.png",
+    "image_page_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "image_scope": "model"
+  },
+  {
+    "product_id": "intel-arc-b580",
+    "image_path": "/images/products/gpu/intel-arc-b580.jpg",
+    "image_source_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2024-12/newsroom-intel-arc-b580-2.jpg",
+    "image_page_url": "https://www.intel.com/content/www/us/en/newsroom/news/intel-launches-arc-b-series-graphics-cards.html",
+    "image_scope": "model"
+  }
+]

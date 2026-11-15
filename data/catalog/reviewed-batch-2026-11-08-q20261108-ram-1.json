@@ -1,0 +1,69 @@
+[
+  {
+    "id": "adata-ax4u320032g16a-dtbkd35",
+    "slug": "adata-ax4u320032g16a-dtbkd35",
+    "name": "ADATA XPG GAMMIX D35 64GB 2x32GB 3200MHz CL16 XMP",
+    "category_id": "ram",
+    "brand": "ADATA",
+    "mpn": "AX4U320032G16A-DTBKD35",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory.pdf",
+    "manufacturer_sources": [
+      "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Voltaje": "1.35 V",
+      "Perfil": "Intel XMP 2.0"
+    }
+  },
+  {
+    "id": "lexar-ld5u16g56c46st-hgn",
+    "slug": "lexar-ld5u16g56c46st-hgn",
+    "name": "Lexar DDR5 UDIMM 16GB 1x16GB 5600MHz CL46",
+    "category_id": "ram",
+    "brand": "Lexar",
+    "mpn": "LD5U16G56C46ST-HGN",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf",
+    "manufacturer_sources": [
+      "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf"
+    ],
+    "specs_verified_at": "2026-11-08T17:00:00Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL46",
+      "Voltaje": "1.1 V"
+    }
+  },
+  {
+    "id": "klevv-kd5agu880-60b280f",
+    "slug": "klevv-kd5agu880-60b280f",
+    "name": "KLEVV FIT V 32GB 2x16GB 6000MHz CL28 EXPO-XMP",
+    "category_id": "ram",
+    "brand": "Klevv",
+    "mpn": "KD5AGU880-60B280F",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/Klevv_FITV",
+    "manufacturer_sources": [
+      "https://www.klevv.com/ken/products_details/memory/Klevv_FITV"
+    ],
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL28",
+      "Perfil": "Intel XMP, AMD EXPO"
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "gembird-fornax-2000-rgb",
+    "slug": "gembird-fornax-2000-rgb",
+    "name": "Gembird Fornax 2000 RGB",
+    "category_id": "case",
+    "brand": "Gembird",
+    "mpn": "CCC-FC-2000",
+    "manufacturer_url": "https://gzhls.at/blob/ldb/e/3/8/f/85b9bd3b0b8b655c66a252050240467ff821.pdf",
+    "specs_verified_at": "2026-11-02T18:38:04Z",
+    "specs": {
+      "Formato": "Midi-tower",
+      "Placas base compatibles": "ATX, Micro-ATX, Mini-ITX",
+      "Fuente": "ATX, no incluida",
+      "Bahías internas": "2 × 2,5″ + 2 × 3,5″",
+      "Puertos": "1 × USB 3.1, 2 × USB 2.0, audio y micrófono",
+      "Ventiladores incluidos": "1 × 120 mm trasero RGB",
+      "Soporte para ventiladores": "Frontal: 3 × 120 mm o 2 × 140 mm; superior: 2 × 120 mm",
+      "Radiador": "Hasta 240 mm frontal",
+      "Altura máxima disipador CPU": "160 mm",
+      "Longitud máxima GPU": "310 mm",
+      "Color": "Negro",
+      "Ventana": "Cristal templado",
+      "Iluminación": "RGB"
+    }
+  },
+  {
+    "id": "einarex-zenith-z1k",
+    "slug": "einarex-zenith-z1k",
+    "name": "EINAREX ZENITH Z1K",
+    "category_id": "case",
+    "brand": "Einarex",
+    "manufacturer_url": "https://einarex.com/product/zenith-z1k/",
+    "specs_verified_at": "2026-11-02T18:38:04Z",
+    "specs": {
+      "Formato": "Mid-tower",
+      "Placas base compatibles": "E-ATX, ATX, Micro-ATX, Mini-ITX",
+      "Material": "Acero SPCC, ABS y cristal templado claro",
+      "Paneles de cristal": "Frontal y lateral abatibles; doble cristal templado",
+      "Dimensiones": "472 × 240 × 510 mm (con patas)",
+      "Ventiladores incluidos": "3 × 120 mm RGB laterales + 1 × 120 mm RGB trasero",
+      "Ventiladores soportados": "Hasta 10 × 120 mm; admite 140 mm arriba y atrás",
+      "Radiador": "Hasta 360 mm superior y lateral",
+      "Puertos": "1 × USB-C, 2 × USB 3.0, audio/micrófono combinado de 3,5 mm",
+      "Bahías": "4 × 2,5″ + 2 × 3,5″",
+      "Slots de expansión": "7",
+      "Longitud máxima GPU": "430 mm",
+      "Altura máxima disipador CPU": "180 mm",
+      "Longitud máxima fuente": "290 mm",
+      "Gestión de cables": "30 mm"
+    }
+  },
+  {
+    "id": "gembird-fornax-k300",
+    "slug": "gembird-fornax-k300",
+    "name": "Gembird Fornax K300",
+    "category_id": "case",
+    "brand": "Gembird",
+    "mpn": "CCC-FC-K300",
+    "manufacturer_url": "https://gmb-online.nl/egmb/ProductSheet.aspx?id=12504&lang=1",
+    "specs_verified_at": "2026-11-02T18:38:04Z",
+    "specs": {
+      "Formato": "Mini-tower",
+      "Placas base compatibles": "Micro-ATX, Mini-ITX",
+      "Fuente": "ATX, no incluida",
+      "Bahías": "3 × HDD, 1 × SSD, 1 × 5,25″",
+      "Ventiladores soportados": "Frontal/lateral: 120 mm opcional; trasero: 80 mm",
+      "Slots de expansión": "4",
+      "Material": "Acero SPCC de 0,4 mm",
+      "Puertos": "2 × USB 2.0, 2 × USB 3.0, HD audio",
+      "Dimensiones de la caja": "370 × 170 × 350 mm",
+      "Color": "Negro"
+    }
+  },
+  {
+    "id": "rampage-octagon-c60-white",
+    "slug": "rampage-octagon-c60-white",
+    "name": "Rampage OCTAGON C60 White",
+    "category_id": "cooler",
+    "brand": "Rampage",
+    "manufacturer_url": "https://www.rampage.com.tr/products/octagon-c60-beyaz-57cfm-1800rpm-2x12cm-argb-am5-lga1700-uyumlu-hava-sogutmali-cpu-fan",
+    "specs_verified_at": "2026-11-02T18:38:04Z",
+    "specs": {
+      "Tipo": "Disipador de CPU por aire",
+      "Color": "Blanco",
+      "Sockets compatibles": "AMD AM5; Intel LGA1700",
+      "Ventilador": "120 × 120 × 25 mm",
+      "Velocidad": "600–1600 RPM",
+      "Flujo de aire": "55 ± 10 % CFM",
+      "Ruido": "24–38 dBA",
+      "Rodamiento": "Hidráulico",
+      "Vida útil declarada": "40.000 h"
+    }
+  },
+  {
+    "id": "darkflash-dv360s-max-white",
+    "slug": "darkflash-dv360s-max-white",
+    "name": "darkFlash DV360S MAX White",
+    "category_id": "cooler",
+    "brand": "darkFlash",
+    "manufacturer_url": "https://www.darkflash.com/es/product/darkflash-dv360s-max",
+    "specs_verified_at": "2026-11-02T18:38:04Z",
+    "specs": {
+      "Tipo": "Refrigeración líquida AIO",
+      "Color": "Blanco",
+      "Radiador": "394 × 120 × 27 mm",
+      "Pantalla": "LCD de 480 × 480 px",
+      "Tuberías": "450 mm",
+      "Velocidad de la bomba": "2800 ± 10 % RPM",
+      "Ventiladores": "3 × 120 × 25 mm ARGB",
+      "Velocidad ventiladores": "800–2000 ± 10 % RPM",
+      "Flujo de aire": "68 CFM",
+      "Presión estática": "2,5 mmH₂O",
+      "Ruido": "30 dBA",
+      "Rodamiento ventilador": "FDB",
+      "Sockets compatibles": "Intel LGA115x/1200/1700/2011/2011-v3/2066; AMD AM4/AM5"
+    }
+  }
+]

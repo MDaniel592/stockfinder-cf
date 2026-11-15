@@ -1,0 +1,175 @@
+[
+ {
+  "id": "antec-cx-m2-argb-0-761345-10333-6",
+  "key": "Altura disipador máxima",
+  "reason": "La ficha oficial da valores contradictorios: «CPU cooler max height ≤ 155mm» en el resumen y «Max CPU Cooler Height ≤ 488mm» en la tabla de holguras (error evidente de la web).",
+  "tried": [
+   "https://www.antec.com/product/case/cxm2-argb"
+  ]
+ },
+ {
+  "id": "tacens-anima-acm500-microatx-con-fuente-500w-acm500",
+  "key": "Longitud GPU máxima",
+  "reason": "La ficha oficial da dos valores: «265mm - 239mm sin HDD» (no un único máximo en formato NNN mm).",
+  "tried": [
+   "https://tacens.es/componentes/acm500"
+  ]
+ },
+ {
+  "id": "coolbox-t360-slim-coo-pct360-2",
+  "key": "Formato fuente",
+  "reason": "La ficha oficial indica fuente TFX (T360: 300TBZ TFX; T370: TFX hasta 175 mm), formato que el vocabulario de Formato fuente (ATX, SFX-L, SFX) no admite; no se registra para no falsear.",
+  "tried": [
+   "https://shop.aodatacloud.es/wp-content/uploads/datasheet_coo-pct360-2.pdf"
+  ]
+ },
+ {
+  "id": "coolbox-t370-slim-coo-pct370-bz",
+  "key": "Formato fuente",
+  "reason": "La ficha oficial indica fuente TFX (T360: 300TBZ TFX; T370: TFX hasta 175 mm), formato que el vocabulario de Formato fuente (ATX, SFX-L, SFX) no admite; no se registra para no falsear.",
+  "tried": [
+   "https://shop.aodatacloud.es/wp-content/uploads/datasheet_coo-pct370-bz.pdf"
+  ]
+ },
+ {
+  "id": "coolbox-t370-slim-coo-pct370-1",
+  "key": "Formato fuente",
+  "reason": "La ficha oficial indica fuente TFX (T360: 300TBZ TFX; T370: TFX hasta 175 mm), formato que el vocabulario de Formato fuente (ATX, SFX-L, SFX) no admite; no se registra para no falsear.",
+  "tried": [
+   "https://shop.aodatacloud.es/wp-content/uploads/datasheet_coo-pct370-1.pdf"
+  ]
+ },
+ {
+  "id": "coolbox-t100-slim-coo-pct100-0",
+  "key": "Formato fuente",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-t100-slim/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-m680-coo-pcm680-1",
+  "key": "Longitud GPU máxima",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m680/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-ge2000-dualview-coo-cha-ge2000-0",
+  "key": "Panel lateral",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-ge2000-dualview/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-t450s-slim-cajcoot450s-bz",
+  "key": "Longitud GPU máxima",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atx-t450s-slim-usb-30/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-t450s-slim-cajcoot450s-bz",
+  "key": "Altura disipador máxima",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atx-t450s-slim-usb-30/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-t450s-slim-cajcoot450s-bz",
+  "key": "Panel lateral",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atx-t450s-slim-usb-30/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-t450s-slim-cajcoot450s-bz",
+  "key": "Formato fuente",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-micro-atx-t450s-slim-usb-30/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-m640c-coo-pcm640c-0",
+  "key": "Longitud GPU máxima",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-m640c-coo-pcm640c-0",
+  "key": "Panel lateral",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-m640c-coo-pcm640c-1",
+  "key": "Longitud GPU máxima",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-m640c-coo-pcm640c-1",
+  "key": "Panel lateral",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-micro-atx-m640c/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-gm350-darkface-coo-cha-gm350-0",
+  "key": "Longitud GPU máxima",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-micro-atx-gm350-darkface/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "coolbox-mp2-coo-cha-mp2-0",
+  "key": "Formato fuente",
+  "reason": "coolbox.es responde con captcha (SiteGround) a curl y WebFetch; no se encontró datasheet oficial del P/N exacto (el distribuidor solo aloja los de T360/T370). Sin ficha comprobable.",
+  "tried": [
+   "https://coolbox.es/producto/cajas-pc-y-componentes/cajas-para-pc/caja-para-pc-microatx-mp2/",
+   "búsqueda web datasheet P/N"
+  ]
+ },
+ {
+  "id": "mars-gaming-mciprow",
+  "key": "Longitud GPU máxima",
+  "reason": "La ficha oficial MC-IPRO da dos valores contradictorios para «Max VGA length» (315 mm y 320 mm) sin indicar a qué variante/condición corresponde.",
+  "tried": [
+   "https://marsgaming.eu/en/cases/mc-ipro"
+  ]
+ },
+ {
+  "id": "mars-gaming-mcipro",
+  "key": "Longitud GPU máxima",
+  "reason": "La ficha oficial MC-IPRO da dos valores contradictorios para «Max VGA length» (315 mm y 320 mm) sin indicar a qué variante/condición corresponde.",
+  "tried": [
+   "https://marsgaming.eu/en/cases/mc-ipro"
+  ]
+ }
+]

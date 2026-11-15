@@ -1,0 +1,16 @@
+[
+ {
+  "product_id": "samsung-990-pro-2tb",
+  "kind": "mpn",
+  "value": "MZ-V9P2T0BW",
+  "source_url": "https://www.pccomponentes.com/disco-duro-samsung-990-pro-2tb-disco-ssd-7450mb-s-nvme-pcie-4-0-m-2-gen4",
+  "note": "Código MZ-V9P2T0BW publicado en la ficha oficial https://www.samsung.com/de/memory-storage/nvme-ssd/990-pro-2tb-nvme-pcie-gen-4-mz-v9p2t0bw/ (990 PRO 2 TB, sin disipador); el producto catalogado carece de mpn, el alias permite enlazar la oferta."
+ },
+ {
+  "product_id": "samsung-9100-pro-2tb",
+  "kind": "mpn",
+  "value": "MZ-VAP2T0BW",
+  "source_url": "https://www.pccomponentes.com/disco-duro-samsung-9100-pro-mz-vap2t0bw-2tb-m-2-pcie-5-0-14700mb-s-plus-cifrado-avanzado",
+  "note": "Código MZ-VAP2T0BW publicado en la ficha oficial https://www.samsung.com/sg/memory-storage/nvme-ssd/9100-pro-2tb-nvme-pcie-gen-5-mz-vap2t0bw/ (9100 PRO 2 TB, sin disipador); el producto catalogado carece de mpn, el alias permite enlazar la oferta."
+ }
+]

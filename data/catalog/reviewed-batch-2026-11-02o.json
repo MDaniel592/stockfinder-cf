@@ -1,0 +1,144 @@
+[
+  {
+    "id": "asus-dual-rtx-3050-v2-oc-8gb",
+    "slug": "asus-dual-rtx-3050-v2-oc-8gb",
+    "name": "ASUS Dual GeForce RTX 3050 V2 OC 8 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx3050-o8g-v2/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 3050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 4.0",
+      "Frecuencia turbo": "Hasta 1852 MHz (OC) / 1822 MHz (estándar)",
+      "Conectores de alimentación": "1 × 6 pines"
+    }
+  },
+  {
+    "id": "asus-dual-rx-9060-xt-16gb",
+    "slug": "asus-dual-rx-9060-xt-16gb",
+    "name": "ASUS Dual Radeon RX 9060 XT 16 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx9060xt-16g/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)",
+      "Conectores de alimentación": "1 × 8 pines"
+    },
+    "mpn": "DUAL-RX9060XT-16G"
+  },
+  {
+    "id": "asus-dual-rtx-5060-ti-oc-8gb",
+    "slug": "asus-dual-rtx-5060-ti-oc-8gb",
+    "name": "ASUS Dual GeForce RTX 5060 Ti OC 8 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060ti-o8g/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)",
+      "Frecuencia turbo": "Hasta 2632 MHz (OC) / 2602 MHz (estándar)",
+      "Conectores de alimentación": "1 × 8 pines"
+    },
+    "mpn": "DUAL-RTX5060TI-O8G"
+  },
+  {
+    "id": "asus-dual-rtx-5060-ti-oc-16gb",
+    "slug": "asus-dual-rtx-5060-ti-oc-16gb",
+    "name": "ASUS Dual GeForce RTX 5060 Ti OC 16 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060ti-o16g/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)",
+      "Frecuencia turbo": "Hasta 2632 MHz (OC) / 2602 MHz (estándar)",
+      "Conectores de alimentación": "1 × 8 pines"
+    },
+    "mpn": "DUAL-RTX5060TI-O16G"
+  },
+  {
+    "id": "asus-prime-rtx-5070-ti-oc-16gb",
+    "slug": "asus-prime-rtx-5070-ti-oc-16gb",
+    "name": "ASUS Prime GeForce RTX 5070 Ti OC 16 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5070ti-o16g/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)",
+      "Frecuencia turbo": "Hasta 2527 MHz (OC) / 2497 MHz (estándar)",
+      "Conectores de alimentación": "1 × 16 pines"
+    },
+    "mpn": "PRIME-RTX5070TI-O16G"
+  },
+  {
+    "id": "asus-tuf-rtx-5060-ti-oc-16gb",
+    "slug": "asus-tuf-rtx-5060-ti-oc-16gb",
+    "name": "ASUS TUF Gaming GeForce RTX 5060 Ti OC 16 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5060ti-o16g-gaming/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)",
+      "Frecuencia turbo": "Hasta 2692 MHz (OC) / 2662 MHz (estándar)",
+      "Conectores de alimentación": "1 × 16 pines"
+    },
+    "mpn": "TUF-RTX5060TI-O16G-GAMING"
+  },
+  {
+    "id": "asus-proart-rtx-5070-ti-oc-16gb",
+    "slug": "asus-proart-rtx-5070-ti-oc-16gb",
+    "name": "ASUS ProArt GeForce RTX 5070 Ti OC 16 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/proart/proart-rtx5070ti-o16g/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)",
+      "Frecuencia turbo": "Hasta 2610 MHz (OC) / 2588 MHz (estándar)",
+      "Conectores de alimentación": "1 × 16 pines"
+    },
+    "mpn": "PROART-RTX5070TI-O16G"
+  }
+]

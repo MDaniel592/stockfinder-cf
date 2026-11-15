@@ -1,0 +1,92 @@
+[
+  {
+    "id": "xfx-swift-rx-9060-xt-oc-triple-fan-16gb",
+    "slug": "xfx-swift-rx-9060-xt-oc-triple-fan-16gb",
+    "name": "XFX Swift Radeon RX 9060 XT OC Triple Fan 16 GB",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "manufacturer_url": "https://helpdesk.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-triple-fan-gaming-edition-16gb",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)"
+    },
+    "mpn": "RX-96TS316B7"
+  },
+  {
+    "id": "xfx-swift-rx-9070-oc-white-triple-fan-16gb",
+    "slug": "xfx-swift-rx-9070-oc-white-triple-fan-16gb",
+    "name": "XFX Swift Radeon RX 9070 OC White Triple Fan 16 GB",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "manufacturer_url": "https://uk.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070-oc-white-triple-fan-gaming-edition",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "220 W",
+      "Fuente recomendada": "650 W (referencia AMD)"
+    },
+    "mpn": "RX-97SWFB3W9"
+  },
+  {
+    "id": "gainward-rtx-5080-phoenix-v1-16gb",
+    "slug": "gainward-rtx-5080-phoenix-v1-16gb",
+    "name": "Gainward GeForce RTX 5080 Phoenix V1 16 GB",
+    "category_id": "gpu",
+    "brand": "Gainward",
+    "manufacturer_url": "https://www.gainward.com/main/vgapro.php?id=1252&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)"
+    },
+    "mpn": "NE75080019T2-GB2031C"
+  },
+  {
+    "id": "gainward-rtx-5080-python-iii-16gb",
+    "slug": "gainward-rtx-5080-python-iii-16gb",
+    "name": "Gainward GeForce RTX 5080 Python III 16 GB",
+    "category_id": "gpu",
+    "brand": "Gainward",
+    "manufacturer_url": "https://www.gainward.com/main/vgapro.php?id=1265&lang=en&tab=ov",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)"
+    },
+    "mpn": "NE75080019T2-GB2035T"
+  },
+  {
+    "id": "lenovo-rtx-5080-16gb-4x61u02755",
+    "slug": "lenovo-rtx-5080-16gb-4x61u02755",
+    "name": "Lenovo GeForce RTX 5080 16 GB (4X61U02755)",
+    "category_id": "gpu",
+    "brand": "Lenovo",
+    "manufacturer_url": "https://www.lenovo.com/es/es/p/accessories-and-software/graphics-cards/graphics_cards/4x61u02755",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)"
+    },
+    "mpn": "4X61U02755"
+  }
+]

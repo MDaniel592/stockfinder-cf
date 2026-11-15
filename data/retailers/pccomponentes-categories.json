@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "procesadores",
+    "name": "Procesadores",
+    "uuid": "e9bf3a20-dc80-4a07-8d29-13885fe55655"
+  },
+  {
+    "slug": "placas-base",
+    "name": "Placas Base",
+    "uuid": "aff994ba-ffef-4143-b628-630bb99bec37"
+  },
+  {
+    "slug": "tarjetas-graficas",
+    "name": "Tarjetas Gráficas",
+    "uuid": "2194165b-70a8-4e4e-ab74-0007a55b73ab"
+  },
+  {
+    "slug": "memorias-ram",
+    "name": "Memorias RAM",
+    "uuid": "5ece2280-f513-457f-8e52-ca924ad820b1"
+  },
+  {
+    "slug": "fuentes-alimentacion",
+    "name": "Fuentes de Alimentación",
+    "uuid": "f3fd6453-55d5-4b2c-9a79-effaeddfa090"
+  },
+  {
+    "slug": "discos-duros",
+    "name": "Discos Duros",
+    "uuid": "5fa5ba62-f230-4184-ba88-d10e15bf024d"
+  },
+  {
+    "slug": "cajas-pc",
+    "name": "Cajas PC",
+    "uuid": "10a189f0-b49c-45c4-9acd-3264c2074c7a"
+  },
+  {
+    "slug": "ventiladores-cpu",
+    "name": "Ventiladores CPU",
+    "uuid": "595bc41a-38cb-4a13-9c0e-deba8ea9edaf"
+  },
+  {
+    "slug": "refrigeracion-liquida",
+    "name": "Refrigeración Líquida",
+    "uuid": "e278a9e7-d3f5-4685-a145-c1b5f24e9693"
+  },
+  {
+    "slug": "monitores-pc",
+    "name": "Monitores PC",
+    "uuid": "552dfdd9-4284-4d71-9e4c-be300f353391"
+  },
+  {
+    "slug": "teclados",
+    "name": "Teclados",
+    "uuid": "baaaebfe-d61a-4d65-abf0-5a8647531e0c"
+  },
+  {
+    "slug": "ratones",
+    "name": "Ratones",
+    "uuid": "d0be72ba-efe2-4965-a0e3-40c04dc6e977"
+  }
+]

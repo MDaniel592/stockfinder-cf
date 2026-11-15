@@ -1,0 +1,241 @@
+[
+ {
+  "id": "hiditec-mh12-glass-cha010054",
+  "slug": "hiditec-mh12-glass-cha010054",
+  "name": "Hiditec MH12 Glass (CHA010054)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010054",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/full-tower/2-mh12-glass.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Dimensiones": "395 × 210 × 475 mm"
+  }
+ },
+ {
+  "id": "hiditec-mh12-metal-mesh-cha010055",
+  "slug": "hiditec-mh12-metal-mesh-cha010055",
+  "name": "Hiditec MH12 Metal Mesh (CHA010055)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010055",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/full-tower/48-mh12-metal-mesh.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Dimensiones": "395 × 210 × 475 mm"
+  }
+ },
+ {
+  "id": "hiditec-klyp-cha010018",
+  "slug": "hiditec-klyp-cha010018",
+  "name": "Hiditec Klyp (CHA010018)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010018",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/11-klyp.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "360 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 80 mm",
+   "Dimensiones": "435 × 180 × 412 mm"
+  }
+ },
+ {
+  "id": "hiditec-h1-air-argb-cha010037",
+  "slug": "hiditec-h1-air-argb-cha010037",
+  "name": "Hiditec H1 Air ARGB (CHA010037)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010037",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/12-h1-air-argb.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "350 mm",
+   "Altura disipador máxima": "173 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "436 × 202.5 × 490 mm"
+  }
+ },
+ {
+  "id": "hiditec-v30-argb-cha010028",
+  "slug": "hiditec-v30-argb-cha010028",
+  "name": "Hiditec V30 ARGB (CHA010028)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010028",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/3-v30-argb.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "290 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "335 × 190 × 428 mm"
+  }
+ },
+ {
+  "id": "hiditec-v20-pro-argb-cha010027",
+  "slug": "hiditec-v20-pro-argb-cha010027",
+  "name": "Hiditec V20 PRO ARGB (CHA010027)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010027",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/4-v20-argb.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "265 mm",
+   "Altura disipador máxima": "160 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Dimensiones": "376 × 202 × 445 mm"
+  }
+ },
+ {
+  "id": "hiditec-z20-aura-cha010038",
+  "slug": "hiditec-z20-aura-cha010038",
+  "name": "Hiditec Z20 Aura (CHA010038)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010038",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/5-z20-aura.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "370 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "432 × 205 × 490 mm"
+  }
+ },
+ {
+  "id": "hiditec-blok-cha010058",
+  "slug": "hiditec-blok-cha010058",
+  "name": "Hiditec Blok (CHA010058)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010058",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mid-tower/68-blok.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "350 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Dimensiones": "385 × 182 × 415 mm"
+  }
+ },
+ {
+  "id": "hiditec-q5-pro-cha010045",
+  "slug": "hiditec-q5-pro-cha010045",
+  "name": "Hiditec Q5 PRO (CHA010045)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010045",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mini-tower/54-q5-pro.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "325 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 80 mm"
+  }
+ },
+ {
+  "id": "hiditec-slm20-pro-cha010020",
+  "slug": "hiditec-slm20-pro-cha010020",
+  "name": "Hiditec SLM20 PRO (CHA010020)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010020",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mini-tower/6-slm20-pro.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Ventiladores incluidos": "1 × 80 mm"
+  }
+ },
+ {
+  "id": "hiditec-slm30-con-fuente-sfx-500w-cha010035",
+  "slug": "hiditec-slm30-con-fuente-sfx-500w-cha010035",
+  "name": "Hiditec SLM30 con fuente SFX 500W (CHA010035)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010035",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mini-tower/7-slm30.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "SFX",
+   "Longitud GPU máxima": "320 mm",
+   "Ventiladores incluidos": "1 × 80 mm",
+   "Dimensiones": "410 × 100 × 305 mm"
+  }
+ },
+ {
+  "id": "hiditec-q9-pro-cha010012",
+  "slug": "hiditec-q9-pro-cha010012",
+  "name": "Hiditec Q9 PRO (CHA010012)",
+  "category_id": "case",
+  "brand": "Hiditec",
+  "mpn": "CHA010012",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hiditec.com/es/mini-tower/9-q9-pro.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "370 mm",
+   "Altura disipador máxima": "155 mm",
+   "Ventiladores incluidos": "1 × 80 mm"
+  }
+ }
+]

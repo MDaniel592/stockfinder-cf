@@ -1,0 +1,262 @@
+[
+  {
+    "id": "gigabyte-gv-r9070xtgaming-oc-16gd",
+    "slug": "gigabyte-gv-r9070xtgaming-oc-16gd",
+    "name": "Gigabyte Radeon RX 9070 XT Gaming OC 16 GB",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-R9070XTGAMING-OC-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-R9070XTGAMING-OC-16GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Velocidad de memoria": "20 Gbps",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "Hasta 3060 MHz",
+      "Frecuencia de juego": "Hasta 2520 MHz",
+      "Procesadores de flujo": "4096",
+      "Dimensiones": "288 × 132 × 56 mm",
+      "Fuente recomendada": "850 W",
+      "Conectores de alimentación": "3 × 8 pines",
+      "Consumo (TBP)": "304 W"
+    }
+  },
+  {
+    "id": "gigabyte-gv-r907gregaming-oc-12gd",
+    "slug": "gigabyte-gv-r907gregaming-oc-12gd",
+    "name": "Gigabyte Radeon RX 9070 GRE Gaming OC 12 GB",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-R907GREGAMING-OC-12GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-R907GREGAMING-OC-12GD/sp",
+    "specs_verified_at": "2026-11-08T20:18:52Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 GRE",
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "192 bits",
+      "Velocidad de memoria": "18 Gbps",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "Hasta 2920 MHz",
+      "Frecuencia de juego": "Hasta 2340 MHz",
+      "Procesadores de flujo": "3072",
+      "Dimensiones": "288 × 132 × 50 mm",
+      "Fuente recomendada": "750 W",
+      "Conectores de alimentación": "2 × 8 pines"
+    }
+  },
+  {
+    "id": "gigabyte-aorus-rtx-5060-ti-ai-box-16g",
+    "slug": "gigabyte-aorus-rtx-5060-ti-ai-box-16g",
+    "name": "Gigabyte AORUS RTX 5060 Ti AI BOX 16 GB",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N506TIXEB-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TIXEB-16GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Velocidad de memoria": "28 Gbps",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5080-16g-mandalorian-grogu-edition-oc",
+    "slug": "msi-geforce-rtx-5080-16g-mandalorian-grogu-edition-oc",
+    "name": "MSI GeForce RTX 5080 16G The Mandalorian and Grogu Edition OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "mpn": "G5080-16MGEC",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-The-Mandalorian-and-Grogu-Edition-OC/Specification",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Velocidad de memoria": "30 Gbps",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "2700 MHz (modos GAMING y SILENT)",
+      "Núcleos CUDA": "10752",
+      "Dimensiones": "338 × 140 × 50 mm",
+      "Fuente recomendada": "850 W",
+      "Conectores de alimentación": "1 × 16 pines",
+      "Consumo (TGP)": "360 W"
+    }
+  },
+  {
+    "id": "palit-geforce-rtx-5060-ti-ritona-oc-8gb",
+    "slug": "palit-geforce-rtx-5060-ti-ritona-oc-8gb",
+    "name": "Palit GeForce RTX 5060 Ti RiTONA OC 8 GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "mpn": "NE7506TH19P1-B67DR",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5850&lang=en&pn=NE7506TH19P1-B67DR&tab=sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Frecuencia turbo": "2587 MHz",
+      "Núcleos CUDA": "4608",
+      "Dimensiones": "233.9 × 125.8 × 40 mm",
+      "Fuente recomendada": "600 W",
+      "Conectores de alimentación": "1 × 8 pines",
+      "Consumo (TGP)": "180 W"
+    }
+  },
+  {
+    "id": "xfx-mercury-radeon-rx-9070-xt-oc-white-magnetic-air-16gb",
+    "slug": "xfx-mercury-radeon-rx-9070-xt-oc-white-magnetic-air-16gb",
+    "name": "XFX Mercury Radeon RX 9070 XT OC White Magnetic Air Edition 16 GB",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-97TMARGW9",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9070xt-oc-white-magnetic-air-edition-with-rgb",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Velocidad de memoria": "20 Gbps",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "Hasta 3100 MHz",
+      "Frecuencia de juego": "Hasta 2570 MHz",
+      "Procesadores de flujo": "4096",
+      "Fuente recomendada": "850 W",
+      "Conectores de alimentación": "3 × 8 pines",
+      "Consumo (TBP)": "304 W"
+    }
+  },
+  {
+    "id": "asrock-h810m-x-gen5",
+    "slug": "asrock-h810m-x-gen5",
+    "name": "ASRock H810M-X Gen5",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBU90-A0UAYZ",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.asrock.com/mb/Intel/H810M-X%20Gen5/index.asp",
+    "specs_verified_at": "2026-11-08T20:18:52Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel H810",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "asrock-b850m-challenger-wifi-white",
+    "slug": "asrock-b850m-challenger-wifi-white",
+    "name": "ASRock B850M Challenger WiFi White",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBU50-A0UAYZ",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://asrock.com/mb/AMD/B850M%20Challenger%20WiFi%20White/index.asp",
+    "specs_verified_at": "2026-11-08T20:18:52Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "gigabyte-b650e-eagle",
+    "slug": "gigabyte-b650e-eagle",
+    "name": "Gigabyte B650E EAGLE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B650E EAGLE",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650E-EAGLE/sp",
+    "specs_verified_at": "2026-11-08T20:18:52Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-x870e-aero-x3d-dark-wood",
+    "slug": "gigabyte-x870e-aero-x3d-dark-wood",
+    "name": "Gigabyte X870E AERO X3D DARK WOOD",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "X870E AERO X DK WOOD",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870E-AERO-X3D-DARK-WOOD/sp",
+    "specs_verified_at": "2026-11-08T20:18:52Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "msi-z890-gaming-plus-wifi6e",
+    "slug": "msi-z890-gaming-plus-wifi6e",
+    "name": "MSI Z890 GAMING PLUS WIFI6E",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "mpn": "7E34-020R",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.msi.com/Motherboard/Z890-GAMING-PLUS-WIFI6E/Specification",
+    "specs_verified_at": "2026-11-08T20:18:52Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "klevv-kd48gu880-32n2200",
+    "slug": "klevv-kd48gu880-32n2200",
+    "name": "KLEVV DDR4 UDIMM 8 GB (1 × 8 GB) DDR4-3200",
+    "category_id": "ram",
+    "brand": "KLEVV",
+    "mpn": "KD48GU880-32N2200",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.klevv.com/ken/products_details/memory/D4_UDIMM",
+    "specs_verified_at": "2026-11-08T20:18:52Z",
+    "specs": {
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Presentación": "Bulk"
+    }
+  }
+]

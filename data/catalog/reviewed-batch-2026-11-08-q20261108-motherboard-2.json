@@ -1,0 +1,57 @@
+[
+ {
+  "id": "gigabyte-b760-gaming-x",
+  "slug": "gigabyte-b760-gaming-x",
+  "name": "Gigabyte B760 GAMING X (Rev. 1.0)",
+  "category_id": "motherboard",
+  "brand": "Gigabyte",
+  "mpn": "B760 GAMING X",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760-GAMING-X-rev-10",
+  "specs_verified_at": "2026-11-08T20:59:58Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "256 GB"
+  }
+ },
+ {
+  "id": "gigabyte-b760m-gaming-ddr4",
+  "slug": "gigabyte-b760m-gaming-ddr4",
+  "name": "Gigabyte B760M GAMING DDR4 (Rev. 1.x)",
+  "category_id": "motherboard",
+  "brand": "Gigabyte",
+  "mpn": "B760M GAMING DDR4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-DDR4-rev-10",
+  "specs_verified_at": "2026-11-08T20:59:58Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel B760",
+   "Tipo de memoria": "DDR4",
+   "Ranuras de memoria": "2"
+  }
+ },
+ {
+  "id": "gigabyte-z790-aorus-elite-ddr4",
+  "slug": "gigabyte-z790-aorus-elite-ddr4",
+  "name": "Gigabyte Z790 AORUS ELITE DDR4 (Rev. 1.0)",
+  "category_id": "motherboard",
+  "brand": "Gigabyte",
+  "mpn": "Z790 AORUS ELITE DDR4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-DDR4-rev-10",
+  "specs_verified_at": "2026-11-08T20:59:58Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "Intel Z790",
+   "Tipo de memoria": "DDR4",
+   "Formato": "ATX",
+   "Ranuras de memoria": "4",
+   "Memoria máxima": "128 GB"
+  }
+ }
+]

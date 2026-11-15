@@ -1,0 +1,96 @@
+{
+  "updated_at": "2026-11-14T20:30:00Z",
+  "writer": "claude",
+  "writes_only_files": "artifacts/{ldlc,neobyte}/reviews/claude-*.json",
+  "scopes_claude_active": [
+    {
+      "agent": "own-brand",
+      "scope": "Textorm, Fox Spirit, HAVN and other own-brand pending, both shops"
+    },
+    {
+      "agent": "case-ld-2",
+      "scope": "remaining LDLC case pending (MSI via catalog, darkFlash white, AeroCool, store-declared color policy)"
+    }
+  ],
+  "scopes_claude_finished": [
+    "hw (gpu/cpu/mobo/ram/storage)",
+    "psu",
+    "case Neobyte",
+    "cooler"
+  ],
+  "left_to_codex_luna": [
+    "remaining Neobyte case",
+    "cooler",
+    "core (cpu/ram/storage/gpu/mobo)",
+    "psu"
+  ],
+  "rules": [
+    "claude does not modify luna-* or root-* batches",
+    "no mass rejections",
+    "no publishing",
+    "re-check status=pending before each decision"
+  ],
+  "known_issues_claude_batches": [
+    "claude-hw-batch-002 (neobyte) had future specs_verified_at / canonical absent errors, to be reviewed"
+  ],
+  "user_policies_2026_11_14": {
+    "regional_suffix": "ACCEPT: -EU/-BEU/_EU sufijo regional no cambia el producto si el resto del MPN coincide literal con la ficha oficial y el EAN no contradice; documentar en la nota. Requiere que el validador lo permita (hoy exige MPN literal en psu/cpu/ram/storage): no cambiar scripts sin avisar.",
+    "own_brand": "ACCEPT: la web de la propia marca (Textorm, Fox Spirit, HAVN) vale como fuente si publica ficha de la variante.",
+    "store_declared_color": "ACCEPT con nota explicita: si modelo y dimensiones coinciden y la ficha no publica color; la nota debe decir que el color lo declara la tienda."
+  },
+  "open_items": [
+    "unificar ids Lian Li TL entre LDLC y Neobyte (8419/8420 vs 9424/9432)",
+    "Lian Li Vector V100 8023/8024 (alias V100R)",
+    "darkFlash DB330M 7860 EAN",
+    "Thermalright Frozen Notte V1/V2 y 9221 EAN",
+    "MSI ~57 filas: usar catalogo MSI de Codex",
+    "Camoufox: guardar HTML en official-browser-evidence y que los agentes lean de ahi"
+  ],
+  "validator_patch": "2026-11-14: scripts/{ldlc,neobyte}_pipeline.py now use strip_region() (trailing -EU/-BEU/-EEU/_EU ignored) for the exact-MPN check on psu/cpu/ram/storage. Backups: *.bak-20261114. Pipelines restarted. Luna: you can now approve regional-suffix cases in psu/core with literal base MPN + EAN not contradicting.",
+  "codex_session_2026_11_15": {
+    "started_at": "2026-11-15T09:38:26.324030+00:00",
+    "scope": "LDLC isolated review; no publishing",
+    "agents": {
+      "luna-core": "cpu ram storage gpu motherboard",
+      "luna-psu": "psu",
+      "luna-casecool": "case cooler"
+    },
+    "root": "integrity audit, tests, final documentation",
+    "initial_queue": {
+      "approved": 2190,
+      "pending": 228,
+      "rejected": 73
+    },
+    "writes_only_files": "artifacts/ldlc/reviews/luna-*-20261115-*.json and root audit artifacts/docs",
+    "status": "completed",
+    "completed_at": "2026-11-15T09:52:02.864603+00:00",
+    "final_queue": {
+      "approved": 2193,
+      "rejected": 73,
+      "pending": 225
+    },
+    "new_approved": [
+      7225,
+      8053,
+      8054
+    ],
+    "report": "artifacts/ldlc/audit-20261115/report.md"
+  },
+  "codex_ldlc_completion_goal": {
+    "status": "active",
+    "started_at": "2026-11-15T10:12:42.412972+00:00",
+    "scope": "all LDLC pending; isolated only",
+    "baseline": {
+      "approved": 2193,
+      "pending": 225,
+      "rejected": 73
+    },
+    "agents": {
+      "luna-core": "cpu ram storage motherboard",
+      "luna-psu": "psu",
+      "luna-casecool": "case cooler"
+    },
+    "root": "pipeline correctness, blockers, cross-review and final integrity",
+    "policies": "No mass rejections; primary evidence per decision; no production publication"
+  }
+}

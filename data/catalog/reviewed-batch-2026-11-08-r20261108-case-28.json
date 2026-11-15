@@ -1,0 +1,193 @@
+[
+ {
+  "id": "arctic-xtender-black-clear-glass-acpcc00023a",
+  "slug": "arctic-xtender-black-clear-glass-acpcc00023a",
+  "name": "ARCTIC Xtender Black (Clear Glass) (ACPCC00023A)",
+  "category_id": "case",
+  "brand": "ARCTIC",
+  "mpn": "ACPCC00023A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Xtender-Black-Clear-Glass/ACPCC00023A",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "482 mm",
+   "Altura disipador máxima": "171 mm",
+   "Dimensiones": "529 × 231 × 529 mm"
+  }
+ },
+ {
+  "id": "arctic-xtender-vg-black-clear-glass-acpcc00024a",
+  "slug": "arctic-xtender-vg-black-clear-glass-acpcc00024a",
+  "name": "ARCTIC Xtender VG Black (Clear Glass) (ACPCC00024A)",
+  "category_id": "case",
+  "brand": "ARCTIC",
+  "mpn": "ACPCC00024A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Xtender-VG-Black-Clear-Glass/ACPCC00024A",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "482 mm",
+   "Altura disipador máxima": "171 mm",
+   "Dimensiones": "529 × 231 × 529 mm"
+  }
+ },
+ {
+  "id": "arctic-xtender-black-mirror-glass-acpcc00018a",
+  "slug": "arctic-xtender-black-mirror-glass-acpcc00018a",
+  "name": "ARCTIC Xtender Black (Mirror Glass) (ACPCC00018A)",
+  "category_id": "case",
+  "brand": "ARCTIC",
+  "mpn": "ACPCC00018A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Xtender-Black-Mirror-Glass/ACPCC00018A",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "482 mm",
+   "Altura disipador máxima": "171 mm",
+   "Dimensiones": "529 × 231 × 529 mm"
+  }
+ },
+ {
+  "id": "arctic-xtender-black-tinted-glass-acpcc00015a",
+  "slug": "arctic-xtender-black-tinted-glass-acpcc00015a",
+  "name": "ARCTIC Xtender Black (Tinted Glass) (ACPCC00015A)",
+  "category_id": "case",
+  "brand": "ARCTIC",
+  "mpn": "ACPCC00015A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Xtender-Black-Tinted-Glass/ACPCC00015A",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "482 mm",
+   "Altura disipador máxima": "171 mm",
+   "Dimensiones": "529 × 231 × 529 mm"
+  }
+ },
+ {
+  "id": "arctic-xtender-vg-black-tinted-glass-acpcc00016a",
+  "slug": "arctic-xtender-vg-black-tinted-glass-acpcc00016a",
+  "name": "ARCTIC Xtender VG Black (Tinted Glass) (ACPCC00016A)",
+  "category_id": "case",
+  "brand": "ARCTIC",
+  "mpn": "ACPCC00016A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Xtender-VG-Black-Tinted-Glass/ACPCC00016A",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "482 mm",
+   "Altura disipador máxima": "171 mm",
+   "Dimensiones": "529 × 231 × 529 mm"
+  }
+ },
+ {
+  "id": "arctic-xtender-vg-white-clear-glass-acpcc00017a",
+  "slug": "arctic-xtender-vg-white-clear-glass-acpcc00017a",
+  "name": "ARCTIC Xtender VG White (Clear Glass) (ACPCC00017A)",
+  "category_id": "case",
+  "brand": "ARCTIC",
+  "mpn": "ACPCC00017A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Xtender-VG-White-Clear-Glass/ACPCC00017A",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "482 mm",
+   "Altura disipador máxima": "171 mm",
+   "Dimensiones": "529 × 231 × 529 mm"
+  }
+ },
+ {
+  "id": "arctic-xtender-white-clear-glass-acpcc00014a",
+  "slug": "arctic-xtender-white-clear-glass-acpcc00014a",
+  "name": "ARCTIC Xtender White (Clear Glass) (ACPCC00014A)",
+  "category_id": "case",
+  "brand": "ARCTIC",
+  "mpn": "ACPCC00014A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Xtender-White-Clear-Glass/ACPCC00014A",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "482 mm",
+   "Altura disipador máxima": "171 mm",
+   "Dimensiones": "529 × 231 × 529 mm"
+  }
+ },
+ {
+  "id": "chieftec-bx-mesh-bx-10b-m-op",
+  "slug": "chieftec-bx-mesh-bx-10b-m-op",
+  "name": "Chieftec BX-MESH (BX-10B-M-OP)",
+  "category_id": "case",
+  "brand": "Chieftec",
+  "mpn": "BX-10B-M-OP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.chieftec.eu/products-detail/561/BX-10B-M-OP",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "380 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "415 × 204 × 325 mm"
+  }
+ },
+ {
+  "id": "chieftec-the-cube-ci-03b-op",
+  "slug": "chieftec-the-cube-ci-03b-op",
+  "name": "Chieftec The Cube (CI-03B-OP)",
+  "category_id": "case",
+  "brand": "Chieftec",
+  "mpn": "CI-03B-OP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.chieftec.eu/products-detail/658/CI-03B-OP",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "335 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "1 × 200 mm",
+   "Dimensiones": "385 × 265 × 355 mm"
+  }
+ },
+ {
+  "id": "chieftec-pro-mini-az-01b-op",
+  "slug": "chieftec-pro-mini-az-01b-op",
+  "name": "Chieftec Pro Mini (AZ-01B-OP)",
+  "category_id": "case",
+  "brand": "Chieftec",
+  "mpn": "AZ-01B-OP",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.chieftec.eu/products-detail/587/AZ-01B-OP",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "330 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Dimensiones": "360 × 212 × 420 mm"
+  }
+ }
+]

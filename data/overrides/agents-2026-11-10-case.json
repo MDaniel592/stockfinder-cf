@@ -1,0 +1,442 @@
+[
+  {
+    "product_id": "forgeon-tiberium-evo-black",
+    "category_id": "case",
+    "key": "Formato fuente",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra",
+    "note": "Ficha de PcComponentes (marca propia Forgeon, P/N FO-ATX-TIBEV1B) solo indica «Longitud máxima PSU: 260 mm»; no cita formato de fuente. Solo ficha de tienda, sin web oficial accesible."
+  },
+  {
+    "product_id": "tooq-prisma-tqc-5701u3c-b",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqc-5701u3c-b/",
+    "note": "La ficha oficial de TooQ (EAN/modelo de la entrada) no menciona panel lateral ni ventana; solo Material SPCC, ventiladores laterales y demas datos. No publica este dato."
+  },
+  {
+    "product_id": "tooq-tqc-3005u3-con-fuente-sfx-500-w",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqc-3005u3/",
+    "note": "La ficha oficial de TooQ (EAN/modelo de la entrada) no menciona panel lateral ni ventana; solo Material SPCC, ventiladores laterales y demas datos. No publica este dato."
+  },
+  {
+    "product_id": "tooq-tqc-3008u3c-con-fuente-sfx-500-w",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqc-3008u3c/",
+    "note": "La ficha oficial de TooQ (EAN/modelo de la entrada) no menciona panel lateral ni ventana; solo Material SPCC, ventiladores laterales y demas datos. No publica este dato."
+  },
+  {
+    "product_id": "tooq-dodeka-tqc-4702u3c-b",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqc-4702u3c-b/",
+    "note": "La ficha oficial de TooQ (EAN/modelo de la entrada) no menciona panel lateral ni ventana; solo Material SPCC, ventiladores laterales y demas datos. No publica este dato."
+  },
+  {
+    "product_id": "tooq-prisma-ultra-con-fuente-atx-500-w-tqc-5701-sp",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqc-5701-sp/",
+    "note": "La ficha oficial de TooQ (EAN/modelo de la entrada) no menciona panel lateral ni ventana; solo Material SPCC, ventiladores laterales y demas datos. No publica este dato."
+  },
+  {
+    "product_id": "tooq-isobox-tqc-4701u3c-b",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqc-4701u3c-b/",
+    "note": "La ficha oficial de TooQ (EAN/modelo de la entrada) no menciona panel lateral ni ventana; solo Material SPCC, ventiladores laterales y demas datos. No publica este dato."
+  },
+  {
+    "product_id": "tooq-dodeka-ultra-con-fuente-atx-500-w-tqc-4702-sp",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqc-4702-sp/",
+    "note": "La ficha oficial de TooQ (EAN/modelo de la entrada) no menciona panel lateral ni ventana; solo Material SPCC, ventiladores laterales y demas datos. No publica este dato."
+  },
+  {
+    "product_id": "tooq-isobox-ultra-con-fuente-atx-500-w-tqc-4701-sp",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tooq.com/producto/tqc-4701-sp/",
+    "note": "La ficha oficial de TooQ (EAN/modelo de la entrada) no menciona panel lateral ni ventana; solo Material SPCC, ventiladores laterales y demas datos. No publica este dato."
+  },
+  {
+    "product_id": "antec-vsk2000-u3-0-761345-92003-2",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.antec.com/product/case/vsk2000-u3",
+    "note": "La ficha oficial de Antec VSK2000-U3 (UPC 0-761345-92003-2) lista tipo, bahías, puertos y ventilador pero no indica el tipo de panel lateral; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-anima-acslim500-slim-microatx-con-fuente-tfx-500w-acslim500",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/acslim500",
+    "note": "La ficha oficial de Tacens (ref. ACSLIM500) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-anima-ac4500-microatx-con-fuente-500w-ac4500",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/ac4500",
+    "note": "La ficha oficial de Tacens (ref. AC4500) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-aerom-micro-atx-2aerom",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/2aerom",
+    "note": "La ficha oficial de Tacens (ref. 2AEROM) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-anima-ac4-ac4",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/ac4",
+    "note": "La ficha oficial de Tacens (ref. AC4) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-anima-ac6500-microatx-con-fuente-500w-ac6500",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/ac6500",
+    "note": "La ficha oficial de Tacens (ref. AC6500) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-ferrox-atx-2ferrox",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/ferrox",
+    "note": "La ficha oficial de Tacens (ref. 2FERROX) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-fortis-ii-microatx-2fortisii",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/fortisii",
+    "note": "La ficha oficial de Tacens (ref. 2FORTISII) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-novax550br-microatx-con-fuente-550w-2novax550br",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/novax550br",
+    "note": "La ficha oficial de Tacens (ref. 2NOVAX550BR) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-novax-microatx-2novax",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/novax",
+    "note": "La ficha oficial de Tacens (ref. 2NOVAX) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-anima-acm500-microatx-con-fuente-500w-acm500",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/acm500",
+    "note": "La ficha oficial de Tacens (ref. ACM500) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-anima-acx-microatx-acx",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/acx",
+    "note": "La ficha oficial de Tacens (ref. ACX) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-ensis-atx-2ensis",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/ensis",
+    "note": "La ficha oficial de Tacens (ref. 2ENSIS) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "tacens-initiox-atx-2initiox",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/initiox",
+    "note": "La ficha oficial de Tacens (ref. 2INITIOX) no indica el tipo de panel lateral (ni material ni ventana) en sus especificaciones; el fabricante no lo publica."
+  },
+  {
+    "product_id": "coolbox-t360-slim-coo-pct360-2",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.aodatacloud.es/wp-content/uploads/datasheet_coo-pct360-2.pdf",
+    "note": "El datasheet de CoolBox (P/N COO-PCT360-2, EAN coincidente; copia alojada por un distribuidor, coolbox.es exige captcha) no indica el tipo de panel lateral; el fabricante no lo publica en la ficha."
+  },
+  {
+    "product_id": "coolbox-t360-slim-coo-pct360-2",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.aodatacloud.es/wp-content/uploads/datasheet_coo-pct360-2.pdf",
+    "note": "El datasheet de CoolBox (P/N COO-PCT360-2, EAN coincidente; copia alojada por un distribuidor, coolbox.es exige captcha) no indica longitud máxima de gráfica (solo slots low profile y altura de cooler 50 mm); el fabricante no lo publica en la ficha."
+  },
+  {
+    "product_id": "unykach-aero-c260-500w",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2026/05/Ficha-Caja-AERO-C260-UK52260-Multi.pdf",
+    "note": "La ficha/página oficial de UNYKAch (P/N 500W) lista material, bahías, conectores y fuente pero no incluye el campo de panel lateral; el fabricante no lo publica."
+  },
+  {
+    "product_id": "unykach-aero-c360-500w",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2026/05/Ficha-Caja-AERO-C360-UK52360-Multi.pdf",
+    "note": "La ficha/página oficial de UNYKAch (P/N 500W) lista material, bahías, conectores y fuente pero no incluye el campo de panel lateral; el fabricante no lo publica."
+  },
+  {
+    "product_id": "unykach-desktop-slim-uk-3001-uk52168",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2024/10/Computer-Case-UK3001-PN52168_User-ManualA4.pdf",
+    "note": "La ficha/página oficial de UNYKAch (P/N UK52168) lista material, bahías, conectores y fuente pero no incluye el campo de panel lateral; el fabricante no lo publica."
+  },
+  {
+    "product_id": "unykach-uk2010-slim-micro-atx-con-fuente-450w-52084",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2025/10/PC-Case-UK2010-52084-EN.pdf",
+    "note": "La ficha/página oficial de UNYKAch (P/N 52084) lista material, bahías, conectores y fuente pero no incluye el campo de panel lateral; el fabricante no lo publica."
+  },
+  {
+    "product_id": "unykach-caviar-itx-1k-52092",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/en/pc-cases/pc-cases-itx/pc-case-itx-1k-caviar-52092/",
+    "note": "La ficha/página oficial de UNYKAch (P/N 52092) lista material, bahías, conectores y fuente pero no incluye el campo de panel lateral; el fabricante no lo publica."
+  },
+  {
+    "product_id": "unykach-uk1007-mini-itx-con-fuente-150w-52061",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2026/07/Ficha-Caja-UK1007-52061-Multi.pdf",
+    "note": "La ficha oficial de UNYKAch UK1007 (P/N 52061, EAN 6940533541462) no incluye altura máxima de disipador ni longitud máxima de gráfica; el fabricante no lo publica."
+  },
+  {
+    "product_id": "unykach-uk1007-mini-itx-con-fuente-150w-52061",
+    "category_id": "case",
+    "key": "Altura disipador máxima",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2026/07/Ficha-Caja-UK1007-52061-Multi.pdf",
+    "note": "La ficha oficial de UNYKAch UK1007 (P/N 52061, EAN 6940533541462) no incluye altura máxima de disipador ni longitud máxima de gráfica; el fabricante no lo publica."
+  },
+  {
+    "product_id": "unykach-uk2011-type-c-slim-micro-atx-con-fuente-sfx-450w-uk52112",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2024/10/Computer-Case-UK2011-UK52112_User-Manual_Quad-fold-A6.pdf",
+    "note": "La ficha/página oficial de UNYKAch (P/N UK52112) lista material, bahías, conectores y fuente pero no incluye el campo de panel lateral; el fabricante no lo publica."
+  },
+  {
+    "product_id": "unykach-aero-c15-micro-atx-con-fuente-atx-500w-uk52015",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://unykach.com/wp-content/uploads/2026/01/Ficha-Caja-AERO-C15-UK52015-Multi.pdf",
+    "note": "La ficha/página oficial de UNYKAch (P/N UK52015) lista material, bahías, conectores y fuente pero no incluye el campo de panel lateral; el fabricante no lo publica."
+  },
+  {
+    "product_id": "mars-gaming-mcinfiniolitew",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "325 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/cases/mc-infiniolite",
+    "note": "Página oficial Mars Gaming MC-INFINIOLITE (ref. MCINFINIOLITE; misma ficha para Negro/Blanco): el texto de producto indica «CPU cooler up to 165 mm and GPU up to 325 mm» y la descripción repite «graphics cards up to 325 mm» y «CPU coolers up to 165 mm»."
+  },
+  {
+    "product_id": "mars-gaming-mcinfiniolitew",
+    "category_id": "case",
+    "key": "Altura disipador máxima",
+    "value": "165 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/cases/mc-infiniolite",
+    "note": "Página oficial Mars Gaming MC-INFINIOLITE (ref. MCINFINIOLITE; misma ficha para Negro/Blanco): el texto de producto indica «CPU cooler up to 165 mm and GPU up to 325 mm» y la descripción repite «graphics cards up to 325 mm» y «CPU coolers up to 165 mm»."
+  },
+  {
+    "product_id": "mars-gaming-mcinfiniolite",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "325 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/cases/mc-infiniolite",
+    "note": "Página oficial Mars Gaming MC-INFINIOLITE (ref. MCINFINIOLITE; misma ficha para Negro/Blanco): el texto de producto indica «CPU cooler up to 165 mm and GPU up to 325 mm» y la descripción repite «graphics cards up to 325 mm» y «CPU coolers up to 165 mm»."
+  },
+  {
+    "product_id": "mars-gaming-mcinfiniolite",
+    "category_id": "case",
+    "key": "Altura disipador máxima",
+    "value": "165 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/cases/mc-infiniolite",
+    "note": "Página oficial Mars Gaming MC-INFINIOLITE (ref. MCINFINIOLITE; misma ficha para Negro/Blanco): el texto de producto indica «CPU cooler up to 165 mm and GPU up to 325 mm» y la descripción repite «graphics cards up to 325 mm» y «CPU coolers up to 165 mm»."
+  },
+  {
+    "product_id": "hiditec-slm20-pro-cha010020",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/mini-tower/6-slm20-pro.html",
+    "note": "La ficha técnica oficial de Hiditec SLM20 PRO (SKU CHA010020) no incluye longitud máxima de GPU ni altura máxima de disipador; el fabricante no lo publica."
+  },
+  {
+    "product_id": "hiditec-slm20-pro-cha010020",
+    "category_id": "case",
+    "key": "Altura disipador máxima",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/mini-tower/6-slm20-pro.html",
+    "note": "La ficha técnica oficial de Hiditec SLM20 PRO (SKU CHA010020) no incluye longitud máxima de GPU ni altura máxima de disipador; el fabricante no lo publica."
+  },
+  {
+    "product_id": "hiditec-slm30-con-fuente-sfx-500w-cha010035",
+    "category_id": "case",
+    "key": "Altura disipador máxima",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://hiditec.com/es/mini-tower/7-slm30.html",
+    "note": "La ficha técnica oficial de Hiditec SLM30 (SKU CHA010035) publica longitud máxima de GPU (320 mm) pero no altura máxima de disipador; el fabricante no lo publica."
+  },
+  {
+    "product_id": "silverstone-rm44-sst-rm44",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silverstonetek.com/en/product/info/server-nas/RM44/",
+    "note": "La ficha oficial de SilverStone RM44 (Model No. SST-RM44) solo indica material Steel; no especifica panel lateral (ni ventana); el fabricante no lo publica."
+  },
+  {
+    "product_id": "silverstone-rm51-sst-rm51",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silverstonetek.com/en/product/info/server-nas/RM51/",
+    "note": "La ficha oficial de SilverStone RM51 (Model No. SST-RM51) solo indica material Steel; no especifica panel lateral (ni ventana); el fabricante no lo publica."
+  },
+  {
+    "product_id": "nox-hummer-tgm-negra-nxhummertgm",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "310 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nox-xtreme.com/cajas/hummer-tgm",
+    "note": "La ficha oficial NOX Hummer TGM (REF NXHUMMERTGM, EAN 8436532169502) indica en Especificaciones «VGA: 310 mm (longitud máxima)». La descripción menciona 370 mm sin refrigeración líquida frontal; se registra el valor de la tabla de especificaciones (310 mm, garantizado en todos los montajes)."
+  }
+]

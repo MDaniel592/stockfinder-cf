@@ -1,0 +1,43 @@
+[
+  {
+    "id": "amd-ryzen-7-5800x3d-10th-anniversary",
+    "slug": "amd-ryzen-7-5800x3d-10th-anniversary",
+    "name": "AMD Ryzen 7 5800X3D 10th Anniversary Edition",
+    "category_id": "cpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5800x3d.html",
+    "specs_verified_at": "2026-11-08T21:42:37Z",
+    "specs": {
+      "Socket": "AM4",
+      "Memoria compatible": "DDR4",
+      "Núcleos": "8",
+      "Hilos": "16",
+      "Frecuencia base": "3.4 GHz",
+      "Frecuencia turbo": "Hasta 4.5 GHz",
+      "TDP": "105 W",
+      "Gráficos integrados": "No; requiere GPU dedicada",
+      "Presentación": "Boxed 10th Anniversary Edition",
+      "Caché L2": "4 MB",
+      "Caché L3": "96 MB",
+      "Memoria máxima": "128 GB"
+    },
+    "mpn": "100-100000651POF"
+  },
+  {
+    "id": "gigabyte-x870-gaming-wifi6",
+    "slug": "gigabyte-x870-gaming-wifi6",
+    "name": "Gigabyte X870 GAMING WIFI6",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/X870-GAMING-WIFI6-rev-1x/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6"
+    }
+  }
+]

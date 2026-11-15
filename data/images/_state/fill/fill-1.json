@@ -1,0 +1,682 @@
+[
+ {
+  "product_id": "lc-power-super-silent-lc6550-v2-3-550w",
+  "image_path": "/images/products/psu/lc-power-super-silent-lc6550-v2-3-550w.webp",
+  "image_source_url": "https://www.lc-power.com/wp-content/uploads/2024/04/LC6550-v23-gallerie-bilder-produkte.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.lc-power.com/en/lc6550-v2-3/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: LC-Power",
+  "fetched_at": "2026-11-10T22:17:40Z"
+ },
+ {
+  "product_id": "lc-power-integrator-pro-lc6850b-si-v3-1-850w",
+  "image_path": "/images/products/psu/lc-power-integrator-pro-lc6850b-si-v3-1-850w.webp",
+  "image_source_url": "https://www.lc-power.com/wp-content/uploads/2024/11/Bronze-SI_V1_72_web_s.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.lc-power.com/en/lc6850b-si-v3-1/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: LC-Power",
+  "fetched_at": "2026-11-10T22:17:41Z"
+ },
+ {
+  "product_id": "alphacool-11286",
+  "image_path": "/images/products/cooler/alphacool-11286.webp",
+  "image_source_url": "https://alphacool.shop-cdn.com/media/image/1f/bd/66/1012138_01FBAoV0Jp8wZxl..jpg",
+  "image_scope": "model",
+  "image_page_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/11286-alphacool-eisbaer-360-cpu-black",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Alphacool",
+  "fetched_at": "2026-11-10T22:17:44Z"
+ },
+ {
+  "product_id": "alphacool-11285",
+  "image_path": "/images/products/cooler/alphacool-11285.webp",
+  "image_source_url": "https://alphacool.shop-cdn.com/media/image/99/f5/53/1012137_01m47UtDBNMyAvL..jpg",
+  "image_scope": "model",
+  "image_page_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/11285-alphacool-eisbaer-240-cpu-black",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Alphacool",
+  "fetched_at": "2026-11-10T22:17:47Z"
+ },
+ {
+  "product_id": "alphacool-11999",
+  "image_path": "/images/products/cooler/alphacool-11999.webp",
+  "image_source_url": "https://alphacool.shop-cdn.com/media/image/1c/a8/98/1022076_1McMg2H3qoauaW..jpg",
+  "image_scope": "model",
+  "image_page_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/11999-alphacool-eisbaer-aurora-hpe-edition-360-cpu-aio",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Alphacool",
+  "fetched_at": "2026-11-10T22:17:49Z"
+ },
+ {
+  "product_id": "alphacool-13074",
+  "image_path": "/images/products/cooler/alphacool-13074.webp",
+  "image_source_url": "https://alphacool.shop-cdn.com/media/image/81/15/ac/1022532_1rgDZTXwLFhQ7L..jpg",
+  "image_scope": "model",
+  "image_page_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/13074-alphacool-eisbaer-pro-hpe-aurora-360-cpu-aio",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: Alphacool",
+  "fetched_at": "2026-11-10T22:17:52Z"
+ },
+ {
+  "product_id": "kingston-kf436c18bb2a-16",
+  "image_path": "/images/products/ram/kingston-kf436c18bb2a-16.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/1289916/KF436C18BB2A-16_IMG_DEF.jpg?v=638761581938930000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf436c18bb2a-16-memoria-kingston-fury-beast-rgb-ddr4-16gb-3600mhz--cl18--------",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:21:37Z"
+ },
+ {
+  "product_id": "kingston-kcp556us6-8",
+  "image_path": "/images/products/ram/kingston-kcp556us6-8.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/2799576/KCP556US6-8_IMG_DEF.jpg?v=638862759674400000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kcp556us6-8-memoria-ram-kingston---8gb-ddr5-5600mhz---1x8---cl46",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:21:40Z"
+ },
+ {
+  "product_id": "kingston-kcp556ud8-32",
+  "image_path": "/images/products/ram/kingston-kcp556ud8-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/2855050/KCP556UD8-32_IMG_DEF.jpg?v=638862704403900000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kcp556ud8-32-memoria-ram---ddr5-32gb--5600mhz---1x32---cl46--kingston--kcp556ud",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:21:42Z"
+ },
+ {
+  "product_id": "kingston-kf556c36bwea-32",
+  "image_path": "/images/products/ram/kingston-kf556c36bwea-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3032436/KF556C36BWEA-32_IMG_DEF.jpg?v=638862757908230000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf556c36bwea-32-memoria-ram-kingston-fury--32gb-ddr5--1x32---cl36",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:21:45Z"
+ },
+ {
+  "product_id": "kingston-kf560c36bbe2ak2-64",
+  "image_path": "/images/products/ram/kingston-kf560c36bbe2ak2-64.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4530907/KF560C36BBE2AK2-64_IMG_DEF.jpg?v=639274854908900000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf560c36bbe2ak2-64-memoria-ram--pc-ddr5-64gb---2x32---cl36--kingston-fury-64gb-",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:21:48Z"
+ },
+ {
+  "product_id": "kingston-kf552c40bb2-32",
+  "image_path": "/images/products/ram/kingston-kf552c40bb2-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4354711/KF552C40BB2-32_IMG_DEF.jpg?v=639245078775070000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf552c40bb2-32-memoria-ram--pc-ddr5-32gb---1x32---cl40--kingston-fury-32gb-5200",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:21:50Z"
+ },
+ {
+  "product_id": "kingston-kf556c40bb2-32",
+  "image_path": "/images/products/ram/kingston-kf556c40bb2-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3546830/KF556C40BB2-32_IMG_DEF.jpg?v=639074207499630000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf556c40bb2-32-kingston-kf556c40bb2-32-32gb-cl40-5600-ddr5",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:21:52Z"
+ },
+ {
+  "product_id": "kingston-kf556c40bb2a-32",
+  "image_path": "/images/products/ram/kingston-kf556c40bb2a-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4287644/KF556C40BB2A-32_IMG_DEF.jpg?v=639232351798600000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf556c40bb2a-32-memoria-ram--pc-ddr5-32gb---1x32---cl40--kingston-fury-32gb-560",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:21:55Z"
+ },
+ {
+  "product_id": "kingston-kf584cu40rwa-24",
+  "image_path": "/images/products/ram/kingston-kf584cu40rwa-24.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4466538/KF584CU40RWA-24_IMG_DEF.jpg?v=639263657978770000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf584cu40rwa-24-memoria-ram--pc-ddr5-24gb---1x24---cl40--kingston-fury-24gb-840",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:21:58Z"
+ },
+ {
+  "product_id": "kingston-kf556c40bb-8",
+  "image_path": "/images/products/ram/kingston-kf556c40bb-8.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/505559/KF556C40BB-8_IMG_DEF.jpg?v=638528497710770000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf556c40bb-8-kingston-fury-beast--8gb-ddr5-5600mhz---1x8---cl40",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:00Z"
+ },
+ {
+  "product_id": "kingston-kf560c36bbea-8",
+  "image_path": "/images/products/ram/kingston-kf560c36bbea-8.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4638045/KF560C36BBEA-8_IMG_DEF.jpg?v=639297761086330000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf560c36bbea-8-memoria-ram-kingston-fury--8gb-ddr5-3000mhz---1x8---cl36",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:03Z"
+ },
+ {
+  "product_id": "kingston-kf436c17bb2a-8",
+  "image_path": "/images/products/ram/kingston-kf436c17bb2a-8.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3858164/KF436C17BB2A-8_IMG_DEF.jpg?v=639156058278670000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf436c17bb2a-8-memoria-ram---ddr4-8gb--3600mhz---1x8---cl17--kingston-fury-beas",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:06Z"
+ },
+ {
+  "product_id": "kingston-kf440c19rb2-8",
+  "image_path": "/images/products/ram/kingston-kf440c19rb2-8.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/2873469/KF440C19RB2-8_IMG_DEF.jpg?v=638776503989900000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/kf440c19rb2-8-memoria-ram--pc-ddr4-8gb--4000mhz---1x8---cl19--kingston-fury-ren",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:08Z"
+ },
+ {
+  "product_id": "kingston-sedc600m-960g",
+  "image_path": "/images/products/storage/kingston-sedc600m-960g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/1154918/SEDC600M-960G_IMG_DEF.jpg?v=638516448357030000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/sedc600m-960g-kingston--dc600m--ssd-960gb-2-5---560mb-s-6gbit-s--serial-ata-iii",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:11Z"
+ },
+ {
+  "product_id": "kingston-skc600-1024g",
+  "image_path": "/images/products/storage/kingston-skc600-1024g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4407004/SKC600-1024G_IMG_DEF.jpg?v=639253557918170000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/skc600-1024g-kingston--kc600--ssd-1024gb-2-5---550mb-s-6gbit-s--serial-ata-iii",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:14Z"
+ },
+ {
+  "product_id": "kingston-skc600ms-256g",
+  "image_path": "/images/products/storage/kingston-skc600ms-256g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4435900/SKC600MS-256G_IMG_DEF.jpg?v=639259336463500000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/skc600ms-256g-kingston--kc600--ssd-256gb-msata--550mb-s-6gbit-s--serial-ata-iii",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:16Z"
+ },
+ {
+  "product_id": "kingston-skc600-512g",
+  "image_path": "/images/products/storage/kingston-skc600-512g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3944511/SKC600-512G_IMG_DEF.jpg?v=639171445988800000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/skc600-512g-kingston--kc600--ssd-512gb-2-5---550mb-s-6gbit-s--serial-ata-iii",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:19Z"
+ },
+ {
+  "product_id": "kingston-skc600-256g",
+  "image_path": "/images/products/storage/kingston-skc600-256g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3943479/SKC600-256G_IMG_DEF.jpg?v=639171423559830000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/skc600-256g-kingston--kc600--ssd-256gb-2-5---550mb-s-6gbit-s--serial-ata-iii",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:22Z"
+ },
+ {
+  "product_id": "kingston-sedc600m-1920g",
+  "image_path": "/images/products/storage/kingston-sedc600m-1920g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4036893/SEDC600M-1920G_IMG_DEF.jpg?v=639187639165670000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/sedc600m-1920g-kingston--dc600m--ssd-1920gb-2-5---560mb-s-6gbit-s--serial-ata-i",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:24Z"
+ },
+ {
+  "product_id": "kingston-sedc600m-3840g",
+  "image_path": "/images/products/storage/kingston-sedc600m-3840g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4036906/SEDC600M-3840G_IMG_DEF.jpg?v=639200013887400000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/sedc600m-3840g-kingston--dc600m--ssd-3840gb-2-5---560mb-s-6gbit-s--serial-ata-i",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:27Z"
+ },
+ {
+  "product_id": "kingston-sedc600m-7680g",
+  "image_path": "/images/products/storage/kingston-sedc600m-7680g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4036914/SEDC600M-7680G_IMG_DEF.jpg?v=639187639422030000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/sedc600m-7680g-kingston--dc600m--ssd-7680gb-2-5---560mb-s-6gbit-s--serial-ata-i",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:30Z"
+ },
+ {
+  "product_id": "kingston-skc600-2048g",
+  "image_path": "/images/products/storage/kingston-skc600-2048g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4408606/SKC600-2048G_IMG_DEF.jpg?v=639253815842300000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/skc600-2048g-kingston--kc600--ssd-2048gb-2-5---550mb-s-6gbit-s--serial-ata-iii",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:33Z"
+ },
+ {
+  "product_id": "kingston-skc600ms-1024g",
+  "image_path": "/images/products/storage/kingston-skc600ms-1024g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4442194/SKC600MS-1024G_IMG_DEF.jpg?v=639260161556230000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/skc600ms-1024g-kingston--kc600--ssd-1024gb-msata--550mb-s-6gbit-s--serial-ata-i",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:36Z"
+ },
+ {
+  "product_id": "kingston-skc600ms-512g",
+  "image_path": "/images/products/storage/kingston-skc600ms-512g.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4408586/SKC600MS-512G_IMG_DEF.jpg?v=639253815299970000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/skc600ms-512g-kingston--kc600--ssd-512gb-msata--550mb-s-6gbit-s--serial-ata-iii",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:38Z"
+ },
+ {
+  "product_id": "crucial-ct240bx500ssd1",
+  "image_path": "/images/products/storage/crucial-ct240bx500ssd1.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/2272788/CT240BX500SSD1_IMG_DEF.jpg?v=638761054943900000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/ct240bx500ssd1-crucial--bx500--ssd-240gb-2-5---540mb-s-6gbit-s--serial-ata-iii",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:44Z"
+ },
+ {
+  "product_id": "crucial-ct1000bx500ssd1",
+  "image_path": "/images/products/storage/crucial-ct1000bx500ssd1.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/2053809/CT1000BX500SSD1_IMG_DEF.jpg?v=639131362271430000",
+  "image_scope": "model",
+  "image_page_url": "https://www.pcbox.com/product/ct1000bx500ssd1-crucial--bx500--ssd-1000gb-2-5---540mb-s-6gbit-s--serial-ata",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:22:46Z"
+ },
+ {
+  "product_id": "kingston-kf556c36bbe2-32",
+  "image_path": "/images/products/ram/kingston-kf556c36bbe2-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3843055/KF556C36BBE-16_IMG_DEF.jpg?v=639153324099130000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf556c36bbe-16-kingston-fury-beast--16gb-ddr5-5600mhz---1x16---cl36",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:23:50Z"
+ },
+ {
+  "product_id": "kingston-kf556c36bbe-8",
+  "image_path": "/images/products/ram/kingston-kf556c36bbe-8.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3843055/KF556C36BBE-16_IMG_DEF.jpg?v=639153324099130000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf556c36bbe-16-kingston-fury-beast--16gb-ddr5-5600mhz---1x16---cl36",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:23:53Z"
+ },
+ {
+  "product_id": "kingston-kf556c36bbe-32",
+  "image_path": "/images/products/ram/kingston-kf556c36bbe-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3843055/KF556C36BBE-16_IMG_DEF.jpg?v=639153324099130000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf556c36bbe-16-kingston-fury-beast--16gb-ddr5-5600mhz---1x16---cl36",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:23:55Z"
+ },
+ {
+  "product_id": "kingston-kvr26n19s6-8",
+  "image_path": "/images/products/ram/kingston-kvr26n19s6-8.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3941978/KVR26N19S6-4_IMG_DEF.jpg?v=639171384137770000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kvr26n19s6-4-kingston-valueram-kvr26n19s6-4--4gb-ddr4-2666mhz---1x2-1x4---cl19",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:01Z"
+ },
+ {
+  "product_id": "kingston-kf560c40bbk4-64",
+  "image_path": "/images/products/ram/kingston-kf560c40bbk4-64.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3876001/KF560C36BBE-32_IMG_DEF.jpg?v=639159211736500000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf560c36bbe-32-kingston-fury-beast--32gb-ddr5-6000mhz---1x32---cl36",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:06Z"
+ },
+ {
+  "product_id": "kingston-kf560c36bbe2k2-64",
+  "image_path": "/images/products/ram/kingston-kf560c36bbe2k2-64.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4477953/KF560C36BBE2K2-32_IMG_DEF.jpg?v=639265862791330000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf560c36bbe2k2-32-memoria-kingston-32gb-kit2-6000mt-s-ddr5-cl36---fury-beast-bl",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:12Z"
+ },
+ {
+  "product_id": "kingston-kf556c40bb2k2-64",
+  "image_path": "/images/products/ram/kingston-kf556c40bb2k2-64.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/494625/KF556C40BBK2-16_GAL_1.jpg?v=637929288687030000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf556c40bbk2-16-kingston-fury-beast--16gb-ddr5-5600mhz---2x8---cl40",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:18Z"
+ },
+ {
+  "product_id": "kingston-kf568c34bbek2-32",
+  "image_path": "/images/products/ram/kingston-kf568c34bbek2-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/2635084/KF564C32BBEK2-32_IMG_DEF.jpg?v=638862757966400000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf564c32bbek2-32-memoria-ram-kingston-fury--32gb-ddr5-3200mhz---2x16---cl32",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:23Z"
+ },
+ {
+  "product_id": "kingston-kf556c36bbea-8",
+  "image_path": "/images/products/ram/kingston-kf556c36bbea-8.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4638045/KF560C36BBEA-8_IMG_DEF.jpg?v=639297761086330000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf560c36bbea-8-memoria-ram-kingston-fury--8gb-ddr5-3000mhz---1x8---cl36",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:28Z"
+ },
+ {
+  "product_id": "kingston-kf568c34bbeak2-32",
+  "image_path": "/images/products/ram/kingston-kf568c34bbeak2-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3857564/KF564C32BBEAK2-64_IMG_DEF.jpg?v=639155910106530000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf564c32bbeak2-64-memoria-ram-kingston-fury--64gb-ddr5--2x32---cl32",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:33Z"
+ },
+ {
+  "product_id": "kingston-kf560c36bwe2a-16",
+  "image_path": "/images/products/ram/kingston-kf560c36bwe2a-16.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3032560/KF560C30BWEA-32_GAL_1.jpg?v=638824053351830000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf560c30bwea-32-memoria-ram-kingston-fury--32gb-ddr5--1x32---cl30",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:40Z"
+ },
+ {
+  "product_id": "kingston-kf568c34bweak2-32",
+  "image_path": "/images/products/ram/kingston-kf568c34bweak2-32.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/3032560/KF560C30BWEA-32_GAL_1.jpg?v=638824053351830000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf560c30bwea-32-memoria-ram-kingston-fury--32gb-ddr5--1x32---cl30",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:42Z"
+ },
+ {
+  "product_id": "kingston-kf432c16rb12-16",
+  "image_path": "/images/products/ram/kingston-kf432c16rb12-16.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/1949406/KF440C19RB12-16_IMG_DEF.jpg?v=638676270233030000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf440c19rb12-16-memoria-ram---ddr4-16gb--4000mhz---1x16---cl19--kingston-fury-r",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:47Z"
+ },
+ {
+  "product_id": "kingston-kf432c16rb12a-16",
+  "image_path": "/images/products/ram/kingston-kf432c16rb12a-16.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4571096/KF440C19RB2A-8_IMG_DEF.jpg?v=639284070208830000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf440c19rb2a-8-memoria-ram-kingston-fury--8gb-ddr4-4000mhz---1x8---cl19",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:53Z"
+ },
+ {
+  "product_id": "kingston-kf432c16rb2ak2-16",
+  "image_path": "/images/products/ram/kingston-kf432c16rb2ak2-16.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4571096/KF440C19RB2A-8_IMG_DEF.jpg?v=639284070208830000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf440c19rb2a-8-memoria-ram-kingston-fury--8gb-ddr4-4000mhz---1x8---cl19",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:55Z"
+ },
+ {
+  "product_id": "kingston-kf440c19rb2ak2-16",
+  "image_path": "/images/products/ram/kingston-kf440c19rb2ak2-16.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4571096/KF440C19RB2A-8_IMG_DEF.jpg?v=639284070208830000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kf440c19rb2a-8-memoria-ram-kingston-fury--8gb-ddr4-4000mhz---1x8---cl19",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:24:58Z"
+ },
+ {
+  "product_id": "kingston-kcp426ns6-8",
+  "image_path": "/images/products/ram/kingston-kcp426ns6-8.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4452169/KCP432NS6-8_IMG_DEF.jpg?v=639261443053770000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kcp432ns6-8-kingston--kcp432ns6-8--8gb-ddr4-3200mhz---1x8---cl22",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:25:03Z"
+ },
+ {
+  "product_id": "kingston-kvr64a52bs8-16",
+  "image_path": "/images/products/ram/kingston-kvr64a52bs8-16.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/4538865/KVR56U46BS8-32_IMG_DEF.jpg?v=639276421477030000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/kvr56u46bs8-32-memoria-ram---ddr5-32gb---1x32---cl46--kingston-valueram-valuera",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:25:09Z"
+ },
+ {
+  "product_id": "crucial-ct2000bx500ssd1",
+  "image_path": "/images/products/storage/crucial-ct2000bx500ssd1.webp",
+  "image_source_url": "https://pcbox.vtexassets.com/arquivos/ids/2053809/CT1000BX500SSD1_IMG_DEF.jpg?v=639131362271430000",
+  "image_scope": "family",
+  "image_page_url": "https://www.pcbox.com/product/ct1000bx500ssd1-crucial--bx500--ssd-1000gb-2-5---540mb-s-6gbit-s--serial-ata",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcBox",
+  "fetched_at": "2026-11-10T22:25:24Z"
+ },
+ {
+  "product_id": "kingston-kf560c30bwek2-32",
+  "image_path": "/images/products/ram/kingston-kf560c30bwek2-32.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1105/11051419/1626-memoria-ram-kingston-fury-beast-32gb-2x16gb-ddr5-6000mhz-cl30-amd-expo-blanco.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-kingston-fury-beast-32gb-2x16gb-ddr5-6000mhz-cl30-amd-expo-blanco",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:26:51Z"
+ },
+ {
+  "product_id": "kingston-kf564c32rs-48",
+  "image_path": "/images/products/ram/kingston-kf564c32rs-48.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1086/10863464/1308-kingston-fury-renegade-ddr5-6400mhz-48gb-cl32-plata-intel-xmp.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-kingston-fury-renegade-ddr5-6400mhz-48gb-cl32-plata-intel-xmp",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:26:53Z"
+ },
+ {
+  "product_id": "kingston-kf560c32rs-48",
+  "image_path": "/images/products/ram/kingston-kf560c32rs-48.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1086/10863464/1308-kingston-fury-renegade-ddr5-6400mhz-48gb-cl32-plata-intel-xmp.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-kingston-fury-renegade-ddr5-6400mhz-48gb-cl32-plata-intel-xmp",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:26:55Z"
+ },
+ {
+  "product_id": "kingston-kf564c32bwe-16",
+  "image_path": "/images/products/ram/kingston-kf564c32bwe-16.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1094/10943229/110-memoria-ram-kingston-16gb-ddr5-6400mt-s-fury-beast-white-expo.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-kingston-16gb-ddr5-6400mt-s-fury-beast-white-expo",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:26:57Z"
+ },
+ {
+  "product_id": "kingston-kf556c36bwe-16",
+  "image_path": "/images/products/ram/kingston-kf556c36bwe-16.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1094/10943229/110-memoria-ram-kingston-16gb-ddr5-6400mt-s-fury-beast-white-expo.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-kingston-16gb-ddr5-6400mt-s-fury-beast-white-expo",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:26:58Z"
+ },
+ {
+  "product_id": "kingston-kf552c40bw-16",
+  "image_path": "/images/products/ram/kingston-kf552c40bw-16.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1094/10943229/110-memoria-ram-kingston-16gb-ddr5-6400mt-s-fury-beast-white-expo.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-kingston-16gb-ddr5-6400mt-s-fury-beast-white-expo",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:27:00Z"
+ },
+ {
+  "product_id": "kingston-kf556c40bw-32",
+  "image_path": "/images/products/ram/kingston-kf556c40bw-32.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1094/10943229/110-memoria-ram-kingston-16gb-ddr5-6400mt-s-fury-beast-white-expo.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-kingston-16gb-ddr5-6400mt-s-fury-beast-white-expo",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:27:02Z"
+ },
+ {
+  "product_id": "crucial-ct2000t500ssd8",
+  "image_path": "/images/products/storage/crucial-ct2000t500ssd8.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1079/10799849/1534-crucial-t500-2tb-ssd-m2-pci-express-40-tlc-nvme.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/crucial-t500-2tb-ssd-m2-pci-express-40-tlc-nvme",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:27:04Z"
+ },
+ {
+  "product_id": "crucial-ct2k32g56c46u5",
+  "image_path": "/images/products/ram/crucial-ct2k32g56c46u5.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1092/10924937/1931-modulo-de-memoria-crucial-ct2k32g56c46u5-64gb-2x32gb-ddr5-5600mhz-unbuffered-pc.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/memoria-ram-modulo-de-memoria-crucial-ct2k32g56c46u5-64gb-2x32gb-ddr5-5600mhz-unbuffered-pc",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:27:06Z"
+ },
+ {
+  "product_id": "crucial-cp2k24g56c46u5",
+  "image_path": "/images/products/ram/crucial-cp2k24g56c46u5.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1076/10764378/1942-crucial-pro-ddr5-5600mhz-48gb-1x48gb-cl46.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.pccomponentes.com/crucial-pro-ddr5-5600mhz-48gb-cl46",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:27:07Z"
+ },
+ {
+  "product_id": "crucial-cp16g56c46u5",
+  "image_path": "/images/products/ram/crucial-cp16g56c46u5.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1076/10764375/1550-crucial-pro-ddr5-5600mhz-24gb-1x24gb-cl46.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.pccomponentes.com/crucial-pro-ddr5-5600mhz-24gb-cl46",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:27:09Z"
+ },
+ {
+  "product_id": "kingston-kf584cu40rw-24",
+  "image_path": "/images/products/ram/kingston-kf584cu40rw-24.webp",
+  "image_source_url": "https://www.memorycow.co.uk/image/cache/data/kingston/furyrenegadeddr5/2025rev2/ktc-k1-ddr5-fury-renegade-cudimm-whtsil-gallery-1-550x550.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.memorycow.co.uk/24gb-kingston-fury-renegade-kf584cu40rw-24-ddr5-8400mt-s-non-ecc-memory-cudimm-xmp-silver-white",
+  "image_origin": "retailer",
+  "attribution": "Imagen: MemoryCow",
+  "fetched_at": "2026-11-10T22:27:50Z"
+ },
+ {
+  "product_id": "kingston-sedc600me-960g",
+  "image_path": "/images/products/storage/kingston-sedc600me-960g.webp",
+  "image_source_url": "https://media.arvutitark.ee/5EqfJDZ3VInMUCC_4CxYaY3QDxY=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2024%2F12%2F754658%2FFile-aspx-CID-73759%26UID-info-40arvutitark.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/hard-drives-hddssd/pooljuhtkettad-ssd/ssd-kingston-dc600me-25-960gb-sata3-1420318",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:27:51Z"
+ },
+ {
+  "product_id": "kingston-ktd-pe432-32g",
+  "image_path": "/images/products/ram/kingston-ktd-pe432-32g.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0710/4390/7762/files/32G_efae7b12-2b0c-47f1-9c17-29acb9304ab2.jpg?v=1749050941",
+  "image_scope": "model",
+  "image_page_url": "https://eyeintechnologies.com/products/kingston-32gb-ddr4-3200mhz-reg-ecc-module-ktd-pe432-32g",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Eye In Technologies",
+  "fetched_at": "2026-11-10T22:27:52Z"
+ },
+ {
+  "product_id": "kingston-sedc2000bm8-480g",
+  "image_path": "/images/products/storage/kingston-sedc2000bm8-480g.webp",
+  "image_source_url": "https://media.arvutitark.ee/Q2mrYMzDxXd01dLyQR-CBtccsmI=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2026%2F03%2F1011155%2FKingston_DC2000B_480_GB__SSD--100070698_30.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/hard-drives-hddssd/pooljuhtkettad-ssd/ssd-kingston-dc2000b-m2-480gb-pcieg4x4-2280-1389954",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:28:14Z"
+ },
+ {
+  "product_id": "kingston-sedc600me-1920g",
+  "image_path": "/images/products/storage/kingston-sedc600me-1920g.webp",
+  "image_source_url": "https://media.arvutitark.ee/FdLc4V5nd9bkm9Tz5mL30q5Q4TY=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2024%2F12%2F754664%2FFile-aspx-CID-73759%26UID-info-40arvutitark.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/hard-drives-hddssd/pooljuhtkettad-ssd/ssd-kingston-dc600me-25-192tb-sata3-1420314",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:28:40Z"
+ },
+ {
+  "product_id": "kingston-sedc600me-3840g",
+  "image_path": "/images/products/storage/kingston-sedc600me-3840g.webp",
+  "image_source_url": "https://media.arvutitark.ee/hzX_lrarpoGOy06Sr2X0x7bEIdI=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2024%2F12%2F754661%2FFile-aspx-CID-73759%26UID-info-40arvutitark.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/hard-drives-hddssd/pooljuhtkettad-ssd/ssd-kingston-dc600me-25-384tb-sata3-1420315",
+  "image_origin": "retailer",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:28:43Z"
+ }
+]

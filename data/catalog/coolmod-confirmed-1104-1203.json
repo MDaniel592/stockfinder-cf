@@ -1,0 +1,29 @@
+[
+  {
+    "id": "gskill-ripjaws-v-f4-3200c16d-16gvkb",
+    "slug": "gskill-ripjaws-v-f4-3200c16d-16gvkb",
+    "name": "G.Skill Ripjaws V 16 GB (2 × 8 GB) DDR4-3200 CL16",
+    "category_id": "ram",
+    "brand": "G.Skill",
+    "mpn": "F4-3200C16D-16GVKB",
+    "manufacturer_url": "https://www.gskill.com/specification/165/184/1536110676/F4-3200C16D-16GVKB-Specification",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Memory type": "DDR4",
+      "Capacity": "16 GB (2 × 8 GB)",
+      "Channel configuration": "Dual-channel kit",
+      "Tested speed": "Up to 3200 MT/s with XMP",
+      "Tested timings": "16-18-18-38",
+      "Tested voltage": "1.35 V",
+      "Profile": "Intel XMP 2.0",
+      "Module type": "Unbuffered, non-ECC UDIMM",
+      "Perfil": "Intel XMP 2.0"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.gskill.com/specification/165/184/1536110676/F4-3200C16D-16GVKB-Specification",
+        "supports": "G.SKILL first-party specification page names the exact F4-3200C16D-16GVKB product and lists capacity, DDR4-3200 XMP profile, timings, voltage, and module type."
+      }
+    ]
+  }
+]

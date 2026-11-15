@@ -1,0 +1,22 @@
+[
+ {
+  "id": "corsair-mp600-core-xt-4tb-cssd-f4000gbmp600cxt",
+  "slug": "corsair-mp600-core-xt-4tb-cssd-f4000gbmp600cxt",
+  "name": "Corsair MP600 CORE XT 4 TB (CSSD-F4000GBMP600CXT)",
+  "category_id": "storage",
+  "brand": "Corsair",
+  "mpn": "CSSD-F4000GBMP600CXT",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f4000gbmp600cxt/mp600-core-xt-4tb-pcie-4-0-gen4-x-4-nvme-m-2-ssd-cssd-f4000gbmp600cxt",
+  "specs_verified_at": "2026-11-09T12:00:00Z",
+  "specs": {
+   "Tipo": "SSD",
+   "Capacidad": "4 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe 1.4",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "5000 MB/s",
+   "Escritura secuencial": "4400 MB/s",
+   "Tipo de NAND": "3D QLC"
+  }
+ }
+]

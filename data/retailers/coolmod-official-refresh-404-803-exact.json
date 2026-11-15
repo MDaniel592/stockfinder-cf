@@ -1,0 +1,107 @@
+[
+  {
+    "ean": null,
+    "mpn": "PVVR532G640C32K",
+    "name": "Memoria DDR5 Patriot Viper Venom RGB 32GB 2x16GB 6400MHz CL32",
+    "brand": "Patriot Memory",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/patriot-viper-venom-rgb-32gb-2x16gb-6400mhz-cl32/",
+    "price_cents": 70996,
+    "retailer_sku": "PROD-027178",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "149294"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "709.96"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:27:59.567Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "PVVR532G640C32K"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      },
+      {
+        "key": "manufacturer_identity_source",
+        "value": "https://viper.patriotmemory.ru/documents/PVVR532G640C32K_sku-sheet_111722.pdf"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod Product/Offer JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      }
+    ],
+    "last_checked_at": "2026-11-02T19:50:01.643Z",
+    "commercial_observed_at": "2026-11-02T19:50:01.643Z",
+    "commercial_observation_source": "Coolmod product page Product/Offer JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "mpn": "PVVR532G640C32K",
+      "source": "Coolmod product page Product/Offer JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T19:50:01.643Z",
+      "price_cents": 70996,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://viper.patriotmemory.ru/documents/PVVR532G640C32K_sku-sheet_111722.pdf",
+    "official_sources": [
+      "https://viper.patriotmemory.ru/documents/PVVR532G640C32K_sku-sheet_111722.pdf"
+    ],
+    "verified_specifications": {
+      "Serie": "Viper Venom RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Configuración": "2 × 16 GB",
+      "Factor de forma": "UDIMM",
+      "Velocidad probada": "6400 MT/s",
+      "Latencia CAS": "CL32",
+      "Tiempos probados": "32-40-40-84",
+      "Voltaje probado": "1.40 V",
+      "Perfil": "Intel XMP 3.0",
+      "Iluminación": "RGB",
+      "Color": "Negro con logotipo rojo y placa plateada"
+    },
+    "identity_status": "exact",
+    "manufacturer_verified_mpn": "PVVR532G640C32K",
+    "manufacturer_identity_verified_at": "2026-11-02T19:49:00Z",
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://viper.patriotmemory.ru/documents/PVVR532G640C32K_sku-sheet_111722.pdf",
+      "manufacturer_sources": [
+        "https://viper.patriotmemory.ru/documents/PVVR532G640C32K_sku-sheet_111722.pdf"
+      ],
+      "checked_at": "2026-11-02T19:49:00Z",
+      "evidence": "La ficha SKU oficial Patriot/Viper identifica PVVR532G640C32K exactamente como un kit Viper Venom RGB DDR5-6400 de 32 GB (2×16), 6400 MT/s, CL32-40-40-84 a 1.40 V y XMP 3.0. El MPN coincide con el publicado por Coolmod."
+    }
+  }
+]

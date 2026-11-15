@@ -1,0 +1,235 @@
+[
+ {
+  "id": "gigabyte-aorus-waterforce-ii-240",
+  "slug": "gigabyte-aorus-waterforce-ii-240",
+  "name": "Gigabyte AORUS WATERFORCE II 240 (GP-AORUS WATERFORCE II 240)",
+  "category_id": "cooler",
+  "brand": "Gigabyte",
+  "mpn": "GP-AORUS WATERFORCE II 240",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/in/CPU-Cooler/AORUS-WATERFORCE-II-240/sp",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Dimensiones radiador": "277 x 119 x 27 mm"
+  }
+ },
+ {
+  "id": "gigabyte-aorus-waterforce-ii-360-ice",
+  "slug": "gigabyte-aorus-waterforce-ii-360-ice",
+  "name": "Gigabyte AORUS WATERFORCE II 360 ICE (GP-AORUS WATERFORCE II 360I)",
+  "category_id": "cooler",
+  "brand": "Gigabyte",
+  "mpn": "GP-AORUS WATERFORCE II 360I",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/CPU-Cooler/AORUS-WATERFORCE-II-360-ICE/sp",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Dimensiones radiador": "394 x 119 x 27 mm"
+  }
+ },
+ {
+  "id": "cougar-poseidon-elite-argb-240-3mpsd240-0001",
+  "slug": "cougar-poseidon-elite-argb-240-3mpsd240-0001",
+  "name": "Cougar Poseidon Elite ARGB 240 negro (3MPSD240.0001)",
+  "category_id": "cooler",
+  "brand": "Cougar",
+  "mpn": "3MPSD240.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cooling/poseidon-elite-argb/",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Dimensiones radiador": "272 x 121 x 27 mm"
+  }
+ },
+ {
+  "id": "cougar-poseidon-elite-argb-240-3mpsd240-0002",
+  "slug": "cougar-poseidon-elite-argb-240-3mpsd240-0002",
+  "name": "Cougar Poseidon Elite ARGB 240 blanco (3MPSD240.0002)",
+  "category_id": "cooler",
+  "brand": "Cougar",
+  "mpn": "3MPSD240.0002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cooling/poseidon-elite-argb/",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Dimensiones radiador": "272 x 121 x 27 mm"
+  }
+ },
+ {
+  "id": "cougar-poseidon-elite-argb-360-3mpsd360-0002",
+  "slug": "cougar-poseidon-elite-argb-360-3mpsd360-0002",
+  "name": "Cougar Poseidon Elite ARGB 360 blanco (3MPSD360.0002)",
+  "category_id": "cooler",
+  "brand": "Cougar",
+  "mpn": "3MPSD360.0002",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cooling/poseidon-elite-argb/",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Dimensiones radiador": "392 x 121 x 27 mm"
+  }
+ },
+ {
+  "id": "cougar-forza-50-argb-3mfzr50-0001",
+  "slug": "cougar-forza-50-argb-3mfzr50-0001",
+  "name": "Cougar Forza 50 ARGB (3MFZR50.0001)",
+  "category_id": "cooler",
+  "brand": "Cougar",
+  "mpn": "3MFZR50.0001",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://cougargaming.com/products/cooling/forza50argb/",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-loop-3-280mm-bw028eu",
+  "slug": "be-quiet-pure-loop-3-280mm-bw028eu",
+  "name": "be quiet! Pure Loop 3 280mm (BW028EU)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BW028EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/watercooler/6138",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "280 mm",
+   "Ventiladores": "2 × 140 mm"
+  }
+ },
+ {
+  "id": "be-quiet-silent-loop-3-240mm-bw024",
+  "slug": "be-quiet-silent-loop-3-240mm-bw024",
+  "name": "be quiet! Silent Loop 3 240mm (BW024)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BW024",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/watercooler/5399",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-loop-3-lx-240mm-bw030eu",
+  "slug": "be-quiet-pure-loop-3-lx-240mm-bw030eu",
+  "name": "be quiet! Pure Loop 3 LX 240mm (BW030EU)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BW030EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/watercooler/6140",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-loop-3-lx-360mm-bw031eu",
+  "slug": "be-quiet-pure-loop-3-lx-360mm-bw031eu",
+  "name": "be quiet! Pure Loop 3 LX 360mm (BW031EU)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BW031EU",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/watercooler/6141",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "be-quiet-light-loop-240mm-bw020",
+  "slug": "be-quiet-light-loop-240mm-bw020",
+  "name": "be quiet! Light Loop 240mm (BW020)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BW020",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/watercooler/5183",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "arctic-freezer-8i-acfre00190a",
+  "slug": "arctic-freezer-8i-acfre00190a",
+  "name": "ARCTIC Freezer 8i (ACFRE00190A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00190A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-8i/ACFRE00190A",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA1851, LGA1700"
+  }
+ },
+ {
+  "id": "arctic-liquid-freezer-iii-pro-280-argb-white-acfre00187a",
+  "slug": "arctic-liquid-freezer-iii-pro-280-argb-white-acfre00187a",
+  "name": "ARCTIC Liquid Freezer III Pro 280 A-RGB blanco (ACFRE00187A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00187A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-280-A-RGB-White/ACFRE00187A",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "280 mm"
+  }
+ },
+ {
+  "id": "arctic-liquid-freezer-iii-pro-420-argb-white-acfre00189a",
+  "slug": "arctic-liquid-freezer-iii-pro-420-argb-white-acfre00189a",
+  "name": "ARCTIC Liquid Freezer III Pro 420 A-RGB blanco (ACFRE00189A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00189A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-420-A-RGB-White/ACFRE00189A",
+  "specs_verified_at": "2026-11-08T22:22:03Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "420 mm"
+  }
+ }
+]

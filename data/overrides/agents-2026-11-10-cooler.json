@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": "mars-gaming-mllcd240w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-ml-lcd240",
+    "note": "Ficha oficial MarsGaming (MLLCD240W), tabla de especificaciones, Socket: LGA 2066/2011/1851/1700/1200/1156/1155/1151/1150 y AMD AM5/AM4/AM3+/AM3/AM2+/AM2/FM2/FM1. LGA115x = 1150/1151/1155/1156; sTR4 se registra como TR4. No se incluye LGA1366 (solo aparece en la descripcion, no en la tabla)."
+  },
+  {
+    "product_id": "mars-gaming-mllcd360w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-argb-ml-lcd360",
+    "note": "Ficha oficial MarsGaming (MLLCD360W), tabla de especificaciones, Socket: LGA 2066/2011/1851/1700/1200/1156/1155/1151/1150 y AMD AM5/AM4/AM3+/AM3/AM2+/AM2/FM2/FM1. LGA115x = 1150/1151/1155/1156; sTR4 se registra como TR4. No se incluye LGA1366 (solo aparece en la descripcion, no en la tabla)."
+  },
+  {
+    "product_id": "mars-gaming-mlone360w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, TR4, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-ml-one360",
+    "note": "Ficha oficial MarsGaming (MLONE360W), tabla de especificaciones, Socket: LGA 2066/2011/1851/1700/1200/1156/1155/1151/1150 y AMD sTRX4/sTR4/SP3/AM5/AM4/AM3+/AM3/AM2+/AM2/FM2/FM1. LGA115x = 1150/1151/1155/1156; sTR4 se registra como TR4. No se incluye LGA1366 (solo aparece en la descripcion, no en la tabla)."
+  },
+  {
+    "product_id": "mars-gaming-mlultra240w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, TR4, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-premium-ml-ultra240",
+    "note": "Ficha oficial MarsGaming (MLULTRA240W), tabla de especificaciones, Socket: LGA 2066/2011/1851/1700/1200/1156/1155/1151/1150 y AMD sTRX4/sTR4/SP3/AM5/AM4/AM3+/AM3/AM2+/AM2/FM2/FM1. LGA115x = 1150/1151/1155/1156; sTR4 se registra como TR4. No se incluye LGA1366 (solo aparece en la descripcion, no en la tabla)."
+  },
+  {
+    "product_id": "mars-gaming-mlultra360w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, TR4, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/kit-refrigeracion-liquida-premium-ml-ultra360",
+    "note": "Ficha oficial MarsGaming (MLULTRA360W), tabla de especificaciones, Socket: LGA 2066/2011/1851/1700/1200/1156/1155/1151/1150 y AMD sTRX4/sTR4/SP3/AM5/AM4/AM3+/AM3/AM2+/AM2/FM2/FM1. LGA115x = 1150/1151/1155/1156; sTR4 se registra como TR4. No se incluye LGA1366 (solo aparece en la descripcion, no en la tabla)."
+  },
+  {
+    "product_id": "mars-gaming-mlvision360w",
+    "category_id": "cooler",
+    "key": "Sockets compatibles",
+    "value": "AM5, AM4, AM3+, AM3, AM2+, AM2, FM2, FM1, LGA1851, LGA1700, LGA1200, LGA2066, LGA2011, LGA115x",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/es/refrigeracion-liquida/refrigeracion-liquida-ml-vision360",
+    "note": "Ficha oficial MarsGaming (MLVISION360W), tabla de especificaciones, Socket: LGA 2066/2011/1851/1700/1200/1156/1155/1151/1150 y AMD AM5/AM4/AM3+/AM3/AM2+/AM2/FM2/FM1. LGA115x = 1150/1151/1155/1156; sTR4 se registra como TR4. No se incluye LGA1366 (solo aparece en la descripcion, no en la tabla)."
+  }
+]

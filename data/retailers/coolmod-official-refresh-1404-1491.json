@@ -1,0 +1,5205 @@
+[
+  {
+    "ean": null,
+    "mpn": "MD16GSD43200-TB",
+    "name": "PNY Performance 16GB 1x16GB 3200MHz CL22",
+    "brand": "PNY",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/pny-performance-16gb-1x16gb-3200mhz-cl22-md16gsd43200-tb/",
+    "price_cents": 13995,
+    "retailer_sku": "PROD-048029",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "169731"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "139.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:18.519Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "MD16GSD43200-TB"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:18.519Z",
+    "commercial_observed_at": "2026-11-02T18:43:18.519Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:18.519Z",
+      "mpn": "MD16GSD43200-TB",
+      "price_cents": 13995,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://cs.pny.com.tw/en/upload/download_files/en_download_list_21i02_yhwt83humb.pdf",
+    "verified_specifications": {
+      "Línea": "Performance",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://cs.pny.com.tw/en/upload/download_files/en_download_list_21i02_yhwt83humb.pdf",
+      "evidence": "El PDF oficial de PNY publica el MPN MD16GSD43200-TB como módulo Performance de escritorio de 16 GB DDR4-3200 CL22. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMH64GX4M4E3200C16W",
+    "name": "Corsair Vengeance RGB Pro SL 64GB 4x16GB 3200MHz CL16 XMP Blancas",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rgb-pro-sl-64gb-4x16gb-3200mhz-cl16-xmp-blancas/",
+    "price_cents": 81696,
+    "retailer_sku": "PROD-047866",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "169540"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "816.96"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:20.179Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMH64GX4M4E3200C16W"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:20.179Z",
+    "commercial_observed_at": "2026-11-02T18:43:20.179Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:20.179Z",
+      "mpn": "CMH64GX4M4E3200C16W",
+      "price_cents": 81696,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/null/cmh64gx4m4e3200c16w/vengeance-rgb-pro-sl-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh64gx4m4e3200c16w",
+    "verified_specifications": {
+      "Línea": "VENGEANCE RGB PRO SL",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "64 GB",
+      "Módulos": "4 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Perfil de memoria": "XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/null/cmh64gx4m4e3200c16w/vengeance-rgb-pro-sl-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh64gx4m4e3200c16w",
+      "evidence": "La ficha oficial de CORSAIR muestra el SKU CMH64GX4M4E3200C16W y el kit blanco de 64 GB (4 × 16 GB) DDR4-3200 CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "AD4U320016G22-SBK",
+    "name": "Adata AD4U320016G22-SBK 16GB 1x16GB 3200MHz CL22",
+    "brand": "A-Data Technology",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/adata-ad4u320016g22-sbk-16gb-1x16gb-3200mhz-cl22/",
+    "price_cents": 17995,
+    "retailer_sku": "PROD-047863",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "169537"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "179.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:21.494Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "AD4U320016G22-SBK"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:21.494Z",
+    "commercial_observed_at": "2026-11-02T18:43:21.494Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:21.494Z",
+      "mpn": "AD4U320016G22-SBK",
+      "price_cents": 17995,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://www.adata.com/storage/downloadfile/datasheet_premier_ddr4_3200_u_dimm_v2.pdf",
+      "evidence": "La hoja oficial Premier publica sufijos como -SGN, -DTGN y -BGN, pero no publica el MPN observado -SBK. El MPN exacto queda sin confirmar.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "LD5U16G60C38LG-RGD",
+    "name": "Lexar Thor OC 32GB 2x16GB 6000MHz CL32 EXPO-XMP",
+    "brand": "Lexar",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/lexar-thor-oc-32gb-2x16gb-6000mhz-cl32-expo-xmp/",
+    "price_cents": 54396,
+    "retailer_sku": "PROD-047861",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "169532"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "543.96"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:23.251Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "LD5U16G60C38LG-RGD"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:23.251Z",
+    "commercial_observed_at": "2026-11-02T18:43:23.251Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:23.251Z",
+      "mpn": "LD5U16G60C38LG-RGD",
+      "price_cents": 54396,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://resources.lexar.com/download/1207/documents/14082/lexar-productsheet-thor-oc-ddr5-udimm-desktop-memory-202504.pdf",
+      "evidence": "La hoja oficial Lexar sí asigna LD5U16G60C38LG-RGD a un kit Thor OC de 32 GB (2 × 16 GB) DDR5-6000 CL38; el título Coolmod observado dice CL32. El conflicto de latencia impide aprobar la ficha.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CTCWD532G6000HC30DC01",
+    "name": "Team Group T-Create Expert 32GB 2x16GB 6000MHz CL30 EXPO-XMP",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-t-create-expert-32gb-2x16gb-6000mhz-cl30-expo-xmp/",
+    "price_cents": 66794,
+    "retailer_sku": "PROD-047841",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "169514"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "667.94"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:26.173Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CTCWD532G6000HC30DC01"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:26.173Z",
+    "commercial_observed_at": "2026-11-02T18:43:26.173Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:26.173Z",
+      "mpn": "CTCWD532G6000HC30DC01",
+      "price_cents": 66794,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr5-white/expert-u-dimm-ddr5-white-CTCWD532G6000HC30DC01/",
+    "verified_specifications": {
+      "Línea": "T-CREATE EXPERT",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr5-white/expert-u-dimm-ddr5-white-CTCWD532G6000HC30DC01/",
+      "evidence": "La página oficial TEAMGROUP identifica CTCWD532G6000HC30DC01 y publica el kit EXPERT blanco de 32 GB (2 × 16 GB) DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "FLBD532G6000HC30DC01",
+    "name": "Team Group T-Force Vulcan 32GB 2x16GB 6000MHz CL30 EXPO-XMP",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-t-force-vulcan-32gb-2x16gb-6000mhz-cl30-expo-xmp/",
+    "price_cents": 74895,
+    "retailer_sku": "PROD-047840",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "169513"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "748.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:27.412Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "FLBD532G6000HC30DC01"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:27.412Z",
+    "commercial_observed_at": "2026-11-02T18:43:27.412Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:27.412Z",
+      "mpn": "FLBD532G6000HC30DC01",
+      "price_cents": 74895,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+    "verified_specifications": {
+      "Línea": "T-FORCE VULCAN",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+      "evidence": "La hoja oficial TEAMGROUP lista FLBD532G6000HC30DC01 como kit de 2 × 16 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMP48GX5M2X7200C36",
+    "name": "Corsair Dominator Titanium RGB 48GB 2x24GB 7200MHz CL36 XMP Negro",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-dominator-titanium-rgb-48gb-2x24gb-7200mhz-cl36-xmp-negro/",
+    "price_cents": 135595,
+    "retailer_sku": "PROD-047706",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "169375"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1355.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:32.079Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMP48GX5M2X7200C36"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:32.079Z",
+    "commercial_observed_at": "2026-11-02T18:43:32.079Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:32.079Z",
+      "mpn": "CMP48GX5M2X7200C36",
+      "price_cents": 135595,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/CMP48GX5M2X7200C36/dominator-titanium-rgb-2x16gb-ddr5-dram-7200mt-s-c34-intel-xmp-memory-kit-CMP48GX5M2X7200C36",
+    "verified_specifications": {
+      "Línea": "DOMINATOR TITANIUM RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Módulos": "2 × 24 GB",
+      "Velocidad": "7200 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/CMP48GX5M2X7200C36/dominator-titanium-rgb-2x16gb-ddr5-dram-7200mt-s-c34-intel-xmp-memory-kit-CMP48GX5M2X7200C36",
+      "evidence": "La ficha CORSAIR publica el SKU CMP48GX5M2X7200C36 y en las especificaciones renderizadas indica 48 GB (2 × 24 GB) DDR5-7200 CL36. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "MD16GSD43200-SB",
+    "name": "PNY Performance 16GB 1x16GB 3200MHz CL22",
+    "brand": "PNY",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/pny-performance-16gb-1x16gb-3200mhz-cl22/",
+    "price_cents": 16396,
+    "retailer_sku": "PROD-047702",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "169370"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "163.96"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:33.404Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "MD16GSD43200-SB"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:33.404Z",
+    "commercial_observed_at": "2026-11-02T18:43:33.404Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:33.404Z",
+      "mpn": "MD16GSD43200-SB",
+      "price_cents": 16396,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://www.pny.com/file%20library/company/support/product%20brochures/memory/linecard-dram-memory-consumer-7-20-2024.pdf",
+      "evidence": "PNY publica el código Performance MD16GSD43200-TB, pero no el sufijo observado -SB. El MPN -SB no queda confirmado por el fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "MD16GD432008XRGB-SI",
+    "name": "PNY XLR8 Gaming Epic-X-RGB 8GB 1x8GB 3200MHz CL16 XMP Bulk",
+    "brand": "PNY",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/pny-xlr8-gaming-epic-x-rgb-8gb-1x8gb-3200mhz-cl16-xmp-bulk/",
+    "price_cents": 9995,
+    "retailer_sku": "PROD-047389",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "169045"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "99.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:35.013Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "MD16GD432008XRGB-SI"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:35.013Z",
+    "commercial_observed_at": "2026-11-02T18:43:35.013Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:35.013Z",
+      "mpn": "MD16GD432008XRGB-SI",
+      "price_cents": 9995,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://www.pny.com/xlr8-gaming-epic-x-rgb-desktop-memory",
+      "evidence": "La página oficial confirma la familia XLR8 EPIC-X RGB DDR4, pero no publica el MPN observado MD16GD432008XRGB-SI. Identidad exacta ambigua.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "PVER548G70C32KW",
+    "name": "Patriot Viper Elite 5 RGB 48GB 2x24GB 7000MHz CL32 EXPO-XMP Blanco",
+    "brand": "Patriot Memory",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/patriot-viper-elite-5-rgb-48gb-2x24gb-7000mhz-cl32-expo-xmp-blanco/",
+    "price_cents": 92096,
+    "retailer_sku": "PROD-046630",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "168331"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "920.96"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:36.317Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "PVER548G70C32KW"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:36.317Z",
+    "commercial_observed_at": "2026-11-02T18:43:36.317Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:36.317Z",
+      "mpn": "PVER548G70C32KW",
+      "price_cents": 92096,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://viper.patriotmemory.com/ru/products/viper-elite-5-ddr5",
+      "evidence": "La página oficial Viper Elite 5 confirma la familia y rangos generales, pero la tabla de MPN visible no publica PVER548G70C32KW. No se confirma el código exacto.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-5600J3636C8GH2-FX5",
+    "name": "G.SKill Flare X5 16GB 2x8GB 5600MHz CL36 AMD EXPO Negro",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-flare-x5-16gb-2x8gb-5600mhz-cl36-amd-expo-negro/",
+    "price_cents": 36096,
+    "retailer_sku": "PROD-046626",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "168326"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "360.96"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:37.908Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-5600J3636C8GH2-FX5"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:37.908Z",
+    "commercial_observed_at": "2026-11-02T18:43:37.908Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:37.908Z",
+      "mpn": "F5-5600J3636C8GH2-FX5",
+      "price_cents": 36096,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/specification/165/396/1765260800/F5-5600J3636C8GH2-FX5-Specification",
+    "verified_specifications": {
+      "Línea": "Flare X5",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/396/1765260800/F5-5600J3636C8GH2-FX5-Specification",
+      "evidence": "La especificación G.SKILL publica el MPN F5-5600J3636C8GH2-FX5 como kit Flare X5 de 16 GB (2 × 8 GB) DDR5-5600 CL36. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "AX5U6000C3032G-DTLABBK",
+    "name": "Adata XPG Lancer Blade 64GB 2x32GB 6000MHz CL30 EXPO-XMP Negro",
+    "brand": "A-Data Technology",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/adata-xpg-lancer-blade-64gb-2x32gb-6000mhz-cl30-expo-xmp-negro/",
+    "price_cents": 141795,
+    "retailer_sku": "PROD-046600",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "168300"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1417.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:39.230Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "AX5U6000C3032G-DTLABBK"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:39.230Z",
+    "commercial_observed_at": "2026-11-02T18:43:39.230Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:39.230Z",
+      "mpn": "AX5U6000C3032G-DTLABBK",
+      "price_cents": 141795,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20250821.pdf",
+      "evidence": "La hoja oficial XPG asocia AX5U6000C3032G-DTLABBK con 32 GB en la tabla Lancer Blade; la ficha Coolmod lo presenta como kit de 64 GB (2 × 32 GB). Capacidad/paquete en conflicto.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-5200J4040A32GX2-IS",
+    "name": "G.SKill Aegis 5 64GB 2x32GB 5200MHz CL40 EXPO-XMP Negro",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-aegis-5-64gb-2x32gb-5200mhz-cl40-expo-xmp-negro/",
+    "price_cents": 140295,
+    "retailer_sku": "PROD-046556",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "168258"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1402.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:42.113Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-5200J4040A32GX2-IS"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:42.113Z",
+    "commercial_observed_at": "2026-11-02T18:43:42.113Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:42.113Z",
+      "mpn": "F5-5200J4040A32GX2-IS",
+      "price_cents": 140295,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/specification/165/440/1734407772/F5-5200J4040A32GX2-IS-Specification",
+    "verified_specifications": {
+      "Línea": "Aegis 5",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/440/1734407772/F5-5200J4040A32GX2-IS-Specification",
+      "evidence": "La especificación G.SKILL publica el MPN exacto y 64 GB (2 × 32 GB) DDR5-5200 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-6000J3636F32GX1-IS",
+    "name": "G.SKill Aegis 5 32GB 1x16GB 6000MHz CL36 EXPO-XMP Negro",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-aegis-5-32gb-1x16gb-6000mhz-cl36-expo-xmp-negro/",
+    "price_cents": 75695,
+    "retailer_sku": "PROD-046550",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "168253"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "756.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:43.995Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-6000J3636F32GX1-IS"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:43.995Z",
+    "commercial_observed_at": "2026-11-02T18:43:43.995Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:43.995Z",
+      "mpn": "F5-6000J3636F32GX1-IS",
+      "price_cents": 75695,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/442/1734407245/F5-6000J3636F32GX1-IS-Specification",
+      "evidence": "La especificación oficial confirma F5-6000J3636F32GX1-IS como módulo único de 32 GB DDR5-6000 CL36; la ficha Coolmod dice 1 × 16 GB. Capacidad de módulo conflictiva.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-5600J3636D32GX1-IS",
+    "name": "G.SKill Aegis 5 32GB 1x16GB 5600MHz CL36 EXPO-XMP Negro",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-aegis-5-32gb-1x16gb-5600mhz-cl36-expo-xmp-negro/",
+    "price_cents": 66695,
+    "retailer_sku": "PROD-046535",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "168238"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "666.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:45.111Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-5600J3636D32GX1-IS"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:45.111Z",
+    "commercial_observed_at": "2026-11-02T18:43:45.111Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:45.111Z",
+      "mpn": "F5-5600J3636D32GX1-IS",
+      "price_cents": 66695,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/440/1734407172/F5-5600J3636D32GX1-IS-Specification",
+      "evidence": "La especificación oficial confirma F5-5600J3636D32GX1-IS como módulo único de 32 GB DDR5-5600 CL36; la ficha Coolmod dice 1 × 16 GB. Capacidad de módulo conflictiva.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "AX5U5600C4616G-DTLABBK",
+    "name": "Adata XPG Lancer Blade 32GB 2x16GB 5600MHz CL46 EXPO-XMP",
+    "brand": "A-Data Technology",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/adata-xpg-lancer-blade-32gb-2x16gb-5600mhz-cl46-expo-xmp/",
+    "price_cents": 56195,
+    "retailer_sku": "PROD-046180",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "167894"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "561.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:47.083Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "AX5U5600C4616G-DTLABBK"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:47.083Z",
+    "commercial_observed_at": "2026-11-02T18:43:47.083Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:47.083Z",
+      "mpn": "AX5U5600C4616G-DTLABBK",
+      "price_cents": 56195,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20250821.pdf",
+      "evidence": "La tabla oficial publica AX5U5600C4616G-DTLABBK como módulo de 16 GB; Coolmod lo presenta como kit de 32 GB (2 × 16 GB). Configuración conflictiva.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "AX4U320032G16A-DTBKD35",
+    "name": "Adata XPG Gammix D35 64GB 2x32GB 3200MHz CL16 XMP",
+    "brand": "A-Data Technology",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/adata-xpg-gammix-d35-64gb-2x32gb-3200mhz-cl16-xmp/",
+    "price_cents": 69995,
+    "retailer_sku": "PROD-046179",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "167893"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "699.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:48.414Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "AX4U320032G16A-DTBKD35"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:48.414Z",
+    "commercial_observed_at": "2026-11-02T18:43:48.414Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:48.414Z",
+      "mpn": "AX4U320032G16A-DTBKD35",
+      "price_cents": 69995,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://www.adata.com/storage/downloadfile/datasheet_xpg_gammix_d35_ddr4_memory.pdf",
+      "evidence": "La ficha oficial GAMMIX D35 lista AX4U320032G16A-DTBKD35 como módulo de 32 GB; Coolmod lo presenta como kit de 64 GB (2 × 32 GB). Configuración conflictiva.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-6000J3636F32GX2-IS",
+    "name": "G.Skill Aegis 5 64GB 2x32GB 6000MHz CL36 EXPO-XMP",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-aegis-5-64gb-2x32gb-6000mhz-cl36-expo-xmp/",
+    "price_cents": 151295,
+    "retailer_sku": "PROD-045551",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "167278"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1512.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:50.040Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-6000J3636F32GX2-IS"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:50.040Z",
+    "commercial_observed_at": "2026-11-02T18:43:50.040Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:50.040Z",
+      "mpn": "F5-6000J3636F32GX2-IS",
+      "price_cents": 151295,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/product/165/440/1734414401/F5-6000J3636F32GX2-IS",
+    "verified_specifications": {
+      "Línea": "Aegis 5",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/product/165/440/1734414401/F5-6000J3636F32GX2-IS",
+      "evidence": "La página oficial G.SKILL identifica el MPN y especifica Aegis 5, 64 GB (2 × 32 GB), DDR5-6000 CL36. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMH16GX5M2B5200Z40",
+    "name": "Corsair Vengeance RGB 16GB 2x8GB 5200MHz CL40 EXPO-XMP",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rgb-16gb-2x8gb-5200mhz-cl40-expo-xmp/",
+    "price_cents": 34994,
+    "retailer_sku": "PROD-045245",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "166973"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "349.94"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:51.422Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMH16GX5M2B5200Z40"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:51.422Z",
+    "commercial_observed_at": "2026-11-02T18:43:51.422Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:51.422Z",
+      "mpn": "CMH16GX5M2B5200Z40",
+      "price_cents": 34994,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m2b5200z40/vengeance-rgb-16gb-2x8gb-ddr5-dram-5200mt-s-c40-amd-expo-memory-kit-cmh16gx5m2b5200z40",
+    "verified_specifications": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m2b5200z40/vengeance-rgb-16gb-2x8gb-ddr5-dram-5200mt-s-c40-amd-expo-memory-kit-cmh16gx5m2b5200z40",
+      "evidence": "La página CORSAIR confirma SKU CMH16GX5M2B5200Z40, capacidad 16 GB (2 × 8 GB), DDR5-5200 CL40 y perfil AMD EXPO. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMK5X8G1A52Z40B2",
+    "name": "Corsair Vengeance 8GB 1x8GB 5200MHz CL40 EXPO-XMP Negro OEM",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-8gb-1x8gb-5200mhz-cl40-expo-xmp-negro/",
+    "price_cents": 11995,
+    "retailer_sku": "PROD-044995",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "166712"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "119.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:56.095Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMK5X8G1A52Z40B2"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:56.095Z",
+    "commercial_observed_at": "2026-11-02T18:43:56.095Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:56.095Z",
+      "mpn": "CMK5X8G1A52Z40B2",
+      "price_cents": 11995,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró una página o documento oficial de CORSAIR que publique CMK5X8G1A52Z40B2; el código permanece sin confirmar.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "AX5U6000C4816G-DTLABBK",
+    "name": "Adata XPG Lancer Blade 32GB 2x16GB 6000MHz CL48 EXPO-XMP Negro",
+    "brand": "A-Data Technology",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/adata-xpg-lancer-blade-32gb-2x16gb-6000mhz-cl48-expo-xmp-negro/",
+    "price_cents": 60195,
+    "retailer_sku": "PROD-044806",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "166531"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "601.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:57.428Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "AX5U6000C4816G-DTLABBK"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:57.428Z",
+    "commercial_observed_at": "2026-11-02T18:43:57.428Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:57.428Z",
+      "mpn": "AX5U6000C4816G-DTLABBK",
+      "price_cents": 60195,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_lancer_blade_ddr5_memory_20250821.pdf",
+      "evidence": "La hoja oficial lista AX5U6000C4816G-DTLABBK como módulo de 16 GB; Coolmod lo presenta como kit de 32 GB (2 × 16 GB). Configuración conflictiva.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "SP008GXLZU320BSI",
+    "name": "Silicon Power 8GB 1x8GB 3200MHz CL16 OC",
+    "brand": "Silicon Power",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/silicon-power-8gb-1x8gb-3200mhz-cl16-oc/",
+    "price_cents": 8395,
+    "retailer_sku": "PROD-044713",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "166451"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "83.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:43:59.001Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "SP008GXLZU320BSI"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:43:59.001Z",
+    "commercial_observed_at": "2026-11-02T18:43:59.001Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:43:59.001Z",
+      "mpn": "SP008GXLZU320BSI",
+      "price_cents": 8395,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.silicon-power.com/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+    "verified_specifications": {
+      "Línea": "XPOWER Pulse",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.silicon-power.com/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+      "evidence": "La página oficial Silicon Power publica P/N SP008GXLZU320BSI y 8 GB DDR4-3200, timings CL16-18-18-38. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CB8GU3200",
+    "name": "Crucial Basics 4GB 1x4GB 3200MHz CL22",
+    "brand": "Crucial",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/crucial-basics-4gb-1x4gb-3200mhz-cl22/",
+    "price_cents": 7595,
+    "retailer_sku": "PROD-044623",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "166370"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "75.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:00.411Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CB8GU3200"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:00.411Z",
+    "commercial_observed_at": "2026-11-02T18:44:00.411Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:00.411Z",
+      "mpn": "CB8GU3200",
+      "price_cents": 7595,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://content.crucial.com/content/dam/crucial/dram-products/basics/flyer/crucial-basics-memory-productflyer.pdf",
+    "verified_specifications": {
+      "Línea": "Crucial Basics",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "4 GB",
+      "Módulos": "1 × 4 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://content.crucial.com/content/dam/crucial/dram-products/basics/flyer/crucial-basics-memory-productflyer.pdf",
+      "evidence": "La hoja oficial Crucial Basics lista CB8GU3200 como UDIMM DDR4 de 4 GB, 3200 MT/s y CL22. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "FLABD516G6000HC3001",
+    "name": "Team Group T-Force Vulcan 16GB 1x16GB 6000MHz CL30 AMD EXPO Negro",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-t-force-vulcan-16gb-1x16gb-6000mhz-cl30-amd-expo-negro/",
+    "price_cents": 38395,
+    "retailer_sku": "PROD-044321",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "166064"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "383.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:02.107Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "FLABD516G6000HC3001"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:02.107Z",
+    "commercial_observed_at": "2026-11-02T18:44:02.107Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:02.107Z",
+      "mpn": "FLABD516G6000HC3001",
+      "price_cents": 38395,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan-alpha/spec-sheet/vulcan-alpha-en.pdf",
+    "verified_specifications": {
+      "Línea": "T-FORCE VULCANα",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan-alpha/spec-sheet/vulcan-alpha-en.pdf",
+      "evidence": "La hoja oficial TEAMGROUP publica FLABD516G6000HC3001 como módulo de 16 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "FLBD516G6000HC3001",
+    "name": "Team Group T-Force Vulcan 16GB 1x16GB 6000MHz CL30 EXPO-XMP Negro",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-t-force-vulcan-16gb-1x16gb-6000mhz-cl30-expo-xmp-negro/",
+    "price_cents": 35195,
+    "retailer_sku": "PROD-044320",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "166063"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "351.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:03.438Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "FLBD516G6000HC3001"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:03.438Z",
+    "commercial_observed_at": "2026-11-02T18:44:03.438Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:03.438Z",
+      "mpn": "FLBD516G6000HC3001",
+      "price_cents": 35195,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+    "verified_specifications": {
+      "Línea": "T-FORCE VULCAN",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+      "evidence": "La hoja oficial TEAMGROUP publica FLBD516G6000HC3001 como módulo de 16 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "FF7D532G6000HC30DC01",
+    "name": "Team Group T-Force Delta RGB 32GB 2x16GB 6000MHz CL30 AMD EXPO Negro",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-t-force-delta-rgb-32gb-2x16gb-6000mhz-cl30-amd-expo-negro/",
+    "price_cents": 67595,
+    "retailer_sku": "PROD-044319",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "166062"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "675.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:05.037Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "FF7D532G6000HC30DC01"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:05.037Z",
+    "commercial_observed_at": "2026-11-02T18:44:05.037Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:05.037Z",
+      "mpn": "FF7D532G6000HC30DC01",
+      "price_cents": 67595,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-alpha-rgb/spec-sheet/delta-alpha-rgb-en.pdf",
+    "verified_specifications": {
+      "Línea": "T-FORCE DELTAα RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-alpha-rgb/spec-sheet/delta-alpha-rgb-en.pdf",
+      "evidence": "La hoja oficial TEAMGROUP identifica FF7D532G6000HC30DC01 como kit de 32 GB (2 × 16 GB) DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-5600J4040D48GX2-FX5",
+    "name": "G.Skill Flare X5 96GB 2x48GB 5600MHz CL40 AMD EXPO Negro",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-flare-x5-96gb-2x48gb-5600mhz-cl40-amd-expo-negro/",
+    "price_cents": 217495,
+    "retailer_sku": "PROD-044302",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "166045"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "2174.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:07.993Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-5600J4040D48GX2-FX5"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:07.993Z",
+    "commercial_observed_at": "2026-11-02T18:44:07.993Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:07.993Z",
+      "mpn": "F5-5600J4040D48GX2-FX5",
+      "price_cents": 217495,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/specification/165/396/1683011081/F5-5600J4040D48GX2-FX5-Specification",
+    "verified_specifications": {
+      "Línea": "Flare X5",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "96 GB",
+      "Módulos": "2 × 48 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/396/1683011081/F5-5600J4040D48GX2-FX5-Specification",
+      "evidence": "La ficha G.SKILL confirma F5-5600J4040D48GX2-FX5 como kit Flare X5 de 96 GB (2 × 48 GB) DDR5-5600 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "LD5U32G56C46ST-BGS",
+    "name": "Lexar 32GB 1x32GB 5600MHz CL46 Negro",
+    "brand": "Lexar",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/lexar-32gb-1x32gb-5600mhz-cl46-negro/",
+    "price_cents": 61895,
+    "retailer_sku": "PROD-044001",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "165766"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "618.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:09.404Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "LD5U32G56C46ST-BGS"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:09.404Z",
+    "commercial_observed_at": "2026-11-02T18:44:09.404Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:09.404Z",
+      "mpn": "LD5U32G56C46ST-BGS",
+      "price_cents": 61895,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://americas.lexar.com/product/lexar-ddr5-udimm-desktop-memory/",
+    "verified_specifications": {
+      "Línea": "Lexar DDR5 UDIMM",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "1 × 32 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL46"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://americas.lexar.com/product/lexar-ddr5-udimm-desktop-memory/",
+      "evidence": "La página oficial Lexar identifica LD5U32G56C46ST-BGS como módulo de 32 GB DDR5-5600 CL46. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "FLBD516G6000HC38J01",
+    "name": "Team Group Vulcan 16GB 1x16GB 6000MHz CL38 EXPO-XMP Negro",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-vulcan-16gb-1x16gb-6000mhz-cl38-expo-xmp-negro/",
+    "price_cents": 32095,
+    "retailer_sku": "PROD-043916",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "165678"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "320.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:12.344Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "FLBD516G6000HC38J01"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:12.344Z",
+    "commercial_observed_at": "2026-11-02T18:44:12.344Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:12.344Z",
+      "mpn": "FLBD516G6000HC38J01",
+      "price_cents": 32095,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/vulcan-ddr5-black/vulcan-ddr5-black-FLBD516G6000HC3001/",
+    "verified_specifications": {
+      "Línea": "T-FORCE VULCAN",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL38",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/vulcan-ddr5-black/vulcan-ddr5-black-FLBD516G6000HC3001/",
+      "evidence": "La página oficial de comparación/especificaciones TEAMGROUP lista FLBD516G6000HC38J01 como módulo de 16 GB DDR5-6000 CL38. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "KCP432NS8/16",
+    "name": "Kingston 16GB 1x16GB 3200MHz CL22",
+    "brand": "Kingston",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/kingston-16gb-1x16gb-3200mhz-cl22/",
+    "price_cents": 27995,
+    "retailer_sku": "PROD-043300",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "165055"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "279.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:13.993Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "KCP432NS8/16"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:13.993Z",
+    "commercial_observed_at": "2026-11-02T18:44:13.993Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:13.993Z",
+      "mpn": "KCP432NS8/16",
+      "price_cents": 27995,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.kingston.com/br/memory/search?partId=KCP432NS8%2F16",
+    "verified_specifications": {
+      "Línea": "ValueRAM",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.kingston.com/br/memory/search?partId=KCP432NS8%2F16",
+      "evidence": "La búsqueda oficial Kingston por KCP432NS8/16 confirma 16 GB DDR4-3200 CL22. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "KCP432NS8/8",
+    "name": "Kingston 8GB 1x8GB 3200MHz CL22",
+    "brand": "Kingston",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/kingston-8gb-1x8gb-3200mhz-cl22/",
+    "price_cents": 14095,
+    "retailer_sku": "PROD-043299",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "165053"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "140.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:15.544Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "KCP432NS8/8"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:15.544Z",
+    "commercial_observed_at": "2026-11-02T18:44:15.544Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:15.544Z",
+      "mpn": "KCP432NS8/8",
+      "price_cents": 14095,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.kingston.com/es/memory/search?partId=KCP432NS8%2F8",
+    "verified_specifications": {
+      "Línea": "ValueRAM",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL22"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.kingston.com/es/memory/search?partId=KCP432NS8%2F8",
+      "evidence": "La búsqueda oficial Kingston por KCP432NS8/8 confirma 8 GB DDR4-3200 CL22. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "M321R8GA0PB0-CWM",
+    "name": "Samsung 64GB 1x64GB 5600MHz CL46",
+    "brand": "Samsung",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/samsung-64gb-1x64gb-5600mhz-cl46/",
+    "price_cents": 426994,
+    "retailer_sku": "PROD-043024",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "164806"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "4269.94"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:16.978Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "M321R8GA0PB0-CWM"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:16.978Z",
+    "commercial_observed_at": "2026-11-02T18:44:16.978Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:16.978Z",
+      "mpn": "M321R8GA0PB0-CWM",
+      "price_cents": 426994,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró fuente primaria de Samsung que publique M321R8GA0PB0-CWM y sus especificaciones; quedan desconocidas.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CT2K16G4DFRA32A",
+    "name": "Crucial Classic 32GB 2x16GB 3200MHz CL22 Verde",
+    "brand": "Crucial",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/crucial-classic-32gb-2x16gb-3200mhz-cl22-verde/",
+    "price_cents": 53595,
+    "retailer_sku": "PROD-043000",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "164779"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "535.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:18.562Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CT2K16G4DFRA32A"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:18.562Z",
+    "commercial_observed_at": "2026-11-02T18:44:18.562Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:18.562Z",
+      "mpn": "CT2K16G4DFRA32A",
+      "price_cents": 53595,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró una ficha oficial utilizable para CT2K16G4DFRA32A: el dominio Crucial rechazó la consulta y no se obtuvo contenido primario que confirme MPN/especificaciones.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CP32G4DFRA32A",
+    "name": "Crucial Pro 32GB 1x32GB 3200MHz CL22 Negro",
+    "brand": "Crucial",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/crucial-pro-32gb-1x32gb-3200mhz-cl22-negro/",
+    "price_cents": 35294,
+    "retailer_sku": "PROD-042980",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "164758"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "352.94"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:20.184Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CP32G4DFRA32A"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:20.184Z",
+    "commercial_observed_at": "2026-11-02T18:44:20.184Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:20.184Z",
+      "mpn": "CP32G4DFRA32A",
+      "price_cents": 35294,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró una ficha oficial utilizable para CP32G4DFRA32A: las consultas directas a Crucial fueron rechazadas; las especificaciones quedan desconocidas.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CP2K32G56C46U5",
+    "name": "Crucial Pro 64GB 2x32GB 5600MHz CL46 EXPO-XMP Negro",
+    "brand": "Crucial",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/crucial-pro-64gb-2x32gb-5600mhz-cl46-expo-xmp-negro/",
+    "price_cents": 143596,
+    "retailer_sku": "PROD-042970",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "164749"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1435.96"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:21.635Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CP2K32G56C46U5"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:21.635Z",
+    "commercial_observed_at": "2026-11-02T18:44:21.635Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:21.635Z",
+      "mpn": "CP2K32G56C46U5",
+      "price_cents": 143596,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró una ficha oficial utilizable para CP2K32G56C46U5; las consultas directas a Crucial fueron rechazadas y no confirman sus especificaciones.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CTCED532G6400HC32ADC01",
+    "name": "Team Group T-Create Expert 32GB 2x16GB 6400MHz CL32 EXPO-XMP",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-t-create-expert-32gb-2x16gb-6400mhz-cl32-expo-xmp/",
+    "price_cents": 74595,
+    "retailer_sku": "PROD-041595",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "163304"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "745.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:24.589Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CTCED532G6400HC32ADC01"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:24.589Z",
+    "commercial_observed_at": "2026-11-02T18:44:24.589Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:24.589Z",
+      "mpn": "CTCED532G6400HC32ADC01",
+      "price_cents": 74595,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/expert/spec-sheet/expert-en.pdf",
+    "verified_specifications": {
+      "Línea": "T-CREATE EXPERT",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL32",
+      "Perfil de memoria": "XMP / EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/expert/spec-sheet/expert-en.pdf",
+      "evidence": "La hoja oficial TEAMGROUP lista CTCED532G6400HC32ADC01 como kit 2 × 16 GB DDR5-6400 CL32. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CT2K16G48C40U5",
+    "name": "Crucial 32GB 2x16GB 4800MHz CL40 EXPO-XMP",
+    "brand": "Crucial",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/crucial-32gb-2x16gb-4800mhz-cl40-expo-xmp/",
+    "price_cents": 79395,
+    "retailer_sku": "PROD-039523",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "161308"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "793.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:29.048Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CT2K16G48C40U5"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:29.048Z",
+    "commercial_observed_at": "2026-11-02T18:44:29.048Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:29.048Z",
+      "mpn": "CT2K16G48C40U5",
+      "price_cents": 79395,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró una ficha oficial utilizable para CT2K16G48C40U5; las consultas directas a Crucial fueron rechazadas y no se confirma el producto.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-7200J3445G16GX2-TZ5RS",
+    "name": "G.SKill Trident Z5 RGB 32GB 2x16GB 7200MHz CL34 XMP Blanco",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-trident-z5-rgb-32gb-2x16gb-7200mhz-cl34-xmp-blanco/",
+    "price_cents": 88495,
+    "retailer_sku": "PROD-037702",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "159543"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "884.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:30.596Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-7200J3445G16GX2-TZ5RS"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:30.596Z",
+    "commercial_observed_at": "2026-11-02T18:44:30.596Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:30.596Z",
+      "mpn": "F5-7200J3445G16GX2-TZ5RS",
+      "price_cents": 88495,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/specification/165/374/1665644713/F5-7200J3445G16GX2-TZ5RS-Specification",
+    "verified_specifications": {
+      "Línea": "Trident Z5 RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "7200 MT/s",
+      "Latencia": "CL34",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/374/1665644713/F5-7200J3445G16GX2-TZ5RS-Specification",
+      "evidence": "La especificación oficial G.SKILL confirma F5-7200J3445G16GX2-TZ5RS como kit de 32 GB (2 × 16 GB) DDR5-7200 CL34. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMKC48GX5M2X8400C40",
+    "name": "Corsair Vengeance 48GB 2x24GB 8400MHz CL40 XMP CUDIMM",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-48gb-2x24gb-8400mhz-cl40-xmp-cudimm/",
+    "price_cents": 128595,
+    "retailer_sku": "PROD-037219",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "159072"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1285.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:31.978Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMKC48GX5M2X8400C40"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:31.978Z",
+    "commercial_observed_at": "2026-11-02T18:44:31.978Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:31.978Z",
+      "mpn": "CMKC48GX5M2X8400C40",
+      "price_cents": 128595,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmkc48gx5m2x8400c40/vengeance-48gb-2x24gb-ddr5-cudimm-8400mts-cl40-memory-kit-silver-cmkc48gx5m2x8400c40",
+    "verified_specifications": {
+      "Línea": "VENGEANCE CUDIMM",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Módulos": "2 × 24 GB",
+      "Velocidad": "8400 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmkc48gx5m2x8400c40/vengeance-48gb-2x24gb-ddr5-cudimm-8400mts-cl40-memory-kit-silver-cmkc48gx5m2x8400c40",
+      "evidence": "La página CORSAIR identifica CMKC48GX5M2X8400C40 como kit CUDIMM de 48 GB (2 × 24 GB), DDR5-8400 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CP2K16G56C46U5",
+    "name": "Crucial Pro 32GB 2x16GB 5600MHz CL46 EXPO-XMP",
+    "brand": "Crucial",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/crucial-pro-32gb-2x16gb-5600mhz-cl46-expo-xmp/",
+    "price_cents": 81994,
+    "retailer_sku": "PROD-036053",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "157890"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "819.94"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:33.503Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CP2K16G56C46U5"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:33.503Z",
+    "commercial_observed_at": "2026-11-02T18:44:33.503Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:33.503Z",
+      "mpn": "CP2K16G56C46U5",
+      "price_cents": 81994,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró una ficha oficial utilizable para CP2K16G56C46U5; el sitio Crucial rechazó las consultas y no se confirma la especificación.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "4U320016G16ADTBKD35G",
+    "name": "Adata XPG SPECTRIX D35G RGB 32GB 2x16GB 3200MHz CL16 XMP",
+    "brand": "A-Data Technology",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/adata-xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-cl16/",
+    "price_cents": 31995,
+    "retailer_sku": "PROD-034511",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "156385"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "319.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:36.475Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "4U320016G16ADTBKD35G"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:36.475Z",
+    "commercial_observed_at": "2026-11-02T18:44:36.475Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:36.475Z",
+      "mpn": "4U320016G16ADTBKD35G",
+      "price_cents": 31995,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://www.adata.com/storage/downloadfile/datasheet_xpg_spectrix_d35g_ddr4_rgb_memory_20260402.pdf",
+      "evidence": "La hoja oficial XPG SPECTRIX D35G publica el código AX4U320032G16A-DTBKD35G. El código observado 4U320016G16ADTBKD35G carece del prefijo AX y no coincide con el MPN publicado.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMH32GX5M2B6000C30W",
+    "name": "Corsair Vengeance RGB 32GB 2x16GB 6000MHz CL30 XMP Blanco",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rgb-32gb-2x16gb-6000mhz-cl30-xmp-blanco/",
+    "price_cents": 73095,
+    "retailer_sku": "PROD-034321",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "156216"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "730.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:39.329Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMH32GX5M2B6000C30W"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:39.329Z",
+    "commercial_observed_at": "2026-11-02T18:44:39.329Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:39.329Z",
+      "mpn": "CMH32GX5M2B6000C30W",
+      "price_cents": 73095,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-memory-kit-white-cmh32gx5m2b6000c30w",
+    "verified_specifications": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-memory-kit-white-cmh32gx5m2b6000c30w",
+      "evidence": "La página CORSAIR confirma SKU CMH32GX5M2B6000C30W, kit blanco de 32 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMK48GX5M2E6000C36",
+    "name": "Corsair Vengeance 48GB 2x24GB 6000MHz CL36 XMP Negro",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-48gb-2x24gb-6000mhz-cl36-xmp-negro/",
+    "price_cents": 81795,
+    "retailer_sku": "PROD-034312",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "156188"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "817.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:40.750Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMK48GX5M2E6000C36"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:40.750Z",
+    "commercial_observed_at": "2026-11-02T18:44:40.750Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:40.750Z",
+      "mpn": "CMK48GX5M2E6000C36",
+      "price_cents": 81795,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk48gx5m2e6000c36/vengeance-48gb-2x24gb-ddr5-dram-6000mt-s-cl36-memory-kit-black-cmk48gx5m2e6000c36",
+    "verified_specifications": {
+      "Línea": "VENGEANCE",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Módulos": "2 × 24 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmk48gx5m2e6000c36/vengeance-48gb-2x24gb-ddr5-dram-6000mt-s-cl36-memory-kit-black-cmk48gx5m2e6000c36",
+      "evidence": "La página CORSAIR identifica CMK48GX5M2E6000C36 como kit negro de 48 GB (2 × 24 GB) DDR5-6000 CL36. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-6000J3238G32GX2-TZ5NR",
+    "name": "G.Skill Trident Z5 Neo RGB 64GB 2x32GB 6000MHz CL32 EXPO",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-trident-z5-neo-rgb-64gb-2x32gb-6000mhz-cl32-expo/",
+    "price_cents": 200495,
+    "retailer_sku": "PROD-030842",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "152702"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "2004.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:43.709Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-6000J3238G32GX2-TZ5NR"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:43.709Z",
+    "commercial_observed_at": "2026-11-02T18:44:43.709Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:43.709Z",
+      "mpn": "F5-6000J3238G32GX2-TZ5NR",
+      "price_cents": 200495,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/product/165/390/1665020956/F5-6000J3238G32GX2-TZ5NR",
+    "verified_specifications": {
+      "Línea": "Trident Z5 Neo RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL32",
+      "Perfil de memoria": "AMD EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/product/165/390/1665020956/F5-6000J3238G32GX2-TZ5NR",
+      "evidence": "La página oficial G.SKILL identifica F5-6000J3238G32GX2-TZ5NR como kit de 64 GB DDR5-6000 CL32. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-6400J3239G32GX2-TZ5RK",
+    "name": "G.Skill Trident Z5 RGB 64GB 2x32GB 6400MHz CL32",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-trident-z5-rgb-64gb-2x32gb-6400mhz-cl32/",
+    "price_cents": 307495,
+    "retailer_sku": "PROD-030826",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "152692"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "3074.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:45.576Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-6400J3239G32GX2-TZ5RK"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:45.576Z",
+    "commercial_observed_at": "2026-11-02T18:44:45.576Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:45.576Z",
+      "mpn": "F5-6400J3239G32GX2-TZ5RK",
+      "price_cents": 307495,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/specification/165/374/1665644504/F5-6400J3239G32GX2-TZ5RK-Specification",
+    "verified_specifications": {
+      "Línea": "Trident Z5 RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL32",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/374/1665644504/F5-6400J3239G32GX2-TZ5RK-Specification",
+      "evidence": "La especificación oficial G.SKILL identifica el kit Trident Z5 RGB de 64 GB DDR5-6400 CL32. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "PVV564G600C36K",
+    "name": "Patriot Viper Venom 64GB 2x32GB 6000MHz CL36",
+    "brand": "Patriot Memory",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/patriot-viper-venom-64gb-2x32gb-6000mhz-cl36/",
+    "price_cents": 180494,
+    "retailer_sku": "PROD-030600",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "152506"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1804.94"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:46.794Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "PVV564G600C36K"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:46.794Z",
+    "commercial_observed_at": "2026-11-02T18:44:46.794Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:46.794Z",
+      "mpn": "PVV564G600C36K",
+      "price_cents": 180494,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró una página o documento oficial accesible de Patriot/Viper que publique exactamente PVV564G600C36K. No se emplearon hojas de terceros.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMH32GX5M2B6400C36W",
+    "name": "Corsair Vengeance RGB 32GB 2x16GB 6400MHz CL36 Blanco",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rgb-32gb-2x16gb-6400mhz-cl36-blanco/",
+    "price_cents": 72195,
+    "retailer_sku": "PROD-027788",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "149888"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "721.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:48.064Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMH32GX5M2B6400C36W"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:48.064Z",
+    "commercial_observed_at": "2026-11-02T18:44:48.064Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:48.064Z",
+      "mpn": "CMH32GX5M2B6400C36W",
+      "price_cents": 72195,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6400c36w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-cl36-memory-kit-white-cmh32gx5m2b6400c36w",
+    "verified_specifications": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6400 MT/s",
+      "Latencia": "CL36",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6400c36w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-cl36-memory-kit-white-cmh32gx5m2b6400c36w",
+      "evidence": "La página CORSAIR confirma CMH32GX5M2B6400C36W, 32 GB (2 × 16 GB), DDR5-6400 CL36 y color blanco. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMH32GX5M2B6000C30",
+    "name": "Corsair Vengeance RGB 32GB 2x16GB 6000MHz CL30",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rgb-32gb-2x16gb-6000mhz-cl30/",
+    "price_cents": 90696,
+    "retailer_sku": "PROD-027546",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "149658"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "906.96"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:50.570Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMH32GX5M2B6000C30"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:50.570Z",
+    "commercial_observed_at": "2026-11-02T18:44:50.570Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:50.570Z",
+      "mpn": "CMH32GX5M2B6000C30",
+      "price_cents": 90696,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-c30-memory-kit-black-cmh32gx5m2b6000c30",
+    "verified_specifications": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-c30-memory-kit-black-cmh32gx5m2b6000c30",
+      "evidence": "La página CORSAIR confirma CMH32GX5M2B6000C30 como kit RGB de 32 GB DDR5-6000 CL30. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "TLZGD416G3200HC16FDC",
+    "name": "Team Group Vulcan Z 16GB 2x8GB 3200MHz CL16 Gris",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-vulcan-z-16gb-2x8gb-3200mhz-cl16-gris/",
+    "price_cents": 21395,
+    "retailer_sku": "PROD-026818",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "148901"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "213.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:44:57.804Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "TLZGD416G3200HC16FDC"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "ambiguous"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:44:57.804Z",
+    "commercial_observed_at": "2026-11-02T18:44:57.804Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:44:57.804Z",
+      "mpn": "TLZGD416G3200HC16FDC",
+      "price_cents": 21395,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "ambiguous",
+      "manufacturer_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/spec-sheet/vulcan-z-en.pdf",
+      "evidence": "La hoja oficial TEAMGROUP identifica el código completo TLZGD416G3200HC16FDC01 (kit 2 × 8 GB DDR4-3200 CL16); el MPN Coolmod termina en FDC y omite 01.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F4-3600C16D-16GVKC",
+    "name": "G.Skill Ripjaws V 2x8GB 3600MHz CL16",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-ripjaws-v-rgb-2x8gb-3600mhz-cl16/",
+    "price_cents": 17295,
+    "retailer_sku": "PROD-025174",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "147296"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "172.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:00.125Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F4-3600C16D-16GVKC"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:00.125Z",
+    "commercial_observed_at": "2026-11-02T18:45:00.125Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:00.125Z",
+      "mpn": "F4-3600C16D-16GVKC",
+      "price_cents": 17295,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/specification/165/184/1562831134/F4-3600C16D-16GVKC-Specification",
+    "verified_specifications": {
+      "Línea": "Ripjaws V",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL16",
+      "Perfil de memoria": "Intel XMP 2.0"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/184/1562831134/F4-3600C16D-16GVKC-Specification",
+      "evidence": "La ficha oficial G.SKILL confirma F4-3600C16D-16GVKC como kit DDR4-3600 de 16 GB (2 × 8 GB) CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F5-6400J3239G16GX2-TZ5K",
+    "name": "G.Skill Trident Z5 32GB 2x16GB 6400MHz CL32 Negro",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/g-skill-trident-z5-rgb-2x16gb-6400mhz-cl32-negro/",
+    "price_cents": 73995,
+    "retailer_sku": "PROD-025157",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "147279"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "739.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:01.270Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F5-6400J3239G16GX2-TZ5K"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:01.270Z",
+    "commercial_observed_at": "2026-11-02T18:45:01.270Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:01.270Z",
+      "mpn": "F5-6400J3239G16GX2-TZ5K",
+      "price_cents": 73995,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró una página o ficha oficial G.SKILL para F5-6400J3239G16GX2-TZ5K. No se infiere a partir de variantes TZ5RS/TZ5RK.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMH48GX5M2B5600C40",
+    "name": "Corsair Vengeance RGB 48GB 2x24GB 5600MHz CL40",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rgb-2x24gb-5600mhz-cl40/",
+    "price_cents": 100395,
+    "retailer_sku": "PROD-024752",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "146902"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1003.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:03.300Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMH48GX5M2B5600C40"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:03.300Z",
+    "commercial_observed_at": "2026-11-02T18:45:03.300Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:03.300Z",
+      "mpn": "CMH48GX5M2B5600C40",
+      "price_cents": 100395,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh48gx5m2b5600c40/vengeance-rgb-48gb-2x24gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmh48gx5m2b5600c40",
+    "verified_specifications": {
+      "Línea": "VENGEANCE RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "48 GB",
+      "Módulos": "2 × 24 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmh48gx5m2b5600c40/vengeance-rgb-48gb-2x24gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmh48gx5m2b5600c40",
+      "evidence": "La página CORSAIR confirma CMH48GX5M2B5600C40 como kit RGB de 48 GB DDR5-5600 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "FF3D532G7200HC34ADC01",
+    "name": "Team Group Delta RGB 32GB 2x16GB 7200MHz CL34 Negro",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-delta-rgb-2x16gb-7200mhz-cl34-negro/",
+    "price_cents": 63994,
+    "retailer_sku": "PROD-023209",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "145698"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "639.94"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:06.241Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "FF3D532G7200HC34ADC01"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:06.241Z",
+    "commercial_observed_at": "2026-11-02T18:45:06.241Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:06.241Z",
+      "mpn": "FF3D532G7200HC34ADC01",
+      "price_cents": 63994,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "verified_specifications": {
+      "Línea": "T-FORCE DELTA RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "7200 MT/s",
+      "Latencia": "CL34",
+      "Perfil de memoria": "Intel XMP / AMD EXPO"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+      "evidence": "La hoja oficial TEAMGROUP identifica FF3D532G7200HC34ADC01 como kit de 32 GB (2 × 16 GB) DDR5-7200 CL34. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMT64GX5M2B5600C40",
+    "name": "Corsair Dominator Platinum RGB 64GB 2x32GB 5600MHz CL40 Negro",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-dominator-platinum-rgb-2x32gb-5600mhz-cl40-negro/",
+    "price_cents": 119994,
+    "retailer_sku": "PROD-023151",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "145612"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1199.94"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:07.311Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMT64GX5M2B5600C40"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:07.311Z",
+    "commercial_observed_at": "2026-11-02T18:45:07.311Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:07.311Z",
+      "mpn": "CMT64GX5M2B5600C40",
+      "price_cents": 119994,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmt64gx5m2b5600c40/dominator-platinum-rgb-64gb-2x32gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmt64gx5m2b5600c40",
+    "verified_specifications": {
+      "Línea": "DOMINATOR PLATINUM RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "5600 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmt64gx5m2b5600c40/dominator-platinum-rgb-64gb-2x32gb-ddr5-dram-5600mhz-c40-memory-kit-black-cmt64gx5m2b5600c40",
+      "evidence": "La página CORSAIR confirma CMT64GX5M2B5600C40 como kit Dominator Platinum RGB de 64 GB (2 × 32 GB) DDR5-5600 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMT32GX5M2B5200C40W",
+    "name": "Corsair Dominator Platinum RGB 32GB 2x16GB 5200MHz CL40 Blanco",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-dominator-platinum-rgb-2x16gb-5200mhz-cl40-blanco/",
+    "price_cents": 72495,
+    "retailer_sku": "PROD-023051",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "145544"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "724.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:12.379Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMT32GX5M2B5200C40W"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:12.379Z",
+    "commercial_observed_at": "2026-11-02T18:45:12.379Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:12.379Z",
+      "mpn": "CMT32GX5M2B5200C40W",
+      "price_cents": 72495,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmt32gx5m2b5200c40w/dominatora-platinum-rgb-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-a-white-cmt32gx5m2b5200c40w",
+    "verified_specifications": {
+      "Línea": "DOMINATOR PLATINUM RGB",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmt32gx5m2b5200c40w/dominatora-platinum-rgb-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-a-white-cmt32gx5m2b5200c40w",
+      "evidence": "La página CORSAIR confirma CMT32GX5M2B5200C40W como kit blanco de 32 GB (2 × 16 GB) DDR5-5200 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMN32GX4M2Z3600C18W",
+    "name": "Corsair Vengeance RT RGB 2x16GB 3600MHz CL18 Blanco",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rt-rgb-2x16gb-3600mhz-cl18-blanco/",
+    "price_cents": 14996,
+    "retailer_sku": "PROD-022412",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "144979"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "149.96"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:13.763Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMN32GX4M2Z3600C18W"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:13.763Z",
+    "commercial_observed_at": "2026-11-02T18:45:13.763Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:13.763Z",
+      "mpn": "CMN32GX4M2Z3600C18W",
+      "price_cents": 14996,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmn32gx4m2z3600c18w/vengeancea-rgb-rt-32gb-2-x-16gb-ddr4-dram-3600mhz-c18-memory-kit-a-white-cmn32gx4m2z3600c18w",
+    "verified_specifications": {
+      "Línea": "VENGEANCE RGB RT",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18",
+      "Perfil de memoria": "AMD EXPO / Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmn32gx4m2z3600c18w/vengeancea-rgb-rt-32gb-2-x-16gb-ddr4-dram-3600mhz-c18-memory-kit-a-white-cmn32gx4m2z3600c18w",
+      "evidence": "La página CORSAIR confirma CMN32GX4M2Z3600C18W como kit blanco Vengeance RGB RT de 32 GB DDR4-3600 CL18. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMG16GX4M2E3200C16",
+    "name": "Corsair Vengeance RGB RS 16GB 2x8GB 3200MHz CL16",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rgb-rs-16gb-2x8gb-3200mhz-cl16/",
+    "price_cents": 17895,
+    "retailer_sku": "PROD-018153",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "144002"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "178.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:15.783Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMG16GX4M2E3200C16"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:15.783Z",
+    "commercial_observed_at": "2026-11-02T18:45:15.783Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:15.783Z",
+      "mpn": "CMG16GX4M2E3200C16",
+      "price_cents": 17895,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmg16gx4m2e3200c16/vengeancea-rgb-rs-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-cmg16gx4m2e3200c16",
+    "verified_specifications": {
+      "Línea": "VENGEANCE RGB RS",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmg16gx4m2e3200c16/vengeancea-rgb-rs-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-cmg16gx4m2e3200c16",
+      "evidence": "La página CORSAIR confirma CMG16GX4M2E3200C16 como kit RGB RS de 16 GB (2 × 8 GB) DDR4-3200 CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CT32G48C40U5",
+    "name": "Crucial 32GB 1x32GB 4800MHz CL40",
+    "brand": "Crucial",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/crucial-1x32gb-4800mhz-cl40-ddr5/",
+    "price_cents": 70695,
+    "retailer_sku": "PROD-018571",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean",
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "141286"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "706.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:19.500Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CT32G48C40U5"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "not_found"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:19.500Z",
+    "commercial_observed_at": "2026-11-02T18:45:19.500Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:19.500Z",
+      "mpn": "CT32G48C40U5",
+      "price_cents": 70695,
+      "availability": "InStock"
+    },
+    "manufacturer_verification": {
+      "classification": "not_found",
+      "manufacturer_source_url": null,
+      "evidence": "No se encontró una ficha oficial utilizable para CT32G48C40U5; las consultas directas al sitio Crucial fueron rechazadas y no se confirma su especificación.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "CMK64GX5M2B5200C40",
+    "name": "Corsair Vengeance 64GB 2x32GB 5200MHz CL40",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-2x32gb-5200mhz-cl40-ddr5/",
+    "price_cents": 141495,
+    "retailer_sku": "PROD-018428",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "141138"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "1414.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR5"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr5-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:21.150Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "CMK64GX5M2B5200C40"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:21.150Z",
+    "commercial_observed_at": "2026-11-02T18:45:21.150Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:21.150Z",
+      "mpn": "CMK64GX5M2B5200C40",
+      "price_cents": 141495,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk64gx5m2b5200c40/vengeancea-64gb-2x32gb-ddr5-dram-5200mhz-c40-memory-kit-a-black-cmk64gx5m2b5200c40",
+    "verified_specifications": {
+      "Línea": "VENGEANCE",
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia": "CL40",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.corsair.com/us/en/p/memory/cmk64gx5m2b5200c40/vengeancea-64gb-2x32gb-ddr5-dram-5200mhz-c40-memory-kit-a-black-cmk64gx5m2b5200c40",
+      "evidence": "La página CORSAIR confirma CMK64GX5M2B5200C40 como kit de 64 GB (2 × 32 GB) DDR5-5200 CL40. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "TF13D416G3200HC16CDC01",
+    "name": "Team Group T-Force Xtreem ARGB White 16GB 2x8GB 3200MHz CL16",
+    "brand": "Team Group",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/team-group-t-force-xtreem-argb-white-16gb-2x8gb-3200mhz-pc4-25600-cl16-memoria-ddr4/",
+    "price_cents": 18394,
+    "retailer_sku": "PROD-013912",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "135926"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "183.94"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:22.652Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "TF13D416G3200HC16CDC01"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:22.652Z",
+    "commercial_observed_at": "2026-11-02T18:45:22.652Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:22.652Z",
+      "mpn": "TF13D416G3200HC16CDC01",
+      "price_cents": 18394,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/xtreem-argb-white/spec-sheet/xtreem-argb-white-en.pdf",
+    "verified_specifications": {
+      "Línea": "T-FORCE XTREEM ARGB White",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "16 GB",
+      "Módulos": "2 × 8 GB",
+      "Velocidad": "3200 MT/s",
+      "Latencia": "CL16",
+      "Perfil de memoria": "Intel XMP"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/xtreem-argb-white/spec-sheet/xtreem-argb-white-en.pdf",
+      "evidence": "La hoja oficial TEAMGROUP publica TF13D416G3200HC16CDC01 como kit XTREEM ARGB White de 16 GB (2 × 8 GB) DDR4-3200 CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F4-3000C16S-8GISB",
+    "name": "G.Skill Aegis 8GB 1x8GB 3000 MHz CL16",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/gskill-aegis-8gb-1x8gb-3000-mhz-pc4-24000-cl16-memoria-ddr4/",
+    "price_cents": 8095,
+    "retailer_sku": "PROD-011241",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "131454"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "80.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:24.186Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F4-3000C16S-8GISB"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:24.186Z",
+    "commercial_observed_at": "2026-11-02T18:45:24.186Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:24.186Z",
+      "mpn": "F4-3000C16S-8GISB",
+      "price_cents": 8095,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/specification/165/185/1535968498/F4-3000C16S-8GISB-Specification",
+    "verified_specifications": {
+      "Línea": "Aegis",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "8 GB",
+      "Módulos": "1 × 8 GB",
+      "Velocidad": "3000 MT/s",
+      "Latencia": "CL16"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/185/1535968498/F4-3000C16S-8GISB-Specification",
+      "evidence": "La especificación oficial G.SKILL identifica F4-3000C16S-8GISB como módulo Aegis de 8 GB DDR4-3000 CL16. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  },
+  {
+    "ean": null,
+    "mpn": "F4-3600C18D-32GTZR",
+    "name": "G.Skill Trident Z RGB 32GB 2x16GB 3600MHz CL18",
+    "brand": "G.SKill",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/gskill-trident-z-rgb-32gb-2x16gb-3600-mhz-pc4-28800-cl18-led-rgb-memoria-ddr4/",
+    "price_cents": 33095,
+    "retailer_sku": "PROD-009615",
+    "category_hint": "ram",
+    "missing_fields": [
+      "ean"
+    ],
+    "raw_properties": [
+      {
+        "key": "listing_id",
+        "value": "70313"
+      },
+      {
+        "key": "listing_category",
+        "value": "Memorias RAM"
+      },
+      {
+        "key": "listing_price_unverified",
+        "value": "330.95"
+      },
+      {
+        "key": "generation",
+        "value": "DDR4"
+      },
+      {
+        "key": "generation_rule",
+        "value": "ram-ddr4-inferred"
+      },
+      {
+        "key": "commercial_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "commercial_observed_at",
+        "value": "2026-11-02T18:45:25.708Z"
+      },
+      {
+        "key": "commercial_observed_mpn",
+        "value": "F4-3600C18D-32GTZR"
+      },
+      {
+        "key": "retailer_observation_source",
+        "value": "Coolmod product page Product JSON-LD via normal Chromium"
+      },
+      {
+        "key": "retailer_observation_availability",
+        "value": "InStock"
+      },
+      {
+        "key": "manufacturer_verification_classification",
+        "value": "exact"
+      }
+    ],
+    "last_checked_at": "2026-11-02T18:45:25.708Z",
+    "commercial_observed_at": "2026-11-02T18:45:25.708Z",
+    "commercial_observation_source": "Coolmod product page Product JSON-LD via normal Chromium",
+    "retailer_observation": {
+      "source": "Coolmod product page Product JSON-LD via normal Chromium",
+      "observed_at": "2026-11-02T18:45:25.708Z",
+      "mpn": "F4-3600C18D-32GTZR",
+      "price_cents": 33095,
+      "availability": "InStock"
+    },
+    "manufacturer_url": "https://www.gskill.com/specification/165/166/1562823993/F4-3600C18D-32GTZR-Specification",
+    "verified_specifications": {
+      "Línea": "Trident Z RGB",
+      "Tipo de memoria": "DDR4",
+      "Capacidad": "32 GB",
+      "Módulos": "2 × 16 GB",
+      "Velocidad": "3600 MT/s",
+      "Latencia": "CL18",
+      "Perfil de memoria": "Intel XMP 2.0"
+    },
+    "manufacturer_verification": {
+      "classification": "exact",
+      "manufacturer_source_url": "https://www.gskill.com/specification/165/166/1562823993/F4-3600C18D-32GTZR-Specification",
+      "evidence": "La ficha oficial G.SKILL confirma F4-3600C18D-32GTZR como kit de 32 GB (2 × 16 GB) DDR4-3600 CL18. MPN exacto y especificaciones relevantes coinciden con la fuente primaria del fabricante.",
+      "checked_at": "2026-11-02T19:24:47Z"
+    }
+  }
+]

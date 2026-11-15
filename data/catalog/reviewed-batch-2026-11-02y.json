@@ -1,0 +1,400 @@
+[
+  {
+    "id": "asrock-a620am-p",
+    "slug": "asrock-a620am-p",
+    "name": "ASRock A620AM-P",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBVJ0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/MB/AMD/A620AM-P/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620A",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "biostar-h810mt-e-2-0",
+    "slug": "biostar-h810mt-e-2-0",
+    "name": "BIOSTAR H810MT-E 2.0",
+    "category_id": "motherboard",
+    "brand": "BIOSTAR",
+    "mpn": "H810MTE 2.0",
+    "manufacturer_url": "https://www.biostar.com.tw/app/en/mb/export/spec_export.php?S_ID=1205",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel H810",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "msi-pro-b860m-p-wifi6e",
+    "slug": "msi-pro-b860m-p-wifi6e",
+    "name": "MSI PRO B860M-P WIFI6E",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "mpn": "911-7F01-001",
+    "manufacturer_url": "https://www.msi.com/Motherboard/PRO-B860M-P-WIFI6E/Specification",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "gigabyte-b850-aorus-elite-p-ice",
+    "slug": "gigabyte-b850-aorus-elite-p-ice",
+    "name": "Gigabyte B850 AORUS ELITE-P ICE",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B850 A ELITE-P ICE",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B850-AORUS-ELITE-P-ICE",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Wi-Fi": "Wi-Fi 7",
+      "Red": "5 GbE",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asus-rog-crosshair-2006",
+    "slug": "asus-rog-crosshair-2006",
+    "name": "ASUS ROG Crosshair 2006",
+    "category_id": "motherboard",
+    "brand": "ASUS",
+    "mpn": "90MB1PP0-M0EAY0",
+    "manufacturer_url": "https://rog.asus.com/us/motherboards/rog-crosshair/rog-crosshair-2006/spec/",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asrock-b650-rock-wifi-7",
+    "slug": "asrock-b650-rock-wifi-7",
+    "name": "ASRock B650 Rock WiFi 7",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBUY0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/mb/AMD/B650%20Rock%20WiFi%207/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asrock-b860-challenger-wifi",
+    "slug": "asrock-b860-challenger-wifi",
+    "name": "ASRock B860 Challenger WiFi",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBUC0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/MB/Intel/B860%20Challenger%20WiFi/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "asrock-b860m-x-wifi",
+    "slug": "asrock-b860m-x-wifi",
+    "name": "ASRock B860M-X WiFi",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBSF0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/mb/Intel/B860M-X%20WiFi/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asrock-b850m-rock-wifi",
+    "slug": "asrock-b850m-rock-wifi",
+    "name": "ASRock B850M Rock WiFi",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBU70-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/MB/AMD/B850M%20Rock%20WiFi/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asrock-b860m-challenger-wifi-white",
+    "slug": "asrock-b860m-challenger-wifi-white",
+    "name": "ASRock B860M Challenger WiFi White",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBUQ0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/MB/Intel/B860M%20Challenger%20WiFi%20White/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7",
+      "Color": "Blanco"
+    }
+  },
+  {
+    "id": "asrock-x870-challenger-wifi-white",
+    "slug": "asrock-x870-challenger-wifi-white",
+    "name": "ASRock X870 Challenger WiFi White",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBUL0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/MB/AMD/X870%20Challenger%20WiFi%20White/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7",
+      "USB": "USB4"
+    }
+  },
+  {
+    "id": "msi-mag-x870e-gaming-plus-max-wifi",
+    "slug": "msi-mag-x870e-gaming-plus-max-wifi",
+    "name": "MSI MAG X870E GAMING PLUS MAX WIFI",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "mpn": "911-7E70-016",
+    "manufacturer_url": "https://us.msi.com/Motherboard/MAG-X870E-GAMING-PLUS-MAX-WIFI/Specification",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870E",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "msi-pro-z890-s-wifi6e",
+    "slug": "msi-pro-z890-s-wifi6e",
+    "name": "MSI PRO Z890-S WIFI6E",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "mpn": "PRO Z890-S WIFI6E",
+    "manufacturer_url": "https://www.msi.com/Motherboard/PRO-Z890-S-WIFI6E/Specification",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Wi-Fi": "Wi-Fi 6E",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "asrock-b860m-x-gen5",
+    "slug": "asrock-b860m-x-gen5",
+    "name": "ASRock B860M-X Gen5",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBSE0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/MB/Intel/B860M-X%20Gen5/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "asrock-h810m-p-gen5",
+    "slug": "asrock-h810m-p-gen5",
+    "name": "ASRock H810M-P Gen5",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBUE0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/mb/Intel/H810M-P%20Gen5/",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel H810",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "128 GB"
+    }
+  },
+  {
+    "id": "asrock-b860m-challenger-wifi",
+    "slug": "asrock-b860m-challenger-wifi",
+    "name": "ASRock B860M Challenger WiFi",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBUP0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/MB/Intel/B860M%20Challenger%20WiFi/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "msi-pro-z890-p-wifi6e",
+    "slug": "msi-pro-z890-p-wifi6e",
+    "name": "MSI PRO Z890-P WIFI6E",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "mpn": "PRO Z890-P WIFI6E",
+    "manufacturer_url": "https://www.msi.com/Motherboard/PRO-Z890-P-WIFI6E/Specification",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 6E"
+    }
+  },
+  {
+    "id": "asrock-b860-challenger-wifi-white",
+    "slug": "asrock-b860-challenger-wifi-white",
+    "name": "ASRock B860 Challenger WiFi White",
+    "category_id": "motherboard",
+    "brand": "ASRock",
+    "mpn": "90-MXBUB0-A0UAYZ",
+    "manufacturer_url": "https://www.asrock.com/mb/Intel/B860%20Challenger%20WiFi%20White/index.asp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7",
+      "Color": "Blanco"
+    }
+  },
+  {
+    "id": "gigabyte-b860m-d3w",
+    "slug": "gigabyte-b860m-d3w",
+    "name": "Gigabyte B860M D3W",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "B860M D3W",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B860M-D3W/sp",
+    "specs_verified_at": "2026-11-02T12:07:21Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel B860",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "gigabyte-z890-d-plus",
+    "slug": "gigabyte-z890-d-plus",
+    "name": "Gigabyte Z890 D PLUS",
+    "category_id": "motherboard",
+    "brand": "Gigabyte",
+    "mpn": "Z890 D PLUS",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/Z890-D-PLUS/sp",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "LGA1851",
+      "Chipset": "Intel Z890",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB"
+    }
+  },
+  {
+    "id": "apacer-nox-16gb-ddr5-5200-cl40",
+    "slug": "apacer-nox-16gb-ddr5-5200-cl40",
+    "name": "Apacer NOX DDR5 16 GB (1 × 16 GB) DDR5-5200 CL40",
+    "category_id": "ram",
+    "brand": "Apacer",
+    "mpn": "AH5U16G52C522MBAA-1",
+    "manufacturer_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Data%20Sheet_NOX%20DDR5.pdf",
+    "specs_verified_at": "2026-11-08T22:23:01Z",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "16 GB",
+      "Módulos": "1 × 16 GB",
+      "Velocidad": "5200 MT/s",
+      "Latencia": "CL40",
+      "Formato": "UDIMM",
+      "Color": "Negro",
+      "Perfil": "Intel XMP 3.0"
+    }
+  }
+]

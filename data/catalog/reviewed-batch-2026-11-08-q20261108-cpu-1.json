@@ -1,0 +1,26 @@
+[
+ {
+  "id": "amd-ryzen-9-9900x-tray",
+  "slug": "amd-ryzen-9-9900x-tray",
+  "name": "AMD Ryzen 9 9900X (Tray)",
+  "category_id": "cpu",
+  "brand": "AMD",
+  "mpn": "100-000000662",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9900x.html",
+  "specs_verified_at": "2026-11-08T21:04:04Z",
+  "specs": {
+   "Socket": "AM5",
+   "Núcleos": "12",
+   "Hilos": "24",
+   "Frecuencia base": "4.4 GHz",
+   "Frecuencia turbo": "Hasta 5.6 GHz",
+   "TDP": "120 W",
+   "Memoria compatible": "DDR5",
+   "Gráficos integrados": "AMD Radeon Graphics",
+   "Caché L2": "12 MB",
+   "Caché L3": "64 MB",
+   "Disipador incluido": "No"
+  }
+ }
+]

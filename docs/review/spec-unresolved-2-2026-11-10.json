@@ -1,0 +1,34 @@
+[
+ {
+  "id": "patriot-viper-venom-32gb-ddr5-6000-cl30",
+  "key": "Perfil",
+  "reason": "P/N no identificado en el catalogo (sin MPN); la ficha de serie no da perfil por modelo",
+  "tried": [
+   "https://www.patriotmemory.com/en/products/viper-venom-ddr5-performance-ram"
+  ]
+ },
+ {
+  "id": "patriot-viper-venom-32gb-ddr5-6000-cl36",
+  "key": "Perfil",
+  "reason": "P/N no identificado en el catalogo (sin MPN); la ficha de serie no da perfil por modelo",
+  "tried": [
+   "https://www.patriotmemory.com/en/products/viper-venom-ddr5-performance-ram"
+  ]
+ },
+ {
+  "id": "corsair-cmv16gx4m1a2666c18",
+  "key": "Formato",
+  "reason": "la ficha de Corsair solo dice DIMM y 288 pines (no indica Unbuffered/UDIMM); no se infiere",
+  "tried": [
+   "https://www.corsair.com/us/en/p/memory/cmv16gx4m1a2666c18/corsair-memory-a-16gb-1x16gb-ddr4-2666mhz-c18-dimm-cmv16gx4m1a2666c18"
+  ]
+ },
+ {
+  "id": "corsair-cmv8gx4m1a2400c16",
+  "key": "Formato",
+  "reason": "la ficha de Corsair solo dice DIMM y 288 pines (no indica Unbuffered/UDIMM); no se infiere",
+  "tried": [
+   "https://www.corsair.com/us/en/p/memory/cmv8gx4m1a2400c16/corsair-memory-a-8gb-1x8gb-ddr4-2400mhz-c16-dimm-cmv8gx4m1a2400c16"
+  ]
+ }
+]

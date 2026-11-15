@@ -1,0 +1,132 @@
+[
+  {
+    "product_id": "forgeon-reactor-1000w-white-fo-reac-1000-w",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1000w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-blanca",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "forgeon-reactor-1000w-black-fo-reac-1000-b",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1000w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-negra",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "forgeon-reactor-850w-white-fo-reac-850-w",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-850w-cybenetics-platinum-atx-31-pcie-51-full-modular-fuente-de-alimentacion-blanca",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "forgeon-reactor-850w-black-fo-reac-850-b",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-850w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "forgeon-reactor-1200w-black-fo-reac-1200-b",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1200w-cybenetics-gold-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "forgeon-reactor-750w-white-fo-reac-750-w",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-750w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-blanca",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "forgeon-reactor-750w-black-fo-reac-750-b",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-750w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "modecom-volcano-hex-850-platinum-zas-mc-hex-0850-plat",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://modecom.com/en/products/modecom-volcano-hex-850w-atx-31",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "abysm-morpheo-gx5-1000w-ab211001",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://abysmgaming.com/en/power-supply/power-supply-morpheo-gx5-atx-3-1-1000w-black-80-plus-gold-full-modular-ab211001/",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "abysm-morpheo-gx5-1300w-ab231301",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://abysmgaming.com/en/power-supply/power-supply-morpheo-gx5-atx-3-1-1300w-cybenetics-platinum-full-modular-ab231301/",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "tempest-pulse-750w-pcie-5-1-tp-pul-750-pcie5-1-b",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-750w-cybenetics-bronze-atx-3-1-fuente-de-alimentacion-negra",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "tempest-pulse-750w-full-modular-tp-pul-750-b",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-pulse-750w-cybenetics-bronze-atx-3-1-full-modular-fuente-de-alimentacion-negra",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  },
+  {
+    "product_id": "tempest-pulse-650w-tp-pul-650-b",
+    "category_id": "psu",
+    "key": "Eficiencia 80 PLUS",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-pulse-psu-650w-cybenetics-silver-atx-31-fuente-de-alimentacion-negra",
+    "note": "INFERIDO: la fuente declara certificación Cybenetics, no 80 PLUS; no aplica."
+  }
+]

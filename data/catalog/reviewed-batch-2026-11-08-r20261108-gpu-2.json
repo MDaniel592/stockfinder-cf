@@ -1,0 +1,50 @@
+[
+  {
+    "id": "xfx-mercury-radeon-rx-9070-xt-oc-white-gaming-edition-rgb-16gb",
+    "slug": "xfx-mercury-radeon-rx-9070-xt-oc-white-gaming-edition-rgb-16gb",
+    "name": "XFX Mercury Radeon RX 9070 XT OC White Gaming Edition RGB 16GB",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-97TRGBBW9",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9070xt-oc-white-gaming-edition-with-rgb",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5050-8g-gaming-oc",
+    "slug": "msi-geforce-rtx-5050-8g-gaming-oc",
+    "name": "MSI GeForce RTX 5050 8G GAMING OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "mpn": "GeForce RTX 5050 8G GAMING OC",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5050-8G-GAMING-OC",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "sapphire-pulse-radeon-rx-9060-xt-8gb",
+    "slug": "sapphire-pulse-radeon-rx-9060-xt-8gb",
+    "name": "Sapphire Pulse Radeon RX 9060 XT 8GB",
+    "category_id": "gpu",
+    "brand": "Sapphire",
+    "mpn": "11350-05-20G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-8g-m-gddr6",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6"
+    }
+  }
+]

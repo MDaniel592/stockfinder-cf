@@ -1,0 +1,49 @@
+// Worker de STAGING: mismo código y mismos assets que producción, pero con datos en Supabase (Hyperdrive) y sin D1.
+// Nunca comparte nombre, secretos ni datos con el Worker de producción `stockfinder`.
+// Configuración de Hyperdrive `stockfinder-supabase-staging`, creada el 2026-11-09 (el id no es secreto) con:
+//   python3 scripts/cloudflare.py hyperdrive create stockfinder-supabase-staging --connection-string="$SUPABASE_WORKER_URL_SESSION" \
+//     --caching-disabled --origin-connection-limit=15
+// Ver docs/supabase-migration.md ("Staging").
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "stockfinder-staging",
+  "main": "apps/edge-api/src/index.ts",
+  "compatibility_date": "2026-01-01",
+  // postgres.js (Hyperdrive) necesita node:buffer/events/stream; __SF_PG__ incluye el adaptador Postgres en el bundle.
+  "compatibility_flags": ["nodejs_compat"],
+  "define": { "__SF_PG__": "true" },
+  "workers_dev": true,
+  "assets": {
+    "directory": "apps/web/dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": [
+      "/api/*",
+      "/internal/*",
+      "/",
+      "/p/*",
+      "/c/*",
+      "/configurador",
+      "/acerca",
+      "/privacidad",
+      "/sitemap.xml",
+      "/robots.txt"
+    ]
+  },
+  "hyperdrive": [
+    {
+      "binding": "HYPERDRIVE",
+      // stockfinder-supabase-staging (pooler de Supabase en modo sesión, caché desactivada, origin-connection-limit 15).
+      // En local, wrangler dev usa CLOUDFLARE_HYPERDRIVE_LOCAL_CONNECTION_STRING_HYPERDRIVE y no consulta este id.
+      "id": "08166d32e41f466b8621a89030b9eecd"
+    }
+  ],
+  "vars": {
+    "DATA_MODE": "manufacturer-catalog",
+    "STALE_AFTER_SECONDS": "86400"
+  },
+  "version_metadata": { "binding": "CF_VERSION_METADATA" },
+  "observability": {
+    "enabled": true
+  }
+}

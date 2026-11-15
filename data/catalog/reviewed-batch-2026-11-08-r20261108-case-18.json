@@ -1,0 +1,414 @@
+[
+ {
+  "id": "be-quiet-light-base-900-fx-negro-bgw71",
+  "slug": "be-quiet-light-base-900-fx-negro-bgw71",
+  "name": "be quiet! Light Base 900 FX Negro (BGW71)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW71",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5290",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "495 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "4 × 140 mm"
+  }
+ },
+ {
+  "id": "be-quiet-light-base-900-fx-blanco-bgw72",
+  "slug": "be-quiet-light-base-900-fx-blanco-bgw72",
+  "name": "be quiet! Light Base 900 FX Blanco (BGW72)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW72",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5291",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "495 mm",
+   "Altura disipador máxima": "190 mm",
+   "Ventiladores incluidos": "4 × 140 mm"
+  }
+ },
+ {
+  "id": "be-quiet-light-base-900-dx-negro-bgw69",
+  "slug": "be-quiet-light-base-900-dx-negro-bgw69",
+  "name": "be quiet! Light Base 900 DX Negro (BGW69)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW69",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5292",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "495 mm",
+   "Altura disipador máxima": "190 mm"
+  }
+ },
+ {
+  "id": "be-quiet-light-base-900-dx-blanco-bgw70",
+  "slug": "be-quiet-light-base-900-dx-blanco-bgw70",
+  "name": "be quiet! Light Base 900 DX Blanco (BGW70)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW70",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5293",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "495 mm",
+   "Altura disipador máxima": "190 mm"
+  }
+ },
+ {
+  "id": "be-quiet-light-base-600-dx-negro-bgw65",
+  "slug": "be-quiet-light-base-600-dx-negro-bgw65",
+  "name": "be quiet! Light Base 600 DX Negro (BGW65)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW65",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5296",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "170 mm"
+  }
+ },
+ {
+  "id": "be-quiet-light-base-600-dx-blanco-bgw66",
+  "slug": "be-quiet-light-base-600-dx-blanco-bgw66",
+  "name": "be quiet! Light Base 600 DX Blanco (BGW66)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW66",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5297",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "400 mm",
+   "Altura disipador máxima": "170 mm"
+  }
+ },
+ {
+  "id": "be-quiet-shadow-base-800-negro-bgw60",
+  "slug": "be-quiet-shadow-base-800-negro-bgw60",
+  "name": "be quiet! Shadow Base 800 Negro (BGW60)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW60",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/4478",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "430 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "3 × 140 mm"
+  }
+ },
+ {
+  "id": "be-quiet-shadow-base-800-fx-blanco-bgw64",
+  "slug": "be-quiet-shadow-base-800-fx-blanco-bgw64",
+  "name": "be quiet! Shadow Base 800 FX Blanco (BGW64)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW64",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/4484",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "430 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "4 × 140 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-600-plata-bg022",
+  "slug": "be-quiet-pure-base-600-plata-bg022",
+  "name": "be quiet! Pure Base 600 Plata (BG022)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BG022",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/920",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 140 mm + 1 × 120 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-600-negra-bg021",
+  "slug": "be-quiet-pure-base-600-negra-bg021",
+  "name": "be quiet! Pure Base 600 Negra (BG021)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BG021",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/921",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 140 mm + 1 × 120 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-600-window-negra-bgw21",
+  "slug": "be-quiet-pure-base-600-window-negra-bgw21",
+  "name": "be quiet! Pure Base 600 Window Negra (BGW21)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BGW21",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/937",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado oscuro",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "1 × 140 mm + 1 × 120 mm"
+  }
+ },
+ {
+  "id": "be-quiet-pure-base-501-airflow-blanca-bg075",
+  "slug": "be-quiet-pure-base-501-airflow-blanca-bg075",
+  "name": "be quiet! Pure Base 501 Airflow Blanca (BG075)",
+  "category_id": "case",
+  "brand": "be quiet!",
+  "mpn": "BG075",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/case/5323",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "368 mm",
+   "Altura disipador máxima": "178 mm",
+   "Ventiladores incluidos": "2 × 140 mm"
+  }
+ },
+ {
+  "id": "antec-ax20-0-761345-10060-1",
+  "slug": "antec-ax20-0-761345-10060-1",
+  "name": "Antec AX20 (0-761345-10060-1)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10060-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/ax20",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "270 mm",
+   "Altura disipador máxima": "155 mm",
+   "Ventiladores incluidos": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "antec-ax61-0-761345-10069-4",
+  "slug": "antec-ax61-0-761345-10069-4",
+  "name": "Antec AX61 (0-761345-10069-4)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10069-4",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/ax61",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "320 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm"
+  }
+ },
+ {
+  "id": "antec-c5-argb-negra-0-761345-10033-5",
+  "slug": "antec-c5-argb-negra-0-761345-10033-5",
+  "name": "Antec C5 ARGB Negra (0-761345-10033-5)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10033-5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/c5",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "7 × 120 mm"
+  }
+ },
+ {
+  "id": "antec-flux-m-0-761345-10253-7",
+  "slug": "antec-flux-m-0-761345-10253-7",
+  "name": "Antec FLUX M (0-761345-10253-7)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10253-7",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/flux-m",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "405 mm",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "6 × 120 mm"
+  }
+ },
+ {
+  "id": "antec-c3-0-761345-10029-8",
+  "slug": "antec-c3-0-761345-10029-8",
+  "name": "Antec C3 (0-761345-10029-8)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10029-8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/c3",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "415 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm"
+  }
+ },
+ {
+  "id": "antec-cannon-0-761345-91400-0",
+  "slug": "antec-cannon-0-761345-91400-0",
+  "name": "Antec Cannon (0-761345-91400-0)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-91400-0",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/cannon",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "385 mm",
+   "Altura disipador máxima": "85 mm"
+  }
+ },
+ {
+  "id": "antec-vsk2000-u3-0-761345-92003-2",
+  "slug": "antec-vsk2000-u3-0-761345-92003-2",
+  "name": "Antec VSK2000-U3 (0-761345-92003-2)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-92003-2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/vsk2000-u3",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX"
+  }
+ },
+ {
+  "id": "antec-ax85-0-761345-10173-8",
+  "slug": "antec-ax85-0-761345-10173-8",
+  "name": "Antec AX85 (0-761345-10173-8)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10173-8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/ax85",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "4 × 120 mm"
+  }
+ },
+ {
+  "id": "antec-c8-0-761345-10019-9",
+  "slug": "antec-c8-0-761345-10019-9",
+  "name": "Antec C8 (0-761345-10019-9)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10019-9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/c8",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "440 mm",
+   "Altura disipador máxima": "175 mm"
+  }
+ },
+ {
+  "id": "antec-flux-blanca-0-761345-10134-9",
+  "slug": "antec-flux-blanca-0-761345-10134-9",
+  "name": "Antec FLUX Blanca (0-761345-10134-9)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10134-9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/flux-white",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "408 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "4 × 120 mm + 1 × 140 mm"
+  }
+ },
+ {
+  "id": "antec-p30-argb-0-761345-10255-1",
+  "slug": "antec-p30-argb-0-761345-10255-1",
+  "name": "Antec P30 ARGB (0-761345-10255-1)",
+  "category_id": "case",
+  "brand": "Antec",
+  "mpn": "0-761345-10255-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/case/p30-argb",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "405 mm",
+   "Altura disipador máxima": "175 mm",
+   "Ventiladores incluidos": "2 × 140 mm + 3 × 120 mm"
+  }
+ }
+]

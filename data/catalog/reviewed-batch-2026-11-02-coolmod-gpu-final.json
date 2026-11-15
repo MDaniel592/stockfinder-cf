@@ -1,0 +1,285 @@
+[
+  {
+    "id": "xfx-mercury-radeon-rx-9060-xt-oc-white-16gb",
+    "slug": "xfx-mercury-radeon-rx-9060-xt-oc-white-16gb",
+    "name": "XFX Mercury Radeon RX 9060 XT OC White Gaming Edition 16 GB",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-96TMERCW9",
+    "manufacturer_url": "https://helpdesk.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9060-xt-oc-white-gaming-edition-16gb",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Velocidad de memoria": "20 Gbps",
+      "Arquitectura": "AMD RDNA 4",
+      "Frecuencia de juego": "Hasta 2780 MHz",
+      "Frecuencia turbo": "Hasta 3320 MHz",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "inno3d-geforce-rtx-5070-twin-x2-oc-12gb",
+    "slug": "inno3d-geforce-rtx-5070-twin-x2-oc-12gb",
+    "name": "INNO3D GeForce RTX 5070 TWIN X2 OC 12 GB",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N50702-12D7X-195064N",
+    "manufacturer_url": "https://inno3d.com/product/inno3d-geforce-rtx-5070-twin-x2-oc",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070",
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "192 bits",
+      "Arquitectura": "NVIDIA Blackwell",
+      "Frecuencia turbo": "2542 MHz",
+      "Consumo (TGP)": "250 W",
+      "Fuente recomendada": "650 W (referencia NVIDIA)",
+      "Longitud": "250 mm",
+      "Conectores de alimentación": "2 × 8 pines"
+    }
+  },
+  {
+    "id": "inno3d-geforce-rtx-5080-ichill-frostbite-16gb",
+    "slug": "inno3d-geforce-rtx-5080-ichill-frostbite-16gb",
+    "name": "INNO3D GeForce RTX 5080 iCHILL FROSTBITE 16 GB",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "C50803-16D7X-1760FB",
+    "manufacturer_url": "https://inno3d.com/product/inno3d-geforce-rtx-5080-ichill-frostbite",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Arquitectura": "NVIDIA Blackwell",
+      "Frecuencia turbo": "2715 MHz",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "asus-dual-geforce-rtx-5060-oc-8gb",
+    "slug": "asus-dual-geforce-rtx-5060-oc-8gb",
+    "name": "ASUS Dual GeForce RTX 5060 OC Edition 8 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "90YV0N12-M0NA00",
+    "manufacturer_url": "https://estore.asus.com/fr/90yv0n12-m0na00-asus-dual-geforce-rtxtm-5060-8gb-gddr7-oc-edition.html",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Velocidad de memoria": "28 Gbps",
+      "Frecuencia turbo": "2565 MHz (modo OC)",
+      "Consumo (TGP)": "145 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "pny-geforce-rtx-5070-ti-oc-triple-fan-16gb",
+    "slug": "pny-geforce-rtx-5070-ti-oc-triple-fan-16gb",
+    "name": "PNY GeForce RTX 5070 Ti 16 GB Overclocked Triple Fan",
+    "category_id": "gpu",
+    "brand": "PNY",
+    "mpn": "VCG5070T16TFXPB1-O",
+    "manufacturer_url": "https://www.pny.com/file%20library/company/support/product%20brochures/geforce%20graphics/english/rtx-5070-ti-16gb-triple-fan-oc-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Velocidad de memoria": "28 Gbps",
+      "Frecuencia turbo": "2572 MHz",
+      "Consumo (TDP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5090-gaming-trio-oc-32gb",
+    "slug": "msi-geforce-rtx-5090-gaming-trio-oc-32gb",
+    "name": "MSI GeForce RTX 5090 32G GAMING TRIO OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "mpn": "912-V530-235",
+    "manufacturer_url": "https://fr-store.msi.com/products/geforce-rtx-5090-32g-gaming-trio-oc-graphics-card",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)",
+      "Longitud": "359 mm",
+      "Conectores de alimentación": "1 × 16 pines"
+    }
+  },
+  {
+    "id": "asus-tuf-geforce-rtx-5090-oc-32gb",
+    "slug": "asus-tuf-geforce-rtx-5090-oc-32gb",
+    "name": "ASUS TUF Gaming GeForce RTX 5090 OC Edition 32 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "90YV0LY0-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/se-en/90YV0LY0-M0NA00/TUF-RTX5090-O32G-GAMING",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Arquitectura": "NVIDIA Blackwell",
+      "Bus de memoria": "512 bits",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "zotac-geforce-rtx-5080-amp-extreme-infinity-16gb",
+    "slug": "zotac-geforce-rtx-5080-amp-extreme-infinity-16gb",
+    "name": "ZOTAC GAMING GeForce RTX 5080 AMP Extreme INFINITY 16 GB",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50800B-10P",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800B-10P-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "zotac-geforce-rtx-5090-solid-oc-32gb",
+    "slug": "zotac-geforce-rtx-5090-solid-oc-32gb",
+    "name": "ZOTAC GAMING GeForce RTX 5090 SOLID OC 32 GB",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50900J-10P",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5090/Brochure/ZT-B50900J-10P-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "inno3d-geforce-rtx-5090-ichill-frostbite-32gb",
+    "slug": "inno3d-geforce-rtx-5090-ichill-frostbite-32gb",
+    "name": "INNO3D GeForce RTX 5090 iCHILL FROSTBITE 32 GB",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "C50903-32D7X-1759FB",
+    "manufacturer_url": "https://inno3d.com/product/inno3d-geforce-rtx-5090-ichill-frostbite",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Velocidad de memoria": "28 Gbps",
+      "Arquitectura": "NVIDIA Blackwell",
+      "Frecuencia turbo": "2467 MHz",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "inno3d-geforce-rtx-5090-x3-32gb",
+    "slug": "inno3d-geforce-rtx-5090-x3-32gb",
+    "name": "INNO3D GeForce RTX 5090 X3 32 GB",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N50903-32D7-17593928",
+    "manufacturer_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5090-x3",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Velocidad de memoria": "28 Gbps",
+      "Arquitectura": "NVIDIA Blackwell",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2407 MHz"
+    }
+  },
+  {
+    "id": "asus-prime-radeon-rx-9070-oc-16gb",
+    "slug": "asus-prime-radeon-rx-9070-oc-16gb",
+    "name": "ASUS Prime Radeon RX 9070 OC Edition 16 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "90YV0LI1-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90YV0LI1-M0NA00/ASUS-Prime-Radeon-RX-9070-OC-Edition-16GB-GDDR6-Gaming-Grafikkarte",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCI Express 5.0",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "220 W",
+      "Fuente recomendada": "650 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "sapphire-pulse-radeon-rx-7600-8gb",
+    "slug": "sapphire-pulse-radeon-rx-7600-8gb",
+    "name": "SAPPHIRE PULSE AMD Radeon RX 7600 8 GB",
+    "category_id": "gpu",
+    "brand": "Sapphire",
+    "mpn": "11324-01-20G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-7600-8g-gddr6",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 7600",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Velocidad de memoria": "18 Gbps",
+      "Arquitectura": "AMD RDNA 3",
+      "Frecuencia de juego": "2355 MHz",
+      "Frecuencia turbo": "2755 MHz",
+      "Consumo (TBP)": "165 W",
+      "Fuente recomendada": "550 W (referencia AMD)",
+      "Longitud": "240 mm",
+      "Conectores de alimentación": "1 × 8 pines"
+    }
+  },
+  {
+    "id": "powercolor-hellhound-radeon-rx-7900-xtx-oc-24gb",
+    "slug": "powercolor-hellhound-radeon-rx-7900-xtx-oc-24gb",
+    "name": "PowerColor Hellhound Radeon RX 7900 XTX 24 GB",
+    "category_id": "gpu",
+    "brand": "PowerColor",
+    "mpn": "RX7900XTX 24G-L/OC",
+    "manufacturer_url": "https://www.powercolor.com/product-detail72.htm",
+    "specs_verified_at": "2026-11-02T19:02:05Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 7900 XTX",
+      "Memoria": "24 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "384 bits",
+      "Velocidad de memoria": "20 Gbps",
+      "Frecuencia de juego": "Hasta 2330 MHz (OC)",
+      "Frecuencia turbo": "Hasta 2525 MHz (OC)"
+    }
+  }
+]

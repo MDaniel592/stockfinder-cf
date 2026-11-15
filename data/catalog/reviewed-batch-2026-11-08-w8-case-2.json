@@ -1,0 +1,312 @@
+[
+  {
+    "id": "forgeon-airflow-mithril-argb-mesh-black",
+    "slug": "forgeon-airflow-mithril-argb-mesh-black",
+    "name": "Forgeon Airflow Mithril ARGB Mesh ATX Negra",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-MIT1B",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-airflow-mithril-argb-mesh-atx-negra",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "380 mm",
+      "Altura disipador máxima": "175 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "360 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "460 × 231 × 490 mm (L × An × Al)"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-airflow-mithril-argb-mesh-atx-negra",
+        "supports": "Ficha de PcComponentes (titular de la marca Forgeon) imprime este P/N y las especificaciones del modelo y color."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-airflow-mithril-argb-mesh-white",
+    "slug": "forgeon-airflow-mithril-argb-mesh-white",
+    "name": "Forgeon Airflow Mithril ARGB Mesh ATX Blanca",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-MIT1W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-airflow-mithril-argb-mesh-atx-blanca",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "380 mm",
+      "Altura disipador máxima": "175 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "360 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "460 × 231 × 490 mm (L × An × Al)"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-airflow-mithril-argb-mesh-atx-blanca",
+        "supports": "Ficha de PcComponentes (titular de la marca Forgeon) imprime este P/N y las especificaciones del modelo y color."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-airflow-arcanite-argb-mesh-white",
+    "slug": "forgeon-airflow-arcanite-argb-mesh-white",
+    "name": "Forgeon Airflow Arcanite ARGB Mesh ATX Blanca",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-ARC1W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-airflow-arcanite-argb-mesh-atx-blanca",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Panel lateral": "Cristal templado",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador frontal máximo": "360 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "460 × 216 × 492 mm (L × An × Al)"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-airflow-arcanite-argb-mesh-atx-blanca",
+        "supports": "Ficha de PcComponentes (titular de la marca Forgeon) imprime este P/N y las especificaciones del modelo y color."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-vision-lcd-argb-black",
+    "slug": "forgeon-vision-lcd-argb-black",
+    "name": "Forgeon VISION LCD ARGB Negra",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-VI-LCD-B",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-vision-lcd-argb-torre-atx-cristal-curvo-usb-c-pantalla-ips-9-16-negra",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Longitud GPU máxima": "415 mm",
+      "Altura disipador máxima": "165 mm",
+      "Ventiladores incluidos": "5 × 120 mm",
+      "Dimensiones": "446 × 285 × 421 mm"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-vision-lcd-argb-torre-atx-cristal-curvo-usb-c-pantalla-ips-9-16-negra",
+        "supports": "Ficha de PcComponentes (titular de la marca Forgeon) imprime este P/N y las especificaciones del modelo y color."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-vision-lcd-argb-white",
+    "slug": "forgeon-vision-lcd-argb-white",
+    "name": "Forgeon VISION LCD ARGB Blanca",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-VI-LCD-W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-vision-lcd-argb-torre-atx-cristal-curvo-usb-c-pantalla-ips-9-16-blanca",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Longitud GPU máxima": "415 mm",
+      "Altura disipador máxima": "165 mm",
+      "Ventiladores incluidos": "5 × 120 mm",
+      "Dimensiones": "446 × 285 × 421 mm"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-vision-lcd-argb-torre-atx-cristal-curvo-usb-c-pantalla-ips-9-16-blanca",
+        "supports": "Ficha de PcComponentes (titular de la marca Forgeon) imprime este P/N y las especificaciones del modelo y color."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-tiberium-evo-black",
+    "slug": "forgeon-tiberium-evo-black",
+    "name": "Forgeon Tiberium EVO Negra",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-TIBEV1B",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "420 mm",
+      "Altura disipador máxima": "160 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "395 × 285 × 425 mm"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra",
+        "supports": "Ficha de PcComponentes (titular de la marca Forgeon) imprime este P/N y las especificaciones del modelo y color."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-tiberium-evo-white",
+    "slug": "forgeon-tiberium-evo-white",
+    "name": "Forgeon Tiberium EVO Blanca",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-TIBEV1W",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-cristal-templado-blanca",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "420 mm",
+      "Altura disipador máxima": "160 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "395 × 285 × 425 mm"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-cristal-templado-blanca",
+        "supports": "Ficha de PcComponentes (titular de la marca Forgeon) imprime este P/N y las especificaciones del modelo y color."
+      }
+    ]
+  },
+  {
+    "id": "forgeon-airflow-noxis-black",
+    "slug": "forgeon-airflow-noxis-black",
+    "name": "Forgeon Airflow Noxis Negra",
+    "category_id": "case",
+    "brand": "Forgeon",
+    "mpn": "FO-ATX-NOX1B",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.pccomponentes.com/torre-pc-forgeon-airflow-noxis-argb-usb-c-mesh-atx-negra",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Longitud GPU máxima": "400 mm",
+      "Altura disipador máxima": "170 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "478 × 235 × 440 mm"
+    },
+    "manufacturer_sources": [
+      {
+        "url": "https://www.pccomponentes.com/torre-pc-forgeon-airflow-noxis-argb-usb-c-mesh-atx-negra",
+        "supports": "Ficha de PcComponentes (titular de la marca Forgeon) imprime este P/N y las especificaciones del modelo y color."
+      }
+    ]
+  },
+  {
+    "id": "fractal-pop-air-black-solid",
+    "slug": "fractal-pop-air-black-solid",
+    "name": "Fractal Design Pop Air Black Solid",
+    "category_id": "case",
+    "brand": "Fractal Design",
+    "mpn": "FD-C-POA1A-01",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/pop-series/pop-air/pop-air-black-solid/",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "405 mm",
+      "Altura disipador máxima": "170 mm",
+      "Ventiladores incluidos": "3 × 120 mm",
+      "Radiador frontal máximo": "280 mm",
+      "Radiador superior máximo": "240 mm",
+      "Dimensiones": "473,5 × 215 × 454 mm (L × An × Al)",
+      "Panel lateral": "Metal"
+    }
+  },
+  {
+    "id": "fractal-pop-air-black-tg-clear-tint",
+    "slug": "fractal-pop-air-black-tg-clear-tint",
+    "name": "Fractal Design Pop Air Black TG Clear Tint",
+    "category_id": "case",
+    "brand": "Fractal Design",
+    "mpn": "FD-C-POA1A-02",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/pop-series/pop-air/pop-air-black-tg-clear-tint/",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "405 mm",
+      "Altura disipador máxima": "170 mm",
+      "Ventiladores incluidos": "3 × 120 mm",
+      "Radiador frontal máximo": "280 mm",
+      "Radiador superior máximo": "240 mm",
+      "Dimensiones": "473,5 × 215 × 454 mm (L × An × Al)",
+      "Panel lateral": "Cristal templado"
+    }
+  },
+  {
+    "id": "fractal-north-xl-charcoal-black-mesh",
+    "slug": "fractal-north-xl-charcoal-black-mesh",
+    "name": "Fractal Design North XL Charcoal Black Mesh",
+    "category_id": "case",
+    "brand": "Fractal Design",
+    "mpn": "FD-C-NOR1X-01",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/north-series/north-xl/north-xl-charcoal-black-mesh/",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+      "Panel lateral": "Malla",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "413 mm",
+      "Altura disipador máxima": "185 mm",
+      "Ventiladores incluidos": "3 × Aspect 14 PWM",
+      "Radiador frontal máximo": "420 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "503 × 240 × 509 mm (L × An × Al)"
+    }
+  },
+  {
+    "id": "fractal-meshify-3-xl-black-tg-light-tint",
+    "slug": "fractal-meshify-3-xl-black-tg-light-tint",
+    "name": "Fractal Design Meshify 3 XL Black TG Light Tint",
+    "category_id": "case",
+    "brand": "Fractal Design",
+    "mpn": "FD-C-MES3X-02",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/meshify-series/meshify-3-xl/meshify-3-xl-black-tg-light-tint/",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "EE-ATX, SSI-EEB, SSI-CEB, E-ATX, ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX",
+      "Longitud GPU máxima": "512 mm",
+      "Altura disipador máxima": "182 mm",
+      "Ventiladores incluidos": "3 × Momentum 14",
+      "Radiador frontal máximo": "360 mm",
+      "Radiador superior máximo": "420 mm",
+      "Dimensiones": "575 × 245 × 515 mm (L × An × Al)"
+    }
+  },
+  {
+    "id": "deepcool-cg530u-4f-wh",
+    "slug": "deepcool-cg530u-4f-wh",
+    "name": "DeepCool CG530U 4F WH",
+    "category_id": "case",
+    "brand": "DeepCool",
+    "mpn": "R-CG530U-WHAGA4-G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.deepcool.com/products/Cases/CG530U-4F-WH-Panoramic-Curved-Glass-Dual-Chamber-ATX-Fishtank-Case-with-4-ARGB-PWM-Fans/2025/22481.shtml",
+    "specs_verified_at": "2026-11-08T20:12:31Z",
+    "specs": {
+      "Formatos compatibles": "ATX, microATX, Mini-ITX",
+      "Panel lateral": "Cristal templado",
+      "Formato fuente": "ATX, SFX, SFX-L",
+      "Longitud GPU máxima": "410 mm",
+      "Altura disipador máxima": "160 mm",
+      "Ventiladores incluidos": "4 × 120 mm",
+      "Radiador superior máximo": "360 mm",
+      "Dimensiones": "475 × 285 × 380 mm (L × An × Al)"
+    }
+  }
+]

@@ -1,0 +1,1394 @@
+[
+  {
+    "product_id": "intel-core-ultra-5-250kf-plus",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/245689/intel-core-ultra-5-processor-250kf-plus-30m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-7-270k-plus",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/245692/intel-core-ultra-7-processor-270k-plus-36m-cache-up-to-5-50-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-250k-plus",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/245694/intel-core-ultra-5-processor-250k-plus-30m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245t",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "35 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241874/intel-core-ultra-5-processor-245t-24m-cache-up-to-5-10-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241876/intel-core-ultra-5-processor-245-24m-cache-up-to-5-10-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-230f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241875/intel-core-ultra-5-processor-230f-24m-cache-up-to-5-00-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-235t",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "35 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241872/intel-core-ultra-5-processor-235t-24m-cache-up-to-5-00-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-225t",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "35 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241870/intel-core-ultra-5-processor-225t-20m-cache-up-to-4-90-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-235",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241674/intel-core-ultra-5-processor-235-24m-cache-up-to-5-00-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-225",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241070/intel-core-ultra-5-processor-225-20m-cache-up-to-4-90-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-225f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241069/intel-core-ultra-5-processor-225f-20m-cache-up-to-4-90-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241068/intel-core-ultra-7-processor-265-30m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285t",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "35 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241059/intel-core-ultra-9-processor-285t-36m-cache-up-to-5-40-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241061/intel-core-ultra-9-processor-285-36m-cache-up-to-5-60-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241064/intel-core-ultra-7-processor-265f-30m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265t",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "35 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241065/intel-core-ultra-7-processor-265t-30m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285k",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i9-14900f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236853/intel-core-i9-processor-14900f-36m-cache-up-to-5-80-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i3-14100",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "60 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236774/intel-core-i3-processor-14100-12m-cache-up-to-4-70-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i9-14900k",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236773/intel-core-i9-processor-14900k-36m-cache-up-to-6-00-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-14500",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236784/intel-core-i5-processor-14500-24m-cache-up-to-5-00-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-14400f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236777/intel-core-i5-processor-14400f-20m-cache-up-to-4-70-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i9-14900kf",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236787/intel-core-i9-processor-14900kf-36m-cache-up-to-6-00-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "amd-ryzen-9-7900",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900.html",
+    "note": "AMD product specifications: Default TDP"
+  },
+  {
+    "product_id": "amd-ryzen-5-7500x3d",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7500x3d.html",
+    "note": "AMD product specifications: Default TDP"
+  },
+  {
+    "product_id": "amd-ryzen-7-7700x",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "105 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700x.html",
+    "note": "AMD product specifications: Default TDP"
+  },
+  {
+    "product_id": "amd-ryzen-9-7900x",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "170 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x.html",
+    "note": "AMD product specifications: Default TDP"
+  },
+  {
+    "product_id": "amd-ryzen-5-8600g",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-5-8600g.html",
+    "note": "AMD product specifications: Default TDP"
+  },
+  {
+    "product_id": "amd-ryzen-9-7950x",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "170 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x.html",
+    "note": "AMD product specifications: Default TDP"
+  },
+  {
+    "product_id": "amd-ryzen-5-7500x3d",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7500x3d.html",
+    "note": "AMD product specifications: Thermal Solution (PIB) = Not Included"
+  },
+  {
+    "product_id": "amd-ryzen-7-7700x",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700x.html",
+    "note": "AMD product specifications: Thermal Solution (PIB) = Not Included"
+  },
+  {
+    "product_id": "amd-ryzen-9-7900x",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x.html",
+    "note": "AMD product specifications: Thermal Solution (PIB) = Not Included"
+  },
+  {
+    "product_id": "amd-ryzen-9-7950x",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x.html",
+    "note": "AMD product specifications: Thermal Solution (PIB) = Not Included"
+  },
+  {
+    "product_id": "intel-core-i7-14700k",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236783/intel-core-i7-processor-14700k-33m-cache-up-to-5-60-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-14600kf",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236778/intel-core-i5-processor-14600kf-24m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i7-14700",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236781/intel-core-i7-processor-14700-33m-cache-up-to-5-40-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-14600k",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236799/intel-core-i5-processor-14600k-24m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i9-14900ks",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "150 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/237504/intel-core-i9-processor-14900ks-36m-cache-up-to-6-20-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i7-14700f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236854/intel-core-i7-processor-14700f-33m-cache-up-to-5-40-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265kf",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241062/intel-core-ultra-7-processor-265kf-30m-cache-up-to-5-50-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265k",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241063/intel-core-ultra-7-processor-265k-30m-cache-up-to-5-50-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245kf",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241066/intel-core-ultra-5-processor-245kf-24m-cache-up-to-5-20-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245kf-boxed",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241066/intel-core-ultra-5-processor-245kf-24m-cache-up-to-5-20-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245k",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241067/intel-core-ultra-5-processor-245k-24m-cache-up-to-5-20-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i7-13700kf",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230489/intel-core-i713700kf-processor-30m-cache-up-to-5-40-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i7-13700f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230491/intel-core-i713700f-processor-30m-cache-up-to-5-20-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-12400f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-14400",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236788/intel-core-i5-processor-14400-20m-cache-up-to-4-70-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i3-14100f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "58 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236786/intel-core-i3-processor-14100f-12m-cache-up-to-4-70-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-13400",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230495/intel-core-i513400-processor-20m-cache-up-to-4-60-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-13400f",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230501/intel-core-i513400f-processor-20m-cache-up-to-4-60-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i9-13900kf",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230497/intel-core-i913900kf-processor-36m-cache-up-to-5-80-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-13600kf",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230494/intel-core-i513600kf-processor-24m-cache-up-to-5-10-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i9-13900k",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230496/intel-core-i913900k-processor-36m-cache-up-to-5-80-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i9-14900",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236793/intel-core-i9-processor-14900-36m-cache-up-to-5-80-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i3-13100",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "60 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230575/intel-core-i313100-processor-12m-cache-up-to-4-50-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-13500",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230580/intel-core-i513500-processor-24m-cache-up-to-4-80-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i5-12600",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "65 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/96149/intel-core-i512600-processor-18m-cache-up-to-4-80-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "amd-ryzen-5-7600",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600.html",
+    "note": "AMD Thermal Solution (PIB): AMD Wraith Stealth"
+  },
+  {
+    "product_id": "amd-ryzen-5-7600x",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600x.html",
+    "note": "AMD Thermal Solution (PIB): Not Included"
+  },
+  {
+    "product_id": "amd-ryzen-7-7800x3d",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800X3d.html",
+    "note": "AMD Thermal Solution (PIB): Not Included"
+  },
+  {
+    "product_id": "amd-ryzen-5-8600g",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/content/dam/amd/en/documents/partner-hub/ryzen/amd-ryzen-8000g-quick-reference-guide-competitive.pdf",
+    "note": "Ryzen 8000G guide: 8600G, Wraith Stealth included"
+  },
+  {
+    "product_id": "amd-ryzen-5-8500g",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/content/dam/amd/en/documents/partner-hub/ryzen/amd-ryzen-8000g-quick-reference-guide-competitive.pdf",
+    "note": "Ryzen 8000G guide: 8500G, Wraith Stealth included"
+  },
+  {
+    "product_id": "amd-ryzen-5-8400f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/content/dam/amd/en/documents/partner-hub/ryzen/amd-ryzen-8000f-quick-reference-guide-competitive.pdf",
+    "note": "Ryzen 8000F guide: 8400F, Wraith Stealth included"
+  },
+  {
+    "product_id": "amd-ryzen-7-8700f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/content/dam/amd/en/documents/partner-hub/ryzen/amd-ryzen-8000f-quick-reference-guide-competitive.pdf",
+    "note": "Ryzen 8000F guide: 8700F, Wraith Stealth included"
+  },
+  {
+    "product_id": "amd-ryzen-7-7700-boxed",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/content/dam/amd/en/documents/partner-hub/ryzen/amd-ryzen-7000-series-65w-how-to-sell-guide-generational.pdf",
+    "note": "Ryzen 7000 65W guide: boxed 7700, Wraith Prism included"
+  },
+  {
+    "product_id": "intel-core-ultra-5-235",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX80768235"
+  },
+  {
+    "product_id": "intel-core-ultra-5-225",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX80768225"
+  },
+  {
+    "product_id": "intel-core-ultra-5-225f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX80768225F"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX80768265"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX80768285"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX80768265F"
+  },
+  {
+    "product_id": "intel-core-i9-14900f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071514900F"
+  },
+  {
+    "product_id": "intel-core-i3-14100",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071514100"
+  },
+  {
+    "product_id": "intel-core-i5-14500",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071514500"
+  },
+  {
+    "product_id": "intel-core-i5-14400f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071514400F"
+  },
+  {
+    "product_id": "intel-core-i7-14700",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071514700"
+  },
+  {
+    "product_id": "intel-core-i7-14700f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071514700F"
+  },
+  {
+    "product_id": "intel-core-i3-14100f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071514100F"
+  },
+  {
+    "product_id": "intel-core-i5-13400",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071513400"
+  },
+  {
+    "product_id": "intel-core-i5-13400f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071513400F"
+  },
+  {
+    "product_id": "intel-core-i5-12600",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071512600"
+  },
+  {
+    "product_id": "intel-core-i7-13700f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071513700F"
+  },
+  {
+    "product_id": "intel-core-i5-12400f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071512400F"
+  },
+  {
+    "product_id": "intel-core-i5-14400",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071514400"
+  },
+  {
+    "product_id": "intel-core-i9-14900",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071514900"
+  },
+  {
+    "product_id": "intel-core-i3-13100",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071513100"
+  },
+  {
+    "product_id": "intel-core-i5-13500",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel indica disipador incluido en cajas salvo sufijos K/KF/KS/XE/X; SKU boxed exacto del catálogo: BX8071513500"
+  },
+  {
+    "product_id": "intel-core-ultra-5-250kf-plus",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX80768250KF; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-ultra-7-270k-plus",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX80768270K; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-ultra-5-250k-plus",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX80768250K; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285k",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX80768285K; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265kf",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX80768265KF; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245k",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX80768245K; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i9-14900k",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071514900K; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i9-14900kf",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071514900KF; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i7-14700k",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071514700K; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i5-14600kf",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071514600KF; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245kf-boxed",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX80768245KF; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i5-14600k",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071514600K; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i9-14900ks",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071514900KS; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i7-14700kf",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071514700KF; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i9-13900kf",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071513900KF; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i5-13600kf",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071513600KF; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i7-13700kf",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071513700KF; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "intel-core-i9-13900k",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html",
+    "note": "Intel boxed SKU BX8071513900K; la política excluye los sufijos K/KF/KS/XE/X de la solución térmica incluida"
+  },
+  {
+    "product_id": "amd-ryzen-9-7900x3d-boxed",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x3d.html",
+    "note": "AMD Thermal Solution (PIB): Not Included"
+  },
+  {
+    "product_id": "amd-ryzen-9-7950x3d-boxed",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x3d.html",
+    "note": "AMD Thermal Solution (PIB): Not Included"
+  },
+  {
+    "product_id": "amd-ryzen-7-5800x3d-10th-anniversary",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5800x3d.html",
+    "note": "AMD Thermal Solution (PIB): Not Included"
+  },
+  {
+    "product_id": "amd-threadripper-pro-9995wx",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/workstations/ryzen-threadripper/9000-wx-series/amd-ryzen-threadripper-pro-9995wx.html",
+    "note": "AMD Thermal Solution (PIB): Not Included"
+  },
+  {
+    "product_id": "amd-threadripper-pro-9975wx",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/workstations/ryzen-threadripper/9000-wx-series/amd-ryzen-threadripper-pro-9975wx.html",
+    "note": "AMD Thermal Solution (PIB): Not Included"
+  },
+  {
+    "product_id": "amd-threadripper-pro-9965wx-tray",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/workstations/ryzen-threadripper/9000-wx-series/amd-ryzen-threadripper-pro-9965wx.html",
+    "note": "AMD Thermal Solution (PIB): Not Included"
+  },
+  {
+    "product_id": "amd-ryzen-7-8700g-boxed",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/content/dam/amd/en/documents/partner-hub/ryzen/amd-ryzen-8000g-quick-reference-guide-competitive.pdf",
+    "note": "Ryzen 8000G guide: boxed 8700G, Wraith Spire included"
+  },
+  {
+    "product_id": "intel-core-ultra-5-250kf-plus-tray",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/245689/intel-core-ultra-5-processor-250kf-plus-30m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-5-250k-plus-tray",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/245694/intel-core-ultra-5-processor-250k-plus-30m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285k-tray",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "intel-core-i7-14700kf",
+    "category_id": "cpu",
+    "key": "TDP",
+    "value": "125 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/236789/intel-core-i7-processor-14700kf-33m-cache-up-to-5-60-ghz/specifications.html",
+    "note": "Intel CPU Specifications: Processor Base Power"
+  },
+  {
+    "product_id": "amd-ryzen-5-5500",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5500.html",
+    "note": "AMD Thermal Solution (PIB): Wraith Stealth"
+  },
+  {
+    "product_id": "amd-threadripper-7960x",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-threadripper/ryzen-threadripper-7000-series/amd-ryzen-threadripper-7960x.html",
+    "note": "AMD Thermal Solution (PIB): Not Included"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245t",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241874/intel-core-ultra-5-processor-245t-24m-cache-up-to-5-10-ghz/specifications.html",
+    "note": "Intel publica que las cajas desktop incluyen solución térmica salvo sufijos K/KF/KS/XE/X; ficha SKU confirma modelo. https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241876/intel-core-ultra-5-processor-245-24m-cache-up-to-5-10-ghz/specifications.html",
+    "note": "Intel publica que las cajas desktop incluyen solución térmica salvo sufijos K/KF/KS/XE/X; ficha SKU confirma modelo. https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-5-230f",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241875/intel-core-ultra-5-processor-230f-24m-cache-up-to-5-00-ghz/specifications.html",
+    "note": "Intel publica que las cajas desktop incluyen solución térmica salvo sufijos K/KF/KS/XE/X; F no figura entre las excepciones. https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-5-235t",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241872/intel-core-ultra-5-processor-235t-24m-cache-up-to-5-00-ghz/specifications.html",
+    "note": "Intel publica que las cajas desktop incluyen solución térmica salvo sufijos K/KF/KS/XE/X; ficha SKU confirma modelo. https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-5-225t",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241870/intel-core-ultra-5-processor-225t-20m-cache-up-to-4-90-ghz/specifications.html",
+    "note": "Intel publica que las cajas desktop incluyen solución térmica salvo sufijos K/KF/KS/XE/X; ficha SKU confirma modelo. https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285t",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241059/intel-core-ultra-9-processor-285t-36m-cache-up-to-5-40-ghz/specifications.html",
+    "note": "Intel publica que las cajas desktop incluyen solución térmica salvo sufijos K/KF/KS/XE/X; ficha SKU confirma modelo. https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265t",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241065/intel-core-ultra-7-processor-265t-30m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel publica que las cajas desktop incluyen solución térmica salvo sufijos K/KF/KS/XE/X; ficha SKU confirma modelo. https://www.intel.com/content/www/us/en/support/articles/000029613/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-7-265k",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241063/intel-core-ultra-7-processor-265k-30m-cache-up-to-5-50-ghz/specifications.html",
+    "note": "Intel confirma que los desktop K se envían sin fan heatsink; ficha oficial SKU. https://www.intel.com/content/www/us/en/support/articles/000005940/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-5-245kf",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241066/intel-core-ultra-5-processor-245kf-24m-cache-up-to-5-20-ghz/ordering.html",
+    "note": "Intel confirma que los desktop K/KF se envían sin fan heatsink; ficha oficial SKU ordering identifica 245KF. https://www.intel.com/content/www/us/en/support/articles/000005940/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-5-250kf-plus-tray",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/245689/intel-core-ultra-5-processor-250kf-plus-30m-cache-up-to-5-30-ghz/specifications.html",
+    "note": "Intel confirma que los desktop K/KF se envían sin fan heatsink; la ficha SKU es del procesador 250KF Plus. https://www.intel.com/content/www/us/en/support/articles/000005940/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-9-285k-tray",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/ordering.html",
+    "note": "Intel confirma que los desktop K se envían sin fan heatsink; ficha oficial SKU ordering identifica 285K. https://www.intel.com/content/www/us/en/support/articles/000005940/processors.html"
+  },
+  {
+    "product_id": "intel-core-ultra-5-250k-plus-tray",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/245694/intel-core-ultra-5-processor-250k-plus-30m-cache-up-to-5-30-ghz/ordering.html",
+    "note": "Intel confirma que los desktop K se envían sin fan heatsink; 250K Plus aparece explícitamente en el artículo oficial. https://www.intel.com/content/www/us/en/support/articles/000005940/processors.html"
+  },
+  {
+    "product_id": "amd-ryzen-9-7900",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900.html",
+    "note": "El MPN 100-100000590WOF identifica el SKU WOF; AMD indica Thermal Solution PIB: Not Included en la ficha del Ryzen 9 7900. https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900.html"
+  },
+  {
+    "product_id": "amd-ryzen-5-5500f-tray",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5500f.html",
+    "value": "No"
+  },
+  {
+    "product_id": "amd-ryzen-5-7500f-tray",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7500F.html",
+    "value": "No"
+  },
+  {
+    "product_id": "amd-ryzen-5-7600-tray",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600.html",
+    "value": "No"
+  },
+  {
+    "product_id": "amd-ryzen-7-8700g",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-7-8700g.html",
+    "value": "Sí"
+  },
+  {
+    "product_id": "intel-core-i7-13700-tray",
+    "category_id": "cpu",
+    "key": "TDP",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz/ordering.html",
+    "value": "65 W"
+  },
+  {
+    "product_id": "intel-core-i7-13700-tray",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz/ordering.html",
+    "value": "No"
+  },
+  {
+    "product_id": "intel-core-i7-13700t",
+    "category_id": "cpu",
+    "key": "TDP",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230492/intel-core-i713700t-processor-30m-cache-up-to-4-90-ghz/ordering.html",
+    "value": "35 W"
+  },
+  {
+    "product_id": "intel-core-i7-13700t",
+    "category_id": "cpu",
+    "key": "Disipador incluido",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/230492/intel-core-i713700t-processor-30m-cache-up-to-4-90-ghz/ordering.html",
+    "value": "No"
+  }
+]

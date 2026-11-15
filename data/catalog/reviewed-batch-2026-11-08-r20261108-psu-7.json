@@ -1,0 +1,167 @@
+[
+ {
+  "id": "coolbox-dg-pws850-mgl5",
+  "slug": "coolbox-dg-pws850-mgl5",
+  "name": "CoolBox Energy-V 850W 80 Plus Gold (DG-PWS850-MGL5)",
+  "category_id": "psu",
+  "brand": "CoolBox",
+  "mpn": "DG-PWS850-MGL5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://coolbox.es/producto/gaming/fuentes-alimentacion/fuente-de-alimentacion-energy-g-850w-80plus-gold/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Eficiencia 80 PLUS": "80 PLUS Gold"
+  }
+ },
+ {
+  "id": "akyga-ak-b1-500",
+  "slug": "akyga-ak-b1-500",
+  "name": "Akyga AK-B1-500 500W",
+  "category_id": "psu",
+  "brand": "Akyga",
+  "mpn": "AK-B1-500",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.akyga.com/products/5-power-supply-atx-ak-b1-500-500w.html",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "akyga-ak-b1-500e",
+  "slug": "akyga-ak-b1-500e",
+  "name": "Akyga AK-B1-500E 500W",
+  "category_id": "psu",
+  "brand": "Akyga",
+  "mpn": "AK-B1-500E",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.akyga.com/products/475-power-supply-atx-ak-b1-500e-500w.html",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "akyga-ak-b1-600",
+  "slug": "akyga-ak-b1-600",
+  "name": "Akyga AK-B1-600 600W",
+  "category_id": "psu",
+  "brand": "Akyga",
+  "mpn": "AK-B1-600",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.akyga.com/products/7-power-supply-atx-ak-b1-600-600w.html",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "600 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "akyga-ak-b1-700",
+  "slug": "akyga-ak-b1-700",
+  "name": "Akyga AK-B1-700 700W",
+  "category_id": "psu",
+  "brand": "Akyga",
+  "mpn": "AK-B1-700",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.akyga.com/products/9-power-supply-atx-ak-b1-700-700w.html",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "700 W",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "zalman-zm700-gv2se",
+  "slug": "zalman-zm700-gv2se",
+  "name": "Zalman GV2SE 700W (ZM700-GV2SE)",
+  "category_id": "psu",
+  "brand": "Zalman",
+  "mpn": "ZM700-GV2SE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1606",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "700 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Cybenetics": "Cybenetics Silver"
+  }
+ },
+ {
+  "id": "zalman-zm800-gv2se",
+  "slug": "zalman-zm800-gv2se",
+  "name": "Zalman GV2SE 800W (ZM800-GV2SE)",
+  "category_id": "psu",
+  "brand": "Zalman",
+  "mpn": "ZM800-GV2SE",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1607",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "800 W",
+   "Formato": "ATX",
+   "Estándar ATX": "2.x",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Cybenetics": "Cybenetics Silver"
+  }
+ },
+ {
+  "id": "endorfy-vero-l6-550w-ey7a016",
+  "slug": "endorfy-vero-l6-550w-ey7a016",
+  "name": "ENDORFY Vero L6 550 W (EY7A016)",
+  "category_id": "psu",
+  "brand": "ENDORFY",
+  "mpn": "EY7A016",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://endorfy.com/en/products/vero-l6-550-w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "550 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Cables fijos",
+   "Eficiencia 80 PLUS": "80 PLUS Bronze",
+   "Cybenetics": "Cybenetics Silver",
+   "Cybenetics ruido": "A-",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "chieftec-value-apb-500b8",
+  "slug": "chieftec-value-apb-500b8",
+  "name": "Chieftec Value APB-500B8 500W",
+  "category_id": "psu",
+  "brand": "Chieftec",
+  "mpn": "APB-500B8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.chieftec.eu/products-detail/181/VALUE_SERIES/250/APB-500B8",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "500 W",
+   "Formato": "ATX",
+   "Eficiencia 80 PLUS": "80 PLUS"
+  }
+ },
+ {
+  "id": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+  "slug": "tempest-gpsu-750w-v2-tp-gpsu-750b-v2",
+  "name": "Tempest PSU GPSU 750W V2 (TP-GPSU-750B-V2)",
+  "category_id": "psu",
+  "brand": "Tempest",
+  "mpn": "TP-GPSU-750B-V2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Formato": "ATX"
+  }
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "id": "goodram-ir-6000d564l30s-32gdc",
+  "slug": "goodram-ir-6000d564l30s-32gdc",
+  "name": "GOODRAM IRDM 32 GB (2 × 16 GB) DDR5-6000 CL30",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "IR-6000D564L30S/32GDC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30"
+  }
+ },
+ {
+  "id": "goodram-gr5600d564l46s-16g",
+  "slug": "goodram-gr5600d564l46s-16g",
+  "name": "GOODRAM 16 GB (1 × 16 GB) DDR5-5600 CL46",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "GR5600D564L46S/16G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/goodram-ddr5-dimm/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL46"
+  }
+ },
+ {
+  "id": "goodram-ir-6400d564l32s-32gdc",
+  "slug": "goodram-ir-6400d564l32s-32gdc",
+  "name": "GOODRAM IRDM 32 GB (2 × 16 GB) DDR5-6400 CL32",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "IR-6400D564L32S/32GDC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6400 MT/s",
+   "Latencia": "CL32"
+  }
+ },
+ {
+  "id": "goodram-gr3200d464l22-16g",
+  "slug": "goodram-gr3200d464l22-16g",
+  "name": "GOODRAM 16 GB (1 × 16 GB) DDR4-3200 CL22",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "GR3200D464L22/16G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL22"
+  }
+ },
+ {
+  "id": "goodram-gr2666d464l19-16g",
+  "slug": "goodram-gr2666d464l19-16g",
+  "name": "GOODRAM 16 GB (1 × 16 GB) DDR4-2666 CL19",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "GR2666D464L19/16G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "2666 MT/s",
+   "Latencia": "CL19"
+  }
+ },
+ {
+  "id": "goodram-gr2666d464l19s-8g",
+  "slug": "goodram-gr2666d464l19s-8g",
+  "name": "GOODRAM 8 GB (1 × 8 GB) DDR4-2666 CL19",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "GR2666D464L19S/8G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "2666 MT/s",
+   "Latencia": "CL19"
+  }
+ },
+ {
+  "id": "goodram-ir-x3200d464l16a-16g",
+  "slug": "goodram-ir-x3200d464l16a-16g",
+  "name": "GOODRAM IRDM X 16 GB (1 × 16 GB) DDR4-3200 CL16",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "IR-X3200D464L16A/16G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "goodram-gr3200d464l22s-8g",
+  "slug": "goodram-gr3200d464l22s-8g",
+  "name": "GOODRAM 8 GB (1 × 8 GB) DDR4-3200 CL22",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "GR3200D464L22S/8G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL22"
+  }
+ },
+ {
+  "id": "goodram-irg-60d5l30s-32gdc",
+  "slug": "goodram-irg-60d5l30s-32gdc",
+  "name": "GOODRAM IRDM RGB 32 GB (2 × 16 GB) DDR5-6000 CL30",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "IRG-60D5L30S/32GDC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/irdm-rgb-ddr5/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30"
+  }
+ },
+ {
+  "id": "goodram-ir-7200d564l34s-32gdc",
+  "slug": "goodram-ir-7200d564l34s-32gdc",
+  "name": "GOODRAM IRDM 32 GB (2 × 16 GB) DDR5-7200 CL34",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "IR-7200D564L34S/32GDC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "7200 MT/s",
+   "Latencia": "CL34"
+  }
+ },
+ {
+  "id": "goodram-ir-7600d564l36s-32gdc",
+  "slug": "goodram-ir-7600d564l36s-32gdc",
+  "name": "GOODRAM IRDM 32 GB (2 × 16 GB) DDR5-7600 CL36",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "IR-7600D564L36S/32GDC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "7600 MT/s",
+   "Latencia": "CL36"
+  }
+ },
+ {
+  "id": "goodram-ir-x3200d464l16sa-8g",
+  "slug": "goodram-ir-x3200d464l16sa-8g",
+  "name": "GOODRAM IRDM X 8 GB (1 × 8 GB) DDR4-3200 CL16",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "IR-X3200D464L16SA/8G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/irdm-x-ddr4-dimm/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "goodram-ir-7200d564l34s-16g",
+  "slug": "goodram-ir-7200d564l34s-16g",
+  "name": "GOODRAM IRDM 16 GB (1 × 16 GB) DDR5-7200 CL34",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "IR-7200D564L34S/16G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "7200 MT/s",
+   "Latencia": "CL34"
+  }
+ },
+ {
+  "id": "goodram-ggrrd4-32l16sa-16gdc",
+  "slug": "goodram-ggrrd4-32l16sa-16gdc",
+  "name": "GOODRAM Rival Radiant Roja 16 GB (2 × 8 GB) DDR4-3200 CL16",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "GGRRD4-32L16SA/16GDC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "goodram-ggrgd4-32l16sa-16gdc",
+  "slug": "goodram-ggrgd4-32l16sa-16gdc",
+  "name": "GOODRAM Rival Radiant Verde 16 GB (2 × 8 GB) DDR4-3200 CL16",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "GGRGD4-32L16SA/16GDC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "goodram-ggrrd4-32l16sa-8g",
+  "slug": "goodram-ggrrd4-32l16sa-8g",
+  "name": "GOODRAM Rival Radiant Roja 8 GB (1 × 8 GB) DDR4-3200 CL16",
+  "category_id": "ram",
+  "brand": "GOODRAM",
+  "mpn": "GGRRD4-32L16SA/8G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.goodram.com/en/products/goodram-rival-ddr4-radiant/",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16"
+  }
+ }
+]

@@ -1,0 +1,121 @@
+[
+ {
+  "id": "msi-pro-z890-p-wifi",
+  "slug": "msi-pro-z890-p-wifi",
+  "name": "MSI PRO Z890-P WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E34-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/PRO-Z890-P-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "INTEL Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "msi-z890-gaming-plus-wifi",
+  "slug": "msi-z890-gaming-plus-wifi",
+  "name": "MSI Z890 GAMING PLUS WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E34-002",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/Z890-GAMING-PLUS-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Socket": "LGA1851",
+   "Chipset": "INTEL Z890",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "msi-b650m-gaming-plus-wifi",
+  "slug": "msi-b650m-gaming-plus-wifi",
+  "name": "MSI B650M GAMING PLUS WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E24-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/B650M-GAMING-PLUS-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "Micro-ATX"
+  }
+ },
+ {
+  "id": "msi-mag-b650-tomahawk-wifi",
+  "slug": "msi-mag-b650-tomahawk-wifi",
+  "name": "MSI MAG B650 TOMAHAWK WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "MAG B650 TOMAHAWK WIFI",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MAG-B650-TOMAHAWK-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD B650",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "msi-mag-x670e-tomahawk-wifi",
+  "slug": "msi-mag-x670e-tomahawk-wifi",
+  "name": "MSI MAG X670E TOMAHAWK WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7E12-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MAG-X670E-TOMAHAWK-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X670",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "msi-mpg-x670e-carbon-wifi",
+  "slug": "msi-mpg-x670e-carbon-wifi",
+  "name": "MSI MPG X670E CARBON WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7D70-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MPG-X670E-CARBON-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Chipset": "AMD X670",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ },
+ {
+  "id": "msi-mpg-z790-carbon-wifi",
+  "slug": "msi-mpg-z790-carbon-wifi",
+  "name": "MSI MPG Z790 CARBON WIFI",
+  "category_id": "motherboard",
+  "brand": "MSI",
+  "mpn": "911-7D89-001",
+  "mpn_source": "retailer",
+  "manufacturer_url": "https://www.msi.com/Motherboard/MPG-Z790-CARBON-WIFI/Specification",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Socket": "LGA1700",
+   "Chipset": "INTEL Z790",
+   "Tipo de memoria": "DDR5",
+   "Formato": "ATX"
+  }
+ }
+]

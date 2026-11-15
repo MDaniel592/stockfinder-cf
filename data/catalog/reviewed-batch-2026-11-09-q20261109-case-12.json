@@ -1,0 +1,423 @@
+[
+ {
+  "id": "hyte-y70-touch-infinite-blanco-cs-hyte-y70tti-ww",
+  "slug": "hyte-y70-touch-infinite-blanco-cs-hyte-y70tti-ww",
+  "name": "HYTE Y70 Touch Infinite Blanco (CS-HYTE-Y70TTI-WW)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y70TTI-WW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y70/cs-hyte-y70tti-ww",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "422 mm",
+   "Altura disipador máxima": "180 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "470 × 320 × 470 mm"
+  }
+ },
+ {
+  "id": "hyte-y70-touch-infinite-panda-cs-hyte-y70tti-wb",
+  "slug": "hyte-y70-touch-infinite-panda-cs-hyte-y70tti-wb",
+  "name": "HYTE Y70 Touch Infinite Panda (CS-HYTE-Y70TTI-WB)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y70TTI-WB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y70/cs-hyte-y70tti-wb",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "422 mm",
+   "Altura disipador máxima": "180 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "470 × 320 × 470 mm"
+  }
+ },
+ {
+  "id": "hyte-y70-touch-infinite-negro-cs-hyte-y70tti-bb",
+  "slug": "hyte-y70-touch-infinite-negro-cs-hyte-y70tti-bb",
+  "name": "HYTE Y70 Touch Infinite Negro (CS-HYTE-Y70TTI-BB)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y70TTI-BB",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y70/cs-hyte-y70tti-bb",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "422 mm",
+   "Altura disipador máxima": "180 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "470 × 320 × 470 mm"
+  }
+ },
+ {
+  "id": "hyte-y70-blanco-cs-hyte-y70-ww",
+  "slug": "hyte-y70-blanco-cs-hyte-y70-ww",
+  "name": "HYTE Y70 Blanco (CS-HYTE-Y70-WW)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y70-WW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y70/cs-hyte-y70-ww",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "422 mm",
+   "Altura disipador máxima": "180 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "470 × 320 × 470 mm"
+  }
+ },
+ {
+  "id": "hyte-y70-blanco-negro-cs-hyte-y70-bw",
+  "slug": "hyte-y70-blanco-negro-cs-hyte-y70-bw",
+  "name": "HYTE Y70 Blanco Negro (CS-HYTE-Y70-BW)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y70-BW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y70/cs-hyte-y70-bw",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "422 mm",
+   "Altura disipador máxima": "180 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "470 × 320 × 470 mm"
+  }
+ },
+ {
+  "id": "hyte-y70-negro-cs-hyte-y70-b",
+  "slug": "hyte-y70-negro-cs-hyte-y70-b",
+  "name": "HYTE Y70 Negro (CS-HYTE-Y70-B)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y70-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y70/cs-hyte-y70-b",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Longitud GPU máxima": "422 mm",
+   "Altura disipador máxima": "180 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "470 × 320 × 470 mm"
+  }
+ },
+ {
+  "id": "hyte-y40-negro-cs-hyte-y40-b",
+  "slug": "hyte-y40-negro-cs-hyte-y40-b",
+  "name": "HYTE Y40 Negro (CS-HYTE-Y40-B)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y40-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y40/cs-hyte-y40-b",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "422 mm",
+   "Altura disipador máxima": "183 mm",
+   "Ventiladores incluidos": "2 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "439 × 240 × 472 mm"
+  }
+ },
+ {
+  "id": "hyte-y40-blanco-cs-hyte-y40-ww",
+  "slug": "hyte-y40-blanco-cs-hyte-y40-ww",
+  "name": "HYTE Y40 Blanco (CS-HYTE-Y40-WW)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y40-WW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y40/cs-hyte-y40-ww",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "422 mm",
+   "Altura disipador máxima": "183 mm",
+   "Ventiladores incluidos": "2 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "439 × 240 × 472 mm"
+  }
+ },
+ {
+  "id": "hyte-y40-blanco-negro-cs-hyte-y40-bw",
+  "slug": "hyte-y40-blanco-negro-cs-hyte-y40-bw",
+  "name": "HYTE Y40 Blanco Negro (CS-HYTE-Y40-BW)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y40-BW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y40/cs-hyte-y40-bw",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "422 mm",
+   "Altura disipador máxima": "183 mm",
+   "Ventiladores incluidos": "2 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "439 × 240 × 472 mm"
+  }
+ },
+ {
+  "id": "hyte-y60-blanco-negro-cs-hyte-y60-bw",
+  "slug": "hyte-y60-blanco-negro-cs-hyte-y60-bw",
+  "name": "HYTE Y60 Blanco Negro (CS-HYTE-Y60-BW)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y60-BW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y60/cs-hyte-y60-bw",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "375 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "456 × 285 × 462 mm"
+  }
+ },
+ {
+  "id": "hyte-y60-negro-cs-hyte-y60-b",
+  "slug": "hyte-y60-negro-cs-hyte-y60-b",
+  "name": "HYTE Y60 Negro (CS-HYTE-Y60-B)",
+  "category_id": "case",
+  "brand": "HYTE",
+  "mpn": "CS-HYTE-Y60-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://hyte.com/store/y60/cs-hyte-y60-b",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "375 mm",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "456 × 285 × 462 mm"
+  }
+ },
+ {
+  "id": "phanteks-nv7-negro-ph-nv723tg-dbk01",
+  "slug": "phanteks-nv7-negro-ph-nv723tg-dbk01",
+  "name": "Phanteks NV7 Negro (PH-NV723TG_DBK01)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-NV723TG_DBK01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/nv7-black/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "450 mm",
+   "Altura disipador máxima": "185 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "253 × 532 × 586 mm"
+  }
+ },
+ {
+  "id": "phanteks-nv5-mkii-negro-ph-nv523tg-dbk02",
+  "slug": "phanteks-nv5-mkii-negro-ph-nv523tg-dbk02",
+  "name": "Phanteks NV5 MKII Negro (PH-NV523TG_DBK02)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-NV523TG_DBK02",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/nv5-mk2-black/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "440 mm",
+   "Altura disipador máxima": "180 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "239 × 477 × 528 mm"
+  }
+ },
+ {
+  "id": "phanteks-nv5-mkii-blanco-ph-nv523tg-dmw02",
+  "slug": "phanteks-nv5-mkii-blanco-ph-nv523tg-dmw02",
+  "name": "Phanteks NV5 MKII Blanco (PH-NV523TG_DMW02)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-NV523TG_DMW02",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/nv5-mk2-white/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "440 mm",
+   "Altura disipador máxima": "180 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "239 × 477 × 528 mm"
+  }
+ },
+ {
+  "id": "phanteks-xt-view-blanco-ph-xt523v1-dwt01",
+  "slug": "phanteks-xt-view-blanco-ph-xt523v1-dwt01",
+  "name": "Phanteks XT View Blanco (PH-XT523V1_DWT01)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-XT523V1_DWT01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/xt-view-white/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "415 mm",
+   "Altura disipador máxima": "184 mm",
+   "Ventiladores incluidos": "3 × 120 mm (D-RGB)",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "440 × 230 × 500 mm"
+  }
+ },
+ {
+  "id": "phanteks-xt-view-negro-ph-xt523v1-dbk01",
+  "slug": "phanteks-xt-view-negro-ph-xt523v1-dbk01",
+  "name": "Phanteks XT View Negro (PH-XT523V1_DBK01)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-XT523V1_DBK01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/xt-view-black/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "415 mm",
+   "Altura disipador máxima": "184 mm",
+   "Ventiladores incluidos": "3 × 120 mm (D-RGB)",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "440 × 230 × 500 mm"
+  }
+ },
+ {
+  "id": "phanteks-xt-pro-negro-ph-xt523p1-bk01",
+  "slug": "phanteks-xt-pro-negro-ph-xt523p1-bk01",
+  "name": "Phanteks XT Pro Negro (PH-XT523P1_BK01)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-XT523P1_BK01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/xt-pro-black/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "415 mm",
+   "Altura disipador máxima": "184 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "450 × 230 × 500 mm"
+  }
+ },
+ {
+  "id": "phanteks-xt-pro-ultra-negro-ph-xt523p1-dbk01",
+  "slug": "phanteks-xt-pro-ultra-negro-ph-xt523p1-dbk01",
+  "name": "Phanteks XT Pro Ultra Negro (PH-XT523P1_DBK01)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-XT523P1_DBK01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/xt-pro-ultra-black/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "415 mm",
+   "Altura disipador máxima": "184 mm",
+   "Ventiladores incluidos": "4 × 140 mm (D-RGB)",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "450 × 230 × 500 mm"
+  }
+ },
+ {
+  "id": "phanteks-xt-pro-ultra-blanco-ph-xt523p1-dwt01",
+  "slug": "phanteks-xt-pro-ultra-blanco-ph-xt523p1-dwt01",
+  "name": "Phanteks XT Pro Ultra Blanco (PH-XT523P1_DWT01)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-XT523P1_DWT01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/xt-pro-ultra-white/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "415 mm",
+   "Altura disipador máxima": "184 mm",
+   "Ventiladores incluidos": "4 × 140 mm (D-RGB)",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "450 × 230 × 500 mm"
+  }
+ },
+ {
+  "id": "phanteks-ex5-negro-ph-ex526-dbk01",
+  "slug": "phanteks-ex5-negro-ph-ex526-dbk01",
+  "name": "Phanteks EX5 Negro (PH-EX526_DBK01)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-EX526_DBK01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/ex5-black/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "358 mm",
+   "Altura disipador máxima": "72 mm",
+   "Dimensiones": "449 × 234 × 474 mm"
+  }
+ },
+ {
+  "id": "phanteks-ex5-plus-negro-ph-ex526p-dbk01",
+  "slug": "phanteks-ex5-plus-negro-ph-ex526p-dbk01",
+  "name": "Phanteks EX5 Plus Negro (PH-EX526P_DBK01)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-EX526P_DBK01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/ex5-plus-black/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "358 mm",
+   "Altura disipador máxima": "72 mm",
+   "Dimensiones": "449 × 234 × 474 mm"
+  }
+ },
+ {
+  "id": "phanteks-ex5-max-negro-ph-ex526m-dbk01",
+  "slug": "phanteks-ex5-max-negro-ph-ex526m-dbk01",
+  "name": "Phanteks EX5 Max Negro (PH-EX526M_DBK01)",
+  "category_id": "case",
+  "brand": "Phanteks",
+  "mpn": "PH-EX526M_DBK01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://phanteks.com/product/ex5-max-black/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "358 mm",
+   "Altura disipador máxima": "72 mm",
+   "Dimensiones": "449 × 234 × 474 mm"
+  }
+ }
+]

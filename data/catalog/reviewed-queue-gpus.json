@@ -1,0 +1,51 @@
+[
+  {
+    "id": "asus-prime-radeon-rx-9070-xt-oc-16gb",
+    "slug": "asus-prime-radeon-rx-9070-xt-oc-16gb",
+    "name": "ASUS Prime Radeon RX 9070 XT OC 16 GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "PRIME-RX9070XT-O16G",
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070xt-o16g/techspec/",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "3010 MHz (modo predeterminado)",
+      "Longitud": "312 mm",
+      "Dimensiones": "312 × 130 × 50 mm",
+      "Ranuras": "2,5",
+      "Fuente recomendada": "750 W",
+      "Conectores de alimentación": "3 × 8 pines",
+      "Consumo (TBP)": "304 W"
+    }
+  },
+  {
+    "id": "gigabyte-aorus-rtx-5080-xtreme-waterforce-16g",
+    "slug": "gigabyte-aorus-rtx-5080-xtreme-waterforce-16g",
+    "name": "Gigabyte AORUS GeForce RTX 5080 Xtreme WaterForce 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N5080AORUSX W-16GD",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N5080AORUSX-W-16GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "2805 MHz",
+      "Longitud": "220 mm",
+      "Dimensiones": "220 × 130 × 40 mm",
+      "Fuente recomendada": "850 W",
+      "Conectores de alimentación": "1 × 16 pines",
+      "Radiador GPU": "360 mm",
+      "Refrigeración": "Líquida AIO; comprobar espacio para radiador GPU además de CPU",
+      "Consumo (TGP)": "360 W"
+    }
+  }
+]

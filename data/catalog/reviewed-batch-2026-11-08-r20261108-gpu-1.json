@@ -1,0 +1,612 @@
+[
+  {
+    "id": "gigabyte-geforce-rtx-5070-ti-gaming-oc-16g",
+    "slug": "gigabyte-geforce-rtx-5070-ti-gaming-oc-16g",
+    "name": "Gigabyte GeForce RTX 5070 Ti GAMING OC 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N507TGAMING OC-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TGAMING-OC-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g",
+    "slug": "gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g",
+    "name": "Gigabyte GeForce RTX 5070 Ti WINDFORCE OC SFF 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N507TWF3OC-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TWF3OC-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5070-ti-windforce-oc-v2-16g",
+    "slug": "gigabyte-geforce-rtx-5070-ti-windforce-oc-v2-16g",
+    "name": "Gigabyte GeForce RTX 5070 Ti WINDFORCE OC V2 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N507TWF3OCV2-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TWF3OCV2-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5070-ti-aero-oc-16g",
+    "slug": "gigabyte-geforce-rtx-5070-ti-aero-oc-16g",
+    "name": "Gigabyte GeForce RTX 5070 Ti AERO OC 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N507TAERO OC-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TAERO-OC-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5060-ti-aero-oc-8g",
+    "slug": "gigabyte-geforce-rtx-5060-ti-aero-oc-8g",
+    "name": "Gigabyte GeForce RTX 5060 Ti AERO OC 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N506TAERO OC-8GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TAERO-OC-8GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5060-ti-gaming-oc-8g",
+    "slug": "gigabyte-geforce-rtx-5060-ti-gaming-oc-8g",
+    "name": "Gigabyte GeForce RTX 5060 Ti GAMING OC 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N506TGAMING OC-8GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TGAMING-OC-8GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g",
+    "slug": "gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g",
+    "name": "Gigabyte GeForce RTX 5070 Ti EAGLE OC ICE SFF 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N507TEAGLEOC ICE-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N507TEAGLEOC-ICE-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5050-gaming-oc-8g",
+    "slug": "gigabyte-geforce-rtx-5050-gaming-oc-8g",
+    "name": "Gigabyte GeForce RTX 5050 GAMING OC 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N5050GAMING OC-8GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050GAMING-OC-8GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-aorus-radeon-rx-9070-xt-elite-16g",
+    "slug": "gigabyte-aorus-radeon-rx-9070-xt-elite-16g",
+    "name": "Gigabyte AORUS Radeon RX 9070 XT ELITE 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-R9070XTAORUS E-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-R9070XTAORUS-E-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "gigabyte-radeon-rx-7600-gaming-oc-8g",
+    "slug": "gigabyte-radeon-rx-7600-gaming-oc-8g",
+    "name": "Gigabyte Radeon RX 7600 GAMING OC 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-R76GAMING OC-8GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-R76GAMING-OC-8GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 7600",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "165 W",
+      "Fuente recomendada": "550 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "gigabyte-radeon-rx-9070-gaming-oc-16g",
+    "slug": "gigabyte-radeon-rx-9070-gaming-oc-16g",
+    "name": "Gigabyte Radeon RX 9070 GAMING OC 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-R9070GAMING OC-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-R9070GAMING-OC-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "220 W",
+      "Fuente recomendada": "650 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-8g",
+    "slug": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-8g",
+    "name": "Gigabyte GeForce RTX 5060 Ti EAGLE OC ICE 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N506TEAGLEOC ICE-8GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TEAGLEOC-ICE-8GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-8g",
+    "slug": "gigabyte-geforce-rtx-5060-ti-eagle-oc-8g",
+    "name": "Gigabyte GeForce RTX 5060 Ti EAGLE OC 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N506TEAGLE OC-8GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TEAGLE-OC-8GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-radeon-rx-9070-xt-gaming-16g",
+    "slug": "gigabyte-radeon-rx-9070-xt-gaming-16g",
+    "name": "Gigabyte Radeon RX 9070 XT GAMING 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-R9070XTGAMING-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-R9070XTGAMING-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9070 XT",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-16g",
+    "slug": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-16g",
+    "name": "Gigabyte GeForce RTX 5060 Ti EAGLE OC ICE 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N506TEAGLEOC ICE-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TEAGLEOC-ICE-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5060-ti-gaming-oc-16g",
+    "slug": "gigabyte-geforce-rtx-5060-ti-gaming-oc-16g",
+    "name": "Gigabyte GeForce RTX 5060 Ti GAMING OC 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N506TGAMING OC-16GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TGAMING-OC-16GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "gigabyte-geforce-rtx-5050-d6-8g",
+    "slug": "gigabyte-geforce-rtx-5050-d6-8g",
+    "name": "Gigabyte GeForce RTX 5050 D6 8G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N5050D6-8GD",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050D6-8GD",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "asus-dual-radeon-rx-7600-evo-oc-edition-8gb",
+    "slug": "asus-dual-radeon-rx-7600-evo-oc-edition-8gb",
+    "name": "ASUS Dual Radeon RX 7600 EVO OC Edition 8GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "DUAL-RX7600-O8G-EVO",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx7600-o8g-evo/techspec/",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 7600",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 4.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "165 W",
+      "Fuente recomendada": "550 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "asus-dual-radeon-rx-9060-xt-8gb",
+    "slug": "asus-dual-radeon-rx-9060-xt-8gb",
+    "name": "ASUS Dual Radeon RX 9060 XT 8GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "DUAL-RX9060XT-8G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rx9060xt-8g/techspec/",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "Radeon RX 9060 XT",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0"
+    }
+  },
+  {
+    "id": "asus-prime-geforce-rtx-5050-oc-edition-8gb",
+    "slug": "asus-prime-geforce-rtx-5050-oc-edition-8gb",
+    "name": "ASUS Prime GeForce RTX 5050 OC Edition 8GB",
+    "category_id": "gpu",
+    "brand": "ASUS",
+    "mpn": "PRIME-RTX5050-O8G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5050-o8g/techspec/",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "palit-geforce-rtx-5070-ti-gamingpro-s-16gb",
+    "slug": "palit-geforce-rtx-5070-ti-gamingpro-s-16gb",
+    "name": "Palit GeForce RTX 5070 Ti GamingPro-S 16GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "mpn": "NE7507T019T2-GB2031U",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5605&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "palit-geforce-rtx-5070-ti-gamingpro-s-oc-16gb",
+    "slug": "palit-geforce-rtx-5070-ti-gamingpro-s-oc-16gb",
+    "name": "Palit GeForce RTX 5070 Ti GamingPro-S OC 16GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "mpn": "NE7507TS19T2-GB2031U",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5615&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "palit-geforce-rtx-5060-ti-infinity-3-oc-16gb",
+    "slug": "palit-geforce-rtx-5060-ti-infinity-3-oc-16gb",
+    "name": "Palit GeForce RTX 5060 Ti Infinity 3 OC 16GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "mpn": "NE7506TS19T1-GB2061S",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5485&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "palit-geforce-rtx-5050-stormx-8gb",
+    "slug": "palit-geforce-rtx-5050-stormx-8gb",
+    "name": "Palit GeForce RTX 5050 StormX 8GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "mpn": "NE65050019P1-GB2070F",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5695&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "palit-geforce-rtx-5090-gamerock-32gb",
+    "slug": "palit-geforce-rtx-5090-gamerock-32gb",
+    "name": "Palit GeForce RTX 5090 GameRock 32GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "mpn": "NE75090019R5-GB2020G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5345&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "palit-geforce-rtx-5090-gamerock-oc-32gb",
+    "slug": "palit-geforce-rtx-5090-gamerock-oc-32gb",
+    "name": "Palit GeForce RTX 5090 GameRock OC 32GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "mpn": "NE75090S19R5-GB2020G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5335&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5090",
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "palit-geforce-rtx-5050-dual-8gb",
+    "slug": "palit-geforce-rtx-5050-dual-8gb",
+    "name": "Palit GeForce RTX 5050 Dual 8GB",
+    "category_id": "gpu",
+    "brand": "Palit",
+    "mpn": "NE65050019P1-GB2070D",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.palit.com/palit/vgapro.php?id=5685&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "slug": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "name": "INNO3D GeForce RTX 5060 Ti 8GB TWIN X2 OC",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N506T2-08D7X-193075N",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "slug": "inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "name": "INNO3D GeForce RTX 5060 Ti 16GB X3 OC",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N506T3-16D7X-191073L",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "slug": "inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "name": "INNO3D GeForce RTX 5060 Ti 8GB X3 OC",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N506T3-08D7X-193075L",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "gainward-geforce-rtx-5070-python-iii-12gb",
+    "slug": "gainward-geforce-rtx-5070-python-iii-12gb",
+    "name": "Gainward GeForce RTX 5070 Python III 12GB",
+    "category_id": "gpu",
+    "brand": "Gainward",
+    "mpn": "NE75070019K9-GB2050T",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.gainward.com/main/vgapro.php?id=1237&lang=en",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070",
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0"
+    }
+  },
+  {
+    "id": "sparkle-intel-arc-a310-eco-4gb",
+    "slug": "sparkle-intel-arc-a310-eco-4gb",
+    "name": "Sparkle Intel Arc A310 ECO 4GB",
+    "category_id": "gpu",
+    "brand": "Sparkle",
+    "mpn": "SA310C-4G",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.sparkle.com.tw/en/A310-ECO",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "Arc A310",
+      "Memoria": "4 GB",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "sparkle-intel-arc-a750-roc-oc-edition-8gb",
+    "slug": "sparkle-intel-arc-a750-roc-oc-edition-8gb",
+    "name": "Sparkle Intel Arc A750 ROC OC Edition 8GB",
+    "category_id": "gpu",
+    "brand": "Sparkle",
+    "mpn": "SA750R-8GOC",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.sparkle.com.tw/en/A750-ROC",
+    "specs_verified_at": "2026-11-08T23:00:00Z",
+    "specs": {
+      "Chip gráfico": "Arc A750",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6"
+    }
+  }
+]

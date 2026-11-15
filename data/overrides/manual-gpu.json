@@ -1,0 +1,4500 @@
+[
+  {
+    "product_id": "msi-geforce-rtx-5070-12g-ventus-2x-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "236 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-12G-VENTUS-2X-OC/Specification"
+  },
+  {
+    "product_id": "msi-geforce-rtx-5070-ti-16g-ventus-3x-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "303 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-Ti-16G-VENTUS-3X-OC/Specification"
+  },
+  {
+    "product_id": "srock-rx7600-cl-8go",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "Radeon RX 7600",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%207600%20Challenger%208GB%20OC/index.asp",
+    "note": "ficha: Graphics Engine = AMD Radeon RX 7600"
+  },
+  {
+    "product_id": "srock-rx7600-cl-8go",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 4.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%207600%20Challenger%208GB%20OC/index.asp",
+    "note": "ficha: Bus Standard = PCI Express 4.0 x8"
+  },
+  {
+    "product_id": "srock-rx7600-cl-8go",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "269.2 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%207600%20Challenger%208GB%20OC/index.asp",
+    "note": "ficha: Dimensions = 269.2 x 131.8 x 40.3 mm"
+  },
+  {
+    "product_id": "srock-rx7600-cl-8go",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%207600%20Challenger%208GB%20OC/index.asp",
+    "note": "ficha: Recommended PSU = 550W"
+  },
+  {
+    "product_id": "srock-rx9060xt-cl-16go",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "Radeon RX 9060 XT",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209060%20XT%20Challenger%2016GB%20OC/index.us.asp",
+    "note": "ficha: Graphics Engine = AMD Radeon RX 9060 XT"
+  },
+  {
+    "product_id": "srock-rx9060xt-cl-16go",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209060%20XT%20Challenger%2016GB%20OC/index.us.asp",
+    "note": "ficha: Key Specifications indica AMD RDNA 4 Architecture"
+  },
+  {
+    "product_id": "srock-rx9060xt-cl-16go",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209060%20XT%20Challenger%2016GB%20OC/index.us.asp",
+    "note": "ficha: Bus Standard = PCI Express 5.0 x16"
+  },
+  {
+    "product_id": "srock-rx9060xt-cl-16go",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "249 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209060%20XT%20Challenger%2016GB%20OC/index.us.asp",
+    "note": "ficha: Dimensions = 249 x 132 x 41 mm"
+  },
+  {
+    "product_id": "srock-rx9060xt-cl-16go",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209060%20XT%20Challenger%2016GB%20OC/index.us.asp",
+    "note": "ficha: Recommended PSU = 550W"
+  },
+  {
+    "product_id": "srock-rx9070-cl-16g",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "Radeon RX 9070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20Challenger%2016GB/index.asp",
+    "note": "ficha: Graphics Engine = AMD Radeon RX 9070"
+  },
+  {
+    "product_id": "srock-rx9070-cl-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20Challenger%2016GB/index.asp",
+    "note": "ficha: Bus Standard = PCI Express 5.0 x16"
+  },
+  {
+    "product_id": "srock-rx9070-cl-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "290 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20Challenger%2016GB/index.asp",
+    "note": "ficha: Dimensions = 290 x 123 x 51 mm"
+  },
+  {
+    "product_id": "srock-rx9070-cl-16g",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "700 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20Challenger%2016GB/index.asp",
+    "note": "ficha: Recommended PSU = 700W"
+  },
+  {
+    "product_id": "asrock-rx-9070-xt-challenger-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Challenger%2016GB/index.asp",
+    "note": "ficha: Key Specification indica AMD RDNA 4 Architecture"
+  },
+  {
+    "product_id": "asrock-rx-9070-xt-challenger-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Challenger%2016GB/index.asp",
+    "note": "ficha: Bus Standard = PCI Express 5.0 x16"
+  },
+  {
+    "product_id": "asrock-rx-9070-xt-challenger-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "290 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Challenger%2016GB/index.asp",
+    "note": "ficha: Dimensions = 290 x 123 x 56 mm"
+  },
+  {
+    "product_id": "asrock-rx-9070-xt-steel-legend-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%2016GB/index.us.asp",
+    "note": "ficha: Key Specification indica AMD RDNA 4 Architecture"
+  },
+  {
+    "product_id": "asrock-rx-9070-xt-steel-legend-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%2016GB/index.us.asp",
+    "note": "ficha: Bus Standard = PCI Express 5.0 x16"
+  },
+  {
+    "product_id": "asrock-rx-9070-xt-steel-legend-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "298 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%2016GB/index.us.asp",
+    "note": "ficha: Dimensions = 298 x 131 x 58 mm"
+  },
+  {
+    "product_id": "srock-rx9070xt-sld-16g",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "Radeon RX 9070 XT",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%20Dark%2016GB/",
+    "note": "ficha: Graphics Engine = AMD Radeon RX 9070 XT"
+  },
+  {
+    "product_id": "srock-rx9070xt-sld-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%20Dark%2016GB/",
+    "note": "ficha: Key Specification indica AMD RDNA 4 Architecture"
+  },
+  {
+    "product_id": "srock-rx9070xt-sld-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%20Dark%2016GB/",
+    "note": "ficha: Bus Standard = PCI Express 5.0 x16"
+  },
+  {
+    "product_id": "srock-rx9070xt-sld-16g",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "298 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%20Dark%2016GB/",
+    "note": "ficha: Dimensions = 298 x 131 x 58 mm"
+  },
+  {
+    "product_id": "srock-rx9070xt-sld-16g",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "800 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%20Dark%2016GB/",
+    "note": "ficha: Recommended PSU = 800W"
+  },
+  {
+    "product_id": "asrock-arc-b580-challenger-12gb-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Xe2-HPG",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/Graphics-Card/Intel/Intel%20Arc%20B580%20Challenger%2012GB%20OC/",
+    "note": "ficha: Key Specification indica Intel Xe2-HPG Architecture"
+  },
+  {
+    "product_id": "asrock-arc-b580-challenger-12gb-oc",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 4.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/Graphics-Card/Intel/Intel%20Arc%20B580%20Challenger%2012GB%20OC/",
+    "note": "ficha: Bus Standard = PCI Express 4.0 x8"
+  },
+  {
+    "product_id": "asrock-arc-b580-challenger-12gb-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "249 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/Graphics-Card/Intel/Intel%20Arc%20B580%20Challenger%2012GB%20OC/",
+    "note": "ficha: Dimensions = 249 x 132 x 41mm"
+  },
+  {
+    "product_id": "asrock-arc-b580-challenger-12gb-oc",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/Graphics-Card/Intel/Intel%20Arc%20B580%20Challenger%2012GB%20OC/",
+    "note": "ficha: Recommended PSU = 650W"
+  },
+  {
+    "product_id": "asrock-arc-pro-b70-creator-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Xe2-HPG",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20Pro%20B70%20Creator%2032GB/",
+    "note": "ficha: Key Specifications indica Intel Xe2-HPG Architecture"
+  },
+  {
+    "product_id": "asrock-arc-pro-b70-creator-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "271 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20Pro%20B70%20Creator%2032GB/",
+    "note": "ficha: Dimensions = 271 x 112 x 39 mm"
+  },
+  {
+    "product_id": "asrock-intel-arc-a310-low-profile-4gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Xe HPG",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/227958/intel-arc-a310-graphics/specifications.html",
+    "note": "Intel identifica A310 como Xe HPG en Microarchitecture; ficha ASRock confirma el modelo A310 Low Profile 4GB."
+  },
+  {
+    "product_id": "asrock-intel-arc-a310-low-profile-4gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "169 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20A310%20Low%20Profile%204GB/",
+    "note": "ficha ASRock: dimensiones 169 x 69 x 39 mm."
+  },
+  {
+    "product_id": "asrock-intel-arc-a310-low-profile-4gb",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "450 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20A310%20Low%20Profile%204GB/",
+    "note": "ficha ASRock: Recommended PSU = 450W."
+  },
+  {
+    "product_id": "intel-arc-b580",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "272 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/sku/241598/intel-arc-b580-graphics/specifications.html",
+    "note": "Intel Reference Card Attributes: dimensiones (length x width) 272 x 115 mm; producto Intel Arc B580."
+  },
+  {
+    "product_id": "powercolor-rx907016g-a",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "asus-dual-geforce-rtx-5060-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "pny-geforce-rtx-5070-ti-oc-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5090-gaming-trio-oc-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "zotac-geforce-rtx-5080-amp-extreme-infinity-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "zotac-geforce-rtx-5090-solid-oc-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-prime-radeon-rx-9070-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "powercolor-hellhound-radeon-rx-7900-xtx-oc-24gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 3",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series.html",
+    "note": "AMD identifies Radeon RX 7000 Series as built on RDNA 3; this named GPU is in that series."
+  },
+  {
+    "product_id": "zotac-gaming-rtx-5060-ti-amp-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-eagle-max-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "xfx-quicksilver-radeon-rx-9070-xt-white-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-windforce-max-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-prime-radeon-rx-9070-gre-oc-12gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-7800-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 3",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series.html",
+    "note": "AMD identifies Radeon RX 7000 Series as built on RDNA 3; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-rtx-5080-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "igabyte-gv-r907xgamingocice-16gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "3-n506t2-08d7-193075n",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "912-v535-005",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "rx-97tswf3w9",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sus-90yv0lg3-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50600f-10m",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "912-v531-680",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "ainward-ne7506t019p1-gb2062b",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "rx-97swfb3b9",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sus-90yv0l75-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sus-90yv0mh2-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0m17-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0m10-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50700h-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "apphire-11349-03-20g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "ainward-ne75060019p1-gb2063b",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0n10-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "owercolor-rx9070xt16g-l-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sus-90yv0n00-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "igabyte-gv-r906xgamingocice-16gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50620h-10m",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "apphire-11350-01-20g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "igabyte-gv-n506teaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50800j2-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "igabyte-gv-n5060eaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "igabyte-gv-n5080wf3ocv2-16gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0md3-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0md0-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0m30-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "3-n506t2-16d7-191073n",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "vcg5060t16dfxpb1-o",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "vcg5070t16tfxpb1",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "912-v531-005",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0lf1-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "3-n50803-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0lx0-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "srock-rx7600-cl-8go",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 3",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series.html",
+    "note": "AMD identifies Radeon RX 7000 Series as built on RDNA 3; this named GPU is in that series."
+  },
+  {
+    "product_id": "912-v532-029",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "rx-96ts316w7",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sus-90yv0nf0-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50700q-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50900q-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50500h-10m",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50600q-10m",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "ainward-ne75070s19k9-gb2050t",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50600h-10m",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0n30-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0n15-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "rx-96tmercb9",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sus-90yv0mq0-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "igabyte-gv-n5060wf2max-oc-8gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "igabyte-gv-n5050oc-8gl",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0n72-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "rx-97tqickb9",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50800q-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "912-v537-005",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50700e-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "igabyte-gv-n5070wf3-12gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "srock-rx9070xt-sl-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50620f-10m",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50700fq-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50800d2-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "3-n506t2-08d7x-193075w",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "912-v812-077",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "srock-rx9070-cl-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50700d-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "otac-zt-b50700j-10p",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "3-n50702-12d7-195064n",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sus-90yv0lz0-m0na00",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "3-n507t3-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-tuf-gaming-radeon-rx-9070-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sapphire-pulse-radeon-rx-9070-xt-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sapphire-nitro-plus-radeon-rx-9070-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sapphire-pure-radeon-rx-9070-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "xfx-swift-radeon-rx-9070-xt-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9070-xt-oc-rgb-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5060-ti-infinity-3-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "pny-geforce-rtx-5080-overclocked-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "powercolor-reaper-radeon-rx-9070-gre-12gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "asus-rog-astral-rtx-5090-oc-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-rog-astral-rtx-5090-white-oc-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "inno3d-rtx-5090-ichill-frostbite-pro-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5070-ti-16g-gaming-trio-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5050-8g-ventus-2x-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5060-ti-8g-gaming-trio-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5080-16g-expert-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5080-16g-inspire-3x-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "powercolor-reaper-rx-9070-xt-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "powercolor-hellhound-reva-rx-9070-xt-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "powercolor-red-devil-rx-9070-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5070-12g-ventus-2x-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5060-8g-ventus-2x-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5070-ti-16g-ventus-3x-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sapphire-pulse-rx-9060-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "zotac-rtx-5060-ti-twin-edge-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "zotac-rtx-5050-twin-edge-oc-white-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "zotac-rtx-5050-low-profile-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "palit-rtx-5060-ti-dual-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "pny-rtx-5090-overclocked-triple-fan-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "pny-rtx-5080-argb-overclocked-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "pny-rtx-5080-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "pny-rtx-5070-ti-argb-epic-x-rgb-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-dual-rtx-3050-v2-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Ampere",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-in/geforce/graphics-cards/30-series/rtx-3050/",
+    "note": "NVIDIA GeForce RTX 3050 product specification identifies Ampere architecture."
+  },
+  {
+    "product_id": "asus-dual-rx-9060-xt-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "asus-dual-rtx-5060-ti-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-dual-rtx-5060-ti-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-prime-rtx-5070-ti-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-tuf-rtx-5060-ti-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-proart-rtx-5070-ti-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-rtx-5050-windforce-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-rx-9060-xt-gaming-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-rx-9060-xt-gaming-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-windforce-max-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-aero-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-windforce-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "xfx-swift-rx-9060-xt-oc-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "xfx-swift-rx-9070-oc-white-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gainward-rtx-5080-phoenix-v1-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gainward-rtx-5080-python-iii-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "lenovo-rtx-5080-16gb-4x61u02755",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "nvidia-rtx-pro-6000-blackwell-workstation-96gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000-family/",
+    "note": "NVIDIA RTX PRO 6000 Blackwell exact product page identifies NVIDIA Blackwell architecture."
+  },
+  {
+    "product_id": "nvidia-rtx-pro-4500-blackwell-workstation-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-au/products/workstations/professional-desktop-gpus/rtx-pro-4500/",
+    "note": "NVIDIA RTX PRO 4500 Blackwell exact product page identifies NVIDIA Blackwell architecture."
+  },
+  {
+    "product_id": "nvidia-rtx-5090-founders-edition-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-dual-rtx-5060-oc-advanced-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "powercolor-reaper-rx-9060-xt-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-gv-n5070wf3oc-12gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-gv-n5070gaming-oc-12gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-gv-n5070aero-oc-12gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-gv-n507taorus-m-16gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-gv-n5080aorusm-ice-16gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-gv-n5090gaming-oc-32gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-gv-n5090aorus-m-32gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5090-32g-ventus-3x-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-windforce-oc-v2-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-aero-oc-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-aero-oc-8g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-gaming-oc-8g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5050-gaming-oc-8g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-aorus-radeon-rx-9070-xt-elite-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-7600-gaming-oc-8g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 3",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series.html",
+    "note": "AMD identifies Radeon RX 7000 Series as built on RDNA 3; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-9070-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-8g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-8g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-9070-xt-gaming-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5050-d6-8g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-7600-evo-oc-edition-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 3",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series.html",
+    "note": "AMD identifies Radeon RX 7000 Series as built on RDNA 3; this named GPU is in that series."
+  },
+  {
+    "product_id": "asus-dual-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "asus-prime-geforce-rtx-5050-oc-edition-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5070-ti-gamingpro-s-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5070-ti-gamingpro-s-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5060-ti-infinity-3-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5050-stormx-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5090-gamerock-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5090-gamerock-oc-32gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5050-dual-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "gainward-geforce-rtx-5070-python-iii-12gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-eco-4gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Xe HPG",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/desktop/a-series.html",
+    "note": "Intel Arc A-Series official product page identifies the family microarchitecture as Xe HPG."
+  },
+  {
+    "product_id": "sparkle-intel-arc-a750-roc-oc-edition-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Xe HPG",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/desktop/a-series.html",
+    "note": "Intel Arc A-Series official product page identifies the family microarchitecture as Xe HPG."
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9070-xt-oc-white-gaming-edition-rgb-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5050-8g-gaming-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "sapphire-pulse-radeon-rx-9060-xt-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-gv-r9070xtgaming-oc-16gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-gv-r907gregaming-oc-12gd",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-aorus-rtx-5060-ti-ai-box-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5080-16g-mandalorian-grogu-edition-oc",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5060-ti-ritona-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "xfx-mercury-radeon-rx-9070-xt-oc-white-magnetic-air-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "sparkle-intel-arc-a380-elf-6gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Xe HPG",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/desktop/a-series.html",
+    "note": "Intel Arc A-Series official product page identifies the family microarchitecture as Xe HPG."
+  },
+  {
+    "product_id": "sparkle-intel-arc-a310-omni-view-4gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Xe HPG",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/desktop/a-series.html",
+    "note": "Intel Arc A-Series official product page identifies the family microarchitecture as Xe HPG."
+  },
+  {
+    "product_id": "xfx-swift-radeon-rx-9060-xt-oc-8gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "asus-prime-radeon-rx-9070-xt-oc-16gb",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "RDNA 4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/technologies/rdna.html",
+    "note": "AMD identifies Radeon RX 9000 Series as powered by RDNA 4; this named GPU is in that series."
+  },
+  {
+    "product_id": "gigabyte-aorus-rtx-5080-xtreme-waterforce-16g",
+    "category_id": "gpu",
+    "key": "Arquitectura",
+    "value": "Blackwell",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics",
+    "note": "NVIDIA states GeForce RTX 50 Series is powered by the Blackwell architecture; this named model is in that series."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "227 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-16G-VENTUS-2X-OC-PLUS/Specification",
+    "note": "MSI exact model specification: Card Dimension = 227 x 126 x 41 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "227 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-8G-VENTUS-2X-OC-PLUS/Specification",
+    "note": "MSI exact model specification: Card Dimension = 227 x 126 x 41 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5070-ti-16g-gaming-trio-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "338 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-Ti-16G-GAMING-TRIO-OC/Specification",
+    "note": "MSI exact model specification: Card Dimension = 338 x 140 x 50 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5050-8g-ventus-2x-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "197 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5050-8G-VENTUS-2X-OC/Specification",
+    "note": "MSI exact model specification: Card Dimension = 197 x 120 x 41 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5060-ti-8g-gaming-trio-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "300 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-8G-GAMING-TRIO-OC/Specification",
+    "note": "MSI exact model specification: Card Dimension = 300 x 125 x 44 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5080-16g-expert-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "319 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-EXPERT-OC/Specification",
+    "note": "MSI exact model specification: Card Dimension = 319 x 150 x 60 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5080-16g-inspire-3x-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "288 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-INSPIRE-3X-OC/Specification",
+    "note": "MSI exact model specification: Card Dimension = 288 x 112 x 50 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5060-8g-ventus-2x-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "197 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-8G-VENTUS-2X-OC/Specification",
+    "note": "MSI exact model specification: Card Dimension = 197 x 120 x 41 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5090-32g-ventus-3x-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "325 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5090-32G-VENTUS-3X-OC/Specification",
+    "note": "MSI exact model specification: Card Dimension = 325 x 139 x 67 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5080-16g-mandalorian-grogu-edition-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "338 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-The-Mandalorian-and-Grogu-Edition-OC/Specification",
+    "note": "MSI exact model specification: Card Dimension = 338 x 140 x 50 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5090-gaming-trio-oc-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5090-32G-GAMING-TRIO-OC/Specification",
+    "note": "MSI exact model specification lists PCI Express Gen 5."
+  },
+  {
+    "product_id": "912-v535-005",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-16G-VENTUS-2X-OC-PLUS/Specification",
+    "note": "MSI exact model specification lists PCI Express Gen 5 x16 (uses x8)."
+  },
+  {
+    "product_id": "912-v531-680",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-VENTUS-3X-OC/Specification",
+    "note": "MSI exact model specification lists PCI Express Gen 5."
+  },
+  {
+    "product_id": "912-v531-005",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-GAMING-TRIO-OC/Specification",
+    "note": "MSI exact model specification lists PCI Express Gen 5."
+  },
+  {
+    "product_id": "912-v531-005",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "360 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-GAMING-TRIO-OC/Specification",
+    "note": "MSI exact model specification: Power consumption = 360 W."
+  },
+  {
+    "product_id": "912-v531-005",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-GAMING-TRIO-OC/Specification",
+    "note": "MSI exact model specification: Recommended PSU = 850 W."
+  },
+  {
+    "product_id": "912-v532-029",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-12G-GAMING-TRIO-OC/Specification",
+    "note": "MSI exact model specification lists PCI Express Gen 5."
+  },
+  {
+    "product_id": "912-v532-029",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "250 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-12G-GAMING-TRIO-OC/Specification",
+    "note": "MSI exact model specification: Power consumption = 250 W."
+  },
+  {
+    "product_id": "912-v532-029",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-12G-GAMING-TRIO-OC/Specification",
+    "note": "MSI exact model specification: Recommended PSU = 650 W."
+  },
+  {
+    "product_id": "912-v812-077",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-16G-VENTUS-3X-OC/Specification",
+    "note": "MSI exact model specification lists PCI Express Gen 5 x16 (uses x8)."
+  },
+  {
+    "product_id": "912-v812-077",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-16G-VENTUS-3X-OC/Specification",
+    "note": "MSI exact model specification: Power consumption = 180 W."
+  },
+  {
+    "product_id": "912-v812-077",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "600 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-16G-VENTUS-3X-OC/Specification",
+    "note": "MSI exact model specification: Recommended PSU = 600 W."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5050-8g-gaming-oc",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5050-8G-GAMING-OC/Specification",
+    "note": "MSI exact model specification lists PCI Express Gen 5 x16 (uses x8)."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5050-8g-gaming-oc",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "130 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5050-8G-GAMING-OC/Specification",
+    "note": "MSI exact model specification: Power consumption = 130 W."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5050-8g-gaming-oc",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "202 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5050-8G-GAMING-OC/Specification",
+    "note": "MSI exact model specification: Card Dimension = 202 x 120 x 41 mm."
+  },
+  {
+    "product_id": "msi-geforce-rtx-5050-8g-gaming-oc",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5050-8G-GAMING-OC/Specification",
+    "note": "MSI exact model specification: Recommended PSU = 550 W."
+  },
+  {
+    "product_id": "912-v537-005",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-8G-GAMING-OC/Specification",
+    "note": "MSI exact model specification lists PCI Express Gen 5 x16 (uses x8)."
+  },
+  {
+    "product_id": "912-v537-005",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "155 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-8G-GAMING-OC/Specification",
+    "note": "MSI exact model specification: Power consumption = 155 W."
+  },
+  {
+    "product_id": "912-v537-005",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-8G-GAMING-OC/Specification",
+    "note": "MSI exact model specification: Recommended PSU = 550 W."
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5070-ti",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070 Ti",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070 Ti; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5060-ti-16gb",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5060 Ti",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5060 Ti; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "nvidia-geforce-rtx-5060-ti-8gb",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5060 Ti",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5060 Ti; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "powercolor-rx907016g-a",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "Radeon RX 9070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon.html",
+    "note": "AMD catálogo oficial de Radeon RX incluye el modelo GPU Radeon RX 9070; esta tarjeta usa ese modelo de GPU."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5070-twin-x2-oc-12gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5080-ichill-frostbite-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "asus-dual-geforce-rtx-5060-oc-8gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "pny-geforce-rtx-5070-ti-oc-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "asus-tuf-geforce-rtx-5090-oc-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "zotac-geforce-rtx-5080-amp-extreme-infinity-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "zotac-geforce-rtx-5090-solid-oc-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5090-ichill-frostbite-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5090-x3-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "3-n506t2-08d7-193075n",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50600f-10m",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "ainward-ne7506t019p1-gb2062b",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0mh2-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0m17-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0m10-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50700h-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "ainward-ne75060019p1-gb2063b",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0n10-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0n00-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50620h-10m",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "igabyte-gv-n506teaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50800j2-10p",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5080",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5080; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50800j2-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "igabyte-gv-n5060eaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "igabyte-gv-n5080wf3ocv2-16gd",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5080",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5080; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "igabyte-gv-n5080wf3ocv2-16gd",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0md3-m0na00",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070 Ti",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070 Ti; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "sus-90yv0md3-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0md0-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0m30-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "3-n506t2-16d7-191073n",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5060 Ti",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5060 Ti; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "3-n506t2-16d7-191073n",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "vcg5060t16dfxpb1-o",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "vcg5070t16tfxpb1",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0lf1-m0na00",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "Radeon RX 9060 XT",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon.html",
+    "note": "AMD catálogo oficial de Radeon RX incluye el modelo GPU Radeon RX 9060 XT; esta tarjeta usa ese modelo de GPU."
+  },
+  {
+    "product_id": "3-n50803-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5080",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5080; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "3-n50803-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0lx0-m0na00",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5080",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5080; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "sus-90yv0lx0-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0nf0-m0na00",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5090",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5090; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "sus-90yv0nf0-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50700q-10p",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50700q-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50900q-10p",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5090",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5090; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50900q-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50500h-10m",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5050",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5050; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50500h-10m",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5050 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50600q-10m",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5060",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5060; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50600q-10m",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "ainward-ne75070s19k9-gb2050t",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50600h-10m",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5060",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5060; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50600h-10m",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0n30-m0na00",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5080",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5080; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "sus-90yv0n30-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0n15-m0na00",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5060",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5060; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "sus-90yv0n15-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0mq0-m0na00",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "Radeon RX 9070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon.html",
+    "note": "AMD catálogo oficial de Radeon RX incluye el modelo GPU Radeon RX 9070; esta tarjeta usa ese modelo de GPU."
+  },
+  {
+    "product_id": "igabyte-gv-n5060wf2max-oc-8gd",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "igabyte-gv-n5050oc-8gl",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5050 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0n72-m0na00",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5050",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5050; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "sus-90yv0n72-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5050 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50800q-10p",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5080",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5080; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50800q-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50700e-10p",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50700e-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "igabyte-gv-n5070wf3-12gd",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "srock-rx9070xt-sl-16g",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "Radeon RX 9070 XT",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.amd.com/en/products/graphics/desktops/radeon.html",
+    "note": "AMD catálogo oficial de Radeon RX incluye el modelo GPU Radeon RX 9070 XT; esta tarjeta usa ese modelo de GPU."
+  },
+  {
+    "product_id": "otac-zt-b50620f-10m",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5060 Ti",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5060 Ti; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50620f-10m",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50700fq-10p",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50700fq-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50800d2-10p",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5080",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5080; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50800d2-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "3-n506t2-08d7x-193075w",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50700d-10p",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50700d-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "otac-zt-b50700j-10p",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "otac-zt-b50700j-10p",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "3-n50702-12d7-195064n",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "3-n50702-12d7-195064n",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "sus-90yv0lz0-m0na00",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "sus-90yv0lz0-m0na00",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "3-n507t3-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Chip gráfico",
+    "value": "GeForce RTX 5070 Ti",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial de GeForce RTX 5070 Ti; el campo identifica el modelo GPU indicado para esta tarjeta."
+  },
+  {
+    "product_id": "3-n507t3-16d7-176068n",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5060-ti-infinity-3-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "pny-geforce-rtx-5080-overclocked-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-rtx-5060-ti-dual-8gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "pny-rtx-5090-overclocked-triple-fan-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "pny-rtx-5080-argb-overclocked-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "pny-rtx-5080-triple-fan-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "pny-rtx-5070-ti-argb-epic-x-rgb-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gainward-rtx-5080-phoenix-v1-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gainward-rtx-5080-python-iii-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "lenovo-rtx-5080-16gb-4x61u02755",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5080 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "nvidia-rtx-5090-founders-edition-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-windforce-oc-v2-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-aero-oc-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-aero-oc-8g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-gaming-oc-8g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5050-gaming-oc-8g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5050 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-8g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-8g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5060-ti-gaming-oc-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-geforce-rtx-5050-d6-8g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5050 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5070-ti-gamingpro-s-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5070-ti-gamingpro-s-oc-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5070 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5060-ti-infinity-3-oc-16gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5050-stormx-8gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5050 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5090-gamerock-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5090-gamerock-oc-32gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5090 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5050-dual-8gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5050 lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "gigabyte-aorus-rtx-5060-ti-ai-box-16g",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "palit-geforce-rtx-5060-ti-ritona-oc-8gb",
+    "category_id": "gpu",
+    "key": "Interfaz",
+    "value": "PCIe 5.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "note": "NVIDIA ficha oficial del modelo GeForce RTX 5060 Ti lista PCI Express Gen 5."
+  },
+  {
+    "product_id": "zotac-geforce-rtx-5080-amp-extreme-infinity-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "332.1 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800B-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800B-10P: la sección DIMENSIONS indica longitud del producto de 332.1 mm."
+  },
+  {
+    "product_id": "zotac-geforce-rtx-5090-solid-oc-32gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "329.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5090/Brochure/ZT-B50900J-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50900J-10P: DIMENSIONS, longitud del producto de 329.7 mm."
+  },
+  {
+    "product_id": "zotac-gaming-rtx-5060-ti-amp-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060Ti/Brochure/ZT-B50610F-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50610F-10M: DIMENSIONS, longitud del producto de 220.5 mm."
+  },
+  {
+    "product_id": "otac-zt-b50700q-10p",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "250 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700Q-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700Q-10P: POWER REQUIREMENTS publica 250 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50700q-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "241.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700Q-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700Q-10P: DIMENSIONS indica longitud del producto de 241.5 mm."
+  },
+  {
+    "product_id": "otac-zt-b50700q-10p",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700Q-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700Q-10P: POWER REQUIREMENTS recomienda una fuente de 650 W."
+  },
+  {
+    "product_id": "otac-zt-b50900q-10p",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "575 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5090/Brochure/ZT-B50900Q-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50900Q-10P: POWER REQUIREMENTS publica 575 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50900q-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "329.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5090/Brochure/ZT-B50900Q-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50900Q-10P: DIMENSIONS indica longitud del producto de 329.7 mm."
+  },
+  {
+    "product_id": "otac-zt-b50900q-10p",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "1000 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5090/Brochure/ZT-B50900Q-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50900Q-10P: POWER REQUIREMENTS recomienda una fuente de 1000 W."
+  },
+  {
+    "product_id": "otac-zt-b50500h-10m",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "130 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5050/Brochure/ZT-B50500H-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50500H-10M: POWER REQUIREMENTS publica 130 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50500h-10m",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5050/Brochure/ZT-B50500H-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50500H-10M: DIMENSIONS indica longitud del producto de 220.5 mm."
+  },
+  {
+    "product_id": "otac-zt-b50500h-10m",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5050/Brochure/ZT-B50500H-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50500H-10M: POWER REQUIREMENTS recomienda una fuente de 550 W."
+  },
+  {
+    "product_id": "otac-zt-b50600h-10m",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "145 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060/Brochure/ZT-B50600H-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50600H-10M: POWER REQUIREMENTS publica 145 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50600h-10m",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060/Brochure/ZT-B50600H-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50600H-10M: DIMENSIONS indica longitud del producto de 220.5 mm."
+  },
+  {
+    "product_id": "otac-zt-b50600h-10m",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060/Brochure/ZT-B50600H-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50600H-10M: POWER REQUIREMENTS recomienda una fuente de 550 W."
+  },
+  {
+    "product_id": "otac-zt-b50800q-10p",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "360 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800Q-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800Q-10P: POWER REQUIREMENTS publica 360 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50800q-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "329.7 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800Q-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800Q-10P: DIMENSIONS indica longitud del producto de 329.7 mm."
+  },
+  {
+    "product_id": "otac-zt-b50800q-10p",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800Q-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800Q-10P: POWER REQUIREMENTS recomienda una fuente de 850 W."
+  },
+  {
+    "product_id": "otac-zt-b50700e-10p",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "250 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700E-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700E-10P: POWER REQUIREMENTS publica 250 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50700e-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "241.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700E-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700E-10P: DIMENSIONS indica longitud del producto de 241.5 mm."
+  },
+  {
+    "product_id": "otac-zt-b50700e-10p",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700E-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700E-10P: POWER REQUIREMENTS recomienda una fuente de 650 W."
+  },
+  {
+    "product_id": "otac-zt-b50800j2-10p",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "360 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800J2-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800J2-10P: POWER REQUIREMENTS publica 360 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50800j2-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "303.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800J2-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800J2-10P: DIMENSIONS indica longitud del producto de 303.5 mm."
+  },
+  {
+    "product_id": "otac-zt-b50800j2-10p",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800J2-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800J2-10P: POWER REQUIREMENTS recomienda una fuente de 850 W."
+  },
+  {
+    "product_id": "otac-zt-b50620f-10m",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "180 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060Ti/Brochure/ZT-B50620F-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50620F-10M: POWER REQUIREMENTS publica 180 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50620f-10m",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060Ti/Brochure/ZT-B50620F-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50620F-10M: DIMENSIONS indica longitud del producto de 220.5 mm."
+  },
+  {
+    "product_id": "otac-zt-b50620f-10m",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060Ti/Brochure/ZT-B50620F-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50620F-10M: POWER REQUIREMENTS recomienda una fuente de 650 W."
+  },
+  {
+    "product_id": "otac-zt-b50700fq-10p",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "250 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700FQ-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700FQ-10P: POWER REQUIREMENTS publica 250 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50700fq-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304.4 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700FQ-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700FQ-10P: DIMENSIONS indica longitud del producto de 304.4 mm."
+  },
+  {
+    "product_id": "otac-zt-b50700fq-10p",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700FQ-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700FQ-10P: POWER REQUIREMENTS recomienda una fuente de 650 W."
+  },
+  {
+    "product_id": "otac-zt-b50800d2-10p",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "360 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800D2-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800D2-10P: POWER REQUIREMENTS publica 360 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50800d2-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "303.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800D2-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800D2-10P: DIMENSIONS indica longitud del producto de 303.5 mm."
+  },
+  {
+    "product_id": "otac-zt-b50800d2-10p",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800D2-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50800D2-10P: POWER REQUIREMENTS recomienda una fuente de 850 W."
+  },
+  {
+    "product_id": "otac-zt-b50700d-10p",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "250 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700D-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700D-10P: POWER REQUIREMENTS publica 250 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50700d-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304.4 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700D-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700D-10P: DIMENSIONS indica longitud del producto de 304.4 mm."
+  },
+  {
+    "product_id": "otac-zt-b50700d-10p",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700D-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700D-10P: POWER REQUIREMENTS recomienda una fuente de 650 W."
+  },
+  {
+    "product_id": "otac-zt-b50700j-10p",
+    "category_id": "gpu",
+    "key": "Consumo (TBP)",
+    "value": "250 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700J-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700J-10P: POWER REQUIREMENTS publica 250 W de consumo máximo."
+  },
+  {
+    "product_id": "otac-zt-b50700j-10p",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304.4 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700J-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700J-10P: DIMENSIONS indica longitud del producto de 304.4 mm."
+  },
+  {
+    "product_id": "otac-zt-b50700j-10p",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "650 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700J-10P-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50700J-10P: POWER REQUIREMENTS recomienda una fuente de 650 W."
+  },
+  {
+    "product_id": "zotac-rtx-5060-ti-twin-edge-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060Ti/Brochure/ZT-B50610H-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50610H-10M: DIMENSIONS indica longitud del producto de 220.5 mm."
+  },
+  {
+    "product_id": "zotac-rtx-5050-twin-edge-oc-white-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5050/Brochure/ZT-B50500Q-10M-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50500Q-10M: DIMENSIONS indica longitud del producto de 220.5 mm."
+  },
+  {
+    "product_id": "zotac-rtx-5050-low-profile-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "182.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5050/Brochure/ZT-B50500L-10L-brochure.pdf",
+    "note": "Ficha Zotac para ZT-B50500L-10L: DIMENSIONS indica longitud del producto de 182.5 mm."
+  },
+  {
+    "product_id": "zotac-rtx-5060-ti-twin-edge-oc-white-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "220.5 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.zotac.com/emeai/product/graphics_card/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-oc-white-edition-0",
+    "note": "Ficha oficial del producto con SKU de catálogo ZT-B50610Q-10M, sección Card Length, declara 220.5 mm. La ficha PDF regional encontrada usa sufijo 10A, por lo que esta nota conserva el enlace a la página de producto identificada con 10M."
+  },
+  {
+    "product_id": "igabyte-gv-n506teaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Graphics-Card/GV-N506TEAGLEMAX-OC-8GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N506TEAGLEMAX OC-8GD; Specifications > Card size: L=281 mm."
+  },
+  {
+    "product_id": "igabyte-gv-n5060eaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/es/Graphics-Card/GV-N5060EAGLEMAX-OC-8GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5060EAGLEMAX OC-8GD; Especificación > Card size: L=281 mm."
+  },
+  {
+    "product_id": "igabyte-gv-n5060eaglemax-oc-8gd",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/es/Graphics-Card/GV-N5060EAGLEMAX-OC-8GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5060EAGLEMAX OC-8GD; Especificación > Recommended PSU: 550W."
+  },
+  {
+    "product_id": "igabyte-gv-n5080wf3ocv2-16gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "304 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/in/Graphics-Card/GV-N5080WF3OCV2-16GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5080WF3OCV2-16GD; Specifications > Card size: L=304 mm."
+  },
+  {
+    "product_id": "igabyte-gv-n5080wf3ocv2-16gd",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "850 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/in/Graphics-Card/GV-N5080WF3OCV2-16GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5080WF3OCV2-16GD; Specifications > Power requirement: 850W."
+  },
+  {
+    "product_id": "igabyte-gv-n5060wf2max-oc-8gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "199 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5060WF2MAX-OC-8GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5060WF2MAX OC-8GD; Specifications > Card size: L=199 mm."
+  },
+  {
+    "product_id": "igabyte-gv-n5060wf2max-oc-8gd",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5060WF2MAX-OC-8GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5060WF2MAX OC-8GD; Specifications > Recommended PSU: 550W."
+  },
+  {
+    "product_id": "igabyte-gv-n5050oc-8gl",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "182 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050OC-8GL/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5050OC-8GL; Specifications > Card size: L=182 mm."
+  },
+  {
+    "product_id": "igabyte-gv-n5050oc-8gl",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "550 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050OC-8GL/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5050OC-8GL; Specifications > Recommended PSU: 550W."
+  },
+  {
+    "product_id": "igabyte-gv-n5070wf3-12gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "282 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/id/Graphics-Card/GV-N5070WF3-12GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5070WF3-12GD; Spesifikasi > Card size: L=282 mm."
+  },
+  {
+    "product_id": "igabyte-gv-n5070wf3-12gd",
+    "category_id": "gpu",
+    "key": "Fuente recomendada",
+    "value": "750 W",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/id/Graphics-Card/GV-N5070WF3-12GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5070WF3-12GD; Spesifikasi > Power requirement: 750W."
+  },
+  {
+    "product_id": "gigabyte-rx-9060-xt-gaming-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R9060XTGAMING-OC-8GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-R9060XTGAMING OC-8GD; Specifications > Card size: L=281 mm."
+  },
+  {
+    "product_id": "gigabyte-gv-r907gregaming-oc-12gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "288 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R907GREGAMING-OC-12GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-R907GREGAMING OC-12GD; Specifications > Card size: L=288 mm."
+  },
+  {
+    "product_id": "gigabyte-rtx-5050-windforce-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "199 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050WF2OC-8GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5050WF2OC-8GD; Specifications > Card size: L=199 mm."
+  },
+  {
+    "product_id": "gigabyte-rx-9060-xt-gaming-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-R9060XTGAMING-OC-16GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-R9060XTGAMING OC-16GD; Specifications > Card size: L=281 mm."
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-windforce-max-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "208 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TWF2MAX-OC-8GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N506TWF2MAX OC-8GD; Specifications > Card size: L=208 mm."
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-aero-oc-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "281 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TAERO-OC-16GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N506TAERO OC-16GD; Specifications > Card size: L=281 mm."
+  },
+  {
+    "product_id": "gigabyte-rtx-5060-ti-windforce-oc-8gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "208 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TWF2OC-8GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N506TWF2OC-8GD; Specifications > Card size: L=208 mm."
+  },
+  {
+    "product_id": "gigabyte-radeon-rx-9070-gaming-16gb",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "288 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/es/Graphics-Card/GV-R9070GAMING-16GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-R9070GAMING-16GD; Especificación > Card size: L=288 mm."
+  },
+  {
+    "product_id": "gigabyte-gv-n5070wf3oc-12gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "282 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5070WF3OC-12GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5070WF3OC-12GD; Specifications > Card size: L=282 mm."
+  },
+  {
+    "product_id": "gigabyte-gv-n5070gaming-oc-12gd",
+    "category_id": "gpu",
+    "key": "Longitud",
+    "value": "327 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5070GAMING-OC-12GD/sp",
+    "note": "GIGABYTE identifica el modelo GV-N5070GAMING OC-12GD; Specifications > Card size: L=327 mm."
+  }
+]

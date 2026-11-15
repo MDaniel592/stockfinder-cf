@@ -1,0 +1,40 @@
+[
+ {
+  "id": "apacer-as2280q4u-1tb",
+  "slug": "apacer-as2280q4u-1tb",
+  "name": "Apacer AS2280Q4U 1 TB (AP1TBAS2280Q4U-1)",
+  "category_id": "storage",
+  "brand": "Apacer",
+  "mpn": "AP1TBAS2280Q4U-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/en/product/personal-product/detail/personal_ssd/as2280q4u_m2_pcie_gen4x4",
+  "specs_verified_at": "2026-11-08T21:07:26Z",
+  "specs": {
+   "Capacidad": "1 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "7400 MB/s",
+   "Escritura secuencial": "7000 MB/s",
+   "Tipo": "SSD"
+  }
+ },
+ {
+  "id": "intenso-mi500-2tb-3836470",
+  "slug": "intenso-mi500-2tb-3836470",
+  "name": "Intenso MI500 2 TB (3836470)",
+  "category_id": "storage",
+  "brand": "Intenso",
+  "mpn": "3836470",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-pcie-mi500/",
+  "specs_verified_at": "2026-11-08T21:07:26Z",
+  "specs": {
+   "Capacidad": "2 TB",
+   "Interfaz": "PCIe 4.0 x4, NVMe",
+   "Formato": "M.2 2280",
+   "Lectura secuencial": "5300 MB/s",
+   "Escritura secuencial": "4500 MB/s",
+   "Tipo": "SSD"
+  }
+ }
+]

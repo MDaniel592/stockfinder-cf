@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": "mars-gaming-mcipro",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "320 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/cases/mc-ipro",
+    "note": "Ficha oficial MC-IPRO (PDF, tabla de especificaciones): \"VGA max length 320mm\". El esquema indica 315 mm como medida con ventiladores frontales instalados."
+  },
+  {
+    "product_id": "mars-gaming-mciprow",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "320 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://marsgaming.eu/en/cases/mc-ipro",
+    "note": "Ficha oficial MC-IPRO (PDF, tabla de especificaciones): \"VGA max length 320mm\". El esquema indica 315 mm como medida con ventiladores frontales instalados."
+  },
+  {
+    "product_id": "tacens-anima-acm500-microatx-con-fuente-500w-acm500",
+    "category_id": "case",
+    "key": "Longitud GPU máxima",
+    "value": "265 mm",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tacens.es/componentes/acm500",
+    "note": "Ficha oficial ACM500 (PDF, descargable desde la ficha): \"VGA max. 265mm\", valor que coincide con el esquema. El texto web \"239mm sin HDD\" corresponde a otra nota de la ficha y no al máximo publicado."
+  }
+]

@@ -1,0 +1,50 @@
+// General browser QA: landing, category table, comparison, product page, search, empty state, pagination, views, mobile.
+// Usage: TEST_BASE_URL=http://127.0.0.1:8795 CHROMIUM_PATH=... node tests/browser.cjs
+const { chromium } = require('@playwright/test');
+const assert = require('node:assert/strict');
+(async () => {
+  const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH, args: ['--no-sandbox'] } : {});
+  const page = await browser.newPage({ viewport: { width: 1440, height: 1100 } });
+  page.setDefaultTimeout(15000);
+  const errors = [];
+  page.on('pageerror', e => errors.push(e.message));
+  const base = process.env.TEST_BASE_URL || 'http://127.0.0.1:8787';
+  const ready = () => page.waitForFunction(() => !document.querySelector('[aria-busy="true"]') && /resultado/.test(document.querySelector('.catalog-result-meta')?.textContent ?? ''));
+  await page.goto(base, { waitUntil: 'networkidle' });
+  await page.locator('.category-tile').first().waitFor();
+  await page.locator('.footer-fresh').waitFor();   // healthy freshness lives in the footer; the header chip only shows when stale
+  await page.screenshot({ path: 'artifacts/stockfinder-preview.png' });
+  await page.locator('.category-tile', { hasText: 'Almacenamiento' }).click();
+  await ready();
+  assert.equal(await page.locator('.product-row').count(), 24);
+  await page.locator('.pc-compare input').nth(0).check();
+  await page.locator('.pc-compare input').nth(1).check();
+  await page.getByRole('button', { name: 'Comparar componentes' }).click();
+  await page.getByRole('dialog', { name: 'Comparar componentes' }).waitFor({ state: 'visible' });
+  assert.equal(await page.locator('dialog[open] thead th').count(), 3);
+  await page.getByRole('switch', { name: 'Solo diferencias' }).check();
+  await page.screenshot({ path: 'artifacts/stockfinder-compare.png' });
+  await page.keyboard.press('Escape');
+  await page.locator('.product-name').first().click();
+  await page.locator('.offers > div, .offers-pending').first().waitFor();
+  assert.ok(await page.locator('.spec-group').count() >= 1);
+  await page.goBack(); await ready();
+  await page.getByRole('searchbox').fill('990 Pro');
+  await page.waitForURL(/q=990/); await ready();
+  assert.ok((await page.locator('.product-name').allTextContents()).every(n => /990 Pro/i.test(n)));
+  await page.getByRole('searchbox').fill('no-such-product');
+  await page.getByText('No encontramos esa pieza').waitFor();
+  await page.locator('.empty').getByRole('button', { name: 'Limpiar filtros' }).click();
+  await ready();
+  await page.getByRole('button', { name: 'Siguiente' }).click();
+  await page.getByText(/^Página 2 de \d+$/).waitFor();
+  await page.getByRole('button', { name: 'Vista de tarjetas' }).click();
+  assert.ok(await page.locator('.product-grid.grid').count());
+  await page.getByRole('button', { name: 'Vista de lista' }).click();
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.screenshot({ path: 'artifacts/stockfinder-mobile.png', fullPage: true });
+  assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth));
+  assert.equal(errors.length, 0, errors.join('\n'));
+  console.log('Browser QA passed: landing, table, comparison, product page, search, empty state, pagination, views, mobile.');
+  await browser.close();
+})().catch(error => { console.error(error); process.exit(1); });

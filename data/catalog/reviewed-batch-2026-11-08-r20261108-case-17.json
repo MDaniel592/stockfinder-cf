@@ -1,0 +1,22 @@
+[
+ {
+  "id": "gigabyte-c102-glass-gb-c102g",
+  "slug": "gigabyte-c102-glass-gb-c102g",
+  "name": "Gigabyte C102 GLASS (GB-C102G)",
+  "category_id": "case",
+  "brand": "Gigabyte",
+  "mpn": "GB-C102G",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/PC-Case/GB-C102G-GLOBAL",
+  "specs_verified_at": "2026-11-08T22:34:54Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "165 mm",
+   "Ventiladores incluidos": "2 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "360 mm"
+  }
+ }
+]

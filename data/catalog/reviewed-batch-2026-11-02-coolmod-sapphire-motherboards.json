@@ -1,0 +1,114 @@
+[
+  {
+    "id": "sapphire-52122-02-40g",
+    "slug": "sapphire-52122-02-40g",
+    "name": "Sapphire Pure X870A WIFI 7 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Sapphire",
+    "mpn": "52122-02-40G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/mb_pure_x870a-wifi7",
+    "specs_verified_at": "2026-11-02T19:12:58Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD X870",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Conectividad inalámbrica": "WiFi 7"
+    }
+  },
+  {
+    "id": "sapphire-52123-11-40g",
+    "slug": "sapphire-52123-11-40g",
+    "name": "Sapphire Pure B850A WIFI7 Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Sapphire",
+    "mpn": "52123-11-40G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/mb_pure_b850a-wifi7",
+    "specs_verified_at": "2026-11-02T19:12:58Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Conectividad inalámbrica": "WiFi 7"
+    }
+  },
+  {
+    "id": "sapphire-52112-04-40g",
+    "slug": "sapphire-52112-04-40g",
+    "name": "Sapphire B650M-E Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Sapphire",
+    "mpn": "52112-04-40G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/mb_sapphire-b650m-e",
+    "specs_verified_at": "2026-11-02T19:12:58Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B650",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "96 GB"
+    }
+  },
+  {
+    "id": "sapphire-52123-02-40g",
+    "slug": "sapphire-52123-02-40g",
+    "name": "Sapphire Pure B850M WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Sapphire",
+    "mpn": "52123-02-40G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/mb_pure_b850m-wifi",
+    "specs_verified_at": "2026-11-02T19:12:58Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Conectividad inalámbrica": "WiFi 6"
+    }
+  },
+  {
+    "id": "sapphire-52118-03-40g",
+    "slug": "sapphire-52118-03-40g",
+    "name": "Sapphire Pulse A620AM Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Sapphire",
+    "mpn": "52118-03-40G",
+    "manufacturer_url": "https://www.sapphiretech.com/es-es/consumer/mb_pulse_a620am",
+    "specs_verified_at": "2026-11-02T19:12:58Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD A620A",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "2",
+      "Memoria máxima": "64 GB"
+    }
+  },
+  {
+    "id": "sapphire-52123-01-40g",
+    "slug": "sapphire-52123-01-40g",
+    "name": "Sapphire Nitro+ B850M WIFI Socket AM5",
+    "category_id": "motherboard",
+    "brand": "Sapphire",
+    "mpn": "52123-01-40G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/mb_nitro_b850m-wifi",
+    "specs_verified_at": "2026-11-02T19:12:58Z",
+    "specs": {
+      "Socket": "AM5",
+      "Chipset": "AMD B850",
+      "Tipo de memoria": "DDR5",
+      "Formato": "Micro-ATX",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Conectividad inalámbrica": "WiFi 6"
+    }
+  }
+]

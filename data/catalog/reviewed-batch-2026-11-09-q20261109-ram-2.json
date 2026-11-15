@@ -1,0 +1,111 @@
+[
+ {
+  "id": "silicon-power-sp016gxlzu320bdi",
+  "slug": "silicon-power-sp016gxlzu320bdi",
+  "name": "Silicon Power XPOWER Pulse 16 GB (2 × 8 GB) DDR4-3200 CL16 (SP016GXLZU320BDI)",
+  "category_id": "ram",
+  "brand": "Silicon Power",
+  "mpn": "SP016GXLZU320BDI",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.silicon-power.com/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.silicon-power.com/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+    "supports": "Tabla P/N oficial XPOWER Pulse DDR4: SP016GXLZU320BDI = 8GBx2, 3200MT/s, 16-18-18-38, 1.35V; UDIMM; Intel XMP 2.0."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:34:44Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP 2.0"
+  }
+ },
+ {
+  "id": "silicon-power-sp008gxlzu320bsc",
+  "slug": "silicon-power-sp008gxlzu320bsc",
+  "name": "Silicon Power XPOWER Zenith 8 GB (1 × 8 GB) DDR4-3200 CL16 (SP008GXLZU320BSC)",
+  "category_id": "ram",
+  "brand": "Silicon Power",
+  "mpn": "SP008GXLZU320BSC",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.silicon-power.com/product-detail/XPOWER_Zenith_DDR4_Gaming_UDIMM/",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.silicon-power.com/product-detail/XPOWER_Zenith_DDR4_Gaming_UDIMM/",
+    "supports": "Tabla P/N oficial XPOWER Zenith DDR4: SP008GXLZU320BSC = 8GB, 3200MT/s, 16-18-18-38, 1.35V, Gray; UDIMM; Intel XMP."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:34:44Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP",
+   "Color": "gris"
+  }
+ },
+ {
+  "id": "silicon-power-sp016gxlzu320bsd",
+  "slug": "silicon-power-sp016gxlzu320bsd",
+  "name": "Silicon Power XPOWER Zenith RGB 16 GB (1 × 16 GB) DDR4-3200 CL16 (SP016GXLZU320BSD)",
+  "category_id": "ram",
+  "brand": "Silicon Power",
+  "mpn": "SP016GXLZU320BSD",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.silicon-power.com/web/product-zenith_rgb_ddr4_gaming_udimm",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.silicon-power.com/web/product-zenith_rgb_ddr4_gaming_udimm",
+    "supports": "Tabla P/N oficial XPOWER Zenith RGB DDR4: SP016GXLZU320BSD = 16GB, 3200MT/s; CAS CL16-18-18-38 (3200), 1.35V; UDIMM; RGB; Intel XMP."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:34:44Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Voltaje": "1.35 V",
+   "Formato": "UDIMM",
+   "Perfil": "Intel XMP",
+   "Iluminación": "RGB"
+  }
+ },
+ {
+  "id": "silicon-power-sp016gblvu480f02",
+  "slug": "silicon-power-sp016gblvu480f02",
+  "name": "Silicon Power DDR5 UDIMM 16 GB (1 × 16 GB) DDR5-4800 CL40 (SP016GBLVU480F02)",
+  "category_id": "ram",
+  "brand": "Silicon Power",
+  "mpn": "SP016GBLVU480F02",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.silicon-power.com/product-detail/DDR5_UDIMM/",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.silicon-power.com/product-detail/DDR5_UDIMM/",
+    "supports": "Tabla P/N oficial SP DDR5 UDIMM: SP016GBLVU480F02 = 16GB, 4800MT/s, 40-39-39-77, 1.1V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:34:44Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "4800 MT/s",
+   "Latencia": "CL40",
+   "Voltaje": "1.1 V",
+   "Formato": "UDIMM"
+  }
+ }
+]

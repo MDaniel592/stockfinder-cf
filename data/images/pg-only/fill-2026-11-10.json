@@ -1,0 +1,682 @@
+[
+ {
+  "product_id": "asus-90ye00n2-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00n2-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/F3960D00-9F95-42A3-9443-5F47E6695F59",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-loki/rog-loki-850p-white-sfx-l-gaming-model/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00w1-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00w1-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/72176A59-9EEA-464C-B841-1F8FBD69092A",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1000p-gaming/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00n1-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00n1-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/C1FE0FFF-D18E-463F-854B-7098D1551682",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-loki/rog-loki-1000p-sfx-l-gaming-model/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00v2-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00v2-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/50E51B47-EC01-433C-9D79-C5895A6EB73D",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-thor/rog-thor-1200p3-gaming/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00n4-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00n4-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/1FFA596F-A01A-41E3-8661-0491C4922C93",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-loki/rog-loki-750p-sfx-l-gaming-model/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00w4-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00w4-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/C2855721-574F-47CD-AC8E-C492F94DC4F0",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1000p-gaming-white/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00n0-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00n0-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/11D37C23-432A-4FBB-9107-9D5465BD4E3E",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-loki/rog-loki-1200t-sfx-l-gaming-model/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00w0-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00w0-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/CC24A593-7041-4152-A5E4-63628FF95576",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200p-gaming/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00w2-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00w2-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/5C0EA6AE-B302-440D-9810-D1A8D5F12882",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-850p-gaming/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00n3-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00n3-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/74D561D3-2ADC-444C-9D30-16C1C556269F",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-loki/rog-loki-850p-sfx-l-gaming-model/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00v3-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00v3-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/5CF2A407-CD82-4831-A555-7AB5D61EF665",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-thor/rog-thor-1000p3-gaming/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00p0-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00p0-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/8BFB5DAE-8911-445B-BBC2-60CC933584CF",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200g-aura-gaming-model/spec/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye0100-b0na00",
+  "image_path": "/images/products/psu/asus-90ye0100-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/de57deca-62b9-42ff-8269-24deb30a4f6e/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1200p/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye0101-b0na00",
+  "image_path": "/images/products/psu/asus-90ye0101-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/a5e79a8c-0d2d-4250-99dc-01a8f3eee0ed/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1000p/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00s1-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00s1-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/ba95bb37-0da4-40b8-acb3-042c16913948/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1000g/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye0102-b0na00",
+  "image_path": "/images/products/psu/asus-90ye0102-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/c39fa70a-d138-46d5-ae5b-c426970d9cc0/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-850p/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00s0-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00s0-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/3a9629c4-8859-43bf-9271-8e7aa4a51d6e/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1200g/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00s2-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00s2-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/233610a2-269c-4657-840f-8c0dd7cc919c/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-850g/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00s3-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00s3-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/d38ef86f-6abf-45ed-a19b-fb76f98f2e0a/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-750g/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00sa-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00sa-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/beba18c0-46ac-41e1-bca1-8f515cf96d34/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-850g-evo/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00sb-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00sb-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/da1567d9-f090-4ec6-9b67-26d9837a97bf/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-750g-evo/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00u2-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00u2-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/e153649f-607d-4b8b-955b-7262520ae577/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/prime/prime-850g/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90ye00u3-b0na00",
+  "image_path": "/images/products/psu/asus-90ye00u3-b0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/8368a596-4f7b-4adc-8e00-cc051b95b6e0/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/power-supply-units/prime/prime-750g/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:57:24Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-prime-b850m-f",
+  "image_path": "/images/products/motherboard/asus-prime-b850m-f.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/06/29/10/LD0006291022.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00711273.html",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asus-90yv0mh6-m0na00",
+  "image_path": "/images/products/gpu/asus-90yv0mh6-m0na00.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/68f832b6-bc81-4bfa-8c38-c51e9675dd7c/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/graphics-cards/dual/dual-rtx5060ti-o16g-white/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc00j0-b09000",
+  "image_path": "/images/products/case/asus-90dc00j0-b09000.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/83ee3549-4a2a-4623-a382-c6b430876273/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/cases/proart/proart-pa602/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc00i3-b19000",
+  "image_path": "/images/products/case/asus-90dc00i3-b19000.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/0acbdb26-f6fc-4a99-ad86-68469ca6019f/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/cases/tuf-gaming/tuf-gaming-gt302-argb/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc00m0-b39010",
+  "image_path": "/images/products/case/asus-90dc00m0-b39010.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/69004bd8-98b6-44e3-bc6a-f842c467861f/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/cases/proart/proart-pa401-wood-edition-metal-panel/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc0090-b19010",
+  "image_path": "/images/products/case/asus-90dc0090-b19010.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/a38d526c-7029-4d8f-ac8b-cf206a3a373c/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/cases/tuf-gaming/tuf-gaming-gt502-plus/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc00m0-b39000",
+  "image_path": "/images/products/case/asus-90dc00m0-b39000.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/07418108-0c95-42be-a105-4cc712344f19/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/cases/proart/proart-pa401-wood-edition-tempered-glass-panel/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc00j0-b09010",
+  "image_path": "/images/products/case/asus-90dc00j0-b09010.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/c8edae21-257c-46d3-92aa-412dd8e43e07/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/cases/proart/proart-pa602-wood-edition-tempered-glass-panel/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc00j0-b09020",
+  "image_path": "/images/products/case/asus-90dc00j0-b09020.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/1d27f28f-d627-4182-a74c-98d2d2275661/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/cases/proart/proart-pa602-wood-edition-metal-panel/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc00i0-b19000",
+  "image_path": "/images/products/case/asus-90dc00i0-b19000.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/a1cd7e69-1da4-484e-9ccf-b1579d5196f6/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/motherboards-components/cases/tuf-gaming/tuf-gaming-gt302-argb/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc0093-b19000",
+  "image_path": "/images/products/case/asus-90dc0093-b19000.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/7eb0e24a-0109-43ac-8455-b42eb629d0da/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/motherboards-components/cases/tuf-gaming/tuf-gaming-gt502-plus/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90dc00p3-b19000",
+  "image_path": "/images/products/case/asus-90dc00p3-b19000.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/68137316-932d-4446-985e-669d86c434ab/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/uk/motherboards-components/cases/prime/asus-prime-ap202-argb/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90rc00u1-m0uay0",
+  "image_path": "/images/products/cooler/asus-90rc00u1-m0uay0.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/06391da4-7712-45d5-9c6d-e4e2fb194567/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/motherboards-components/cooling/tuf-gaming/tuf-gaming-lc-ii-240-argb/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90rc00j1-m0uay0",
+  "image_path": "/images/products/cooler/asus-90rc00j1-m0uay0.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/D2ADE251-2A00-4CD4-968B-31A325793FC0/w800",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryuo/rog-ryuo-iii-240-argb-model/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90rc00k0-m0uay0",
+  "image_path": "/images/products/cooler/asus-90rc00k0-m0uay0.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/7872229C-3F61-465A-9E68-BBA24DC4795A/w800",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryujin/rog-ryujin-iii-240/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90rc00n0-m0uay0",
+  "image_path": "/images/products/cooler/asus-90rc00n0-m0uay0.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/adaae50a-d530-4b15-9226-3abb05913f19/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/motherboards-components/cooling/proart/proart-lc-420/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90rc0111-b0eay0",
+  "image_path": "/images/products/cooler/asus-90rc0111-b0eay0.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/5ff74d4d-5fd4-4f45-a66c-6d70ebd0b2e7/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/motherboards-components/cooling/prime/prime-lc-240-argb/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90rc00k2-m0uay0",
+  "image_path": "/images/products/cooler/asus-90rc00k2-m0uay0.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/548C0491-3425-4C82-912D-7C409DFA5CC4/w800",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryujin/rog-ryujin-iii-240-argb-white-edition/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90rc00z1-b0eay0",
+  "image_path": "/images/products/cooler/asus-90rc00z1-b0eay0.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/98dd74ad-33c2-4f15-b6d3-d626a51202b0/w800",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/motherboards-components/cooling/prime/prime-lc-360-argb-lcd/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asus-90rc00t0-m0uay0",
+  "image_path": "/images/products/cooler/asus-90rc00t0-m0uay0.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/2C8479A2-448A-4643-B5CE-578B44E37792/w800",
+  "image_scope": "model",
+  "image_page_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-strix-lc/rog-strix-lc-iii-360/",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T23:00:57Z",
+  "image_origin": "manufacturer"
+ },
+ {
+  "product_id": "asrock-x870-pro-rs-wifi",
+  "image_path": "/images/products/motherboard/asrock-x870-pro-rs-wifi.webp",
+  "image_source_url": "https://www.alternate.de/p/600x600/1/0/ASRock_X870_Pro_RS_WiFi__Mainboard@@100080101.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.de/ASRock/X870-Pro-RS-WiFi-Mainboard/html/product/100080101",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:58:13Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-b760m-hdv-m-2",
+  "image_path": "/images/products/motherboard/asrock-b760m-hdv-m-2.webp",
+  "image_source_url": "https://www.alternate.de/p/600x600/8/1/ASRock_B760M_HDV_M_2_WHITE__Mainboard@@100017518.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.alternate.de/ASRock/B760M-HDV-M-2-WHITE-Mainboard/html/product/100017518",
+  "attribution": "Imagen: Alternate",
+  "fetched_at": "2026-11-10T22:58:13Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-90-acla36-baaga6",
+  "image_path": "/images/products/cooler/asrock-90-acla36-baaga6.webp",
+  "image_source_url": "https://media.arvutitark.ee/V7UNQrXBSDMSrGhCzYY8AVQy1aM=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2026%2F01%2F961886%2F697b52a2e6ed9129028988.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/coolers/aio-vesijahutid-protsessoritele/asrock-challenger-360-digital-argb-kolesystem-1-pack-sort-12-1532269",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-90-acla36-bdkga6",
+  "image_path": "/images/products/cooler/asrock-90-acla36-bdkga6.webp",
+  "image_source_url": "https://media.arvutitark.ee/La_on1EOjYLNSWPp8Ibox54RoHs=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2026%2F01%2F961705%2F697b5583400fc306349451.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/coolers/aio-vesijahutid-protsessoritele/asrock-challenger-pure-360-kolesystem-1-pack-sort-120-mm-1532271",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-90-acla24-waaga6",
+  "image_path": "/images/products/cooler/asrock-90-acla24-waaga6.webp",
+  "image_source_url": "https://media.arvutitark.ee/2zpNLPURGyDdKWltxtRrUyjB-7A=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2026%2F03%2F1023915%2F69c52761de0f8801306980.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/coolers/aio-vesijahutid-protsessoritele/asrock-challenger-white-240-digital-1562840",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-90-acla24-baaga6",
+  "image_path": "/images/products/cooler/asrock-90-acla24-baaga6.webp",
+  "image_source_url": "https://media.arvutitark.ee/oVbIDqMKHPSxHCr0MFzlA1lCXTY=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2026%2F03%2F1027349%2FFile-aspx-CID-73759%26UID-info-40arvutitark.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/coolers/aio-vesijahutid-protsessoritele/asrock-challenger-240-digital-1562841",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-90-apra36-baaga6",
+  "image_path": "/images/products/cooler/asrock-90-apra36-baaga6.webp",
+  "image_source_url": "https://media.arvutitark.ee/mCW8BZcdgzVjvfOrBl_H64W-jPk=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2026%2F01%2F961849%2F697b66efe6905913318142.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/coolers/aio-vesijahutid-protsessoritele/asrock-pro-360-argb-kolesystem-1-pack-sort-120-mm-1532270",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-90-apra36-waaga6",
+  "image_path": "/images/products/cooler/asrock-90-apra36-waaga6.webp",
+  "image_source_url": "https://media.arvutitark.ee/QGHl4pLn2u7Upn-U844xLnU30qE=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2026%2F01%2F961817%2F697b67a1bcf5e566571739.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/coolers/aio-vesijahutid-protsessoritele/asrock-pro-360-argb-kolesystem-1-pack-hvid-120-mm-1532272",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-90-apra24-baaga6",
+  "image_path": "/images/products/cooler/asrock-90-apra24-baaga6.webp",
+  "image_source_url": "https://media.arvutitark.ee/Lt2f8_oVwRHVYCdDrAADVyMgHZc=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2026%2F03%2F1026518%2F69c5288516bee918451165.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/coolers/aio-vesijahutid-protsessoritele/asrock-pro-240-argb-1587481",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-90-apra24-waaga6",
+  "image_path": "/images/products/cooler/asrock-90-apra24-waaga6.webp",
+  "image_source_url": "https://media.arvutitark.ee/ONdB9YxvwpEcHcMt8y9E47WqFww=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2026%2F03%2F1026597%2F69c5281b60047957088377.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/coolers/aio-vesijahutid-protsessoritele/k-asrock-pro-white-240-argb-1573703",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "zotac-zt-b50610e-10m",
+  "image_path": "/images/products/gpu/zotac-zt-b50610e-10m.webp",
+  "image_source_url": "https://media.arvutitark.ee/0wTPsfZNiO0ZxdHdwV9UToTRAeY=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2025%2F04%2F815233%2FGCZT-290_23c5a1f0669266754eadd409ac58aa6196918bf3.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/graphics-cards-vga/vga-zotac-rtx5060ti-8gb-twin-edge-1451654",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "zotac-zt-b50620e-10m",
+  "image_path": "/images/products/gpu/zotac-zt-b50620e-10m.webp",
+  "image_source_url": "https://media.arvutitark.ee/Bu1E3Y8KwUx9aZ22GKvxsB9NKaM=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2025%2F05%2F829484%2FFile-aspx-CID-73759%26UID-info-40arvutitark.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/graphics-cards-vga/vga-zotac-rtx5060ti-16gb-twin-edge-1451652",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "powercolor-rx9060xt-16g-l-oc",
+  "image_path": "/images/products/gpu/powercolor-rx9060xt-16g-l-oc.webp",
+  "image_source_url": "https://media.arvutitark.ee/tx0-rz4-0FRxke2un9cn0aXRp8A=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2025%2F06%2F846351%2FFile-aspx-CID-73759%26UID-info-40arvutitark.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/graphics-cards-vga/graphics-card-powercolor-rx9060xt-8g-loc-1477465",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:55:31Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-a380-cli-6go",
+  "image_path": "/images/products/gpu/asrock-a380-cli-6go.webp",
+  "image_source_url": "https://media.arvutitark.ee/pA2gs-HBZNOzwGAA8IKDldD30Ow=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2024%2F09%2F665875%2FProductImage_GCAR-009_01_cbc169d9d3ee7813773c4292a24a21a5.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/graphics-cards-vga/vga-pcie8-arc-a380-6gba380-cli-6go-asrock-1148303",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:56:51Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-rx7600-sl-8go",
+  "image_path": "/images/products/gpu/asrock-rx7600-sl-8go.webp",
+  "image_source_url": "https://media.arvutitark.ee/7XwS0WfouxNBu3hKrKf57iFQ2W0=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2023%2F06%2F407118%2Fgcar-015_gcar_015_01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/graphics-cards-vga/asrock-amd-radeon-rx-7600-steel-legend-1267846",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:56:51Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-rx9060xt-sl-16go",
+  "image_path": "/images/products/gpu/asrock-rx9060xt-sl-16go.webp",
+  "image_source_url": "https://media.arvutitark.ee/GOS8Uyd6qQvciWUuev__ziuwuF8=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2025%2F06%2F846311%2FFile-aspx-CID-73759%26UID-info-40arvutitark.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/graphics-cards-vga/asrock-radeon-rx-9060-xt-steel-legend-oc-16gb-gddr6-graafika-1477457",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:56:51Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "asrock-b570-cl-10go",
+  "image_path": "/images/products/gpu/asrock-b570-cl-10go.webp",
+  "image_source_url": "https://media.arvutitark.ee/SeVupP7u-oxYYFQ_L1potBHr0K4=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2025%2F01%2F764161%2FGCAR-028_a694f2401fee6d4113e8eca7c6021b573a79266a.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/graphics-cards-vga/asrock-intel-arc-b570-cl-10go-10gb-gddr6-hdmi3xdp-1427644",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:56:51Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "powercolor-rx9070xt-16g-e-oc-white",
+  "image_path": "/images/products/gpu/powercolor-rx9070xt-16g-e-oc-white.webp",
+  "image_source_url": "https://media.arvutitark.ee/94brH_4L_C_ZeJqQhyTZZ1EjQZY=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2025%2F04%2F812031%2FFile-aspx-CID-73759%26UID-info-40arvutitark.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://arvutitark.ee/en/pc-components/graphics-cards-vga/vga-powercolor-radeon-red-devil-spectral-white-rx-9070-xt-16-1448581",
+  "attribution": "Imagen: Arvutitark",
+  "fetched_at": "2026-11-10T22:56:51Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "zotac-zt-b50620q-10m",
+  "image_path": "/images/products/gpu/zotac-zt-b50620q-10m.webp",
+  "image_source_url": "https://www.vedantcomputers.com/image/cache/catalog/assets/product/zotac/graphics-card/zt-b50620q-10m/zt-b50620q-10m-1-800x800.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.vedantcomputers.com/zotac-gaming-rtx-5060-ti-zt-b50620q-10m",
+  "attribution": "Imagen: Vedant Computers",
+  "fetched_at": "2026-11-10T22:59:18Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "powercolor-rx-7600-8g-f-v2",
+  "image_path": "/images/products/gpu/powercolor-rx-7600-8g-f-v2.webp",
+  "image_source_url": "https://media.topachat.com/media/s500/6ae05c92d65091af540b3afa.webp",
+  "image_scope": "model",
+  "image_page_url": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20033250.html",
+  "attribution": "Imagen: Top Achat",
+  "fetched_at": "2026-11-10T22:59:21Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "adata-ax5u5600c4616g-dtlabbk",
+  "image_path": "/images/products/ram/adata-ax5u5600c4616g-dtlabbk.webp",
+  "image_source_url": "https://inside-tech.co.uk/wp-content/uploads/2026/08/sdada-5600c4616g-lg.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://inside-tech.co.uk/memory/adata-xpg-lancer-blade-ax5u5600c4616g-dtlabbk-32gb-u-dimm-system-memory-ddr5-5600mhz-2-x-16gb/",
+  "attribution": "Imagen: Inside Tech",
+  "fetched_at": "2026-11-10T23:01:20Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "adata-ax5u6000c4816g-dtlabbk",
+  "image_path": "/images/products/ram/adata-ax5u6000c4816g-dtlabbk.webp",
+  "image_source_url": "https://inside-tech.co.uk/wp-content/uploads/2026/08/sdada-ax5u64816g-lg.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://inside-tech.co.uk/memory/adata-xpg-lancer-blade-ax5u6000c4816g-dtlabbk-32gb-u-dimm-system-memory-ddr5-6000mhz-2-x-16gb-kit/",
+  "attribution": "Imagen: Inside Tech",
+  "fetched_at": "2026-11-10T23:01:20Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "adata-ax5u6000c3032g-dtlabbk",
+  "image_path": "/images/products/ram/adata-ax5u6000c3032g-dtlabbk.webp",
+  "image_source_url": "https://inside-tech.co.uk/wp-content/uploads/2026/08/sdada-32gdtlabbk-lg.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://inside-tech.co.uk/memory/adata-xpg-lancer-blade-ax5u6000c3032g-dtlabbk-64gb-u-dimm-system-memory-ddr5-6000mhz-2-x-32gb/",
+  "attribution": "Imagen: Inside Tech",
+  "fetched_at": "2026-11-10T23:01:20Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "adata-ax5u6000c3032g-dtlabrbk",
+  "image_path": "/images/products/ram/adata-ax5u6000c3032g-dtlabrbk.webp",
+  "image_source_url": "https://techmall.co.nz/wp-content/uploads/2025/03/93c0733efd45fd06b12eb09ec7c2a9b7.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://techmall.co.nz/product/adata-lancer-blade-rgb-ddr5-memory-module-64-gb-2-x-32-gb-6000-mhz-ecc/",
+  "attribution": "Imagen: Tech-Mall",
+  "fetched_at": "2026-11-10T23:01:20Z",
+  "image_origin": "retailer"
+ },
+ {
+  "product_id": "gskill-trident-z5-neo-rgb-32gb-ddr5-6000-cl36-expo",
+  "image_path": "/images/products/ram/gskill-trident-z5-neo-rgb-32gb-ddr5-6000-cl36-expo.webp",
+  "image_source_url": "https://media.ldlc.com/r1600/ld/products/00/05/98/16/LD0005981672_0005981703_0005981709.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.ldlc.com/en/product/PB00519097.html",
+  "attribution": "Imagen: LDLC",
+  "fetched_at": "2026-11-10T23:01:20Z",
+  "image_origin": "retailer"
+ }
+]

@@ -1,0 +1,672 @@
+[
+ {
+  "product_id": "deepcool-ch360-digital-negro-r-ch360-bkape3d-g-1",
+  "image_path": "/images/products/case/deepcool-ch360-digital-negro-r-ch360-bkape3d-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH360_DIGITAL/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH360-DIGITAL-M-ATX-Airflow-Case-With-Status-Screen/2023/17715.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:17:52Z"
+ },
+ {
+  "product_id": "deepcool-ch360-wh-blanco-r-ch360-whape3-g-1",
+  "image_path": "/images/products/case/deepcool-ch360-wh-blanco-r-ch360-whape3-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH360_WH/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH360-WH-New-Generation-of-Airflow-M-ATX-Case/2023/17714.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:17:55Z"
+ },
+ {
+  "product_id": "deepcool-ch370-negro-r-ch370-bknam1-g-1",
+  "image_path": "/images/products/case/deepcool-ch370-negro-r-ch370-bknam1-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH370/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH370-Micro-ATX-Case/2022/15949.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:17:57Z"
+ },
+ {
+  "product_id": "deepcool-cg380-3f-negro-r-cg380-bkagm3-g",
+  "image_path": "/images/products/case/deepcool-cg380-3f-negro-r-cg380-bkagm3-g.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CG380_3F/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CG380-3F-Panoramic-Dual-Tempered-Glass-M-ATX-Case/2025/21782.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:00Z"
+ },
+ {
+  "product_id": "deepcool-cg530-4f-negro-r-cg530-bkada4-g-1",
+  "image_path": "/images/products/case/deepcool-cg530-4f-negro-r-cg530-bkada4-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CG530_4F/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CG530-Panoramic-Tempered-Glass-Panels-Dual-Chamber-ATX-FISHTANK-Case-with-4-ARGB-PWM-Fans/2024/19604.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:02Z"
+ },
+ {
+  "product_id": "deepcool-cg530u-4f-negro-r-cg530u-bkaga4-g",
+  "image_path": "/images/products/case/deepcool-cg530u-4f-negro-r-cg530u-bkaga4-g.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CG530U_4F/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CG530U-4F-Panoramic-Curved-Glass-Dual-Chamber-ATX-Fishtank-Case-with-4-ARGB-PWM-Fans/2025/22470.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:05Z"
+ },
+ {
+  "product_id": "deepcool-ch260-wood-wh-blanco-r-ch260-whnwm0-g-1",
+  "image_path": "/images/products/case/deepcool-ch260-wood-wh-blanco-r-ch260-whnwm0-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH260_WOOD_WH/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH260-WH-High-Airflow-Compact-M-ATX-Wood-Grain-Case-Supports-Rear-Connector-Motherboards/2025/22575.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:07Z"
+ },
+ {
+  "product_id": "deepcool-cc560-v2-negro-r-cc560-bkgaa4-g-2",
+  "image_path": "/images/products/case/deepcool-cc560-v2-negro-r-cc560-bkgaa4-g-2.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CC560_V2/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CC560-V2-Mid-Tower-Airflow-Case/2023/17782.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:10Z"
+ },
+ {
+  "product_id": "deepcool-r-ag500-bkammn-gjd",
+  "image_path": "/images/products/cooler/deepcool-r-ag500-bkammn-gjd.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/AG500_BK_ARGB_V2/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AG500-BK-ARGB-V2-CPU-Cooler-with-Top-Cover-Light-1851-1700-AM5/2025/20914.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:12Z"
+ },
+ {
+  "product_id": "deepcool-r-ak500g2-bknnmn-gjd",
+  "image_path": "/images/products/cooler/deepcool-r-ak500g2-bknnmn-gjd.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/AK500_G2/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK500-G2-Wood-Grain-Top-Cover-CPU-Cooler/2025/21986.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:15Z"
+ },
+ {
+  "product_id": "deepcool-r-lq240-bklsmw-g-1",
+  "image_path": "/images/products/cooler/deepcool-r-lq240-bklsmw-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPULiquidCoolers/LQ240/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LQ240-240mm-Dashboard-Display-Liquid-Cooler-1851-1700-AM5/2024/19630.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:17Z"
+ },
+ {
+  "product_id": "deepcool-r-le240-bkammc-g-2",
+  "image_path": "/images/products/cooler/deepcool-r-le240-bkammc-g-2.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPULiquidCoolers/LE240_V2/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LE240-V2-Liquid-CPU-Cooler-1851-1700-AM5/2025/20136.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:19Z"
+ },
+ {
+  "product_id": "deepcool-r-ls720-bknnmm-g-1",
+  "image_path": "/images/products/cooler/deepcool-r-ls720-bknnmm-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPULiquidCoolers/LS720S_ZERO_DARK/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LS720S-ZERO-DARK-360mm-Pure-Performance-Liquid-Cooler-1851-1700-AM5/2024/17571.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:22Z"
+ },
+ {
+  "product_id": "deepcool-pf750-r-pf750d-ha0b-eu",
+  "image_path": "/images/products/psu/deepcool-pf750-r-pf750d-ha0b-eu.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/PowerSupplyUnits/PF750/Gallery/800X800/01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://es.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PF750D-230V-Power-Supply-Unit/2021/15295.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:25Z"
+ },
+ {
+  "product_id": "deepcool-cg580-4f-r-cg580-bkada4-g-1",
+  "image_path": "/images/products/case/deepcool-cg580-4f-r-cg580-bkada4-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CG580_4F/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CG580-4F-Panoramic-Tempered-Glass-Panels-Single-Chamber-ATX-FISHTANK-Case-with-4-ARGB-PWM-Fans/2024/19761.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:27Z"
+ },
+ {
+  "product_id": "deepcool-cg580-4f-v2-r-cg580-bkada4-g-2",
+  "image_path": "/images/products/case/deepcool-cg580-4f-v2-r-cg580-bkada4-g-2.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CG580_4F_V2/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CG580-4F-V2-Panoramic-Glass-Panels-Single-Chamber-ATX-Fishtank-Case-with-4-ARGB-PWM-Fans/2025/21444.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:29Z"
+ },
+ {
+  "product_id": "deepcool-cg580-4f-v2-wh-r-cg580-whada4-g-2",
+  "image_path": "/images/products/case/deepcool-cg580-4f-v2-wh-r-cg580-whada4-g-2.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CG580_4F_V2_WH/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CG580-4F-V2-WH-Panoramic-Glass-Panels-Single-Chamber-ATX-Fishtank-Case-with-4-ARGB-PWM-Fans/2025/21445.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:32Z"
+ },
+ {
+  "product_id": "deepcool-cg580-r-cg580-bknda0-g-1",
+  "image_path": "/images/products/case/deepcool-cg580-r-cg580-bknda0-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CG580/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CG580-Panoramic-ATX-Case/2024/18933.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:34Z"
+ },
+ {
+  "product_id": "deepcool-ch560-wh-r-ch560-whape4-g-1",
+  "image_path": "/images/products/case/deepcool-ch560-wh-r-ch560-whape4-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH560_WH/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH560-WH-New-Generation-of-Airflow-Case/2023/17102.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:37Z"
+ },
+ {
+  "product_id": "deepcool-ch560-digital-wh-r-ch560-whape4d-g-1",
+  "image_path": "/images/products/case/deepcool-ch560-digital-wh-r-ch560-whape4d-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH560_DIGITAL_WH/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH560-DIGITAL-WH-Airflow-Case-With-Status-Screen/2023/17175.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:40Z"
+ },
+ {
+  "product_id": "deepcool-ch170-digital-r-ch170-bknpi0d-g-1",
+  "image_path": "/images/products/case/deepcool-ch170-digital-r-ch170-bknpi0d-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH170_DIGITAL/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH170-DIGITAL-M-ITX-Case-with-Screen/2024/18891.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:42Z"
+ },
+ {
+  "product_id": "deepcool-ch170-digital-wh-r-ch170-whnpi0d-g-1",
+  "image_path": "/images/products/case/deepcool-ch170-digital-wh-r-ch170-whnpi0d-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH170_DIGITAL_WH/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH170-DIGITAL-WH-M-ITX-Case-with-Screen/2024/18892.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:45Z"
+ },
+ {
+  "product_id": "deepcool-matrexx-55-mesh-v4-c-r-matrexx55-bcaga4-g-4",
+  "image_path": "/images/products/case/deepcool-matrexx-55-mesh-v4-c-r-matrexx55-bcaga4-g-4.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/MATREXX55_MESH_V4_C/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/MATREXX55-MESH-V4-C-ATX-Airflow-Case/2024/18146.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:47Z"
+ },
+ {
+  "product_id": "deepcool-ch360-r-ch360-bkape3-g-1",
+  "image_path": "/images/products/case/deepcool-ch360-r-ch360-bkape3-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH360/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH360-New-Generation-of-Airflow-M-ATX-Case/2023/17713.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:49Z"
+ },
+ {
+  "product_id": "deepcool-ch360-digital-wh-r-ch360-whape3d-g-1",
+  "image_path": "/images/products/case/deepcool-ch360-digital-wh-r-ch360-whape3d-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH360_DIGITAL_WH/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH360-DIGITAL-WH-M-ATX-Airflow-Case-With-Status-Screen/2023/17716.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:52Z"
+ },
+ {
+  "product_id": "deepcool-cc360-argb-r-cc360-bkapm3-g-1",
+  "image_path": "/images/products/case/deepcool-cc360-argb-r-cc360-bkapm3-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CC360_ARGB/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CC360-ARGB-M-ATX-Airflow-Case/2023/16791.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:54Z"
+ },
+ {
+  "product_id": "deepcool-cc360-wh-argb-r-cc360-whapm3-g-1",
+  "image_path": "/images/products/case/deepcool-cc360-wh-argb-r-cc360-whapm3-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CC360_WH_ARGB/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CC360-WH-ARGB-M-ATX-Airflow-Case/2023/16792.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:56Z"
+ },
+ {
+  "product_id": "deepcool-ch690-digital-r-ch690-bknna0d-g-1",
+  "image_path": "/images/products/case/deepcool-ch690-digital-r-ch690-bknna0d-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH690_DIGITAL/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH690-DIGITAL-Tempered-Glass-Panels-Single-Chamber-ATX-FISHTANK-Case/2024/19911.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:18:58Z"
+ },
+ {
+  "product_id": "deepcool-ch690-digital-wh-r-ch690-whnna0d-g-1",
+  "image_path": "/images/products/case/deepcool-ch690-digital-wh-r-ch690-whnna0d-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH690_DIGITAL_WH/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH690-DIGITAL-WH-Tempered-Glass-Panels-Single-Chamber-ATX-FISHTANK-Case/2024/19912.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:19:01Z"
+ },
+ {
+  "product_id": "deepcool-matrexx-30-dp-matx-matrexx30",
+  "image_path": "/images/products/case/deepcool-matrexx-30-dp-matx-matrexx30.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/MATREXX_30/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/2021/11958.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:19:03Z"
+ },
+ {
+  "product_id": "deepcool-matrexx-30-si-dp-matx-matrexx30-si",
+  "image_path": "/images/products/case/deepcool-matrexx-30-si-dp-matx-matrexx30-si.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/MATREXX_30_SI/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/2021/14303.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:19:05Z"
+ },
+ {
+  "product_id": "deepcool-ch260-r-ch260-bkngm0-g-1",
+  "image_path": "/images/products/case/deepcool-ch260-r-ch260-bkngm0-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH260/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH260-High-Airflow-M-ATX-Compact-Case-Supports-Rear-Connector-Motherboards/2025/20030.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:19:08Z"
+ },
+ {
+  "product_id": "deepcool-ch260-wh-r-ch260-whngm0-g-1",
+  "image_path": "/images/products/case/deepcool-ch260-wh-r-ch260-whngm0-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH260_WH/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://uk.deepcool.com/products/Cases/CH260-WH-High-Airflow-M-ATX-Compact-Case-Supports-Rear-Connector-Motherboards/2025/20088.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:19:10Z"
+ },
+ {
+  "product_id": "deepcool-ch270-digital-r-ch270-bkndm0-g-1",
+  "image_path": "/images/products/case/deepcool-ch270-digital-r-ch270-bkndm0-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/CH270_DIGITAL/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/CH270-Digital-High-Airflow-Vertical-M-ATX-Compact-Case-with-Data-Screen/2025/20032.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:19:13Z"
+ },
+ {
+  "product_id": "deepcool-macube-110-r-macube110-bkngm1n-g-1",
+  "image_path": "/images/products/case/deepcool-macube-110-r-macube110-bkngm1n-g-1.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cases/MACUBE_110/Gallery/800X800/01.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.deepcool.com/products/Cases/Macube-110-Micro-ATX-Case/2021/4670.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:19:15Z"
+ },
+ {
+  "product_id": "deepcool-pf700-r-pf700d-ha0b-eu",
+  "image_path": "/images/products/psu/deepcool-pf700-r-pf700d-ha0b-eu.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/PowerSupplyUnits/PF700/Gallery/800X800/01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PF700D-230V-Power-Supply-Unit/2021/15136.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:19:17Z"
+ },
+ {
+  "product_id": "deepcool-pf600-r-pf600d-ha0b-eu",
+  "image_path": "/images/products/psu/deepcool-pf600-r-pf600d-ha0b-eu.webp",
+  "image_source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/PowerSupplyUnits/PF600/Gallery/800X800/01.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PF600D-230V-Power-Supply-Unit/2021/15138.shtml",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: DeepCool",
+  "fetched_at": "2026-11-10T22:19:20Z"
+ },
+ {
+  "product_id": "nzxt-h6-flow-negro-cc-h61fb-01",
+  "image_path": "/images/products/case/nzxt-h6-flow-negro-cc-h61fb-01.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h6-flow_black_01_hero.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h6-flow",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:19:51Z"
+ },
+ {
+  "product_id": "nzxt-h6-flow-rgb-negro-cc-h61fb-r1",
+  "image_path": "/images/products/case/nzxt-h6-flow-rgb-negro-cc-h61fb-r1.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h6-flow-rgb_black_00_hero-lit.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h6-flow-rgb",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:22:50Z"
+ },
+ {
+  "product_id": "nzxt-h3-flow-negro-cc-h31fb-01",
+  "image_path": "/images/products/case/nzxt-h3-flow-negro-cc-h31fb-01.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h3-flow_12_black-hero.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h3-flow",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:23:10Z"
+ },
+ {
+  "product_id": "nzxt-h5-flow-rgb-negro-cc-h52fb-r1",
+  "image_path": "/images/products/case/nzxt-h5-flow-rgb-negro-cc-h52fb-r1.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h5-flow-rgb_black_01_hero.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h5-flow-rgb",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:23:39Z"
+ },
+ {
+  "product_id": "nzxt-h7-flow-negro-cm-h72fb-01",
+  "image_path": "/images/products/case/nzxt-h7-flow-negro-cm-h72fb-01.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h7-flow-leftside-empty-black.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h7-flow",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:24:56Z"
+ },
+ {
+  "product_id": "nzxt-h7-flow-rgb-negro-cm-h72fb-r1",
+  "image_path": "/images/products/case/nzxt-h7-flow-rgb-negro-cm-h72fb-r1.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h7-flow-rgb_black_07_interior-lit.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h7-flow-rgb",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:25:58Z"
+ },
+ {
+  "product_id": "nzxt-h9-flow-rgb-negro-2025-cm-h92fb-r1",
+  "image_path": "/images/products/case/nzxt-h9-flow-rgb-negro-2025-cm-h92fb-r1.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h9-flow-rgb_09_black-hero.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h9-flow-rgb",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:26:29Z"
+ },
+ {
+  "product_id": "nzxt-rl-kr42e-b2",
+  "image_path": "/images/products/cooler/nzxt-rl-kr42e-b2.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/ke420rgb_black_01_hero.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/kraken-elite-420-rgb",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:26:38Z"
+ },
+ {
+  "product_id": "pny-rtx-5090-overclocked-triple-fan-32gb",
+  "image_path": "/images/products/gpu/pny-rtx-5090-overclocked-triple-fan-32gb.webp",
+  "image_source_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/74e8f739-cf99-4cad-bccd-b25f00affcce/images/2-pny-rtx-5090-std-oc-triple-fan-ra.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.pny.com/geforce-rtx-5090-models?sku=VCG509032TFXPB1-O",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: PNY",
+  "fetched_at": "2026-11-10T22:27:18Z"
+ },
+ {
+  "product_id": "pny-cs900-250-gb-ssd7cs900-250-rb",
+  "image_path": "/images/products/storage/pny-cs900-250-gb-ssd7cs900-250-rb.webp",
+  "image_source_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/69372d95-5b47-48bd-949f-27ddab59a96f/images/1-pny-ssd-cs900-fr.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.pny.com/ssd-cs900",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: PNY",
+  "fetched_at": "2026-11-10T22:27:23Z"
+ },
+ {
+  "product_id": "pny-cs900-500-gb-ssd7cs900-500-rb",
+  "image_path": "/images/products/storage/pny-cs900-500-gb-ssd7cs900-500-rb.webp",
+  "image_source_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/69372d95-5b47-48bd-949f-27ddab59a96f/images/1-pny-ssd-cs900-fr.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.pny.com/ssd-cs900",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: PNY",
+  "fetched_at": "2026-11-10T22:27:30Z"
+ },
+ {
+  "product_id": "pny-cs900-1-tb-ssd7cs900-1tb-rb",
+  "image_path": "/images/products/storage/pny-cs900-1-tb-ssd7cs900-1tb-rb.webp",
+  "image_source_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/69372d95-5b47-48bd-949f-27ddab59a96f/images/1-pny-ssd-cs900-fr.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.pny.com/ssd-cs900",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: PNY",
+  "fetched_at": "2026-11-10T22:27:37Z"
+ },
+ {
+  "product_id": "pny-cs1030-250-gb-m280cs1030-250-rb",
+  "image_path": "/images/products/storage/pny-cs1030-250-gb-m280cs1030-250-rb.webp",
+  "image_source_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/1fd72f20-77dc-4d3d-92c6-ac610102d783/images/1_pny-cs1030-ssd-m.2-nvme-fr.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.pny.com/cs1030-m2-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: PNY",
+  "fetched_at": "2026-11-10T22:27:41Z"
+ },
+ {
+  "product_id": "pny-cs1030-500-gb-m280cs1030-500-rb",
+  "image_path": "/images/products/storage/pny-cs1030-500-gb-m280cs1030-500-rb.webp",
+  "image_source_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/1fd72f20-77dc-4d3d-92c6-ac610102d783/images/1_pny-cs1030-ssd-m.2-nvme-fr.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.pny.com/cs1030-m2-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: PNY",
+  "fetched_at": "2026-11-10T22:27:46Z"
+ },
+ {
+  "product_id": "pny-cs1030-1-tb-m280cs1030-1tb-rb",
+  "image_path": "/images/products/storage/pny-cs1030-1-tb-m280cs1030-1tb-rb.webp",
+  "image_source_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/1fd72f20-77dc-4d3d-92c6-ac610102d783/images/1_pny-cs1030-ssd-m.2-nvme-fr.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.pny.com/cs1030-m2-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: PNY",
+  "fetched_at": "2026-11-10T22:27:50Z"
+ },
+ {
+  "product_id": "pny-cs2230-500gb-m280cs2230-500-rb",
+  "image_path": "/images/products/storage/pny-cs2230-500gb-m280cs2230-500-rb.webp",
+  "image_source_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/535a4e7d-ae5c-4861-87e6-af230126b0bb/images/01-pny-cs2230-ssd-m.2-nvme-fr.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.pny.com/cs2230-m2-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: PNY",
+  "fetched_at": "2026-11-10T22:27:57Z"
+ },
+ {
+  "product_id": "pny-cs2140-1tb-m280cs2140-1tb-rb",
+  "image_path": "/images/products/storage/pny-cs2140-1tb-m280cs2140-1tb-rb.webp",
+  "image_source_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/18034e33-3192-46e5-9d8b-ae2201131440/images/pny-cs2140-ssd-m.2-nvme-fr.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.pny.com/cs2140-m2-nvme-ssd",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: PNY",
+  "fetched_at": "2026-11-10T22:28:02Z"
+ },
+ {
+  "product_id": "nzxt-h5-flow-blanco-cc-h52fw-01",
+  "image_path": "/images/products/case/nzxt-h5-flow-blanco-cc-h52fw-01.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h5-flow_white_01_hero.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h5-flow",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:28:15Z"
+ },
+ {
+  "product_id": "nzxt-h5-flow-negro-cc-h52fb-01",
+  "image_path": "/images/products/case/nzxt-h5-flow-negro-cc-h52fb-01.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h5-flow_black_01_hero.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h5-flow",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:28:32Z"
+ },
+ {
+  "product_id": "intel-core-i9-13900k",
+  "image_path": "/images/products/cpu/intel-core-i9-13900k.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1057/10573120/1643-intel-core-i9-13900k-3-ghz-box.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/intel-core-i9-13900k-3-ghz-box",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:29:15Z"
+ },
+ {
+  "product_id": "intel-core-i5-13500",
+  "image_path": "/images/products/cpu/intel-core-i5-13500.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1064/10644150/1592-intel-core-i5-13500-25-ghz-48-ghz-comprar.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/procesador-intel-core-i5-13500-2-5-ghz-4-8-ghz",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:29:17Z"
+ },
+ {
+  "product_id": "intel-core-i7-13700-tray",
+  "image_path": "/images/products/cpu/intel-core-i7-13700-tray.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1064/10644144/128-intel-core-i7-13700-21-ghz-52-ghz.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/intel-core-i7-13700-21-ghz-52-ghz",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:29:19Z"
+ },
+ {
+  "product_id": "intel-core-i9-14900",
+  "image_path": "/images/products/cpu/intel-core-i9-14900.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1081/10810678/1583-intel-core-i9-14900-21-58ghz-box.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/procesador-intel-core-i9-14900-2-1-5-8-ghz-box",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:29:22Z"
+ },
+ {
+  "product_id": "intel-core-i3-13100",
+  "image_path": "/images/products/cpu/intel-core-i3-13100.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1064/10644156/1675-intel-core-i3-13100-34-ghz-45-ghz.jpg",
+  "image_scope": "model",
+  "image_page_url": "https://www.pccomponentes.com/intel-core-i3-13100-34-ghz-45-ghz",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:29:25Z"
+ },
+ {
+  "product_id": "nzxt-h5-flow-rgb-blanco-cc-h52fw-r1",
+  "image_path": "/images/products/case/nzxt-h5-flow-rgb-blanco-cc-h52fw-r1.webp",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h5-flow-rgb_white_01_hero.png",
+  "image_scope": "model",
+  "image_page_url": "https://nzxt.com/products/h5-flow-rgb",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: NZXT",
+  "fetched_at": "2026-11-10T22:29:53Z"
+ },
+ {
+  "product_id": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+  "image_path": "/images/products/gpu/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc.webp",
+  "image_source_url": "https://www.inno3d.com/sites/default/files/2025-04/5060Ti_TWIN_X2_OC_card.png",
+  "image_scope": "model",
+  "image_page_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: INNO3D",
+  "fetched_at": "2026-11-10T22:30:40Z"
+ },
+ {
+  "product_id": "inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+  "image_path": "/images/products/gpu/inno3d-geforce-rtx-5060-ti-16gb-x3-oc.webp",
+  "image_source_url": "https://www.inno3d.com/sites/default/files/2025-05/5060Ti_X3OC_card.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-16gb-x3-oc",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: INNO3D",
+  "fetched_at": "2026-11-10T22:30:45Z"
+ },
+ {
+  "product_id": "inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+  "image_path": "/images/products/gpu/inno3d-geforce-rtx-5060-ti-8gb-x3-oc.webp",
+  "image_source_url": "https://www.inno3d.com/sites/default/files/2025-05/5060Ti_X3OC_card.png",
+  "image_scope": "family",
+  "image_page_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-x3-oc",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: INNO3D",
+  "fetched_at": "2026-11-10T22:30:50Z"
+ },
+ {
+  "product_id": "asus-prime-geforce-rtx-5050-oc-edition-8gb",
+  "image_path": "/images/products/gpu/asus-prime-geforce-rtx-5050-oc-edition-8gb.webp",
+  "image_source_url": "https://dlcdnwebimgs.asus.com/gain/7eb89b07-fcba-4eab-8a68-cba4e9687bb5/",
+  "image_scope": "model",
+  "image_page_url": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5050-o8g/",
+  "image_origin": "manufacturer",
+  "attribution": "Imagen: ASUS",
+  "fetched_at": "2026-11-10T22:31:25Z"
+ },
+ {
+  "product_id": "intel-core-ultra-5-250k-plus-tray",
+  "image_path": "/images/products/cpu/intel-core-ultra-5-250k-plus-tray.webp",
+  "image_source_url": "https://img.pccomponentes.com/articles/1102/11028714/1825-procesador-intel-core-ultra-5-250k-plus-18-nucleos-36-ghz-frecuencia-base-53-ghz-frecuencia-turbo-graficos-integrados.jpg",
+  "image_scope": "family",
+  "image_page_url": "https://www.pccomponentes.com/procesador-intel-core-ultra-5-250k-plus-18-nucleos-3-6-ghz-frecuencia-base-5-3-ghz-frecuencia-turbo-graficos-integrados",
+  "image_origin": "retailer",
+  "attribution": "Imagen: PcComponentes",
+  "fetched_at": "2026-11-10T22:31:45Z"
+ }
+]

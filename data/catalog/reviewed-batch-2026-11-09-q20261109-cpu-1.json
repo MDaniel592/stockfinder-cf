@@ -1,0 +1,29 @@
+[
+ {
+  "id": "amd-ryzen-9-7950x3d-boxed",
+  "slug": "amd-ryzen-9-7950x3d-boxed",
+  "name": "AMD Ryzen 9 7950X3D (Boxed)",
+  "category_id": "cpu",
+  "brand": "AMD",
+  "mpn": "100-100000908WOF",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x3d.html",
+  "specs_verified_at": "2026-11-09T16:14:00Z",
+  "specs": {
+   "Socket": "AM5",
+   "Arquitectura": "Zen 4",
+   "Presentación": "Boxed",
+   "Núcleos": "16",
+   "Hilos": "32",
+   "Frecuencia base": "4.2 GHz",
+   "Frecuencia turbo": "Hasta 5.7 GHz",
+   "Caché L2": "16 MB",
+   "Caché L3": "128 MB",
+   "TDP": "120 W",
+   "Memoria compatible": "DDR5-5200",
+   "Memoria máxima": "128 GB",
+   "Gráficos integrados": "AMD Radeon Graphics, 2 CU",
+   "Interfaz": "PCIe 5.0"
+  }
+ }
+]

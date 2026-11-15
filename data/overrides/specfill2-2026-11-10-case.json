@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": "antec-dark-cube-0-761345-80034-1",
+    "category_id": "case",
+    "key": "Formato fuente",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.antec.com/product/case/dark-cube",
+    "note": "La ficha oficial Antec Dark Cube indica \"Max PSU Length: ≤ 220 mm\" y los formatos de placa (M-ATX, ITX), pero no el formato de la fuente (ATX/SFX)."
+  },
+  {
+    "product_id": "coolbox-ge2000-dualview-coo-cha-ge2000-0",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://coolbox.es/producto/gaming/cajas-pc/caja-pc-gaming-ge2000-dualview/",
+    "note": "La ficha oficial CoolBox GE2000 DualView detalla el frontal intercambiable (cristal templado o rejilla) y los montajes laterales de ventiladores, pero no indica el material del panel lateral."
+  },
+  {
+    "product_id": "cougar-cfv235-blanca-cgr-2da4w-382da40-0002",
+    "category_id": "case",
+    "key": "Panel lateral",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://cougargaming.com/products/cases/cfv235/",
+    "note": "La tabla oficial Cougar CFV235 solo declara el \"Front Panel: Glass\"; no publica el material del panel lateral."
+  }
+]

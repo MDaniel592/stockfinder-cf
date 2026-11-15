@@ -1,0 +1,661 @@
+[
+ {
+  "id": "mars-gaming-mllcd240w",
+  "slug": "mars-gaming-mllcd240w",
+  "name": "Mars Gaming ML-LCD240 Blanco (MLLCD240W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLLCD240W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mllcd360w",
+  "slug": "mars-gaming-mllcd360w",
+  "name": "Mars Gaming ML-LCD360 Blanco (MLLCD360W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLLCD360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlone360w",
+  "slug": "mars-gaming-mlone360w",
+  "name": "Mars Gaming ML-ONE360 Blanco (MLONE360W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLONE360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlultra240w",
+  "slug": "mars-gaming-mlultra240w",
+  "name": "Mars Gaming ML-ULTRA240 Blanco (MLULTRA240W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLULTRA240W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlultra360w",
+  "slug": "mars-gaming-mlultra360w",
+  "name": "Mars Gaming ML-ULTRA360 Blanco (MLULTRA360W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLULTRA360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlvision360w",
+  "slug": "mars-gaming-mlvision360w",
+  "name": "Mars Gaming ML-VISION360 Blanco (MLVISION360W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISION360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlvisionii360w",
+  "slug": "mars-gaming-mlvisionii360w",
+  "name": "Mars Gaming ML-VISIONII360 Blanco (MLVISIONII360W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISIONII360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlvisionii360",
+  "slug": "mars-gaming-mlvisionii360",
+  "name": "Mars Gaming ML-VISIONII360 (MLVISIONII360)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISIONII360",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/ml-visionii360/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/ml-visionii360/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlvisionii240",
+  "slug": "mars-gaming-mlvisionii240",
+  "name": "Mars Gaming ML-VISIONII240 (MLVISIONII240)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISIONII240",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/ml-visionii240/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/ml-visionii240/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlproii120",
+  "slug": "mars-gaming-mlproii120",
+  "name": "Mars Gaming ML-PROII120 (MLPROII120)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLPROII120",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/ml-proii120/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/ml-proii120/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "120 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlproii240w",
+  "slug": "mars-gaming-mlproii240w",
+  "name": "Mars Gaming ML-PROII240 Blanco (MLPROII240W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLPROII240W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mltwo120w",
+  "slug": "mars-gaming-mltwo120w",
+  "name": "Mars Gaming ML-TWO120 Blanco (MLTWO120W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLTWO120W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "120 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mltwo240w",
+  "slug": "mars-gaming-mltwo240w",
+  "name": "Mars Gaming ML-TWO240 Blanco (MLTWO240W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLTWO240W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mltwo240",
+  "slug": "mars-gaming-mltwo240",
+  "name": "Mars Gaming ML-TWO240 (MLTWO240)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLTWO240",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/ml-two240/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/ml-two240/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mltwo360w",
+  "slug": "mars-gaming-mltwo360w",
+  "name": "Mars Gaming ML-TWO360 Blanco (MLTWO360W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLTWO360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mltwo360",
+  "slug": "mars-gaming-mltwo360",
+  "name": "Mars Gaming ML-TWO360 (MLTWO360)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLTWO360",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/ml-two360/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/ml-two360/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlvisionpro240w",
+  "slug": "mars-gaming-mlvisionpro240w",
+  "name": "Mars Gaming ML-VISIONPRO240 Blanco (MLVISIONPRO240W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISIONPRO240W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlvisionpro240",
+  "slug": "mars-gaming-mlvisionpro240",
+  "name": "Mars Gaming ML-VISIONPRO240 (MLVISIONPRO240)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISIONPRO240",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/ml-visionpro240/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/ml-visionpro240/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlvisionpro360w",
+  "slug": "mars-gaming-mlvisionpro360w",
+  "name": "Mars Gaming ML-VISIONPRO360 Blanco (MLVISIONPRO360W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISIONPRO360W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/refrigeracion-liquida/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/refrigeracion-liquida/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mlvisionpro360",
+  "slug": "mars-gaming-mlvisionpro360",
+  "name": "Mars Gaming ML-VISIONPRO360 (MLVISIONPRO360)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MLVISIONPRO360",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/ml-visionpro360/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/ml-visionpro360/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcpux5",
+  "slug": "mars-gaming-mcpux5",
+  "name": "Mars Gaming MCPU-X5 (MCPUX5)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MCPUX5",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/mcpu-x5/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/mcpu-x5/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Altura": "154 mm",
+   "Heatpipes": "5",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcpux4w",
+  "slug": "mars-gaming-mcpux4w",
+  "name": "Mars Gaming MCPU-X4 Blanco (MCPUX4W)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MCPUX4W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/mcpu-x4/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/mcpu-x4/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Altura": "154 mm",
+   "Heatpipes": "4",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcpux4argbw",
+  "slug": "mars-gaming-mcpux4argbw",
+  "name": "Mars Gaming MCPU-X4ARGB Blanco (MCPUX4ARGBW)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MCPUX4ARGBW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/mcpu-x4argb/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/mcpu-x4argb/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Altura": "154 mm",
+   "Heatpipes": "4",
+   "Ventiladores": "1 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcpux26",
+  "slug": "mars-gaming-mcpux26",
+  "name": "Mars Gaming MCPU-X26 (MCPUX26)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MCPUX26",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/mcpu-x26/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/mcpu-x26/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Altura": "158 mm",
+   "Heatpipes": "6",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "mars-gaming-mcpux26pro",
+  "slug": "mars-gaming-mcpux26pro",
+  "name": "Mars Gaming MCPU-X26PRO (MCPUX26PRO)",
+  "category_id": "cooler",
+  "brand": "Mars Gaming",
+  "mpn": "MCPUX26PRO",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://marsgaming.eu/es/producto/mcpu-x26pro/",
+  "manufacturer_sources": [
+   "https://marsgaming.eu/es/producto/mcpu-x26pro/"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200",
+   "Altura": "158 mm",
+   "Heatpipes": "6",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "nzxt-rl-kr36e-w2",
+  "slug": "nzxt-rl-kr36e-w2",
+  "name": "NZXT Kraken Elite 360 RGB Blanco (RL-KR36E-W2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KR36E-W2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/kraken-elite-360",
+  "manufacturer_sources": [
+   "https://nzxt.com/product/kraken-elite-360"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "nzxt-rl-kr36c-b1",
+  "slug": "nzxt-rl-kr36c-b1",
+  "name": "NZXT Kraken Core 360 RGB (RL-KR36C-B1)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KR36C-B1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/kraken-core-360-rgb",
+  "manufacturer_sources": [
+   "https://nzxt.com/product/kraken-core-360-rgb"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "nzxt-rl-kn24e-b2",
+  "slug": "nzxt-rl-kn24e-b2",
+  "name": "NZXT Kraken Elite 240 Negro (RL-KN24E-B2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KN24E-B2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/kraken-elite-240",
+  "manufacturer_sources": [
+   "https://nzxt.com/product/kraken-elite-240"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "nzxt-rl-kr42e-w2",
+  "slug": "nzxt-rl-kr42e-w2",
+  "name": "NZXT Kraken Elite 420 RGB Blanco (RL-KR42E-W2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KR42E-W2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/kraken-elite-420-rgb",
+  "manufacturer_sources": [
+   "https://nzxt.com/product/kraken-elite-420-rgb"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "420 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+   "Ventiladores": "3 × 140 mm"
+  }
+ },
+ {
+  "id": "nzxt-rl-kr42e-b2",
+  "slug": "nzxt-rl-kr42e-b2",
+  "name": "NZXT Kraken Elite 420 RGB Negro (RL-KR42E-B2)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KR42E-B2",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/kraken-elite-420-rgb",
+  "manufacturer_sources": [
+   "https://nzxt.com/product/kraken-elite-420-rgb"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "420 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+   "Ventiladores": "3 × 140 mm"
+  }
+ },
+ {
+  "id": "nzxt-rl-kr24c-b1",
+  "slug": "nzxt-rl-kr24c-b1",
+  "name": "NZXT Kraken Core 240 RGB (RL-KR24C-B1)",
+  "category_id": "cooler",
+  "brand": "NZXT",
+  "mpn": "RL-KR24C-B1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://nzxt.com/product/kraken-core-240-rgb",
+  "manufacturer_sources": [
+   "https://nzxt.com/product/kraken-core-240-rgb"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115x",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "genesis-nlg-2318",
+  "slug": "genesis-nlg-2318",
+  "name": "Genesis Hydria 240 (NLG-2318)",
+  "category_id": "cooler",
+  "brand": "Genesis",
+  "mpn": "NLG-2318",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://genesis-zone.com/product/hydria-240-black",
+  "manufacturer_sources": [
+   "https://genesis-zone.com/product/hydria-240-black"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "genesis-nlg-2319",
+  "slug": "genesis-nlg-2319",
+  "name": "Genesis Hydria 240 ARGB (NLG-2319)",
+  "category_id": "cooler",
+  "brand": "Genesis",
+  "mpn": "NLG-2319",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://genesis-zone.com/product/hydria-240-black-argb",
+  "manufacturer_sources": [
+   "https://genesis-zone.com/product/hydria-240-black-argb"
+  ],
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "240 mm",
+   "Sockets compatibles": "AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150",
+   "Ventiladores": "2 × 120 mm"
+  }
+ }
+]

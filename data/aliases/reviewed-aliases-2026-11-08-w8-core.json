@@ -1,0 +1,23 @@
+[
+ {
+  "product_id": "gigabyte-gv-r9070xtgaming-oc-16gd",
+  "kind": "mpn",
+  "value": "9VR907XTGO-00-G10",
+  "source_url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-radeon-rx-9070-xt-gaming-oc-16gb-gddr6-pcie-5-0",
+  "note": "Código comercial de PcComponentes de la variante Gaming OC 16 GB. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-R9070XTGAMING-OC-16GD/sp coincide en modelo, memoria 16 GB GDDR6 y edición OC. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "gigabyte-gv-r907gregaming-oc-12gd",
+  "kind": "mpn",
+  "value": "9VR907GREG-00-G10",
+  "source_url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-radeon-rx-9070-gre-gaming-oc-12gb-gddr6",
+  "note": "Código comercial de PcComponentes de la variante Gaming OC 12 GB. Ficha oficial https://www.gigabyte.com/Graphics-Card/GV-R907GREGAMING-OC-12GD/sp coincide en modelo RX 9070 GRE, memoria 12 GB GDDR6 y edición OC. No se presenta como dato del fabricante."
+ },
+ {
+  "product_id": "msi-geforce-rtx-5080-16g-mandalorian-grogu-edition-oc",
+  "kind": "mpn",
+  "value": "912-V531-687",
+  "source_url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5080-the-mandalorian-and-grogu-oc-16-gb-gddr7-reflex-2-rtx-ai-dlss4-5",
+  "note": "Código comercial de PcComponentes de la edición OC 16 GB. Ficha oficial https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-The-Mandalorian-and-Grogu-Edition-OC/Specification (Model Name G5080-16MGEC) coincide en modelo RTX 5080, 16 GB GDDR7 y edición Mandalorian and Grogu OC. No se presenta como dato del fabricante."
+ }
+]

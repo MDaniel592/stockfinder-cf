@@ -1,0 +1,188 @@
+[
+  {
+    "ean": null,
+    "mpn": "90YV0L71-M0NA00",
+    "name": "Tarjeta Gráfica Asus Prime AMD Radeon RX 9070 XT OC 16GB GDDR6 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-prime-amd-radeon-rx-9070-xt-oc-16gb-gddr6",
+    "price_cents": 108295,
+    "retailer_sku": "PROD-037360",
+    "category_hint": "gpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      },
+      {
+        "key": "manufacturer_identity_source",
+        "value": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070xt-o16g/techspec/"
+      },
+      {
+        "key": "reviewed_canonical_id",
+        "value": "asus-prime-radeon-rx-9070-xt-oc-16gb"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:12:52.561Z"
+  },
+  {
+    "ean": null,
+    "mpn": "90MB1IB0-M0EAY0",
+    "name": "Placa Base Asus ROG Strix X870E-E Gaming WIFI Socket AM5 ",
+    "brand": "Asus",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/asus-rog-strix-x870e-e-gaming-wifi-socket-am5",
+    "price_cents": 48995,
+    "retailer_sku": "PROD-035962",
+    "category_hint": "motherboard",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      },
+      {
+        "key": "manufacturer_identity_source",
+        "value": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi/spec/"
+      },
+      {
+        "key": "reviewed_canonical_id",
+        "value": "asus-rog-strix-x870e-e-gaming-wifi"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:13:01.359Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100001404WOF",
+    "name": "Procesador AMD Ryzen 7 9700X 5.5GHz Socket AM5 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-7-9700x-5-5-ghz-socket-am5",
+    "price_cents": 29495,
+    "retailer_sku": "PROD-034231",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      },
+      {
+        "key": "manufacturer_identity_source",
+        "value": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9700x.html"
+      },
+      {
+        "key": "reviewed_canonical_id",
+        "value": "amd-ryzen-7-9700x"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:13:08.547Z"
+  },
+  {
+    "ean": null,
+    "mpn": "100-100000719WOF",
+    "name": "Procesador AMD Ryzen 9 9950X3D 5.7GHz Socket AM5 Boxed ",
+    "brand": "AMD",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/amd-ryzen-9-9950x3d-5-7ghz-socket-am5-boxed",
+    "price_cents": 62995,
+    "retailer_sku": "PROD-037947",
+    "category_hint": "cpu",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      },
+      {
+        "key": "manufacturer_identity_source",
+        "value": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html"
+      },
+      {
+        "key": "reviewed_canonical_id",
+        "value": "amd-ryzen-9-9950x3d"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:13:14.377Z"
+  },
+  {
+    "ean": null,
+    "mpn": "CMK32GX5M2D6000Z38",
+    "name": "Memoria DDR5 Corsair Vengeance 32GB 2x16GB 6000MHz CL38 EXPO-XMP Disipador De Perfil Bajo Gris ",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-32gb-2x16gb-6000mhz-cl38-expo-xmp-disipador-de-perfil-bajo-gris",
+    "price_cents": 60995,
+    "retailer_sku": "PROD-048339",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      },
+      {
+        "key": "manufacturer_identity_source",
+        "value": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2d6000z38/vengeance-32gb-2-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-intel-xmp-memory-kit-gray-cmk32gx5m2d6000z38"
+      },
+      {
+        "key": "reviewed_canonical_id",
+        "value": "corsair-vengeance-32gb-ddr5-6000-cl38-gray"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:13:20.362Z"
+  },
+  {
+    "ean": null,
+    "mpn": "CMH32GX5M2D6000Z38",
+    "name": "Memoria DDR5 Corsair Vengeance RGB 32GB 2x16GB 6000MHz CL38 EXPO-XMP Disipador De Perfil Bajo Gris ",
+    "brand": "Corsair",
+    "shop_id": "coolmod",
+    "in_stock": true,
+    "url_public": "https://www.coolmod.com/corsair-vengeance-rgb-32gb-2x16gb-6000mhz-cl38-exo-xmp-disipador-de-perfil-bajo-gris",
+    "price_cents": 60995,
+    "retailer_sku": "PROD-048340",
+    "category_hint": "ram",
+    "missing_fields": [
+      "manufacturer_url",
+      "verified_specifications"
+    ],
+    "raw_properties": [
+      {
+        "key": "source",
+        "value": "Normal Chromium Product/Offer JSON-LD; EUR and schema availability"
+      },
+      {
+        "key": "manufacturer_identity_source",
+        "value": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2d6000z38/vengeance-rgb-32gb-2-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-intel-xmp-memory-kit-gray-cmh32gx5m2d6000z38"
+      },
+      {
+        "key": "reviewed_canonical_id",
+        "value": "corsair-vengeance-rgb-32gb-ddr5-6000-cl38-gray"
+      }
+    ],
+    "last_checked_at": "2026-11-02T10:13:26.546Z"
+  }
+]

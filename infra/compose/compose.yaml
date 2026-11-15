@@ -1,0 +1,312 @@
+name: stockfinder-v2
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: stockfinder
+      POSTGRES_USER: stockfinder
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set a dedicated PostgreSQL password}
+    volumes:
+      - catalog-data:/var/lib/postgresql/data
+    # No host port: accessible exclusively on the project's Docker network.
+    healthcheck:
+      test: [CMD-SHELL, 'pg_isready -U stockfinder -d stockfinder']
+      interval: 5s
+      timeout: 3s
+      retries: 15
+    mem_limit: 1g
+    cpus: 1
+    restart: unless-stopped
+    logging: &logs
+      driver: json-file
+      options: {max-size: 10m, max-file: '3'}
+  sync-agent:
+    build: {context: ../.., dockerfile: nas/Dockerfile}
+    image: stockfinder-v2-sync-agent
+    environment:
+      DATABASE_URL: postgresql://stockfinder:${POSTGRES_PASSWORD:?Set password}@postgres:5432/stockfinder
+      SYNC_ENDPOINT: ${SYNC_ENDPOINT:?Set Worker sync URL}
+      SYNC_SECRET: ${SYNC_SECRET:?Set sync secret}
+      # Todos los *.json de offers/ (coolmod.json, pccomponentes*.json); un hash por fichero, hasta 500 ofertas c/u.
+      RETAILER_SNAPSHOT_DIR: /app/incoming/offers
+      RETAILER_SNAPSHOT_LIMIT: '500'
+      # Una oferta sin cambios republica su last_checked_at como maximo cada 24 h (red de seguridad): la frescura
+      # publica la lleva la marca por tienda `shop_check` (docs/catalog-flow.md), que cuesta 1 fila por tienda y pasada.
+      OFFER_FRESHNESS_SECONDS: '86400'
+      # Si las IPs del DNS de Cloudflare estan bloqueadas se reintenta por estas, con SNI/Host/TLS verificados.
+      SYNC_FALLBACK_IPS: '104.18.2.1,172.67.74.226,188.114.98.5,188.114.99.5'
+      REVIEW_CANDIDATES_FILE: /app/incoming/candidates.json
+      REVIEW_CANDIDATES_DIR: /app/incoming/pccomponentes,/app/incoming/coolmod
+    volumes:
+      - retailer-data:/app/incoming:ro
+    depends_on:
+      postgres: {condition: service_healthy}
+    restart: unless-stopped
+    mem_limit: 192m
+    cpus: 0.5
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    logging: *logs
+  coolmod-scraper: &browser-scraper
+    image: mcr.microsoft.com/playwright:v1.56.1-noble
+    # Sustituido por coolmod-offers (2026-11-09): perfil propio para que no arranque junto a el.
+    # Rollback: dc stop coolmod-offers && dc --profile legacy-coolmod up -d coolmod-scraper
+    profiles: [legacy-coolmod]
+    working_dir: /work
+    command: [node, /work/scrapers/coolmod.cjs, --watch]
+    environment:
+      OUTPUT_FILE: /output/offers/coolmod.json
+      COOLMOD_STATE_FILE: /output/state/coolmod-state.json
+      COOLMOD_TARGETS_FILE: /flow/targets/coolmod.json
+      # Tandas de <=200 targets, la mas antigua primero; pasada completa <=12 h (ver docs/runbooks/operations.md).
+      COOLMOD_BATCH_SIZE: '200'
+      COOLMOD_PASS_TARGET_SECONDS: '43200'
+      SCRAPE_INTERVAL_SECONDS: '5400'
+    volumes:
+      - ../../nas/scrapers:/work/scrapers:ro
+      - ../../node_modules:/work/node_modules:ro
+      - ../../data:/work/data:ro
+      - retailer-data:/output
+      - flow-data:/flow:ro
+    init: true
+    read_only: true
+    tmpfs:
+      - /tmp:size=256m
+    shm_size: 128m
+    mem_limit: 768m
+    cpus: 1
+    pids_limit: 256
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    restart: unless-stopped
+    logging: *logs
+  coolmod-inventory:
+    # Inventario por categorias SIN navegador (curl_cffi, ?pagina=N; ver scripts/coolmod_categories.py).
+    # Rollback a Playwright (2026-11-14): image mcr.microsoft.com/playwright:v1.56.1-noble, command python3 ... --scraper
+    # /work/scrapers/coolmod-categories.cjs, volumenes de scrapers y node_modules, tmpfs 512m, shm_size 512m, mem_limit 1g.
+    image: stockfinder-v2-sync-agent
+    user: "0:0"   # artifacts/ es de root en el host (igual que con la imagen de Playwright)
+    working_dir: /work
+    command: [python, /work/scripts/coolmod_inventory_auto.py,
+              --inventory, /work/artifacts/coolmod-inventory.json,
+              --scraper, /work/scripts/coolmod_categories.py,
+              --filtered, /work/artifacts/coolmod-filtered.json,
+              --stage-dir, /output/coolmod,
+              --staged-state, /work/artifacts/coolmod-staged.json,
+              --pages, '200', --stage-limit, '190',
+              --interval, '86400', --retry, '30']
+    volumes:
+      - ../../scripts:/work/scripts:ro
+      - ../../data:/work/data:ro
+      - ../../artifacts:/work/artifacts
+      - retailer-data:/output
+    init: true
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m
+    mem_limit: 256m
+    cpus: 0.5
+    pids_limit: 64
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    restart: unless-stopped
+    logging: *logs
+  coolmod-enrich:
+    # Lee la ficha de cada fila coolmod pendiente sin MPN (export de solo lectura /flow/enrich/coolmod.json del publicador)
+    # y deja lotes enriched-*.json en /output/coolmod, que sync-agent pone en la cola. Una página cada vez, >= 2 s.
+    # SIN navegador (curl_cffi; ver scripts/coolmod_enrich.py). Rollback a Playwright (2026-11-14): image
+    # mcr.microsoft.com/playwright:v1.56.1-noble, command [node, /work/scrapers/coolmod-enrich.cjs, --watch], volumenes
+    # de nas/scrapers y node_modules, tmpfs 256m, shm_size 256m, mem_limit 768m, cpus 1.
+    image: stockfinder-v2-sync-agent
+    user: "0:0"   # /output/coolmod y /output/state son de root (igual que con la imagen de Playwright)
+    working_dir: /work
+    command: [python, /work/scripts/coolmod_enrich.py, --watch]
+    environment:
+      ENRICH_TARGETS_FILE: /flow/enrich/coolmod.json
+      ENRICH_OUTPUT_DIR: /output/coolmod
+      ENRICH_STATE_FILE: /output/state/coolmod-enrich-state.json
+      ENRICH_BATCH_SIZE: '300'
+      ENRICH_IDLE_SECONDS: '900'
+      ENRICH_BLOCKED_SECONDS: '21600'
+    volumes:
+      - ../../scripts:/work/scripts:ro
+      - retailer-data:/output
+      - flow-data:/flow:ro
+    init: true
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m
+    mem_limit: 256m
+    cpus: 0.5
+    pids_limit: 64
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    restart: unless-stopped
+    logging: *logs
+  catalog-discovery:
+    <<: *browser-scraper
+    profiles: [discovery]
+    command: [node, /work/scrapers/discover.cjs]
+    environment:
+      DISCOVERY_OUTPUT: /output/candidates.json
+      DISCOVERY_LIMIT: '30'
+    restart: 'no'
+  pccomponentes-init:
+    image: stockfinder-v2-sync-agent
+    user: "0:0"
+    command: [sh, -c, 'mkdir -p /output/pccomponentes /output/pccomponentes-state /output/offers /output/pccomponentes-offers-state && chown -R 10001:10001 /output/pccomponentes /output/pccomponentes-state /output/offers /output/pccomponentes-offers-state && chmod 1777 /output/offers']
+    volumes:
+      - retailer-data:/output
+    restart: 'no'
+    read_only: true
+    security_opt: [no-new-privileges:true]
+    logging: *logs
+  pccomponentes-discovery:
+    build: {context: ../.., dockerfile: nas/Dockerfile}
+    image: stockfinder-v2-sync-agent
+    command: [python, scripts/pccomponentes_auto.py,
+              --interval, '43200', --pages, '40',
+              --max-candidates, '190', --max-pending, '3000', --delay, '1.1',
+              --output, /output/pccomponentes/batch.json,
+              --state, /output/pccomponentes-state/state.json]
+    environment:
+      DATABASE_URL: postgresql://stockfinder:${POSTGRES_PASSWORD:?Set password}@postgres:5432/stockfinder
+    volumes:
+      - retailer-data:/output
+    depends_on:
+      postgres: {condition: service_healthy}
+      pccomponentes-init: {condition: service_completed_successfully}
+    restart: unless-stopped
+    mem_limit: 256m
+    cpus: 0.5
+    read_only: true
+    tmpfs:
+      - /tmp:size=128m
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    logging: *logs
+  flow-init:
+    image: stockfinder-v2-sync-agent
+    user: "0:0"
+    command: [sh, -c, 'mkdir -p /flow/targets /flow/state && chown -R 10001:10001 /flow']
+    volumes:
+      - flow-data:/flow
+    restart: 'no'
+    read_only: true
+    security_opt: [no-new-privileges:true]
+    logging: *logs
+  catalog-publisher:
+    # Flujo automático lotes verificados -> PostgreSQL -> targets (docs/catalog-flow.md). Única escritura en /flow.
+    image: stockfinder-v2-sync-agent
+    command: [python, nas/publisher.py, --watch]
+    environment:
+      DATABASE_URL: postgresql://stockfinder:${POSTGRES_PASSWORD:?Set password}@postgres:5432/stockfinder
+      FLOW_DIR: /flow
+      PUBLISH_INTERVAL_SECONDS: ${PUBLISH_INTERVAL_SECONDS:-300}
+      AUTO_APPROVE_KNOWN: ${AUTO_APPROVE_KNOWN:-1}
+      AUTO_APPROVE_MAX: ${AUTO_APPROVE_MAX:-200}
+      # Apagado hasta desplegar el Worker que acepta `retailer_codes`.
+      PUBLISH_RETAILER_CODES: ${PUBLISH_RETAILER_CODES:-0}
+    volumes:
+      - flow-data:/flow
+      - ../../data:/app/data:ro
+      - ../../artifacts:/app/artifacts:ro
+    depends_on:
+      postgres: {condition: service_healthy}
+      flow-init: {condition: service_completed_successfully}
+    restart: unless-stopped
+    mem_limit: 256m
+    cpus: 0.5
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    logging: *logs
+  pccomponentes-offers:
+    build: {context: ../.., dockerfile: nas/Dockerfile}
+    image: stockfinder-v2-sync-agent
+    # Refresco de precio/stock de los targets aprobados cada PCC_REFRESH_INTERVAL_SECONDS: list-by-ids de 40 IDs
+    # (maximo del API), 2-3 s entre llamadas; 429 -> enfriamiento y reintento (docs/runbooks/operations.md).
+    command: [python, scripts/pccomponentes_refresh.py]
+    environment:
+      DATABASE_URL: postgresql://stockfinder:${POSTGRES_PASSWORD:?Set password}@postgres:5432/stockfinder
+      PCC_REFRESH_INTERVAL_SECONDS: '10800'
+      PCC_TARGETS_FILE: /flow/targets/pccomponentes.json
+      PCC_OUTPUT_FILE: /output/offers/pccomponentes.json
+      PCC_STATE_FILE: /output/pccomponentes-offers-state/state.json
+      PCC_REQUEST_DELAY_SECONDS: '2,3'
+      PCC_RATE_LIMIT_COOLDOWNS: '60,180'   # '' = abortar tras 3 lotes fallidos (comportamiento anterior)
+      PCC_RETRY_FAILED_CHUNKS: '1'
+      # Solo-marketplace con availabilityCode 7/9999 en 2 sondeos seguidos -> in_stock=false ('0' = solo omitir).
+      PCC_MARKETPLACE_GONE_AS_UNAVAILABLE: '1'
+    volumes:
+      - retailer-data:/output
+      - flow-data:/flow:ro
+      - ../../scripts:/app/scripts:ro   # codigo del host sin reconstruir la imagen compartida
+    depends_on:
+      postgres: {condition: service_healthy}
+      pccomponentes-init: {condition: service_completed_successfully}
+    restart: unless-stopped
+    mem_limit: 256m
+    cpus: 0.5
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    logging: *logs
+  coolmod-offers:
+    image: stockfinder-v2-sync-agent
+    profiles: [scraping]
+    # Precio/stock de Coolmod por el endpoint AJAX del propio frontend (25 codigos/llamada) + fichas
+    # de producto con curl_cffi para reverificar identidad. Nunca a la vez que coolmod-scraper.
+    command: [python, scripts/coolmod_refresh.py]
+    environment:
+      COOLMOD_AJAX_REFRESH: '1'
+      COOLMOD_TARGETS_FILE: /flow/targets/coolmod.json
+      COOLMOD_DATA_DIR: /app/data
+      COOLMOD_OUTPUT_FILE: /output/offers/coolmod.json
+      COOLMOD_REFRESH_STATE_FILE: /output/coolmod-offers-state/state.json
+      COOLMOD_REFRESH_INTERVAL_SECONDS: '3600'
+      COOLMOD_AJAX_CHUNK: '100'
+      COOLMOD_BLOCKED_SECONDS: '7200'   # bloqueo (403/429/503/desafio) -> reintentar en 2 h
+    volumes:
+      - ../../scripts:/app/scripts:ro
+      - ../../data:/app/data:ro
+      - retailer-data:/output
+      - flow-data:/flow:ro
+    restart: unless-stopped
+    mem_limit: 256m
+    cpus: 0.5
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    logging: *logs
+  supabase-replica:
+    profiles: [supabase]
+    image: stockfinder-v2-sync-agent
+    command: [python, scripts/supabase_replica.py, --interval, '900']
+    env_file:
+      - path: ../../.env.supabase-replica.local
+        required: false
+    environment:
+      DATABASE_URL: postgresql://stockfinder:${POSTGRES_PASSWORD:?Set password}@postgres:5432/stockfinder
+    volumes:
+      - ../../scripts:/app/scripts:ro
+    depends_on:
+      postgres: {condition: service_healthy}
+    restart: unless-stopped
+    mem_limit: 192m
+    cpus: 0.5
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    logging: *logs
+volumes:
+  catalog-data:
+  retailer-data:
+  flow-data:

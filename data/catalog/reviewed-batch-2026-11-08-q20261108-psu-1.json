@@ -1,0 +1,229 @@
+[
+ {
+  "id": "antec-hcg1200-pro-platinum-atx31-ec",
+  "slug": "antec-hcg1200-pro-platinum-atx31-ec",
+  "name": "Antec HCG1200 PRO Platinum ATX3.1 (EC)",
+  "category_id": "psu",
+  "brand": "Antec",
+  "mpn": "0-761345-20021-9",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/power/hcg1200-pro-platinum-atx31",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "1200 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "antec-hcg1000-pro-platinum-atx31-ec",
+  "slug": "antec-hcg1000-pro-platinum-atx31-ec",
+  "name": "Antec HCG1000 PRO Platinum ATX3.1 (EC)",
+  "category_id": "psu",
+  "brand": "Antec",
+  "mpn": "0-761345-20015-8",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/power/hcg1000-pro-platinum-atx31",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "antec-sf850x-ec",
+  "slug": "antec-sf850x-ec",
+  "name": "Antec SF850X 80PLUS Gold (EC)",
+  "category_id": "psu",
+  "brand": "Antec",
+  "mpn": "0-761345-20027-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.antec.com/product/power/sf850x",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "SFX",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "100 mm"
+  }
+ },
+ {
+  "id": "forgeon-reactor-1000w-white-fo-reac-1000-w",
+  "slug": "forgeon-reactor-1000w-white-fo-reac-1000-w",
+  "name": "Forgeon Reactor 1000W Blanca (FO-REAC-1000-W)",
+  "category_id": "psu",
+  "brand": "Forgeon",
+  "mpn": "FO-REAC-1000-W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1000w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-blanca",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "forgeon-reactor-1000w-black-fo-reac-1000-b",
+  "slug": "forgeon-reactor-1000w-black-fo-reac-1000-b",
+  "name": "Forgeon Reactor 1000W Negra (FO-REAC-1000-B)",
+  "category_id": "psu",
+  "brand": "Forgeon",
+  "mpn": "FO-REAC-1000-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1000w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-negra",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "forgeon-reactor-850w-white-fo-reac-850-w",
+  "slug": "forgeon-reactor-850w-white-fo-reac-850-w",
+  "name": "Forgeon Reactor 850W Blanca (FO-REAC-850-W)",
+  "category_id": "psu",
+  "brand": "Forgeon",
+  "mpn": "FO-REAC-850-W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-850w-cybenetics-platinum-atx-31-pcie-51-full-modular-fuente-de-alimentacion-blanca",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "forgeon-reactor-850w-black-fo-reac-850-b",
+  "slug": "forgeon-reactor-850w-black-fo-reac-850-b",
+  "name": "Forgeon Reactor 850W Negra (FO-REAC-850-B)",
+  "category_id": "psu",
+  "brand": "Forgeon",
+  "mpn": "FO-REAC-850-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-850w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "forgeon-reactor-1200w-black-fo-reac-1200-b",
+  "slug": "forgeon-reactor-1200w-black-fo-reac-1200-b",
+  "name": "Forgeon Reactor 1200W Negra (FO-REAC-1200-B)",
+  "category_id": "psu",
+  "brand": "Forgeon",
+  "mpn": "FO-REAC-1200-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-1200w-cybenetics-gold-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "1200 W",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Gold",
+   "Conector GPU": "12V-2x6"
+  }
+ },
+ {
+  "id": "forgeon-reactor-750w-white-fo-reac-750-w",
+  "slug": "forgeon-reactor-750w-white-fo-reac-750-w",
+  "name": "Forgeon Reactor 750W Blanca (FO-REAC-750-W)",
+  "category_id": "psu",
+  "brand": "Forgeon",
+  "mpn": "FO-REAC-750-W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-750w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-blanca",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "forgeon-reactor-750w-black-fo-reac-750-b",
+  "slug": "forgeon-reactor-750w-black-fo-reac-750-b",
+  "name": "Forgeon Reactor 750W Negra (FO-REAC-750-B)",
+  "category_id": "psu",
+  "brand": "Forgeon",
+  "mpn": "FO-REAC-750-B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-reactor-750w-cybenetics-platinum-atx-3-1-pcie-5-1-full-modular-fuente-de-alimentacion-negra",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "750 W",
+   "Estándar ATX": "3.1",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "Cybenetics Platinum",
+   "Conector GPU": "12V-2x6",
+   "Longitud": "140 mm"
+  }
+ },
+ {
+  "id": "forgeon-bolt-1000w-white-fo-psu-bol1001w",
+  "slug": "forgeon-bolt-1000w-white-fo-psu-bol1001w",
+  "name": "Forgeon Bolt 1000W Blanca (FO-PSU-BOL1001W)",
+  "category_id": "psu",
+  "brand": "Forgeon",
+  "mpn": "FO-PSU-BOL1001W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-bolt-psu-1000w-80-plus-gold-full-modular-blanca",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "1000 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Longitud": "160 mm"
+  }
+ },
+ {
+  "id": "forgeon-bolt-850w-white-fo-psu-bol851w",
+  "slug": "forgeon-bolt-850w-white-fo-psu-bol851w",
+  "name": "Forgeon Bolt 850W Blanca (FO-PSU-BOL851W)",
+  "category_id": "psu",
+  "brand": "Forgeon",
+  "mpn": "FO-PSU-BOL851W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.pccomponentes.com/fuente-alimentacion-forgeon-bolt-psu-850w-80-plus-gold-full-modular-fuente-de-alimentacion-blanca",
+  "specs_verified_at": "2026-11-08T22:00:00Z",
+  "specs": {
+   "Potencia": "850 W",
+   "Formato": "ATX",
+   "Modular": "Totalmente modular",
+   "Eficiencia": "80 PLUS Gold",
+   "Longitud": "160 mm"
+  }
+ }
+]

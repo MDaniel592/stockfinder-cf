@@ -1,0 +1,235 @@
+[
+ {
+  "id": "silverstone-rm44-sst-rm44",
+  "slug": "silverstone-rm44-sst-rm44",
+  "name": "SilverStone RM44 (SST-RM44)",
+  "category_id": "case",
+  "brand": "SilverStone",
+  "mpn": "SST-RM44",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.silverstonetek.com/en/product/info/server-nas/RM44/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "SSI-EEB, SSI-CEB, E-ATX, ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "424 mm",
+   "Altura disipador máxima": "148 mm",
+   "Ventiladores incluidos": "2 × 80 mm (trasero)",
+   "Radiador frontal máximo": "360 mm",
+   "Dimensiones": "440 × 176 × 468 mm"
+  }
+ },
+ {
+  "id": "silverstone-rm51-sst-rm51",
+  "slug": "silverstone-rm51-sst-rm51",
+  "name": "SilverStone RM51 (SST-RM51)",
+  "category_id": "case",
+  "brand": "SilverStone",
+  "mpn": "SST-RM51",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.silverstonetek.com/en/product/info/server-nas/RM51/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "SSI-EEB, SSI-CEB, E-ATX, ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "455 mm",
+   "Altura disipador máxima": "192 mm",
+   "Ventiladores incluidos": "2 × 180 mm (frontal)",
+   "Radiador frontal máximo": "360 mm",
+   "Dimensiones": "440 × 220 × 530 mm"
+  }
+ },
+ {
+  "id": "cooler-master-masterbox-600-negro-mb600-kgnn-s00",
+  "slug": "cooler-master-masterbox-600-negro-mb600-kgnn-s00",
+  "name": "Cooler Master MasterBox 600 Negro (MB600-KGNN-S00)",
+  "category_id": "case",
+  "brand": "Cooler Master",
+  "mpn": "MB600-KGNN-S00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/masterbox-600/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "3 × 140 mm (frontal) + 1 × 120 mm (trasero), ARGB",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "474 × 230 × 481 mm"
+  }
+ },
+ {
+  "id": "cooler-master-masterbox-600-blanco-mb600-wgnn-s00",
+  "slug": "cooler-master-masterbox-600-blanco-mb600-wgnn-s00",
+  "name": "Cooler Master MasterBox 600 Blanco (MB600-WGNN-S00)",
+  "category_id": "case",
+  "brand": "Cooler Master",
+  "mpn": "MB600-WGNN-S00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/masterbox-600/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "3 × 140 mm (frontal) + 1 × 120 mm (trasero), ARGB",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "474 × 230 × 481 mm"
+  }
+ },
+ {
+  "id": "cooler-master-cosmos-c700m-mcc-c700m-mg5n-s00",
+  "slug": "cooler-master-cosmos-c700m-mcc-c700m-mg5n-s00",
+  "name": "Cooler Master Cosmos C700M (MCC-C700M-MG5N-S00)",
+  "category_id": "case",
+  "brand": "Cooler Master",
+  "mpn": "MCC-C700M-MG5N-S00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/cosmos-c700m/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Longitud GPU máxima": "490 mm",
+   "Altura disipador máxima": "198 mm",
+   "Ventiladores incluidos": "3 × 140 mm (frontal) + 1 × 140 mm (trasero)",
+   "Radiador frontal máximo": "420 mm",
+   "Radiador superior máximo": "420 mm",
+   "Dimensiones": "650 × 306 × 651 mm"
+  }
+ },
+ {
+  "id": "cooler-master-silencio-s600-steel-mcs-s600-kn5n-s00",
+  "slug": "cooler-master-silencio-s600-steel-mcs-s600-kn5n-s00",
+  "name": "Cooler Master Silencio S600 Steel (MCS-S600-KN5N-S00)",
+  "category_id": "case",
+  "brand": "Cooler Master",
+  "mpn": "MCS-S600-KN5N-S00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/silencio-s600/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "398 mm",
+   "Altura disipador máxima": "167 mm",
+   "Ventiladores incluidos": "1 × 120 mm (frontal) + 1 × 120 mm (trasero)",
+   "Radiador frontal máximo": "280 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "478 × 209 × 470.5 mm"
+  }
+ },
+ {
+  "id": "cooler-master-silencio-s400-steel-mcs-s400-kn5n-s00",
+  "slug": "cooler-master-silencio-s400-steel-mcs-s400-kn5n-s00",
+  "name": "Cooler Master Silencio S400 Steel (MCS-S400-KN5N-S00)",
+  "category_id": "case",
+  "brand": "Cooler Master",
+  "mpn": "MCS-S400-KN5N-S00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/silencio-s400/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "319 mm",
+   "Altura disipador máxima": "167 mm",
+   "Ventiladores incluidos": "1 × 120 mm (frontal) + 1 × 120 mm (trasero)",
+   "Radiador frontal máximo": "280 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "418 × 210 × 408 mm"
+  }
+ },
+ {
+  "id": "cooler-master-cosmos-alpha-c700-kgnn-s00",
+  "slug": "cooler-master-cosmos-alpha-c700-kgnn-s00",
+  "name": "Cooler Master Cosmos Alpha (C700-KGNN-S00)",
+  "category_id": "case",
+  "brand": "Cooler Master",
+  "mpn": "C700-KGNN-S00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/cosmos-alpha/",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "EEB, E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Ventiladores incluidos": "2 × 200 mm (frontal) + 1 × 120 mm (trasero)",
+   "Dimensiones": "669 × 330 × 639 mm"
+  }
+ },
+ {
+  "id": "nzxt-h5-flow-blanco-cc-h52fw-01",
+  "slug": "nzxt-h5-flow-blanco-cc-h52fw-01",
+  "name": "NZXT H5 Flow Blanco (CC-H52FW-01)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CC-H52FW-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://support.nzxt.com/hc/en-us/articles/40225168535451-H5-Flow-2024-Specs",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "170 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "465 × 225 × 430 mm (alto × ancho × fondo)",
+   "Panel lateral": "Cristal templado",
+   "Ventiladores incluidos": "1 × 120 mm (frontal) + 1 × 120 mm (trasero)"
+  }
+ },
+ {
+  "id": "nzxt-h5-flow-negro-cc-h52fb-01",
+  "slug": "nzxt-h5-flow-negro-cc-h52fb-01",
+  "name": "NZXT H5 Flow Negro (CC-H52FB-01)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CC-H52FB-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://support.nzxt.com/hc/en-us/articles/40225168535451-H5-Flow-2024-Specs",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "170 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "465 × 225 × 430 mm (alto × ancho × fondo)",
+   "Panel lateral": "Cristal templado oscuro",
+   "Ventiladores incluidos": "1 × 120 mm (frontal) + 1 × 120 mm (trasero)"
+  }
+ },
+ {
+  "id": "nzxt-h5-flow-rgb-blanco-cc-h52fw-r1",
+  "slug": "nzxt-h5-flow-rgb-blanco-cc-h52fw-r1",
+  "name": "NZXT H5 Flow RGB Blanco (CC-H52FW-R1)",
+  "category_id": "case",
+  "brand": "NZXT",
+  "mpn": "CC-H52FW-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://support.nzxt.com/hc/en-us/articles/40225168535451-H5-Flow-2024-Specs",
+  "specs_verified_at": "2026-11-09T16:32:20Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "410 mm",
+   "Altura disipador máxima": "170 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "465 × 225 × 430 mm (alto × ancho × fondo)",
+   "Panel lateral": "Cristal templado",
+   "Ventiladores incluidos": "F360 RGB Core (frontal) + 1 × 120 mm (trasero)"
+  }
+ }
+]

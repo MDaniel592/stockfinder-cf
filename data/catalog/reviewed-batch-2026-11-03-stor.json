@@ -1,0 +1,142 @@
+[
+  {
+    "id": "samsung-9100-pro-8tb-heatsink",
+    "slug": "samsung-9100-pro-8tb-heatsink",
+    "name": "Samsung 9100 Pro 8 TB con disipador",
+    "category_id": "storage",
+    "brand": "Samsung",
+    "mpn": "MZ-VAP8T0CW",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/9100-pro-8tb-nvme-pcie-gen-5-with-heatsink-mz-vap8t0cw",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Capacidad": "8 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "Sí",
+      "Lectura secuencial": "Hasta 14 800 MB/s",
+      "Escritura secuencial": "Hasta 13 400 MB/s",
+      "Resistencia": "4800 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "lexar-nq790-512gb",
+    "slug": "lexar-nq790-512gb",
+    "name": "Lexar NQ790 512 GB",
+    "category_id": "storage",
+    "brand": "Lexar",
+    "mpn": "LNQ790X512G-RNNNG",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://americas.lexar.com/es/product/lexar-nq790-pcie-4-0-ssd/",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Capacidad": "512 GB",
+      "Interfaz": "PCIe Gen4 x4",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "Hasta 6400 MB/s",
+      "Escritura secuencial": "Hasta 2900 MB/s",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "lexar-nm990-1tb",
+    "slug": "lexar-nm990-1tb",
+    "name": "Lexar NM990 1 TB",
+    "category_id": "storage",
+    "brand": "Lexar",
+    "mpn": "LNM990X001T-RNNNG",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.lexar.com/global/products/Lexar-NM990-M-2-2280-PCIe-5-0-NVMe-SSD/",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Capacidad": "1 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "Hasta 14 000 MB/s",
+      "Escritura secuencial": "Hasta 7500 MB/s",
+      "Resistencia": "750 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "team-group-t-force-g50-512gb-heatsink",
+    "slug": "team-group-t-force-g50-512gb-heatsink",
+    "name": "Team Group T-FORCE G50 512 GB con disipador",
+    "category_id": "storage",
+    "brand": "Team Group",
+    "mpn": "TM8FFE512G0C129",
+    "mpn_source": "retailer",
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/ssd/T-FORCE/g50/g50-TM8FFE512G0C129/",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Capacidad": "512 GB",
+      "Interfaz": "PCIe Gen4 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "Sí (disipador de grafeno ultrafino)",
+      "Lectura secuencial": "Hasta 5000 MB/s",
+      "Escritura secuencial": "Hasta 2500 MB/s",
+      "Resistencia": "325 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "sandisk-optimus-5100-4tb",
+    "slug": "sandisk-optimus-5100-4tb",
+    "name": "SanDisk Optimus 5100 4 TB",
+    "category_id": "storage",
+    "brand": "SanDisk",
+    "mpn": "SDSP51400TAN-000E0",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd?sku=SDSP51400TAN-000E0",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Capacidad": "4 TB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "Hasta 6900 MB/s",
+      "Escritura secuencial": "Hasta 6700 MB/s",
+      "Resistencia": "1200 TBW",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "sandisk-optimus-5100-500gb",
+    "slug": "sandisk-optimus-5100-500gb",
+    "name": "SanDisk Optimus 5100 500 GB",
+    "category_id": "storage",
+    "brand": "SanDisk",
+    "mpn": "SDSP51500GAN-000E0",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://shop.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd?sku=SDSP51500GAN-000E0",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Capacidad": "500 GB",
+      "Interfaz": "PCIe 4.0 x4, NVMe",
+      "Formato": "M.2 2280",
+      "Lectura secuencial": "Hasta 6600 MB/s",
+      "Escritura secuencial": "Hasta 5600 MB/s",
+      "Tipo": "SSD"
+    }
+  },
+  {
+    "id": "sandisk-optimus-gx-pro-8100-2tb",
+    "slug": "sandisk-optimus-gx-pro-8100-2tb",
+    "name": "SanDisk Optimus GX PRO 8100 2 TB sin disipador",
+    "category_id": "storage",
+    "brand": "SanDisk",
+    "mpn": "SDSP82200TAN-000E0",
+    "mpn_source": "manufacturer",
+    "manufacturer_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-pro-8100-internal-nvme-ssd?sku=SDSP82200TAN-000E0",
+    "specs_verified_at": "2026-11-03T00:00:00Z",
+    "specs": {
+      "Capacidad": "2 TB",
+      "Interfaz": "PCIe 5.0 x4, NVMe 2.0",
+      "Formato": "M.2 2280",
+      "Disipador integrado": "No",
+      "Lectura secuencial": "Hasta 14 900 MB/s",
+      "Escritura secuencial": "Hasta 14 000 MB/s",
+      "Tipo": "SSD"
+    }
+  }
+]

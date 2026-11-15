@@ -1,0 +1,388 @@
+[
+  {
+    "id": "nvidia-geforce-rtx-5090",
+    "slug": "nvidia-geforce-rtx-5090",
+    "name": "NVIDIA GeForce RTX 5090 32 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "32 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "512 bits",
+      "Consumo (TGP)": "575 W",
+      "Fuente recomendada": "1000 W (sistema de referencia)",
+      "Interfaz": "PCIe 5.0",
+      "Arquitectura": "Blackwell",
+      "Núcleos CUDA": "21760",
+      "Frecuencia turbo": "2,41 GHz",
+      "Chip gráfico": "GeForce RTX 5090"
+    }
+  },
+  {
+    "id": "nvidia-geforce-rtx-5080",
+    "slug": "nvidia-geforce-rtx-5080",
+    "name": "NVIDIA GeForce RTX 5080 16 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (sistema de referencia)",
+      "Interfaz": "PCIe 5.0",
+      "Arquitectura": "Blackwell",
+      "Núcleos CUDA": "10752",
+      "Frecuencia turbo": "2,62 GHz",
+      "Chip gráfico": "GeForce RTX 5080"
+    }
+  },
+  {
+    "id": "nvidia-geforce-rtx-5070-ti",
+    "slug": "nvidia-geforce-rtx-5070-ti",
+    "name": "NVIDIA GeForce RTX 5070 Ti 16 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "specs_verified_at": "2026-11-01T23:18:54Z",
+    "specs": {
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (sistema de referencia)",
+      "Interfaz": "PCIe 5.0",
+      "Arquitectura": "Blackwell",
+      "Núcleos CUDA": "8960",
+      "Frecuencia turbo": "2,45 GHz"
+    }
+  },
+  {
+    "id": "nvidia-geforce-rtx-5070",
+    "slug": "nvidia-geforce-rtx-5070",
+    "name": "NVIDIA GeForce RTX 5070 12 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "192 bits",
+      "Consumo (TGP)": "250 W",
+      "Fuente recomendada": "650 W (sistema de referencia)",
+      "Interfaz": "PCIe 5.0",
+      "Arquitectura": "Blackwell",
+      "Núcleos CUDA": "6144",
+      "Frecuencia turbo": "2,51 GHz",
+      "Chip gráfico": "GeForce RTX 5070"
+    }
+  },
+  {
+    "id": "nvidia-geforce-rtx-5060-ti-16gb",
+    "slug": "nvidia-geforce-rtx-5060-ti-16gb",
+    "name": "NVIDIA GeForce RTX 5060 Ti 16 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "specs_verified_at": "2026-11-01T23:18:54Z",
+    "specs": {
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (sistema de referencia)",
+      "Interfaz": "PCIe 5.0",
+      "Arquitectura": "Blackwell",
+      "Núcleos CUDA": "4608",
+      "Frecuencia turbo": "2,57 GHz"
+    }
+  },
+  {
+    "id": "nvidia-geforce-rtx-5060-ti-8gb",
+    "slug": "nvidia-geforce-rtx-5060-ti-8gb",
+    "name": "NVIDIA GeForce RTX 5060 Ti 8 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "specs_verified_at": "2026-11-01T23:18:54Z",
+    "specs": {
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (sistema de referencia)",
+      "Interfaz": "PCIe 5.0",
+      "Arquitectura": "Blackwell",
+      "Núcleos CUDA": "4608",
+      "Frecuencia turbo": "2,57 GHz"
+    }
+  },
+  {
+    "id": "nvidia-geforce-rtx-5060",
+    "slug": "nvidia-geforce-rtx-5060",
+    "name": "NVIDIA GeForce RTX 5060 8 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "145 W",
+      "Fuente recomendada": "550 W (sistema de referencia)",
+      "Interfaz": "PCIe 5.0",
+      "Arquitectura": "Blackwell",
+      "Núcleos CUDA": "3840",
+      "Frecuencia turbo": "2,50 GHz",
+      "Chip gráfico": "GeForce RTX 5060"
+    }
+  },
+  {
+    "id": "nvidia-geforce-rtx-5050",
+    "slug": "nvidia-geforce-rtx-5050",
+    "name": "NVIDIA GeForce RTX 5050 8 GB",
+    "category_id": "gpu",
+    "brand": "NVIDIA",
+    "manufacturer_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5050/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (sistema de referencia)",
+      "Interfaz": "PCIe 5.0",
+      "Arquitectura": "Blackwell",
+      "Núcleos CUDA": "2560",
+      "Frecuencia turbo": "2,57 GHz",
+      "Chip gráfico": "GeForce RTX 5050"
+    }
+  },
+  {
+    "id": "amd-radeon-rx-9070-xt",
+    "slug": "amd-radeon-rx-9070-xt",
+    "name": "AMD Radeon RX 9070 XT 16 GB",
+    "category_id": "gpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070xt.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)",
+      "Interfaz": "PCIe 5.0 x16",
+      "Arquitectura": "RDNA 4",
+      "Unidades de cómputo": "64",
+      "Chip gráfico": "Radeon RX 9070 XT"
+    }
+  },
+  {
+    "id": "amd-radeon-rx-9070",
+    "slug": "amd-radeon-rx-9070",
+    "name": "AMD Radeon RX 9070 16 GB",
+    "category_id": "gpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "220 W",
+      "Fuente recomendada": "650 W (referencia AMD)",
+      "Interfaz": "PCIe 5.0 x16",
+      "Arquitectura": "RDNA 4",
+      "Unidades de cómputo": "56",
+      "Chip gráfico": "Radeon RX 9070"
+    }
+  },
+  {
+    "id": "amd-radeon-rx-9070-gre",
+    "slug": "amd-radeon-rx-9070-gre",
+    "name": "AMD Radeon RX 9070 GRE 12 GB",
+    "category_id": "gpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070-gre.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "192 bits",
+      "Consumo (TBP)": "220 W",
+      "Fuente recomendada": "650 W (referencia AMD)",
+      "Interfaz": "PCIe 5.0 x16",
+      "Arquitectura": "RDNA 4",
+      "Unidades de cómputo": "48",
+      "Chip gráfico": "Radeon RX 9070 GRE"
+    }
+  },
+  {
+    "id": "amd-radeon-rx-9060-xt-16gb",
+    "slug": "amd-radeon-rx-9060-xt-16gb",
+    "name": "AMD Radeon RX 9060 XT 16 GB",
+    "category_id": "gpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)",
+      "Interfaz": "PCIe 5.0 x16",
+      "Arquitectura": "RDNA 4",
+      "Unidades de cómputo": "32",
+      "Chip gráfico": "Radeon RX 9060 XT"
+    }
+  },
+  {
+    "id": "amd-radeon-rx-9060-xt-8gb",
+    "slug": "amd-radeon-rx-9060-xt-8gb",
+    "name": "AMD Radeon RX 9060 XT 8 GB",
+    "category_id": "gpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt-8gb.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "150 W",
+      "Fuente recomendada": "450 W (referencia AMD)",
+      "Interfaz": "PCIe 5.0 x16",
+      "Arquitectura": "RDNA 4",
+      "Unidades de cómputo": "32",
+      "Chip gráfico": "Radeon RX 9060 XT"
+    }
+  },
+  {
+    "id": "amd-radeon-rx-9060-xt-lp",
+    "slug": "amd-radeon-rx-9060-xt-lp",
+    "name": "AMD Radeon RX 9060 XT LP 16 GB",
+    "category_id": "gpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt-lp.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "Hasta 140 W",
+      "Fuente recomendada": "450 W (referencia AMD)",
+      "Interfaz": "PCIe 5.0 x16",
+      "Arquitectura": "RDNA 4",
+      "Unidades de cómputo": "32",
+      "Chip gráfico": "Radeon RX 9060 XT"
+    }
+  },
+  {
+    "id": "amd-radeon-rx-9060",
+    "slug": "amd-radeon-rx-9060",
+    "name": "AMD Radeon RX 9060 8 GB",
+    "category_id": "gpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "132 W",
+      "Fuente recomendada": "450 W (referencia AMD)",
+      "Interfaz": "PCIe 5.0 x16",
+      "Arquitectura": "RDNA 4",
+      "Unidades de cómputo": "28",
+      "Chip gráfico": "Radeon RX 9060"
+    }
+  },
+  {
+    "id": "amd-radeon-rx-9050-8gb",
+    "slug": "amd-radeon-rx-9050-8gb",
+    "name": "AMD Radeon RX 9050 8 GB",
+    "category_id": "gpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9050.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "92 W",
+      "Fuente recomendada": "450 W (referencia AMD)",
+      "Interfaz": "PCIe 5.0 x16",
+      "Arquitectura": "RDNA 4",
+      "Unidades de cómputo": "16",
+      "Chip gráfico": "Radeon RX 9050"
+    }
+  },
+  {
+    "id": "amd-radeon-rx-9050-4gb",
+    "slug": "amd-radeon-rx-9050-4gb",
+    "name": "AMD Radeon RX 9050 4 GB",
+    "category_id": "gpu",
+    "brand": "AMD",
+    "manufacturer_url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9050-4gb.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "4 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "64 bits",
+      "Consumo (TBP)": "92 W",
+      "Fuente recomendada": "450 W (referencia AMD)",
+      "Interfaz": "PCIe 5.0 x16",
+      "Arquitectura": "RDNA 4",
+      "Unidades de cómputo": "16",
+      "Chip gráfico": "Radeon RX 9050"
+    }
+  },
+  {
+    "id": "intel-arc-b580",
+    "slug": "intel-arc-b580",
+    "name": "Intel Arc B580 12 GB",
+    "category_id": "gpu",
+    "brand": "Intel",
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/241598/intel-arc-b580-graphics/specifications.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "12 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "192 bits",
+      "Consumo (TBP)": "190 W",
+      "Interfaz": "PCIe 4.0 x8",
+      "Arquitectura": "Xe2",
+      "Núcleos Xe": "20",
+      "Frecuencia gráfica": "2670 MHz",
+      "Fuente recomendada": "600 W (tarjeta Intel de referencia)",
+      "Chip gráfico": "Arc B580"
+    }
+  },
+  {
+    "id": "intel-arc-b570",
+    "slug": "intel-arc-b570",
+    "name": "Intel Arc B570 10 GB",
+    "category_id": "gpu",
+    "brand": "Intel",
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/241676/intel-arc-b570-graphics/specifications.html",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Memoria": "10 GB",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "160 bits",
+      "Consumo (TBP)": "150 W",
+      "Interfaz": "PCIe 4.0 x8",
+      "Arquitectura": "Xe2",
+      "Núcleos Xe": "18",
+      "Frecuencia gráfica": "2500 MHz",
+      "Chip gráfico": "Arc B570"
+    }
+  }
+]

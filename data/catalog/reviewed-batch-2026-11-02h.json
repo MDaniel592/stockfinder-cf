@@ -1,0 +1,134 @@
+[
+  {
+    "id": "msi-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus",
+    "slug": "msi-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus",
+    "name": "MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-16G-VENTUS-2X-OC-PLUS/Specification",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2602 MHz"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus",
+    "slug": "msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus",
+    "name": "MSI GeForce RTX 5060 Ti 8G VENTUS 2X OC PLUS",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-8G-VENTUS-2X-OC-PLUS/Specification",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2602 MHz"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5070-ti-16g-gaming-trio-oc",
+    "slug": "msi-geforce-rtx-5070-ti-16g-gaming-trio-oc",
+    "name": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-Ti-16G-GAMING-TRIO-OC/Specification",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "300 W",
+      "Fuente recomendada": "750 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5050-8g-ventus-2x-oc",
+    "slug": "msi-geforce-rtx-5050-8g-ventus-2x-oc",
+    "name": "MSI GeForce RTX 5050 8G VENTUS 2X OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5050-8G-VENTUS-2X-OC/Specification",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5050",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR6",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "130 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2602 MHz"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5060-ti-8g-gaming-trio-oc",
+    "slug": "msi-geforce-rtx-5060-ti-8g-gaming-trio-oc",
+    "name": "MSI GeForce RTX 5060 Ti 8G GAMING TRIO OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-8G-GAMING-TRIO-OC/Specification",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2647 MHz"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5080-16g-expert-oc",
+    "slug": "msi-geforce-rtx-5080-16g-expert-oc",
+    "name": "MSI GeForce RTX 5080 16G EXPERT OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-EXPERT-OC/Specification",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2715 MHz"
+    }
+  },
+  {
+    "id": "msi-geforce-rtx-5080-16g-inspire-3x-oc",
+    "slug": "msi-geforce-rtx-5080-16g-inspire-3x-oc",
+    "name": "MSI GeForce RTX 5080 16G INSPIRE 3X OC",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5080-16G-INSPIRE-3X-OC/Specification",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Interfaz": "PCIe 5.0",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)",
+      "Frecuencia turbo": "2640 MHz"
+    }
+  }
+]

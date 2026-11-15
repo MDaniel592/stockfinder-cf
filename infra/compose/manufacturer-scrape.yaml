@@ -1,0 +1,42 @@
+# Optional runner for the official manufacturer scrapers (scripts/scrape_asus.py,
+# scripts/scrape_asrock.py).  It is a separate file on purpose: the running stack in
+# infra/compose/compose.yaml is not touched by it.
+#
+#   docker compose -f infra/compose/manufacturer-scrape.yaml run --rm scraper \
+#       python /work/scripts/scrape_asus.py --category psu --limit 50
+#
+# curl_cffi only exists inside the image, so the scrapers run here; artifacts/ is mounted so the
+# reports (artifacts/manufacturer-<brand>-<category>.json) and the fetch cache stay on the host.
+# Without this file the same scripts also run on the host with the standard library only: the
+# records then say transport=urllib instead of transport=curl_cffi.
+name: stockfinder-manufacturer
+
+services:
+  scraper:
+    image: stockfinder-v2-sync-agent
+    # The image runs as 10001; the host directory belongs to azureuser (1000), so the container
+    # runs as that user and the reports end up owned by the same user that reads them.
+    user: "1000:1000"
+    working_dir: /work
+    entrypoint: []
+    command: [python, /work/scripts/scrape_asus.py, --category, gpu]
+    environment:
+      PYTHONDONTWRITEBYTECODE: "1"
+      PYTHONUNBUFFERED: "1"
+    volumes:
+      - ../../scripts:/work/scripts:ro
+      - ../../data:/work/data:ro
+      - ../../artifacts:/work/artifacts:ro
+      - ../../work:/work/work
+    init: true
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m
+    mem_limit: 512m
+    cpus: 1
+    pids_limit: 128
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    logging:
+      driver: json-file
+      options: {max-size: 10m, max-file: '3'}

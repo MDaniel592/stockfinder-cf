@@ -1,0 +1,2272 @@
+[
+  {
+    "product_id": "gigabyte-b850m-a-elt-wf6e-ice",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/fr/Motherboard/B850M-AORUS-ELITE-WIFI6E-ICE-rev-1x/sp",
+    "note": "La fiche oficial del modelo indica chipset AMD B850."
+  },
+  {
+    "product_id": "gigabyte-b850m-a-elt-wf6e-ice",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/fr/Motherboard/B850M-AORUS-ELITE-WIFI6E-ICE-rev-1x/sp",
+    "note": "La sección Memory publica módulos DDR5 para este modelo."
+  },
+  {
+    "product_id": "gigabyte-b650-eagle",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B650",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650-EAGLE-rev-12/sp",
+    "note": "La ficha oficial del modelo indica chipset AMD B650."
+  },
+  {
+    "product_id": "gigabyte-b650-eagle",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650-EAGLE-rev-12/sp",
+    "note": "La sección Memory publica módulos DDR5 para este modelo."
+  },
+  {
+    "product_id": "gigabyte-b650-eagle",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650-EAGLE-rev-12/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-b650-gaming-x-ax-v2",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B650",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/ie/Motherboard/B650-GAMING-X-AX-V2-rev-10-11-12/sp",
+    "note": "La ficha oficial del modelo indica chipset AMD B650."
+  },
+  {
+    "product_id": "gigabyte-b650-gaming-x-ax-v2",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/ie/Motherboard/B650-GAMING-X-AX-V2-rev-10-11-12/sp",
+    "note": "La sección Memory publica módulos DDR5 para este modelo."
+  },
+  {
+    "product_id": "gigabyte-b650-gaming-x-ax-v2",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/ie/Motherboard/B650-GAMING-X-AX-V2-rev-10-11-12/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-x870-gaming-x-wifi7",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD X870",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Motherboard/X870-GAMING-X-WIFI7-rev-1x/sp",
+    "note": "La ficha oficial del modelo indica chipset AMD X870."
+  },
+  {
+    "product_id": "gigabyte-x870-gaming-x-wifi7",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Motherboard/X870-GAMING-X-WIFI7-rev-1x/sp",
+    "note": "La sección Memory publica módulos DDR5 para este modelo."
+  },
+  {
+    "product_id": "asrock-z890-taichi-aqua",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Taichi AQUA» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-taichi-aqua",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "E-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Taichi AQUA» de la tabla oficial ASRock indica formato EATX; se normaliza al valor canónico E-ATX."
+  },
+  {
+    "product_id": "asrock-z890m-riptide-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890M Riptide WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-pro-a",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Pro-A» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-pro-rs-wifi-white",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Pro RS WiFi White» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Pro RS» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-nova-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Nova WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-steel-legend-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Steel Legend WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-lightning-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Lightning WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-livemixer-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 LiveMixer WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-taichi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Taichi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-pro-a-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Pro-A WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z890-riptide-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «Z890 Riptide WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860-steel-legend-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «B860 Steel Legend WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860-pro-rs-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «B860 Pro RS WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «B860 Pro RS» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860-pro-a-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/search.asp?CPU=&Chipset=&Memory=&MultiGPU=&PCIe3x16=5",
+    "note": "La fila «B860 Pro-A WiFi» de la tabla oficial ASRock Motherboard Series indica 4 módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-x870-taichi-creator",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.asrock.com/Manual/X870%20Taichi%20Creator.pdf",
+    "note": "El manual o la ficha oficial del modelo «X870 Taichi Creator» indica cuatro ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850-riptide-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.asrock.com/Manual/B850%20Riptide%20WiFi.pdf",
+    "note": "El manual o la ficha oficial del modelo «B850 Riptide WiFi» indica cuatro ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.asrock.com/Manual/B850%20Pro%20RS_CN.pdf",
+    "note": "El manual o la ficha oficial del modelo «B850 Pro RS» indica cuatro ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-x870-steel-legend-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/mb/AMD/X870%20Steel%20Legend%20WiFi/index.asp",
+    "note": "El manual o la ficha oficial del modelo «X870 Steel Legend WiFi» indica cuatro ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-x870-riptide-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/mb/AMD/X870%20Riptide%20WiFi/index.asp",
+    "note": "El manual o la ficha oficial del modelo «X870 Riptide WiFi» indica cuatro ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850-pro-rs-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/compare.us.asp?Models=B850+Pro+RS+WiFi%2CB850+Pro-A+WiFi",
+    "note": "En la comparación oficial ASRock, el modelo «B850 Pro RS WiFi» especifica 4 x DDR5 DIMM Slots."
+  },
+  {
+    "product_id": "asrock-b850-pro-a-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/compare.us.asp?Models=B850+Pro+RS+WiFi%2CB850+Pro-A+WiFi",
+    "note": "En la comparación oficial ASRock, el modelo «B850 Pro-A WiFi» especifica 4 x DDR5 DIMM Slots."
+  },
+  {
+    "product_id": "gigabyte-h810m-h",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/H810M-H-rev-11/sp",
+    "note": "La ficha oficial identifica el factor Micro ATX y publica las dimensiones de esta revisión."
+  },
+  {
+    "product_id": "gigabyte-h810m-h",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/H810M-H-rev-11/sp",
+    "note": "La sección Memory de la ficha oficial especifica 2 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-a620m-ds3h",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/ie/Motherboard/A620M-DS3H-rev-11/sp",
+    "note": "La ficha oficial identifica el factor Micro ATX y publica las dimensiones del modelo."
+  },
+  {
+    "product_id": "gigabyte-a620m-ds3h",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/ie/Motherboard/A620M-DS3H-rev-11/sp",
+    "note": "La sección Memory de la ficha oficial especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-b760m-e",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B760M-E-rev-10/sp",
+    "note": "La ficha oficial identifica el factor Micro ATX y publica sus dimensiones."
+  },
+  {
+    "product_id": "gigabyte-b760m-e",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B760M-E-rev-10/sp",
+    "note": "La sección Memory de la ficha oficial especifica 2 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-b650m-aorus-elite",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650M-AORUS-ELITE-rev-10/sp?m=dl",
+    "note": "La ficha oficial identifica el factor Micro ATX y publica 24.4 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b650m-aorus-elite",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650M-AORUS-ELITE-rev-10/sp?m=dl",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-b760-ds3h-gen5",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel B760",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/es/Motherboard/B760-DS3H-GEN5/sp",
+    "note": "La ficha oficial del modelo indica Intel B760 Express Chipset."
+  },
+  {
+    "product_id": "gigabyte-b760-ds3h-gen5",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/be/Motherboard/B760-DS3H-GEN5/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b760-ds3h-gen5",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/es/Motherboard/B760-DS3H-GEN5/sp",
+    "note": "La sección Memory especifica módulos DDR5."
+  },
+  {
+    "product_id": "gigabyte-b760-ds3h-gen5",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/es/Motherboard/B760-DS3H-GEN5/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-b860-gaming-x-wifi6e",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Motherboard/B860-GAMING-X-WIFI6E/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b860-gaming-x-wifi6e",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Motherboard/B860-GAMING-X-WIFI6E/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-b860m-d3hp",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B860M-D3HP-rev-11/sp",
+    "note": "La ficha oficial identifica Micro ATX y publica las dimensiones del modelo."
+  },
+  {
+    "product_id": "gigabyte-b860m-d3hp",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B860M-D3HP-rev-11/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-b850m-force",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B850M-FORCE-rev-10/sp",
+    "note": "La ficha oficial identifica Micro ATX y publica sus dimensiones."
+  },
+  {
+    "product_id": "gigabyte-b850m-force",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B850M-FORCE-rev-10/sp",
+    "note": "La sección Memory especifica 2 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-z890-gaming-x-wifi7",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/Z890-GAMING-X-WIFI7/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-z890-gaming-x-wifi7",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/Z890-GAMING-X-WIFI7/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-b760m-d3hp-wifi6",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Motherboard/B760M-D3HP-WIFI6/sp",
+    "note": "La sección Memory de la ficha del modelo especifica módulos DDR5."
+  },
+  {
+    "product_id": "gigabyte-h810m-s2h",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/es/Motherboard/H810M-S2H-rev-10/sp",
+    "note": "La ficha oficial identifica Micro ATX y publica 24.4 × 21.5 cm."
+  },
+  {
+    "product_id": "gigabyte-h810m-s2h",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.gigabyte.com/FileList/Manual/mb_manual_h810m-s2h-h_1101_e.pdf?v=30eab7c5dab897e1fe4a86977395155e",
+    "note": "El manual oficial H810M S2H indica 2 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-z890i-aorus-ultra",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel Z890",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/Z890I-AORUS-ULTRA/sp",
+    "note": "La ficha oficial especifica Intel Z890 Express Chipset."
+  },
+  {
+    "product_id": "gigabyte-b650m-d3hp",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/de/Motherboard/B650M-D3HP-rev-13/sp",
+    "note": "La ficha oficial identifica Micro ATX y publica 24.4 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b850m-a-elt-wf6e-ice",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Motherboard/B850M-AORUS-ELITE-WIFI6E-ICE-rev-1x/sp",
+    "note": "La ficha oficial indica Micro ATX y dimensiones de 24.4 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b650-eagle",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650-EAGLE-rev-12/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b650-gaming-x-ax-v2",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/at/Motherboard/B650-GAMING-X-AX-V2-rev-10-11-12/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-x870-gaming-x-wifi7",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Motherboard/X870-GAMING-X-WIFI7-rev-1x/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b760-gaming-x-gen5",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/ph/Motherboard/B760-GAMING-X-GEN5/sp",
+    "note": "La ficha oficial indica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b760-ds3h-wf6e-gen5",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B760-DS3H-WIFI6E-GEN5/sp",
+    "note": "La ficha oficial indica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b760-gaming-x-ddr4-gen5",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.gigabyte.com/FileList/Manual/mb_manual_b760-gaming-x-series-gen5_1002_e.pdf?v=6b6cec0514cf827f30ef06cd9e393b34",
+    "note": "El manual oficial enumera cuatro sockets A1/A2/B1/B2 y aclara que aplica específicamente al B760 GAMING X DDR4 GEN5."
+  },
+  {
+    "product_id": "gigabyte-b760-gaming-x-ax",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.gigabyte.com/FileList/Manual/mb_manual_b760-gx-series_1301_e.pdf?v=2f911e9c19646ca317e333780e0251fc",
+    "note": "El manual oficial identifica el modelo B760 GAMING X AX como ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b650-gaming-x-ax",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/B650-GAMING-X-AX-rev-10-11-12/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b650-gaming-x-ax",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/B650-GAMING-X-AX-rev-10-11-12/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-x670-aorus-elite-ax",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/ca/Motherboard/X670-AORUS-ELITE-AX-rev-10-12/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-x670-aorus-elite-ax",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/ca/Motherboard/X670-AORUS-ELITE-AX-rev-10-12/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-x670e-aorus-master",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD X670",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/au/Motherboard/X670E-AORUS-MASTER-rev-1x/sp",
+    "note": "La ficha oficial del modelo, en el campo Chipset, publica AMD X670."
+  },
+  {
+    "product_id": "gigabyte-x670e-aorus-master",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "E-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/au/Motherboard/X670E-AORUS-MASTER-rev-1x/sp",
+    "note": "La ficha oficial identifica E-ATX y publica 30.5 × 26.9 cm."
+  },
+  {
+    "product_id": "gigabyte-x670e-aorus-master",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/au/Motherboard/X670E-AORUS-MASTER-rev-1x/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-x870e-aorus-pro",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD X870E",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-PRO-rev-11/sp",
+    "note": "La ficha oficial del modelo identifica AMD X870E en el campo Chipset."
+  },
+  {
+    "product_id": "gigabyte-x870e-aorus-pro",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/X870E-AORUS-PRO-rev-11/sp",
+    "note": "La sección Memory especifica 4 sockets DDR5 DIMM."
+  },
+  {
+    "product_id": "gigabyte-x870e-a-pro-x-ice",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/X870E-AORUS-PRO-X3D-ICE/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b850-a-stealth-ice",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/B850-AORUS-STEALTH-ICE-rev-10/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b850-eagle-ice",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/in/Motherboard/B850-EAGLE-ICE/sp",
+    "note": "La ficha oficial identifica ATX y publica 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "gigabyte-b650e-aorus-stealth-ice",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B650",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Motherboard/B650E-AORUS-STEALTH-ICE/sp",
+    "note": "La ficha oficial del modelo, en el campo Chipset, publica AMD B650."
+  },
+  {
+    "product_id": "asus-90mb1p20-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD X870E",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi7-neo/spec/",
+    "note": "El campo Chipset de la ficha oficial indica AMD X870E."
+  },
+  {
+    "product_id": "asus-90mb1p20-m0eay0",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi7-neo/spec/",
+    "note": "La ficha oficial especifica ATX y 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "asus-90mb1p20-m0eay0",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi7-neo/spec/",
+    "note": "La sección Memory indica memoria DDR5."
+  },
+  {
+    "product_id": "asus-90mb1p20-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi7-neo/spec/",
+    "note": "La sección Memory especifica 4 ranuras DIMM."
+  },
+  {
+    "product_id": "asus-90mb1ip0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel Z890",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-apex/spec/",
+    "note": "El campo Chipset de la ficha oficial indica Intel Z890."
+  },
+  {
+    "product_id": "asus-90mb1ip0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-apex/spec/",
+    "note": "La ficha oficial especifica ATX y 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "asus-90mb1ip0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-apex/spec/",
+    "note": "La sección Memory indica memoria DDR5."
+  },
+  {
+    "product_id": "asus-90mb1ip0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-apex/spec/",
+    "note": "La sección Memory especifica 2 ranuras DIMM."
+  },
+  {
+    "product_id": "asus-90mb1gy0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1700/PRIME_B760M-PLUS/E22828_PRIME_B760M-PLUS_UM_WEB.pdf?model=PRIME+B760M-PLUS",
+    "note": "El manual oficial muestra DDR5 DIMM A1/A2/B1/B2 para el PRIME B760M-PLUS."
+  },
+  {
+    "product_id": "asus-90mb1if0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870-a-gaming-wifi/spec/",
+    "note": "La ficha oficial especifica ATX y 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "asus-90mb1ji0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel B860",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/uk/motherboards/rog-strix/rog-strix-b860-a-gaming-wifi/spec/",
+    "note": "El campo Chipset de la ficha oficial indica Intel B860."
+  },
+  {
+    "product_id": "asus-90mb1ji0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/uk/motherboards/rog-strix/rog-strix-b860-a-gaming-wifi/spec/",
+    "note": "La ficha oficial especifica ATX y 30.5 × 24.4 cm."
+  },
+  {
+    "product_id": "asus-90mb1ji0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/uk/motherboards/rog-strix/rog-strix-b860-a-gaming-wifi/spec/",
+    "note": "La sección Memory indica memoria DDR5."
+  },
+  {
+    "product_id": "asus-90mb1ji0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/uk/motherboards/rog-strix/rog-strix-b860-a-gaming-wifi/spec/",
+    "note": "La sección Memory especifica 4 ranuras DIMM."
+  },
+  {
+    "product_id": "asus-90mb1m30-m0eay0",
+    "category_id": "motherboard",
+    "key": "Socket",
+    "value": "AM5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b850-g-gaming-wifi/spec/?config=90MB1M30-M0XCN0",
+    "note": "La ficha oficial indica AMD Socket AM5."
+  },
+  {
+    "product_id": "asus-90mb1m30-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b850-g-gaming-wifi/spec/?config=90MB1M30-M0XCN0",
+    "note": "El campo Chipset de la ficha oficial indica AMD B850."
+  },
+  {
+    "product_id": "asus-90mb1m30-m0eay0",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b850-g-gaming-wifi/spec/?config=90MB1M30-M0XCN0",
+    "note": "La ficha oficial identifica micro-ATX y publica 24.4 × 24.4 cm."
+  },
+  {
+    "product_id": "asus-90mb1m30-m0eay0",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b850-g-gaming-wifi/spec/?config=90MB1M30-M0XCN0",
+    "note": "La sección Memory indica memoria DDR5."
+  },
+  {
+    "product_id": "asus-90mb1m30-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b850-g-gaming-wifi/spec/?config=90MB1M30-M0XCN0",
+    "note": "La sección Memory especifica 4 ranuras DIMM."
+  },
+  {
+    "product_id": "asus-90mb1nx0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/ca-en/motherboards/rog-strix/rog-strix-b850-f-gaming-wifi7-neo/spec/?config=90MB1NX0-M0VCN0",
+    "note": "La sección Memory de la ficha oficial especifica 4 ranuras DIMM para ROG STRIX B850-F GAMING WIFI7 NEO."
+  },
+  {
+    "product_id": "asus-90mb1j70-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b850-f-gaming-wifi/spec/",
+    "note": "La sección Memory de la ficha oficial especifica 4 ranuras DIMM para ROG STRIX B850-F GAMING WIFI."
+  },
+  {
+    "product_id": "asus-90mb1it0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-x870-p/techspec/",
+    "note": "La ficha oficial PRIME X870-P especifica 4 ranuras DIMM."
+  },
+  {
+    "product_id": "asus-90mb1p10-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/dk/motherboards/rog-strix/rog-strix-b850-a-gaming-wifi7-neo/spec/",
+    "note": "El campo Chipset de la ficha oficial ROG STRIX B850-A GAMING WIFI7 NEO especifica AMD B850."
+  },
+  {
+    "product_id": "asus-90mb1p10-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/dk/motherboards/rog-strix/rog-strix-b850-a-gaming-wifi7-neo/spec/",
+    "note": "La sección Memory de la ficha oficial ROG STRIX B850-A GAMING WIFI7 NEO especifica 4 ranuras DIMM."
+  },
+  {
+    "product_id": "asus-90mb1kk0-m0eayc",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/motherboards/prime/prime-h810m-a-csm/",
+    "note": "La ficha oficial PRIME H810M-A-CSM indica 2 ranuras DIMM y soporte DDR5."
+  },
+  {
+    "product_id": "asus-90mb1j20-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B840",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/motherboards-components/motherboards/prime/prime-b840m-a-wifi/techspec/",
+    "note": "La sección Chipset de la ficha oficial PRIME B840M-A WIFI indica AMD B840 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1ez0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD A620",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/br/motherboards-components/motherboards/tuf-gaming/tuf-gaming-a620m-plus/techspec/",
+    "note": "La ficha oficial TUF GAMING A620M-PLUS enumera Chipset AMD A620."
+  },
+  {
+    "product_id": "asus-90mb1iz0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B840",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://dlcdnets.asus.com/pub/ASUS/mb/SocketAM5/PRIME_B840-PLUS_WIFI/E24443_PRIME_B840-PLUS_WIFI_EM_WEB.pdf?model=PRIME+B840-PLUS+WIFI",
+    "note": "El resumen oficial de especificaciones PRIME B840-PLUS WIFI indica AMD B840 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1i70-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel Z890",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/es/motherboards-components/motherboards/prime/prime-z890-p-wifi/techspec/",
+    "note": "La ficha técnica oficial PRIME Z890-P WIFI identifica el chipset Intel Z890."
+  },
+  {
+    "product_id": "asus-90mb1mu0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/fr/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850m-plus-wifi7-w/techspec/",
+    "note": "La ficha TUF GAMING B850M-PLUS WIFI7 W identifica el chipset AMD B850; este SKU de catálogo corresponde a la variante WIFI7."
+  },
+  {
+    "product_id": "asus-90mb1ln0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/ie/motherboards-components/motherboards/prime/prime-b850m-a-wifi/techspec/",
+    "note": "La ficha técnica de PRIME B850M-A WIFI indica AMD B850 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1j10-m0eayc",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B840",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/product-compare?LevelId=Motherboards-Components-Motherboards&ProductID=33481%2C30830",
+    "note": "La comparación oficial ASUS incluye PRIME B840M-A-CSM y declara AMD B840 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1fy0-m1eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel B760",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/motherboards-components/motherboards/proart/proart-b760-creator-wifi/techspec/",
+    "note": "La sección Chipset identifica Intel B760 Chipset para ProArt B760-CREATOR WIFI."
+  },
+  {
+    "product_id": "asus-90mb1fy0-m1eay0",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/motherboards-components/motherboards/proart/proart-b760-creator-wifi/techspec/",
+    "note": "La sección Memory de la ficha publica cuatro módulos DDR5 DIMM."
+  },
+  {
+    "product_id": "asus-90mb1n30-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD A620A",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/uk/motherboards-components/motherboards/tuf-gaming/tuf-gaming-a620am-plus/techspec/",
+    "note": "La ficha técnica oficial para TUF GAMING A620AM-PLUS declara literalmente AMD A620A Chipset."
+  },
+  {
+    "product_id": "asus-90mb1khp-m0eayc",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel H810",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/ua-ua/motherboards-components/motherboards/business/pro-h810m-c-csm/techspec/",
+    "note": "La ficha técnica Pro H810M-C-CSM declara Intel H810 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1ll0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/product-compare?LevelId=Motherboards-Components-Motherboards&ProductID=32210%2C31061",
+    "note": "La comparación oficial ASUS identifica AMD B850 Chipset para B850M MAX GAMING WIFI."
+  },
+  {
+    "product_id": "asus-90mb1pr0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/product-compare?LevelId=Motherboards-Components-Motherboards&ProductID=32210%2C31061",
+    "note": "La comparación oficial ASUS identifica AMD B850 Chipset para B850 MAX GAMING WIFI W; el chipset es común a ambas variantes comparadas."
+  },
+  {
+    "product_id": "asus-90mb1ny0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/uk/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x870-pro-wifi7-w-neo/techspec/",
+    "note": "La ficha oficial del modelo TUF GAMING X870-PRO WIFI7 W NEO especifica formato ATX."
+  },
+  {
+    "product_id": "asus-90mb1ji0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Socket",
+    "value": "LGA1851",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b860-a-gaming-wifi/",
+    "note": "La página oficial ROG identifica explícitamente Intel Socket LGA1851 para Strix B860-A Gaming WiFi."
+  },
+  {
+    "product_id": "asus-90mb1m10-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/ph/motherboards-components/motherboards/others/b850-max-gaming-wifi-w/techspec/",
+    "note": "La ficha exacta B850 MAX GAMING WIFI W declara AMD B850 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1f50-m0eayc",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD A620",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/uk/motherboards-components/motherboards/csm/prime-a620m-e-csm/techspec/",
+    "note": "La ficha oficial de PRIME A620M-E-CSM declara AMD A620 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1jc0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel Z890",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/ca-en/motherboards-components/motherboards/workstation/pro-ws-z890-ace-se/techspec/",
+    "note": "La sección Chipset de la ficha exacta Pro WS Z890-ACE SE declara Intel Z890 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1lb0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD X870E",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-extreme/spec/",
+    "note": "La ficha técnica ROG Crosshair X870E Extreme declara AMD X870E Chipset."
+  },
+  {
+    "product_id": "asus-90mb1eh0-m0eayc",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B650",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/us/motherboards-components/motherboards/csm/prime-b650m-a-ii-csm/techspec/",
+    "note": "La ficha PRIME B650M-A II-CSM indica AMD B650 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1f10-m0eayc",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD A620",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/motherboards/csm/prime-a620m-a-csm/techspec/",
+    "note": "La ficha PRIME A620M-A-CSM enumera AMD A620 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1f80-m0eayc",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD A620",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/ch-fr/motherboards-components/motherboards/business/pro-a620m-c-csm/techspec/",
+    "note": "La ficha Pro A620M-C-CSM enumera AMD A620 Chipset."
+  },
+  {
+    "product_id": "asus-90mb1m90-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD X870E",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870e-h-gaming-wifi7/spec/",
+    "note": "La ficha ROG Strix X870E-H Gaming WIFI7 declara AMD X870E Chipset."
+  },
+  {
+    "product_id": "asus-x870-max-gaming-wifi7-w",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/motherboards/others/x870-max-gaming-wifi7-w/techspec/",
+    "note": "La ficha exacta X870 MAX GAMING WIFI7 W publica 4 x DIMM slots."
+  },
+  {
+    "product_id": "asus-b650e-max-gaming-wifi",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/motherboards-components/motherboards/all-series/b650e-max-gaming-wifi/techspec/",
+    "note": "La ficha oficial B650E MAX GAMING WIFI especifica ATX Form Factor."
+  },
+  {
+    "product_id": "asus-90mb1l5m-m0eayc",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD A620A",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/cz/motherboards-components/motherboards/business/pro-a620at-csm/techspec/",
+    "note": "La ficha oficial Pro A620AT-CSM publica AMD A620A Chipset."
+  },
+  {
+    "product_id": "asus-90mb1bi0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B650E",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b650e-i-gaming-wifi/spec/",
+    "note": "La ficha del modelo ROG Strix B650E-I Gaming WiFi presenta chipset AMD B650E; coincide además con el modelo exacto."
+  },
+  {
+    "product_id": "asus-90mb1bi0-m0eay0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://dlcdnets.asus.com/pub/ASUS/mb/Socket%20AM5/ROG_STRIX_B650E-I_GAMING_WIFI/E20253_ROG_STRIX_B650E-I_GAMING_WIFI_UM_WEB.pdf",
+    "note": "El manual de ROG Strix B650E-I muestra las dos posiciones DIMM_A y DIMM_B y describe sus ranuras DDR5."
+  },
+  {
+    "product_id": "asus-rog-crosshair-x670e-hero",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD X670",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/uk/motherboards/rog-crosshair/rog-crosshair-x670e-hero-model/spec/",
+    "note": "La ficha técnica oficial de ROG Crosshair X670E Hero declara AMD X670 Chipset."
+  },
+  {
+    "product_id": "asus-rog-strix-x670e-e-gaming-wifi",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD X670",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x670e-e-gaming-wifi-model/spec/",
+    "note": "La ficha del modelo exacto ROG Strix X670E-E Gaming WiFi publica AMD X670 (campo Chipset)."
+  },
+  {
+    "product_id": "asus-tuf-gaming-x670e-plus-wifi",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD X670",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://dlcdnets.asus.com/pub/ASUS/mb/Socket%20AM5/TUF_GAMING_X670E-PLUS_WIFI/E20195_TUF_GAMING_X670E_PLUS_WIFI_UM_WEB.pdf",
+    "note": "El resumen oficial de especificaciones TUF Gaming X670E-Plus WiFi indica AMD X670 Chipset."
+  },
+  {
+    "product_id": "asus-rog-strix-b650e-e-gaming-wifi",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B650",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b650e-e-gaming-wifi-model/spec/",
+    "note": "La ficha oficial del modelo ROG Strix B650E-E Gaming WiFi publica AMD B650 (campo Chipset)."
+  },
+  {
+    "product_id": "asus-prime-b850m-f-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asus.com/supportonly/prime%20b850m-f%20wifi/helpdesk_manual/",
+    "note": "El manual de usuario oficial “PRIME B850M-F Series” listado en la página de soporte ASUS resume la memoria como 2 x DIMM slots para PRIME B850M-F WIFI / PRIME B850M-F."
+  },
+  {
+    "product_id": "gigabyte-b650m-d3hp",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B650",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650M-D3HP-rev-13/sp",
+    "note": "La ficha oficial B650M D3HP indica el chipset AMD B650."
+  },
+  {
+    "product_id": "gigabyte-b650m-d3hp",
+    "category_id": "motherboard",
+    "key": "Tipo de memoria",
+    "value": "DDR5",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650M-D3HP-rev-13/sp",
+    "note": "La especificación oficial enumera módulos de memoria DDR5 para B650M D3HP."
+  },
+  {
+    "product_id": "gigabyte-x870-a-elite-wf7-ice",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/X870-AORUS-ELITE-WIFI7-ICE-rev-10-11/sp",
+    "note": "La ficha oficial del modelo X870 AORUS Elite WIFI7 ICE publica ATX Form Factor."
+  },
+  {
+    "product_id": "gigabyte-b850m-eagle-wf6e-ice",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/in/Motherboard/B850M-EAGLE-WIFI6E-ICE-rev-10/sp",
+    "note": "La ficha B850M EAGLE WIFI6E ICE indica Micro ATX Form Factor."
+  },
+  {
+    "product_id": "gigabyte-h810m-k",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel H810",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/jp/Motherboard/H810M-K/sp",
+    "note": "La especificación del modelo H810M K declara Intel H810 Express Chipset."
+  },
+  {
+    "product_id": "gigabyte-b760m-d3hp-wifi6",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel B760",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/B760M-D3HP-WIFI6",
+    "note": "La ficha oficial B760M D3HP WIFI6 identifica Intel B760 Chipset."
+  },
+  {
+    "product_id": "gigabyte-b760m-ds3h-ddr4",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel B760",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B760M-DS3H-DDR4-rev-10/sp",
+    "note": "La ficha exacta B760M DS3H DDR4 (Rev. 1.x) indica Intel B760 Chipset."
+  },
+  {
+    "product_id": "gigabyte-b760m-ds3h-ddr4",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.gigabyte.com/FileList/Manual/mb_manual_b760m-ds3h-series_1302_e.pdf?v=898da05e775cd957c42c09e936874579",
+    "note": "El manual oficial de la serie identifica B760M DS3H DDR4 y le asigna cuatro zócalos DDR4 DIMM."
+  },
+  {
+    "product_id": "gigabyte-b860-ds3h",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel B860",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B860-DS3H-rev-10/sp",
+    "note": "La ficha oficial B860 DS3H (Rev. 1.0) declara Intel B860 Express Chipset."
+  },
+  {
+    "product_id": "gigabyte-b850i-aorus-pro-10",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B850I-AORUS-PRO-rev-10/sp",
+    "note": "La ficha exacta B850I AORUS PRO (Rev. 1.0) especifica AMD B850."
+  },
+  {
+    "product_id": "gigabyte-b650i-ax",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B650",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650I-AX-rev-12",
+    "note": "La ficha oficial B650I AX identifica el chipset AMD B650."
+  },
+  {
+    "product_id": "gigabyte-b650i-ax",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650I-AX-rev-12",
+    "note": "La ficha oficial B650I AX especifica 2 SMD DIMMs."
+  },
+  {
+    "product_id": "gigabyte-a620m-gaming-x",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/A620M-GAMING-X-rev-10/sp",
+    "note": "La ficha oficial de A620M GAMING X publica cuatro ranuras DIMM; también la revisión 2.1 mantiene cuatro."
+  },
+  {
+    "product_id": "gigabyte-b650m-d3hp-ax",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/B650M-D3HP-AX-rev-13/sp",
+    "note": "La ficha oficial B650M D3HP AX especifica Micro ATX Form Factor."
+  },
+  {
+    "product_id": "gigabyte-b650m-gaming-plus-wifi",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/sp",
+    "note": "La ficha oficial B650M GAMING PLUS WIFI indica Micro ATX Form Factor."
+  },
+  {
+    "product_id": "gigabyte-b850-aorus-elite-wifi7-ice",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/jp/Motherboard/B850-AORUS-ELITE-WIFI7-ICE-rev-1x/sp",
+    "note": "La ficha oficial del modelo B850 AORUS ELITE WIFI7 ICE declara AMD B850."
+  },
+  {
+    "product_id": "gigabyte-b850-aorus-elite-wifi7-ice",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/jp/Motherboard/B850-AORUS-ELITE-WIFI7-ICE-rev-1x/sp",
+    "note": "La ficha oficial B850 AORUS ELITE WIFI7 ICE especifica ATX Form Factor."
+  },
+  {
+    "product_id": "gigabyte-b650-eagle-ax",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B650",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/B650-EAGLE-AX-rev-12/sp",
+    "note": "La especificación oficial del modelo B650 EAGLE AX indica AMD B650."
+  },
+  {
+    "product_id": "gigabyte-b650-eagle-ax",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/B650-EAGLE-AX-rev-12/sp",
+    "note": "La ficha B650 EAGLE AX especifica ATX Form Factor."
+  },
+  {
+    "product_id": "gigabyte-b850-gaming-wifi6",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B850-GAMING-WIFI6-rev-1x/sp",
+    "note": "La ficha oficial B850 GAMING WIFI6 declara AMD B850."
+  },
+  {
+    "product_id": "gigabyte-b850-gaming-wifi6",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B850-GAMING-WIFI6-rev-1x/sp",
+    "note": "La ficha B850 GAMING WIFI6 especifica ATX Form Factor."
+  },
+  {
+    "product_id": "gigabyte-x870-gaming-wifi6",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/X870-GAMING-WIFI6-rev-1x/sp",
+    "note": "La ficha oficial X870 GAMING WIFI6 declara ATX Form Factor."
+  },
+  {
+    "product_id": "gigabyte-b760m-gaming-ddr4",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-DDR4-rev-1x/sp",
+    "note": "La ficha B760M GAMING DDR4 (Rev. 1.x) indica Micro ATX Form Factor."
+  },
+  {
+    "product_id": "gigabyte-b850m-aorus-elite-wifi6e",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/eu/Motherboard/B850M-AORUS-ELITE-WIFI6E-rev-1x/sp",
+    "note": "La ficha B850M AORUS ELITE WIFI6E (Rev. 1.x) especifica Micro ATX Form Factor."
+  },
+  {
+    "product_id": "msi-911-7e33-004",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "Intel Z890",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://storage-asset.msi.com/datasheet/mb/cn/MPG-Z890I-EDGE-TI-WIFI.pdf",
+    "note": "La ficha oficial de MPG Z890I EDGE TI WIFI identifica Intel Z890 Chipset."
+  },
+  {
+    "product_id": "msi-911-7e61-001",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD B850",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us.msi.com/Motherboard/MAG-B850M-MORTAR-WIFI/Specification",
+    "note": "La página oficial de especificaciones del MAG B850M MORTAR WIFI declara AMD B850."
+  },
+  {
+    "product_id": "msi-b850-gaming-plus-wifi6e",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us-store.msi.com/B850-GAMING-PLUS-WIFI6E",
+    "note": "La ficha del producto en la tienda oficial MSI indica PCB Info ATX y publica dimensiones 243.84 × 304.8 mm."
+  },
+  {
+    "product_id": "msi-pro-z890-p-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Motherboard/PRO-Z890-P-WIFI/Specification",
+    "note": "La ficha oficial PRO Z890-P WIFI indica 4x DDR5 UDIMM."
+  },
+  {
+    "product_id": "msi-z890-gaming-plus-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.msi.com/archive/mnu_exe/mb/Z890GAMINGPLUSWIFI_English.pdf",
+    "note": "El manual oficial Z890 GAMING PLUS WIFI especifica 4x ranuras de memoria DDR5."
+  },
+  {
+    "product_id": "msi-b650m-gaming-plus-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://tw.msi.com/Motherboard/B650M-GAMING-PLUS-WIFI/Specification",
+    "note": "La ficha oficial B650M GAMING PLUS WIFI indica 4x DDR5 UDIMM."
+  },
+  {
+    "product_id": "msi-mag-b650-tomahawk-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us.msi.com/Motherboard/MAG-B650-TOMAHAWK-WIFI/Specification",
+    "note": "La ficha oficial MAG B650 TOMAHAWK WIFI publica memoria 4x DDR5."
+  },
+  {
+    "product_id": "msi-mag-x670e-tomahawk-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://my.msi.com/Motherboard/MAG-X670E-TOMAHAWK-WIFI/Specification",
+    "note": "La especificación oficial MAG X670E TOMAHAWK WIFI indica 4x DDR5."
+  },
+  {
+    "product_id": "msi-mpg-x670e-carbon-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.msi.com/Motherboard/MPG-X670E-CARBON-WIFI/Specification",
+    "note": "La ficha exacta MPG X670E CARBON WIFI publica memoria 4x DDR5."
+  },
+  {
+    "product_id": "msi-mpg-z790-carbon-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://us.msi.com/Motherboard/MPG-Z790-CARBON-WIFI/Specification",
+    "note": "La ficha oficial MPG Z790 CARBON WIFI indica memoria 4x DDR5."
+  },
+  {
+    "product_id": "asrock-b760m-h2-m2",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/B760M-H2M.2/",
+    "note": "La ficha oficial de B760M-H2/M.2 especifica «Micro ATX Form Factor» y dimensiones 24.4 x 20.1 cm."
+  },
+  {
+    "product_id": "asrock-b760m-h2-m2",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/B760M-H2M.2/",
+    "note": "La sección Memory de la ficha B760M-H2/M.2 especifica 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-x870-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/X870%20Pro%20RS/",
+    "note": "La sección Memory de la ficha X870 Pro RS especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b650m-hdvm2",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/MB/AMD/B650M-HDVM.2/index.asp",
+    "note": "La ficha B650M-HDV/M.2 especifica 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b650m-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/MB/AMD/B650M%20Pro%20RS/index.us.asp",
+    "note": "La sección Memory de la ficha B650M Pro RS especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850-pro-a",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/B850%20Pro-A/index.asp",
+    "note": "La ficha B850 Pro-A exacta publica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b760m-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/MB/Intel/B760M%20Pro%20RS/index.asp",
+    "note": "La ficha B760M Pro RS exacta publica 4 ranuras DDR5 DIMM; no es la variante /D4."
+  },
+  {
+    "product_id": "asrock-b860-livemixer-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/B860%20LiveMixer%20WiFi/index.us.asp",
+    "note": "La ficha B860 LiveMixer WiFi publica 4 DDR5 DIMM; su manual identifica dos pares de ranuras (A1/B1 y A2/B2)."
+  },
+  {
+    "product_id": "asrock-b650-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/MB/AMD/B650%20Pro%20RS/index.asp",
+    "note": "La ficha B650 Pro RS exacta publica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850m-x-wifi-r2-0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/mb/AMD/B850M-X%20WiFi%20R2.0/index.asp",
+    "note": "La ficha exacta B850M-X WiFi R2.0 y su manual especifican 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-x870e-taichi-lite",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/mb/AMD/X870E%20Taichi%20Lite/index.asp",
+    "note": "La ficha X870E Taichi Lite especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-a620am-hvs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.asrock.com/Manual/A620AM-HVS.pdf",
+    "note": "El manual oficial A620AM-HVS identifica las ranuras DDR5_A1 y DDR5_B1, dos DIMM."
+  },
+  {
+    "product_id": "asrock-a620ai-wifi",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD A620A",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/amd/A620AI%20WiFi/",
+    "note": "La ficha exacta A620AI WiFi declara chipset AMD A620A."
+  },
+  {
+    "product_id": "asrock-b860m-steel-legend-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/mb/Intel/B860M%20Steel%20Legend%20WiFi/index.asp",
+    "note": "La ficha exacta B860M Steel Legend WiFi indica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b650m-hm2",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/overview.asp?Model=B650M-H%2FM.2%2B",
+    "note": "La ficha B650M-H/M.2+ (sin WiFi) indica 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860m-pro-rs-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.asrock.com/Manual/B860M%20Pro%20RS%20WiFi.pdf",
+    "note": "El manual oficial B860M Pro RS WiFi especifica 4 ranuras DIMM DDR5."
+  },
+  {
+    "product_id": "asrock-b650-pg-lightning",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/B650%20PG%20Lightning/index.asp",
+    "note": "La ficha B650 PG Lightning exacta especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860m-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/B860M%20Pro%20RS/index.asp",
+    "note": "La ficha B860M Pro RS exacta indica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b760-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/B760%20Pro%20RS/index.asp",
+    "note": "La ficha B760 Pro RS exacta indica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-z790-pg-lightning",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/Z790%20PG%20Lightning/index.asp",
+    "note": "La ficha Z790 PG Lightning exacta indica 4 ranuras DDR5 DIMM; no es la variante /D4."
+  },
+  {
+    "product_id": "asrock-x870e-nova-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://pg.asrock.com/mb/AMD/X870E%20Nova%20WiFi/index.asp",
+    "note": "La ficha X870E Nova WiFi indica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860m-pro-a",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/B860M%20Pro-A/index.asp",
+    "note": "La ficha B860M Pro-A exacta especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b650-steel-legend-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/mb/AMD/B650%20Steel%20Legend%20WiFi/index.asp",
+    "note": "La ficha B650 Steel Legend WiFi exacta especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850m-x-r2-0",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/MB/AMD/B850M-X%20R2.0/index.us.asp",
+    "note": "La ficha oficial B850M-X R2.0 especifica 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b760m-steel-legend-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/mb/overview.asp?Model=B760M+Steel+Legend+WiFi",
+    "note": "La ficha B760M Steel Legend WiFi especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850m-pro-rs",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/B850M%20Pro%20RS/index.us.asp",
+    "note": "La ficha exacta B850M Pro RS especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-x870e-taichi-ocf",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/X870E%20Taichi%20OCF/Specification.asp",
+    "note": "La ficha X870E Taichi OCF especifica «ATX Form Factor» (30.5 × 24.4 cm)."
+  },
+  {
+    "product_id": "asrock-x870e-taichi-ocf",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/X870E%20Taichi%20OCF/Specification.asp",
+    "note": "La sección Memory de X870E Taichi OCF indica 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860m-livemixer-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/overview.asp?Model=B860M+LiveMixer+WiFi",
+    "note": "La ficha exacta B860M LiveMixer WiFi especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-a620am-x-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/A620AM-X%20WiFi/",
+    "note": "El manual oficial A620AM-X WiFi indica dos ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-a620am-x",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/A620AM-X/index.asp",
+    "note": "La ficha A620AM-X exacta indica 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-a620am-pro-a",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/MB/AMD/A620AM%20Pro-A/index.us.asp",
+    "note": "La ficha A620AM Pro-A exacta indica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-a620am-pro-rs-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/A620AM%20Pro%20RS%20WiFi/index.asp",
+    "note": "La ficha A620AM Pro RS WiFi especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-a620am-pro-a-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.asrock.com/Manual/A620AM%20Pro-A%20WiFi.pdf",
+    "note": "El manual oficial A620AM Pro-A WiFi distingue dos pares DIMM (DDR5_A1/B1 y DDR5_A2/B2), 4 ranuras en total."
+  },
+  {
+    "product_id": "asrock-b850-livemixer-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/AMD/B850%20LiveMixer%20WiFi/index.asp",
+    "note": "La ficha B850 LiveMixer WiFi exacta especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-x870e-taichi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/MB/AMD/X870E%20Taichi/",
+    "note": "La ficha X870E Taichi exacta especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b650m-pg-lightning",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/overview.asp?Model=B650M+PG+Lightning",
+    "note": "El resumen oficial del modelo B650M PG Lightning especifica 4 DIMM DDR5."
+  },
+  {
+    "product_id": "asrock-b850m-pro-rs-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/amd/B850M%20Pro%20RS%20WiFi/",
+    "note": "La ficha oficial B850M Pro RS WiFi publica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860-lightning-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/B860%20Lightning%20WiFi/index.asp",
+    "note": "La ficha B860 Lightning WiFi especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860m-pro-a-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/B860M%20Pro-A%20WiFi/index.asp",
+    "note": "La ficha B860M Pro-A WiFi exacta especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-h810m-h",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/MB/Intel/H810M-H/index.asp",
+    "note": "La ficha H810M-H exacta especifica 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850m-steel-legend-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/mb/AMD/B850M%20Steel%20Legend%20WiFi/index.asp",
+    "note": "La ficha B850M Steel Legend WiFi especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-h810m-x",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/H810M-X/index.asp",
+    "note": "La ficha H810M-X exacta especifica 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-h810m-x-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/intel/H810M-X%20WiFi/",
+    "note": "La ficha H810M-X WiFi exacta especifica 2 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850m-riptide-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://pg.asrock.com/MB/AMD/B850M%20Riptide%20WiFi/",
+    "note": "La ficha B850M Riptide WiFi especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860-pro-a",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/MB/Intel/B860%20Pro-A/index.asp",
+    "note": "La ficha B860 Pro-A exacta especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850m-pro-a",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/mb/AMD/B850M%20Pro-A/index.asp",
+    "note": "La ficha B850M Pro-A exacta especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b850m-pro-a-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/MB/AMD/B850M%20Pro-A%20WiFi/index.asp",
+    "note": "La ficha B850M Pro-A WiFi exacta especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-x870-nova-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://pg.asrock.com/MB/AMD/X870%20Nova%20WiFi/index.asp",
+    "note": "La ficha oficial X870 Nova WiFi especifica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-x870-livemixer-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/MB/AMD/X870%20LiveMixer%20WiFi/index.asp",
+    "note": "El manual oficial X870 LiveMixer WiFi muestra 4 ranuras DDR5 DIMM (A1, A2, B1, B2)."
+  },
+  {
+    "product_id": "asrock-z790-livemixer",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp",
+    "note": "La especificación oficial Z790 LiveMixer indica 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "asrock-b860m-lightning-wifi",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "4",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://pg.asrock.com/mb/Intel/B860M%20Lightning%20WiFi/index.asp",
+    "note": "La ficha y manual B860M Lightning WiFi indican 4 ranuras DDR5 DIMM."
+  },
+  {
+    "product_id": "biostar-b650mt",
+    "category_id": "motherboard",
+    "key": "Formato",
+    "value": "Micro-ATX",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.biostar.com.tw/app/en/mb/export/spec_export.php?S_ID=1135",
+    "note": "La especificación oficial B650MT declara «Micro ATX Form Factor» y dimensiones 22.1 × 23.5 cm."
+  },
+  {
+    "product_id": "asrock-b760m-hdv-m2-d4",
+    "category_id": "motherboard",
+    "key": "Ranuras de memoria",
+    "value": "2",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://asrock.com/MB/Intel/B760M-HDVM.2%20D4/index.us.asp",
+    "note": "La ficha exacta B760M-HDV/M.2 D4 especifica 2 ranuras DDR4 DIMM."
+  },
+  {
+    "product_id": "gigabyte-a620m-gaming-x",
+    "category_id": "motherboard",
+    "key": "Chipset",
+    "value": "AMD A620",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/us/Motherboard/A620M-Gaming-X-rev-10/sp",
+    "note": "La ficha oficial de GIGABYTE para A620M GAMING X Rev. 1.0 indica AMD A620 Chipset."
+  }
+]

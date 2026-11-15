@@ -1,0 +1,297 @@
+[
+ {
+  "id": "thermaltake-cl-w362-pl12sw-a",
+  "slug": "thermaltake-cl-w362-pl12sw-a",
+  "name": "Thermaltake TH360 V2 ARGB Sync (CL-W362-PL12SW-A)",
+  "category_id": "cooler",
+  "brand": "Thermaltake",
+  "mpn": "CL-W362-PL12SW-A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/th360-v2-argb-sync-all-in-one-liquid-cooler.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-3, LGA2011",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "thermaltake-cl-w361-pl12sw-a",
+  "slug": "thermaltake-cl-w361-pl12sw-a",
+  "name": "Thermaltake TH240 V2 ARGB Sync (CL-W361-PL12SW-A)",
+  "category_id": "cooler",
+  "brand": "Thermaltake",
+  "mpn": "CL-W361-PL12SW-A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/th240-v2-argb-sync-all-in-one-liquid-cooler.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-3, LGA2011",
+   "Radiador": "240 mm"
+  }
+ },
+ {
+  "id": "thermaltake-cl-w376-pl14sw-a",
+  "slug": "thermaltake-cl-w376-pl14sw-a",
+  "name": "Thermaltake TH420 V2 ARGB Sync (CL-W376-PL14SW-A)",
+  "category_id": "cooler",
+  "brand": "Thermaltake",
+  "mpn": "CL-W376-PL14SW-A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/th420-v2-argb-sync-all-in-one-liquid-cooler.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-3, LGA2011",
+   "Radiador": "420 mm"
+  }
+ },
+ {
+  "id": "thermaltake-cl-w386-pl14sw-a",
+  "slug": "thermaltake-cl-w386-pl14sw-a",
+  "name": "Thermaltake TH420 V2 Ultra ARGB Sync (CL-W386-PL14SW-A)",
+  "category_id": "cooler",
+  "brand": "Thermaltake",
+  "mpn": "CL-W386-PL14SW-A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/th420-ultra-argb-sync-all-in-one-liquid-cooler.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-3, LGA2011",
+   "Radiador": "420 mm"
+  }
+ },
+ {
+  "id": "thermaltake-cl-w384-pl12sw-a",
+  "slug": "thermaltake-cl-w384-pl12sw-a",
+  "name": "Thermaltake TH360 V2 Ultra ARGB Sync (CL-W384-PL12SW-A)",
+  "category_id": "cooler",
+  "brand": "Thermaltake",
+  "mpn": "CL-W384-PL12SW-A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/th360-ultra-argb-sync-all-in-one-liquid-cooler.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-3, LGA2011",
+   "Radiador": "360 mm"
+  }
+ },
+ {
+  "id": "thermaltake-cl-w383-pl12sw-a",
+  "slug": "thermaltake-cl-w383-pl12sw-a",
+  "name": "Thermaltake TH240 V2 Ultra ARGB Sync (CL-W383-PL12SW-A)",
+  "category_id": "cooler",
+  "brand": "Thermaltake",
+  "mpn": "CL-W383-PL12SW-A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/th240-ultra-argb-sync-all-in-one-liquid-cooler.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-3, LGA2011",
+   "Radiador": "240 mm"
+  }
+ },
+ {
+  "id": "thermaltake-cl-w370-pl14sw-a",
+  "slug": "thermaltake-cl-w370-pl14sw-a",
+  "name": "Thermaltake TOUGHLIQUID Ultra 420 RGB (CL-W370-PL14SW-A)",
+  "category_id": "cooler",
+  "brand": "Thermaltake",
+  "mpn": "CL-W370-PL14SW-A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/toughliquid-ultra-420-rgb-all-in-one-liquid-cooler.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-3, LGA2011",
+   "Radiador": "420 mm"
+  }
+ },
+ {
+  "id": "thermaltake-cl-p117-ca14bl-a",
+  "slug": "thermaltake-cl-p117-ca14bl-a",
+  "name": "Thermaltake TOUGHAIR 710 Negro (CL-P117-CA14BL-A)",
+  "category_id": "cooler",
+  "brand": "Thermaltake",
+  "mpn": "CL-P117-CA14BL-A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/toughair-710-black-cpu-cooler.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-3, LGA2011",
+   "Ventiladores": "2 × 140 mm",
+   "Altura": "165 mm",
+   "Heatpipes": "7"
+  }
+ },
+ {
+  "id": "gigabyte-gp-aorus-waterforce-x-ii-360",
+  "slug": "gigabyte-gp-aorus-waterforce-x-ii-360",
+  "name": "Gigabyte AORUS WATERFORCE X II 360 ARGB Negro (GP-AORUS WATERFORCE X II 360)",
+  "category_id": "cooler",
+  "brand": "Gigabyte",
+  "mpn": "GP-AORUS WATERFORCE X II 360",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/CPU-Cooler/AORUS-WATERFORCE-X-II-360/sp",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "LGA115X, LGA1200, LGA1700, LGA1851, AM5, AM4, sTR5, TR4",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-aorus-waterforce-ii-360",
+  "slug": "gigabyte-gp-aorus-waterforce-ii-360",
+  "name": "Gigabyte AORUS WATERFORCE II 360 ARGB Negro (GP-AORUS WATERFORCE II 360)",
+  "category_id": "cooler",
+  "brand": "Gigabyte",
+  "mpn": "GP-AORUS WATERFORCE II 360",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/CPU-Cooler/AORUS-WATERFORCE-II-360/sp",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "LGA115X, LGA1200, LGA1700, LGA1851, AM5, AM4",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-gigabyte-gme-360",
+  "slug": "gigabyte-gp-gigabyte-gme-360",
+  "name": "Gigabyte GAMING 360 ARGB Negro (GP-GIGABYTE GME 360)",
+  "category_id": "cooler",
+  "brand": "Gigabyte",
+  "mpn": "GP-GIGABYTE GME 360",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/CPU-Cooler/GIGABYTE-GAMING-360/sp",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "LGA1851, LGA1700, LGA115X, LGA1200, AM5, AM4",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "gigabyte-gp-gigabyte-gme-360i",
+  "slug": "gigabyte-gp-gigabyte-gme-360i",
+  "name": "Gigabyte GAMING 360 ICE ARGB Blanco (GP-GIGABYTE GME 360I)",
+  "category_id": "cooler",
+  "brand": "Gigabyte",
+  "mpn": "GP-GIGABYTE GME 360I",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.gigabyte.com/CPU-Cooler/GIGABYTE-GAMING-360-ICE/sp",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "LGA1851, LGA1700, LGA115X, LGA1200, AM5, AM4",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "lian-li-ga2alcd36w",
+  "slug": "lian-li-ga2alcd36w",
+  "name": "Lian Li Galahad II LCD 360 Blanco (GA2ALCD36W)",
+  "category_id": "cooler",
+  "brand": "Lian Li",
+  "mpn": "GA2ALCD36W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/galahad-ii-lcd/",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm"
+  }
+ },
+ {
+  "id": "lian-li-ga2alcd36b",
+  "slug": "lian-li-ga2alcd36b",
+  "name": "Lian Li Galahad II LCD 360 Negro (GA2ALCD36B)",
+  "category_id": "cooler",
+  "brand": "Lian Li",
+  "mpn": "GA2ALCD36B",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://lian-li.com/product/galahad-ii-lcd/",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "360 mm"
+  }
+ },
+ {
+  "id": "alphacool-11286",
+  "slug": "alphacool-11286",
+  "name": "Alphacool Eisbaer 360 CPU Negro (11286)",
+  "category_id": "cooler",
+  "brand": "Alphacool",
+  "mpn": "11286",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/11286-alphacool-eisbaer-360-cpu-black",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, LGA1851, LGA1700, LGA1200, LGA1156, LGA1151, LGA1150, LGA2011-3, LGA2011, LGA2066",
+   "Radiador": "360 mm"
+  }
+ },
+ {
+  "id": "alphacool-11285",
+  "slug": "alphacool-11285",
+  "name": "Alphacool Eisbaer 240 CPU Negro (11285)",
+  "category_id": "cooler",
+  "brand": "Alphacool",
+  "mpn": "11285",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/11285-alphacool-eisbaer-240-cpu-black",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, AM3+, AM3, AM2+, AM2, LGA1851, LGA1700, LGA1200, LGA1156, LGA1151, LGA1150, LGA2011-3, LGA2011, LGA2066",
+   "Radiador": "240 mm"
+  }
+ },
+ {
+  "id": "alphacool-11999",
+  "slug": "alphacool-11999",
+  "name": "Alphacool Eisbaer Aurora HPE Edition 360 CPU AIO (11999)",
+  "category_id": "cooler",
+  "brand": "Alphacool",
+  "mpn": "11999",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/11999-alphacool-eisbaer-aurora-hpe-edition-360-cpu-aio",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, SP6, sTRX4, sWRX8, TR4, LGA1851, LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2011-3, LGA2011, LGA2066",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "391.5 × 124 × 30 mm"
+  }
+ },
+ {
+  "id": "alphacool-13074",
+  "slug": "alphacool-13074",
+  "name": "Alphacool Eisbaer Pro HPE Aurora 360 CPU AIO (13074)",
+  "category_id": "cooler",
+  "brand": "Alphacool",
+  "mpn": "13074",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://shop.alphacool.com/en/shop/cpu-gpu-aios/cpu-aio/13074-alphacool-eisbaer-pro-hpe-aurora-360-cpu-aio",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, SP3, SP6, sTR5, sWRX8, TR4, LGA1851, LGA1700, LGA2011-3, LGA2011, LGA2066, LGA3647",
+   "Radiador": "360 mm",
+   "Dimensiones radiador": "391.5 × 124 × 30 mm"
+  }
+ }
+]

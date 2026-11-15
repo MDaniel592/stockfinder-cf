@@ -1,0 +1,109 @@
+[
+ {
+  "id": "patriot-vv516g60c36ak",
+  "slug": "patriot-vv516g60c36ak",
+  "name": "Patriot Viper Venom AMD Series 16 GB (2 × 8 GB) DDR5-6000 CL36 (VV516G60C36AK)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VV516G60C36AK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+    "supports": "Tabla SKU oficial Viper Venom AMD Series (Non-RGB Kits): VV516G60C36AK = 16GB (2x8GB), 6000MT/s, CL36, 1.35V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:34:44Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V",
+   "Perfil": "AMD EXPO",
+   "Iluminación": "Sin RGB"
+  }
+ },
+ {
+  "id": "patriot-vv532g60c30ak",
+  "slug": "patriot-vv532g60c30ak",
+  "name": "Patriot Viper Venom AMD Series 32 GB (2 × 16 GB) DDR5-6000 CL30 (VV532G60C30AK)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VV532G60C30AK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+    "supports": "Tabla SKU oficial Viper Venom AMD Series (Non-RGB Kits): VV532G60C30AK = 32GB (2x16GB), 6000MT/s, CL30, 1.35V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:34:44Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL30",
+   "Voltaje": "1.35 V",
+   "Perfil": "AMD EXPO",
+   "Iluminación": "Sin RGB"
+  }
+ },
+ {
+  "id": "patriot-vv532g60c36ak",
+  "slug": "patriot-vv532g60c36ak",
+  "name": "Patriot Viper Venom AMD Series 32 GB (2 × 16 GB) DDR5-6000 CL36 (VV532G60C36AK)",
+  "category_id": "ram",
+  "brand": "Patriot",
+  "mpn": "VV532G60C36AK",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.patriotmemory.com/products/viper-venom-amd-series-ddr5-performance-ram",
+    "supports": "Tabla SKU oficial Viper Venom AMD Series (Non-RGB Kits): VV532G60C36AK = 32GB (2x16GB), 6000MT/s, CL36, 1.35V."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:34:44Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36",
+   "Voltaje": "1.35 V",
+   "Perfil": "AMD EXPO",
+   "Iluminación": "Sin RGB"
+  }
+ },
+ {
+  "id": "apacer-ah4u16g32c28ytbaa-1",
+  "slug": "apacer-ah4u16g32c28ytbaa-1",
+  "name": "Apacer TEX DDR4-3200 16 GB (1 × 16 GB) CL16 (AH4U16G32C28YTBAA-1)",
+  "category_id": "ram",
+  "brand": "Apacer",
+  "mpn": "AH4U16G32C28YTBAA-1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.apacer.com/upload/media/download/ZADAK/Data%20Sheet_TEX%20DDR4.pdf",
+  "manufacturer_sources": [
+   {
+    "url": "https://www.apacer.com/upload/media/download/ZADAK/Data%20Sheet_TEX%20DDR4.pdf",
+    "supports": "Datasheet oficial Apacer TEX DDR4 (tabla Part No): AH4U16G32C28YTBAA-1, EAN 4712389908193, 16GB, Single, 3200, 16-20-20-38, sin LED, disipador Black-silver; Intel XMP 2.0."
+   }
+  ],
+  "specs_verified_at": "2026-11-09T16:34:44Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16",
+   "Perfil": "Intel XMP 2.0",
+   "Color": "negro y plata"
+  }
+ }
+]

@@ -1,0 +1,385 @@
+[
+ {
+  "id": "thermaltake-view-290-tg-argb-ca-11g-00m1wn-00",
+  "slug": "thermaltake-view-290-tg-argb-ca-11g-00m1wn-00",
+  "name": "Thermaltake View 290 TG ARGB (CA-11G-00M1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-11G-00M1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/view-290-tg-argb-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "450 mm",
+   "Altura disipador máxima": "180 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "497 × 242 × 477 mm"
+  }
+ },
+ {
+  "id": "thermaltake-core-v1-ca-1b8-00s1wn-00",
+  "slug": "thermaltake-core-v1-ca-1b8-00s1wn-00",
+  "name": "Thermaltake Core V1 (CA-1B8-00S1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1B8-00S1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/core-v1.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "Mini-ITX",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "140 mm",
+   "Ventiladores incluidos": "1 × 200 mm",
+   "Dimensiones": "276 × 260 × 316 mm"
+  }
+ },
+ {
+  "id": "thermaltake-view-200-tg-argb-ca-1x3-00m1wn-00",
+  "slug": "thermaltake-view-200-tg-argb-ca-1x3-00m1wn-00",
+  "name": "Thermaltake View 200 TG ARGB (CA-1X3-00M1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1X3-00M1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/view-200-tg-argb-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "166 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "460 × 210 × 395.3 mm"
+  }
+ },
+ {
+  "id": "thermaltake-core-p8-tg-ca-1q2-00m1wn-00",
+  "slug": "thermaltake-core-p8-tg-ca-1q2-00m1wn-00",
+  "name": "Thermaltake Core P8 TG (CA-1Q2-00M1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1Q2-00M1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/core-p8-tempered-glass-full-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Radiador frontal máximo": "480 mm",
+   "Radiador superior máximo": "360 mm",
+   "Dimensiones": "660 × 260 × 626 mm"
+  }
+ },
+ {
+  "id": "thermaltake-s200-tg-argb-ca-1x2-00m1wn-00",
+  "slug": "thermaltake-s200-tg-argb-ca-1x2-00m1wn-00",
+  "name": "Thermaltake S200 TG ARGB (CA-1X2-00M1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1X2-00M1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/s200-tg-argb-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "166 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "460 × 210 × 395.3 mm"
+  }
+ },
+ {
+  "id": "thermaltake-s200-tg-argb-snow-ca-1x2-00m6wn-00",
+  "slug": "thermaltake-s200-tg-argb-snow-ca-1x2-00m6wn-00",
+  "name": "Thermaltake S200 TG ARGB Snow (CA-1X2-00M6WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1X2-00M6WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/s200-tg-argb-snow-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "166 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "460 × 210 × 395.3 mm"
+  }
+ },
+ {
+  "id": "thermaltake-cte-e550-tg-matcha-green-ca-1z8-00mewn-00",
+  "slug": "thermaltake-cte-e550-tg-matcha-green-ca-1z8-00mewn-00",
+  "name": "Thermaltake CTE E550 TG Matcha Green (CA-1Z8-00MEWN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1Z8-00MEWN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/cte-e550-tg-matcha-green-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "166 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "558.5 × 270 × 513 mm"
+  }
+ },
+ {
+  "id": "thermaltake-ceres-350-mx-snow-ca-1z3-00m6wn-00",
+  "slug": "thermaltake-ceres-350-mx-snow-ca-1z3-00m6wn-00",
+  "name": "Thermaltake Ceres 350 MX Snow (CA-1Z3-00M6WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1Z3-00M6WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/ceres-350-mx-snow-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "475 × 245 × 463 mm"
+  }
+ },
+ {
+  "id": "thermaltake-view-390-air-snow-ca-11f-00m6wn-00",
+  "slug": "thermaltake-view-390-air-snow-ca-11f-00m6wn-00",
+  "name": "Thermaltake View 390 Air Snow (CA-11F-00M6WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-11F-00M6WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/view-390-air-snow-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "2 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Dimensiones": "503 × 287 × 485 mm"
+  }
+ },
+ {
+  "id": "thermaltake-view-390-air-ca-11f-00m1wn-00",
+  "slug": "thermaltake-view-390-air-ca-11f-00m1wn-00",
+  "name": "Thermaltake View 390 Air (CA-11F-00M1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-11F-00M1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/view-390-air-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "160 mm",
+   "Ventiladores incluidos": "2 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Dimensiones": "503 × 287 × 485 mm"
+  }
+ },
+ {
+  "id": "thermaltake-core-v21-ca-1d5-00s1wn-00",
+  "slug": "thermaltake-core-v21-ca-1d5-00s1wn-00",
+  "name": "Thermaltake Core V21 (CA-1D5-00S1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1D5-00S1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/core-v21.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "350 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "1 × 200 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Dimensiones": "336 × 320 × 424 mm"
+  }
+ },
+ {
+  "id": "thermaltake-versa-h15-ca-1d4-00s1nn-00",
+  "slug": "thermaltake-versa-h15-ca-1d4-00s1nn-00",
+  "name": "Thermaltake Versa H15 (CA-1D4-00S1NN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1D4-00S1NN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/versa-h15.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "315 mm",
+   "Altura disipador máxima": "155 mm",
+   "Ventiladores incluidos": "1 × 120 mm",
+   "Radiador frontal máximo": "240 mm",
+   "Dimensiones": "378 × 198 × 411 mm"
+  }
+ },
+ {
+  "id": "thermaltake-view-200-tg-argb-snow-ca-1x3-00m6wn-00",
+  "slug": "thermaltake-view-200-tg-argb-snow-ca-1x3-00m6wn-00",
+  "name": "Thermaltake View 200 TG ARGB Snow (CA-1X3-00M6WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1X3-00M6WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/view-200-tg-snow-argb-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Altura disipador máxima": "166 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "240 mm",
+   "Dimensiones": "460 × 210 × 395.3 mm"
+  }
+ },
+ {
+  "id": "thermaltake-ceres-350-mx-hydrangea-blue-ca-1z3-00mfwn-00",
+  "slug": "thermaltake-ceres-350-mx-hydrangea-blue-ca-1z3-00mfwn-00",
+  "name": "Thermaltake Ceres 350 MX Hydrangea Blue (CA-1Z3-00MFWN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1Z3-00MFWN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/ceres-350-mx-hydrangea-blue-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "475 × 245 × 463 mm"
+  }
+ },
+ {
+  "id": "thermaltake-ceres-350-mx-ca-1z3-00m1wn-00",
+  "slug": "thermaltake-ceres-350-mx-ca-1z3-00m1wn-00",
+  "name": "Thermaltake Ceres 350 MX (CA-1Z3-00M1WN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1Z3-00M1WN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/ceres-350-mx-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "475 × 245 × 463 mm"
+  }
+ },
+ {
+  "id": "thermaltake-ceres-350-mx-matcha-green-ca-1z3-00mewn-00",
+  "slug": "thermaltake-ceres-350-mx-matcha-green-ca-1z3-00mewn-00",
+  "name": "Thermaltake Ceres 350 MX Matcha Green (CA-1Z3-00MEWN-00)",
+  "category_id": "case",
+  "brand": "Thermaltake",
+  "mpn": "CA-1Z3-00MEWN-00",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.thermaltake.com/ceres-350-mx-matcha-green-mid-tower-chassis.html",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "280 mm",
+   "Dimensiones": "475 × 245 × 463 mm"
+  }
+ },
+ {
+  "id": "fractal-design-pop-silent-black-tg-clear-tint-fd-c-pos1a-02",
+  "slug": "fractal-design-pop-silent-black-tg-clear-tint-fd-c-pos1a-02",
+  "name": "Fractal Design Pop Silent Black TG Clear Tint (FD-C-POS1A-02)",
+  "category_id": "case",
+  "brand": "Fractal Design",
+  "mpn": "FD-C-POS1A-02",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.fractal-design.com/products/cases/pop-series/pop-silent/pop-silent-black-tg-clear-tint/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "ATX, microATX, Mini-ITX",
+   "Panel lateral": "Cristal templado",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "380 mm",
+   "Altura disipador máxima": "170 mm",
+   "Ventiladores incluidos": "3 × 120 mm",
+   "Radiador frontal máximo": "280 mm"
+  }
+ },
+ {
+  "id": "fractal-design-meshify-2-black-solid-fd-c-mes2a-01",
+  "slug": "fractal-design-meshify-2-black-solid-fd-c-mes2a-01",
+  "name": "Fractal Design Meshify 2 Black Solid (FD-C-MES2A-01)",
+  "category_id": "case",
+  "brand": "Fractal Design",
+  "mpn": "FD-C-MES2A-01",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.fractal-design.com/products/cases/meshify-series/meshify-2/meshify-2-black/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "E-ATX, ATX, microATX, Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "ATX",
+   "Longitud GPU máxima": "470 mm",
+   "Altura disipador máxima": "185 mm",
+   "Ventiladores incluidos": "3 × 140 mm",
+   "Radiador frontal máximo": "360 mm",
+   "Radiador superior máximo": "420 mm",
+   "Dimensiones": "542 × 240 × 474 mm (largo × ancho × alto)"
+  }
+ },
+ {
+  "id": "fractal-design-terra-silver-fd-c-ter1n-02",
+  "slug": "fractal-design-terra-silver-fd-c-ter1n-02",
+  "name": "Fractal Design Terra Silver (FD-C-TER1N-02)",
+  "category_id": "case",
+  "brand": "Fractal Design",
+  "mpn": "FD-C-TER1N-02",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.fractal-design.com/products/cases/terra-series/terra/terra-silver/",
+  "specs_verified_at": "2026-11-08T17:00:00Z",
+  "specs": {
+   "Formatos compatibles": "Mini-ITX",
+   "Panel lateral": "Metal",
+   "Formato fuente": "SFX",
+   "Longitud GPU máxima": "322 mm",
+   "Altura disipador máxima": "48 mm",
+   "Dimensiones": "343 × 153 × 218 mm (largo × ancho × alto)"
+  }
+ }
+]

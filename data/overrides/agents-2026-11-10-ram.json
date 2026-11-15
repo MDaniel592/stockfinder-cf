@@ -1,0 +1,2512 @@
+[
+  {
+    "product_id": "kingston-kvr32n22s6-8",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR32N22S6_8.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR32N22S6/8 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kcp432ns6-8",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432NS6%2F8",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KCP432NS6/8 (Kingston Branded) solo lista velocidad/latencia/tensión JEDEC; no declara perfil XMP ni EXPO."
+  },
+  {
+    "product_id": "kingston-kvr32n22d8-16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR32N22D8_16.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR32N22D8/16 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kvr32n22s8-16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR32N22S8_16.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR32N22S8/16 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kvr26n19s6-4",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR26N19S6_4.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR26N19S6/4 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kcp432nd8-16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432ND8%2F16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KCP432ND8/16 (Kingston Branded) solo lista velocidad/latencia/tensión JEDEC; no declara perfil XMP ni EXPO."
+  },
+  {
+    "product_id": "coolmod-ram-kcp432ns8-16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432NS8%2F16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KCP432NS8/16 (Kingston Branded) solo lista velocidad/latencia/tensión JEDEC; no declara perfil XMP ni EXPO."
+  },
+  {
+    "product_id": "coolmod-ram-kcp432ns8-8",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP432NS8%2F8",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KCP432NS8/8 (Kingston Branded) solo lista velocidad/latencia/tensión JEDEC; no declara perfil XMP ni EXPO."
+  },
+  {
+    "product_id": "kingston-kvr32n22s8-8",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR32N22S8_8.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR32N22S8/8 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kf564c32rsk2-96",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF564C32RSK2-96",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF564C32RSK2-96 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bbk2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C40BBK2-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C40BBK2-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bbe-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C30BBE-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C30BBE-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-ksm56e46bd8km-48hm",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KSM56E46BD8KM-48HM",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KSM56E46BD8KM-48HM lo identifica como DDR5 5600MT/s ECC Unbuffered DIMM (datasheet oficial: 48GB 2Rx8 PC5-5600 CL46 288-Pin DIMM)."
+  },
+  {
+    "product_id": "kingston-ksm56e46bd8km-48hm",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KSM56E46BD8KM-48HM.pdf",
+    "note": "El datasheet oficial del P/N exacto KSM56E46BD8KM-48HM solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kf564c32bbek2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF564C32BBEK2-64",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF564C32BBEK2-64 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr32n22d8-32",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR32N22D8_32.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR32N22D8/32 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kf560c30bbek2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C30BBEK2-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C30BBEK2-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbek2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C36BBEK2-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C36BBEK2-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb2a-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB2A%2F8",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF432C16BB2A/8 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bbeak2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C30BBEAK2-64",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C30BBEAK2-64 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bbea-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C30BBEA-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C30BBEA-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbe2a-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C36BBE2A-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C36BBE2A-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bb-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF552C40BB-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF552C40BB-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bwea-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C36BWEA-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C36BWEA-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-ksm32rd4-64mfr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "RDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KSM32RD4_64MFR.pdf",
+    "note": "La primera página del datasheet oficial del P/N exacto KSM32RD4/64MFR lo identifica como «Registered w/Parity 288-Pin DIMM»."
+  },
+  {
+    "product_id": "kingston-ksm32rd4-64mfr",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KSM32RD4_64MFR.pdf",
+    "note": "El datasheet oficial del P/N exacto KSM32RD4/64MFR solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kvr64a52bd8-64",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR64A52BD8-64.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR64A52BD8-64 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-ksm32rs4-32hcr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "RDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KSM32RS4_32HCR.pdf",
+    "note": "La primera página del datasheet oficial del P/N exacto KSM32RS4/32HCR lo identifica como «Registered w/Parity 288-Pin DIMM»."
+  },
+  {
+    "product_id": "kingston-ksm32rs4-32hcr",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KSM32RS4_32HCR.pdf",
+    "note": "El datasheet oficial del P/N exacto KSM32RS4/32HCR solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kvr56u46bs8-16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR56U46BS8-16.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR56U46BS8-16 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kf560c36bbe2ak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C36BBE2AK2-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C36BBE2AK2-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16bb12ak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16BB12AK2%2F32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF432C16BB12AK2/32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bbea-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C30BBEA-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C30BBEA-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf564c32bbea-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF564C32BBEA-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF564C32BBEA-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bba-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C40BBA-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C40BBA-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr56u46bs6-8",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR56U46BS6-8.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR56U46BS6-8 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kf560c30bweak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C30BWEAK2-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C30BWEAK2-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbek2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C36BBEK2-64",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C36BBEK2-64 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bb-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C40BB-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C40BB-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf552c40bba-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF552C40BBA-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF552C40BBA-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbe2-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C36BBE2-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C36BBE2-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbe2a-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C36BBE2A-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C36BBE2A-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-ksm56r46bd4-64md",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KSM56R46BD4-64MD.pdf",
+    "note": "El datasheet oficial del P/N exacto KSM56R46BD4-64MD solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kf560c36bbe-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C36BBE-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C36BBE-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr56u46bd8-32",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR56U46BD8-32.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR56U46BD8-32 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kf564c32bbeak2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF564C32BBEAK2-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF564C32BBEAK2-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbek2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C36BBEK2-64",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C36BBEK2-64 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-ksm32rd4-64hcr",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "RDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KSM32RD4_64HCR.pdf",
+    "note": "La primera página del datasheet oficial del P/N exacto KSM32RD4/64HCR lo identifica como «Registered w/Parity 288-Pin DIMM»."
+  },
+  {
+    "product_id": "kingston-ksm32rd4-64hcr",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KSM32RD4_64HCR.pdf",
+    "note": "El datasheet oficial del P/N exacto KSM32RD4/64HCR solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kvr32n22s6-4",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR32N22S6_4.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR32N22S6/4 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kf556c36bbea-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C36BBEA-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C36BBEA-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbe-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C36BBE-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C36BBE-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bbk4-128",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C40BBK4-128",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C40BBK4-128 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bbe-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C30BBE-8",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C30BBE-8 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf564c32bbe-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF564C32BBE-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF564C32BBE-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bb-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C40BB-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C40BB-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c30bwe-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C30BWE-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C30BWE-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr56u46bd8-64",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR56U46BD8-64.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR56U46BD8-64 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kf556c36bbeak2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C36BBEAK2-64",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C36BBEAK2-64 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bbk2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C40BBK2-64",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C40BBK2-64 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c36bbeak2-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C36BBEAK2-64",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C36BBEAK2-64 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bba-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C40BBA-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C40BBA-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c40bbk2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C40BBK2-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C40BBK2-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf556c36bbe2-32",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C36BBE2-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C36BBE2-32 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr26n19s6-8",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR26N19S6_8.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR26N19S6/8 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "kingston-kcp556us6-8",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP556US6-8",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KCP556US6-8 (Kingston Branded) solo lista velocidad/latencia/tensión JEDEC; no declara perfil XMP ni EXPO."
+  },
+  {
+    "product_id": "kingston-kf564c32bwe-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF564C32BWE-16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF564C32BWE-16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kcp556ud8-32",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KCP556UD8-32",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KCP556UD8-32 (Kingston Branded) solo lista velocidad/latencia/tensión JEDEC; no declara perfil XMP ni EXPO."
+  },
+  {
+    "product_id": "kingston-kf560c40bbk4-64",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C40BBK4-64",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C40BBK4-64 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-ktd-pe432-32g",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "RDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KTD-PE432%2F32G",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KTD-PE432/32G lo lista como DDR4-3200 ECC Registered DIMM."
+  },
+  {
+    "product_id": "kingston-ktd-pe432-32g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KTD-PE432%2F32G",
+    "note": "Módulo servidor ECC Registered; la ficha de Kingston para el P/N exacto no declara perfil XMP ni EXPO."
+  },
+  {
+    "product_id": "kingston-kf584cu40rw-24",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "CUDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KF584CU40RW-24.pdf",
+    "note": "El datasheet oficial del P/N exacto KF584CU40RW-24 lo identifica como «DDR5-8400 CL40 288-Pin CUDIMM»."
+  },
+  {
+    "product_id": "kingston-kf556c40bb-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF556C40BB-8",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF556C40BB-8 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf432c16rb12-16",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF432C16RB12%2F16",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF432C16RB12/16 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf436c17bb2a-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF436C17BB2A%2F8",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF436C17BB2A/8 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf560c32rs-48",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF560C32RS-48",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF560C32RS-48 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kf440c19rb2-8",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/memory/search?partid=KF440C19RB2%2F8",
+    "note": "La ficha de búsqueda oficial de Kingston para el P/N exacto KF440C19RB2/8 lo identifica como Non-ECC Unbuffered DIMM, que corresponde a UDIMM."
+  },
+  {
+    "product_id": "kingston-kvr64a52bs8-16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/KVR64A52BS8-16.pdf",
+    "note": "El datasheet oficial del P/N exacto KVR64A52BS8-16 solo lista parámetros JEDEC (sin XMP ni EXPO); Kingston no publica perfil XMP/EXPO para este módulo."
+  },
+  {
+    "product_id": "patriot-veu532g6028k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VEU_532_G6028_K_sku_sheet_472ebd1230.pdf",
+    "note": "Pagina oficial de Patriot (Elite 5 Ultra): la tabla de especificaciones/QVL lista el P/N VEU532G6028K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvvr532g600c30k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVVR_532_G600_C30_K_sku_sheet_2e1a1e0c04.pdf",
+    "note": "Pagina oficial de Patriot (Viper Venom RGB): la tabla de especificaciones/QVL lista el P/N PVVR532G600C30K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv532g640c32k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_532_G640_C32_K_sku_sheet_ba85e54eb0.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV532G640C32K: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv564g560c40k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_564_G560_C40_K_sku_sheet_12849967f8.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV564G560C40K: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvs416g320c6",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVS_416_G320_C6_sku_sheet_d1e7b66cf6.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVS416G320C6: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvs416g320c6k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVS_416_G320_C6_K_sku_sheet_96c3f3b880.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVS416G320C6K: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-psd416g32002",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PSD_416_G32002_sku_sheet_d6283a1744.pdf",
+    "note": "Hoja SKU oficial de Patriot para PSD416G32002: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-psd416g32002",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PSD_416_G32002_sku_sheet_d6283a1744.pdf",
+    "note": "La hoja SKU oficial de PSD416G32002 (Signature Line) no indica perfil XMP/EXPO; solo especifica velocidad JEDEC.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "patriot-veur532g6028k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VEUR_532_G6028_K_sku_sheet_4deaa98459.pdf",
+    "note": "Pagina oficial de Patriot (Elite 5 Ultra RGB): la tabla de especificaciones/QVL lista el P/N VEUR532G6028K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-veu564g6028k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://viper.patriotmemory.ru/products/viper-elite-5-ultra",
+    "note": "Pagina oficial de Patriot (Elite 5 Ultra): la tabla de especificaciones/QVL lista el P/N VEU564G6028K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-veur532g6432k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VEUR_532_G6432_K_sku_sheet_cbfa1d4b6e.pdf",
+    "note": "Pagina oficial de Patriot (Viper Elite 5 Ultra RGB): la tabla de especificaciones/QVL lista el P/N VEUR532G6432K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv564g600c30k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_564_G600_C30_K_sku_sheet_016527cf20.pdf",
+    "note": "Pagina oficial de Patriot (Viper Venom): la tabla de especificaciones/QVL lista el P/N PVV564G600C30K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv564g600c30k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_564_G600_C30_K_sku_sheet_016527cf20.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV564G600C30K; Feature Overclock: \"XMP 3.0 / EXPO overclocking supported\".",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pvv564g600c36k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_564_G600_C36_K_sku_sheet_6da5e30f83.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV564G600C36K: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv564g600c36k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_564_G600_C36_K_sku_sheet_6da5e30f83.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV564G600C36K; Feature Overclock: \"XMP 3.0 overclocking supported\".",
+    "value": "Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pvv516g560c40k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_516_G560_C40_K_sku_sheet_7c85c87897.pdf",
+    "note": "Pagina oficial de Patriot (Viper Venom): la tabla de especificaciones/QVL lista el P/N PVV516G560C40K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv516g560c40k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_516_G560_C40_K_sku_sheet_7c85c87897.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV516G560C40K; Feature Overclock: \"XMP 3.0 overclocking supported\".",
+    "value": "Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pver548g70c32kw",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVER_548_G70_C32_KW_sku_sheet_930e1b57e7.pdf",
+    "note": "Pagina oficial de Patriot (Viper Elite 5 RGB): la tabla de especificaciones/QVL lista el P/N PVER548G70C32KW con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pver548g70c32kw",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVER_548_G70_C32_KW_sku_sheet_930e1b57e7.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVER548G70C32KW; Feature Overclock: \"XMP 3.0 overclocking supported\".",
+    "value": "Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pvv516g60c30",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_516_G60_C30_sku_sheet_a5b06c23b1.pdf",
+    "note": "Pagina oficial de Patriot (Viper Venom): la tabla de especificaciones/QVL lista el P/N PVV516G60C30 con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv516g60c30",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_516_G60_C30_sku_sheet_a5b06c23b1.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV516G60C30; Feature Overclock: \"XMP 3.0 overclocking supported\".",
+    "value": "Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pvv516g600c36k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_516_G600_C36_K_sku_sheet_7b5b051782.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV516G600C36K: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv516g600c36k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_516_G600_C36_K_sku_sheet_7b5b051782.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV516G600C36K; Feature Overclock: \"XMP 3.0 & EXPO overclocking supported\".",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pvs464g320c6k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVS_464_G320_C6_K_sku_sheet_57fc49265c.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVS464G320C6K; intro: XMP 2.0 support.",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "patriot-veb516g6030w",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VEB_516_G6030_W_sku_sheet_728e85ba2f.pdf",
+    "note": "Pagina oficial de Patriot (Elite 5): la tabla de especificaciones/QVL lista el P/N VEB516G6030W con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-veb516g6030w",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VEB_516_G6030_W_sku_sheet_728e85ba2f.pdf",
+    "note": "Hoja SKU oficial de Patriot para VEB516G6030W; Feature Overclock: \"XMP 3.0 & EXPO overclocking supported\".",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-veu564g6432k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VEU_564_G6432_K_sku_sheet_dd2c47bcb5.pdf",
+    "note": "Pagina oficial de Patriot (Viper Elite 5 Ultra): la tabla de especificaciones/QVL lista el P/N VEU564G6432K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-veu564g6432k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VEU_564_G6432_K_sku_sheet_dd2c47bcb5.pdf",
+    "note": "Hoja SKU oficial de Patriot para VEU564G6432K; Feature Overclock: \"XMP 3.0 and EXPO overclocking supported\".",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pvs432g320c6k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVS_432_G320_C6_K_sku_sheet_b6110e09a4.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVS432G320C6K; intro: XMP 2.0 support.",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "patriot-pvv532g56c38",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_532_G56_C38_sku_sheet_081926_b182e272b3.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV532G56C38; Feature Overclock: \"Intel XMP & EXPO overclocking supported\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "patriot-vvr532g60c28ak",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VVR_532_G60_C28_AK_sku_sheet_67b220e35d.pdf",
+    "note": "Hoja SKU oficial de Patriot para VVR532G60C28AK: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-vvr532g60c28ak",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VVR_532_G60_C28_AK_sku_sheet_67b220e35d.pdf",
+    "note": "Hoja SKU oficial de Patriot para VVR532G60C28AK; Feature Overclock: \"EXPO overclocking supported\".",
+    "value": "AMD EXPO"
+  },
+  {
+    "product_id": "patriot-veu596g6028k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VEU_596_G6028_K_sku_sheet_59f17adb0a.pdf",
+    "note": "Pagina oficial de Patriot (Elite 5 Ultra): la tabla de especificaciones/QVL lista el P/N VEU596G6028K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-veu596g6028k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VEU_596_G6028_K_sku_sheet_59f17adb0a.pdf",
+    "note": "Hoja SKU oficial de Patriot para VEU596G6028K; Feature Overclock: \"XMP 3.0 and EXPO overclocking supported\".",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pvv516g600c36",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_516_G600_C36_sku_sheet_46bb75575c.pdf",
+    "note": "Pagina oficial de Patriot (Viper Venom): la tabla de especificaciones/QVL lista el P/N PVV516G600C36 con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv516g600c36",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_516_G600_C36_sku_sheet_46bb75575c.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV516G600C36; Feature Overclock: \"XMP 3.0 overclocking supported\".",
+    "value": "Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-vv516g64c32ak",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VV_516_G64_C32_AK_sku_sheet_pdff_07402311db.pdf",
+    "note": "Hoja SKU oficial de Patriot para VV516G64C32AK: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-vv516g64c32ak",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VV_516_G64_C32_AK_sku_sheet_pdff_07402311db.pdf",
+    "note": "Hoja SKU oficial de Patriot para VV516G64C32AK; Feature Overclock: \"EXPO overclocking supported\".",
+    "value": "AMD EXPO"
+  },
+  {
+    "product_id": "patriot-vv532g60c28ak",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VV_532_G60_C28_AK_sku_sheet_cbfaea94d8.pdf",
+    "note": "Hoja SKU oficial de Patriot para VV532G60C28AK: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-vv532g60c28ak",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VV_532_G60_C28_AK_sku_sheet_cbfaea94d8.pdf",
+    "note": "Hoja SKU oficial de Patriot para VV532G60C28AK; Feature Overclock: \"EXPO overclocking supported\".",
+    "value": "AMD EXPO"
+  },
+  {
+    "product_id": "patriot-pvv532g700c32k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_532_G700_C32_K_sku_sheet_48dbd060ab.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV532G700C32K: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvv532g700c32k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_532_G700_C32_K_sku_sheet_48dbd060ab.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVV532G700C32K; Feature Overclock: \"XMP 3.0 overclocking supported\".",
+    "value": "Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pvs432g360c8k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVS_432_G360_C8_K_sku_sheet_780bfd09cb.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVS432G360C8K; intro: XMP 2.0 support.",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "patriot-pvs464g360c8k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVS_464_G360_C8_K_sku_sheet_eb56bb18be.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVS464G360C8K; intro: XMP 2.0 support.",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "patriot-psp516g56002h1",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PSP_516_G56002_H1_sku_sheet_70f869a625.pdf",
+    "note": "Hoja SKU oficial de Patriot para PSP516G56002H1: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-psp516g56002h1",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PSP_516_G56002_H1_sku_sheet_70f869a625.pdf",
+    "note": "La hoja SKU oficial de PSP516G56002H1 (Signature Line) no indica perfil XMP/EXPO; solo especifica velocidad JEDEC.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "patriot-pvsr416g360c8k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVSR_416_G360_C8_K_sku_sheet_21dfd1b1be.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVSR416G360C8K; Feature Overclock: \"XMP 2.0 support for automatic overclocking\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "patriot-pvsr432g320c6k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVSR_432_G320_C6_K_sku_sheet_7c150f7e16.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVSR432G320C6K; Feature Overclock: \"XMP 2.0 support for automatic overclocking\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "patriot-vv58g60c36a",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VV_58_G60_C36_A_sku_sheet_fc3c0301d4.pdf",
+    "note": "Pagina oficial de Patriot (Viper Venom AMD): la tabla de especificaciones/QVL lista el P/N VV58G60C36A con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-vv58g60c36a",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VV_58_G60_C36_A_sku_sheet_fc3c0301d4.pdf",
+    "note": "Hoja SKU oficial de Patriot para VV58G60C36A; Feature Overclock: \"EXPO overclocking supported\".",
+    "value": "AMD EXPO"
+  },
+  {
+    "product_id": "patriot-pvvr516g600c36k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVVR_516_G600_C36_K_sku_sheet_e9227758e6.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVVR516G600C36K: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvvr516g600c36k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVVR_516_G600_C36_K_sku_sheet_e9227758e6.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVVR516G600C36K; Feature Overclock: \"XMP 3.0 & EXPO overclocking supported\".",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "patriot-pvs416g360c7k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVS_416_G360_C7_K_Sku_Sheet_66bd913a8c.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVS416G360C7K: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvs416g360c7k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVS_416_G360_C7_K_Sku_Sheet_66bd913a8c.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVS416G360C7K; intro: XMP 2.0 support.",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "patriot-pve2432g320c8k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVE_2432_G320_C8_K_sku_sheet_48eccec214.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVE2432G320C8K: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pve2432g320c8k",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVE_2432_G320_C8_K_sku_sheet_48eccec214.pdf",
+    "note": "Hoja SKU oficial de Patriot para PVE2432G320C8K; Feature Overclock: \"XMP 2.0 support for automatic overclocking\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "patriot-vv516g60c36ak",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VV_516_G60_C36_AK_sku_sheet_6f98520c00.pdf",
+    "note": "Hoja SKU oficial de Patriot para VV516G60C36AK: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-vv532g60c30ak",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VV_532_G60_C30_AK_sku_sheet_9490feb82b.pdf",
+    "note": "Hoja SKU oficial de Patriot para VV532G60C30AK: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-vv532g60c36ak",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/VV_532_G60_C36_AK_sku_sheet_d289cae961.pdf",
+    "note": "Hoja SKU oficial de Patriot para VV532G60C36AK: indica formato UDIMM / Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "corsair-cmk16gx5m1d6000z38",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx5m1d6000z38/vengeance-16gb-1-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-%26-intel-xmp-memory-kit-grey-cmk16gx5m1d6000z38",
+    "note": "Pagina oficial Corsair, SKU CMK16GX5M1D6000Z38: Performance Profile \"AMD EXPO & Intel XMP\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2b6400c36",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/ddr5-ram/cmh32gx5m2b6400c36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-c36-memory-kit-black-cmh32gx5m2b6400c36",
+    "note": "Pagina oficial Corsair, SKU CMH32GX5M2B6400C36: Performance Profile \"Intel XMP\".",
+    "value": "Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmk16gx4m1a2400c16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m1a2400c16/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-2400mhz-c16-memory-kit-black-cmk16gx4m1a2400c16",
+    "note": "Pagina oficial Corsair, SKU CMK16GX4M1A2400C16: Performance Profile \"XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "corsair-cmv16gx4m1a2666c18",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmv16gx4m1a2666c18/corsair-memory-a-16gb-1x16gb-ddr4-2666mhz-c18-dimm-cmv16gx4m1a2666c18",
+    "note": "Pagina oficial Corsair, SKU CMV16GX4M1A2666C18 (Value Select): solo especifica SPD, sin Performance Profile XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "corsair-cmh64gx5m2d6000z40",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh64gx5m2d6000z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40",
+    "note": "Pagina oficial Corsair, SKU CMH64GX5M2D6000Z40: Performance Profile \"AMD EXPO & Intel XMP\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2e6000z36",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2e6000z36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mts-cl36-amd-expo-memory-kit-cmh32gx5m2e6000z36",
+    "note": "Pagina oficial Corsair, SKU CMH32GX5M2E6000Z36: Performance Profile \"AMD EXPO & Intel XMP\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmk16gx4m2a2400c16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2a2400c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-2400mhz-c16-memory-kit-black-cmk16gx4m2a2400c16",
+    "note": "Pagina oficial Corsair, SKU CMK16GX4M2A2400C16: Performance Profile \"XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2e6000z36w",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2e6000z36w/vengeance-32gb-2x16gb-ddr5-dram-6000mts-cl36-amd-expo-intel-xmp-memory-kit-white-cmk32gx5m2e6000z36w",
+    "note": "Pagina oficial Corsair, SKU CMK32GX5M2E6000Z36W: Performance Profile \"AMD EXPO & Intel XMP\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmh16gx5m1d6000z38",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m1d6000z38/vengeance-rgb-16gb-1-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-&-intel-xmp-memory-kit-gray-cmh16gx5m1d6000z38",
+    "note": "Pagina oficial Corsair, SKU CMH16GX5M1D6000Z38: Performance Profile \"AMD EXPO & Intel XMP\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmk32gx5m2b5200c40",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b5200c40/vengeancea-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-a-black-cmk32gx5m2b5200c40",
+    "note": "Pagina oficial Corsair, SKU CMK32GX5M2B5200C40: Performance Profile \"Intel XMP\".",
+    "value": "Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmk16gx5m1e6000z36",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk16gx5m1e6000z36/vengeance-16gb-1x16gb-ddr5-dram-6000mts-cl36-amd-expo-&-intel-xmp-memory-kit-cmk16gx5m1e6000z36",
+    "note": "Pagina oficial Corsair, SKU CMK16GX5M1E6000Z36: Performance Profile \"AMD EXPO & Intel XMP\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmw32gx4m2e3200c16w",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16w/vengeancea-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmw32gx4m2e3200c16w",
+    "note": "Pagina oficial Corsair, SKU CMW32GX4M2E3200C16W: Performance Profile \"XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "corsair-cmh32gx4m2e3200c16w",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx4m2e3200c16w/vengeance-rgb-pro-sl-32gb-2x16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh32gx4m2e3200c16w",
+    "note": "Pagina oficial Corsair, SKU CMH32GX4M2E3200C16W: Performance Profile \"XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2b6000z38",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000z38/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl38-memory-kit-grey-cmh32gx5m2b6000z38",
+    "note": "Pagina oficial Corsair, SKU CMH32GX5M2B6000Z38: Performance Profile \"AMD EXPO & Intel XMP\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmv8gx4m1a2400c16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmv8gx4m1a2400c16/corsair-memory-a-8gb-1x8gb-ddr4-2400mhz-c16-dimm-cmv8gx4m1a2400c16",
+    "note": "Pagina oficial Corsair, SKU CMV8GX4M1A2400C16 (Value Select): solo especifica SPD, sin Performance Profile XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2e6200c36",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2e6200c36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6200mt-s-c36-memory-kit-black-cmh32gx5m2e6200c36",
+    "note": "Pagina oficial Corsair, SKU CMH32GX5M2E6200C36: Performance Profile \"Intel XMP\".",
+    "value": "Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmh32gx4m4e3200c16w",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx4m4e3200c16w/vengeance-rgb-pro-sl-32gb-4x8gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh32gx4m4e3200c16w",
+    "note": "Pagina oficial Corsair, SKU CMH32GX4M4E3200C16W: Performance Profile \"XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "corsair-cmh32gx5m1b5200z40",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m1b5200z40/vengeance-rgb-32gb-1x32gb-ddr5-dram-5200mts-cl40-amd-expo-intel-xmp-memory-kit-cmh32gx5m1b5200z40",
+    "note": "Pagina oficial Corsair, SKU CMH32GX5M1B5200Z40: Performance Profile \"AMD EXPO & Intel XMP\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmh32gx5m2x7000c34",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2x7000c34/vengeance-rgb-32gb-2x16gb-ddr5-dram-7000mt-s-c34-memory-kit-black-cmh32gx5m2x7000c34",
+    "note": "Pagina oficial Corsair, SKU CMH32GX5M2X7000C34: Performance Profile \"Intel XMP\".",
+    "value": "Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmh64gx5m2d5600z40",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmh64gx5m2d5600z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-5600mt-s-cl40-memory-kit-grey-cmh64gx5m2d5600z40",
+    "note": "Pagina oficial Corsair, SKU CMH64GX5M2D5600Z40: Performance Profile \"AMD EXPO & Intel XMP\".",
+    "value": "AMD EXPO, Intel XMP"
+  },
+  {
+    "product_id": "corsair-cmk32gx4m2d3000c16",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk32gx4m2d3000c16/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-3000mhz-c16-memory-kit-black-cmk32gx4m2d3000c16",
+    "note": "Pagina oficial Corsair, SKU CMK32GX4M2D3000C16: Performance Profile \"XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "corsair-cmk8gx5m1b5200c40",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/memory/cmk8gx5m1b5200c40/vengeance-8gb-1x8gb-ddr5-dram-5200mt-s-cl40-memory-kit-black-cmk8gx5m1b5200c40",
+    "note": "Pagina oficial Corsair, SKU CMK8GX5M1B5200C40: Performance Profile \"Intel XMP\".",
+    "value": "Intel XMP"
+  },
+  {
+    "product_id": "coolmod-ram-f5-6000j3636f32gx2-is",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/440/1734414401/F5-6000J3636F32GX2-IS-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3636F32GX2-IS: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "coolmod-ram-f5-6000j3238g32gx2-tz5nr",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1665020956/F5-6000J3238G32GX2-TZ5NR-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3238G32GX2-TZ5NR: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238f16gx2-tz5n",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/393/1662622365/F5-6000J3238F16GX2-TZ5N-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3238F16GX2-TZ5N: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j2836g32gx2-rm5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/421/1731652410/F5-6000J2836G32GX2-RM5RK-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J2836G32GX2-RM5RK: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j3040g32gx2-tz5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/371/1649666638/F5-6000J3040G32GX2-TZ5K-F5-6000J3040G32GA2-TZ5K-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3040G32GX2-TZ5K: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j4048f24gx2-rs5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1682999431/F5-6000J4048F24GX2-RS5K-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J4048F24GX2-RS5K: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-5200j4040a16gx2-rm5rk",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/204/423/1716885214/F5-5200J4040A16GX2-RM5RK-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-5200J4040A16GX2-RM5RK: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j3038f8gh2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1765260507/F5-6000J3038F8GH2-FX5-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3038F8GH2-FX5: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238f16gx2-tz5nr",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/390/1662622003/F5-6000J3238F16GX2-TZ5NR-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3238F16GX2-TZ5NR: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j3038f16gh2-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1765260340/F5-6000J3038F16GH2-FX5-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3038F16GH2-FX5: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6400j3239g16gx2-rs5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1668503353/F5-6400J3239G16GX2-RS5K-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6400J3239G16GX2-RS5K: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238f16gx2-rs5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1649665818/F5-6000J3238F16GX2-RS5K-F5-6000J3238F16GA2-RS5K-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3238F16GX2-RS5K: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j3636f16gx2-rs5k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/377/1664845977/F5-6000J3636F16GX2-RS5K-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3636F16GX2-RS5K: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6000j3238g32gx2-rm5nrw",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/428/1731477838/F5-6000J3238G32GX2-RM5NRW-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6000J3238G32GX2-RM5NRW: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-5200j4040a32gx1-is",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/440/1734407087/F5-5200J4040A32GX1-IS-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-5200J4040A32GX1-IS: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-5600j3636c8gh1-fx5",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/396/1765263926/F5-5600J3636C8GH1-FX5-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-5600J3636C8GH1-FX5: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "g-skill-f5-6400j3239g16gx2-tz5rs",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/374/1642064772/F5-6400J3239G16GX2-TZ5RS-F5-6400J3239G16GA2-TZ5RS-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F5-6400J3239G16GX2-TZ5RS: Registered/Unbuffered = Unbuffered, categoria Desktop Memory (U-DIMM); sin clock driver (no CUDIMM).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "gskill-f4-3200c16s-16gis",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1567584071/F4-3200C16S-16GIS-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F4-3200C16S-16GIS: OC Profile Support \"Intel XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "gskill-f4-3600c16d-32gtzrc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/166/1562743478/F4-3600C16D-32GTZRC-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F4-3600C16D-32GTZRC: OC Profile Support \"Intel XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "gskill-f4-3600c18d-32gvw",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1697772687/F4-3600C18D-32GVW-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F4-3600C18D-32GVW: OC Profile Support \"Intel XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "gskill-f4-2666c19d-16gis",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1536025052/F4-2666C19D-16GIS-Specification",
+    "note": "Ficha oficial G.SKILL F4-2666C19D-16GIS: OC Profile Support = None (solo SPD JEDEC), sin perfil XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "gskill-f4-2666c19s-16gis",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/185/1575527599/F4-2666C19S-16GIS-Specification",
+    "note": "Ficha oficial G.SKILL F4-2666C19S-16GIS: OC Profile Support = None (solo SPD JEDEC), sin perfil XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "gskill-f4-3600c16q-64gvkc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1562832133/F4-3600C16Q-64GVKC-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F4-3600C16Q-64GVKC: OC Profile Support \"Intel XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "gskill-f4-4000c18d-16gvk",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/184/1562837577/F4-4000C18D-16GVK-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F4-4000C18D-16GVK: OC Profile Support \"Intel XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "gskill-f4-3600c16d-16gtzrc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/specification/165/166/1562743659/F4-3600C16D-16GTZRC-Specification",
+    "note": "Ficha de especificaciones oficial G.SKILL F4-3600C16D-16GTZRC: OC Profile Support \"Intel XMP 2.0\".",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "patriot-memory-pvv532g560c36k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVV_532_G560_C36_K_sku_sheet_d9f46c3dfe.pdf",
+    "note": "Pagina oficial de Patriot (Viper Venom): la tabla de especificaciones/QVL lista el P/N PVV532G560C36K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pvvr564g600c30k",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVVR_564_G600_C30_K_sku_sheet_31bdfe9e7c.pdf",
+    "note": "Pagina oficial de Patriot (Viper Venom RGB): la tabla de especificaciones/QVL lista el P/N PVVR564G600C30K con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "patriot-pver516g60c30w",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://patriot-cms-media.sgp1.cdn.digitaloceanspaces.com/PVER_516_G60_C30_W_sku_sheet_72703f00cb.pdf",
+    "note": "Pagina oficial de Patriot (Elite 5 RGB): la tabla de especificaciones/QVL lista el P/N PVER516G60C30W con formFactor UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "teamgroup-ttced432g3200hc16fdc01",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/expert-oc10l/spec-sheet/expert-oc10l-en.pdf",
+    "note": "Ficha oficial T-Create Expert: lista el P/N TTCED432G3200HC16FDC01 (3200 CL16-20-20-40) y sus notas indican que XMP 2.0 se activa manualmente.",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "teamgroup-ted416g3200c2201",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/elite/spec-sheet/elite-en.pdf",
+    "note": "Ficha oficial Elite U-DIMM DDR4: el P/N TED416G3200C2201 figura a 3200 CL22 1.2V (JEDEC) y la ficha no indica perfil XMP/EXPO para este modelo.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "teamgroup-ff3d532g6000hc38adc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "Ficha oficial T-Force Delta RGB DDR5 lista el P/N FF3D532G6000HC38ADC01; Module Type: DDR5 288 Pin Non-ECC Unbuffered DIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "teamgroup-ff3d532g6000hc38adc01",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "Ficha oficial T-Force Delta RGB DDR5 lista el P/N FF3D532G6000HC38ADC01; Profile (8000 MHz o menos): Intel XMP 3.0 / AMD EXPO.",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "teamgroup-ff4d564g6000hc38adc01",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "Ficha oficial T-Force Delta RGB DDR5 lista el P/N FF4D564G6000HC38ADC01; Profile (8000 MHz o menos): Intel XMP 3.0 / AMD EXPO.",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "teamgroup-ff4d532g6400hc32adc01",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "Ficha oficial T-Force Delta RGB DDR5 lista el P/N FF4D532G6400HC32ADC01; Profile (8000 MHz o menos): Intel XMP 3.0 / AMD EXPO.",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "coolmod-ram-sp008gxlzu320bsi",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silicon-power.com/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+    "note": "Pagina oficial XPOWER Pulse DDR4 Gaming UDIMM lista el P/N SP008GXLZU320BSI (3200 CL16 1.35V) y declara soporte Intel XMP 2.0.",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "silicon-power-sp016gxlzu320bsi",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silicon-power.com/product-detail/XPOWER_Pulse_DDR4_Gaming_UDIMM/",
+    "note": "Pagina oficial XPOWER Pulse DDR4 Gaming UDIMM lista el P/N SP016GXLZU320BSI (3200 CL16 1.35V) y declara soporte Intel XMP 2.0.",
+    "value": "Intel XMP, Intel XMP 2.0"
+  },
+  {
+    "product_id": "silicon-power-sp008gblfu320x02",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silicon-power.com/product-detail/DDR4_UDIMM/",
+    "note": "Pagina oficial SP DDR4 UDIMM lista el P/N SP008GBLFU320X02; el modelo cumple JEDEC y la pagina no menciona XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "silicon-power-sp016gblfu320x02",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silicon-power.com/product-detail/DDR4_UDIMM/",
+    "note": "Pagina oficial SP DDR4 UDIMM lista el P/N SP016GBLFU320X02; el modelo cumple JEDEC y la pagina no menciona XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "silicon-power-sp016gblvu480f02",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.silicon-power.com/product-detail/DDR5_UDIMM/",
+    "note": "Pagina oficial SP DDR5 UDIMM lista el P/N SP016GBLVU480F02 (4800 JEDEC) y no menciona XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "klevv-kd48gu880-32n2200",
+    "category_id": "ram",
+    "key": "Latencia",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/ken/products_details/memory/D4_UDIMM",
+    "note": "Pagina oficial KLEVV DDR4 UDIMM: la tabla de pedido lista KD48GU880-32N2200 (8GB, 3200 MT/s, bulk); timing de 3200: 22-22-22-51.",
+    "value": "CL22"
+  },
+  {
+    "product_id": "klevv-kd48gu880-32n2200",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/ken/products_details/memory/D4_UDIMM",
+    "note": "Pagina oficial KLEVV DDR4 UDIMM: la serie cumple JEDEC y no menciona XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "klevv-cudimm-16gb-ddr5-6400-cl52",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://cn.klevv.com/ken/products_details/memory/D5_CUDIMM.php",
+    "note": "Pagina oficial KLEVV DDR5 CUDIMM (6400, timing 52-52-52-103, 1.1V): no menciona perfil XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "klevv-kd5agua80-56g460a",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/ken/products_details/memory/D5_UDIMM",
+    "note": "Pagina oficial KLEVV DDR5 UDIMM: 5600 MT/s timing 46-46-46-90, 1.1V, cumple JEDEC; no menciona XMP/EXPO (P/N KD5AGUA80-56G460A listado).",
+    "status": "not_published"
+  },
+  {
+    "product_id": "klevv-kd58gu880-56g4600",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.klevv.com/ken/products_details/memory/D5_UDIMM",
+    "note": "Pagina oficial KLEVV DDR5 UDIMM: 5600 MT/s timing 46-46-46-90, 1.1V, cumple JEDEC; no menciona XMP/EXPO (P/N KD58GU880-56G4600 listado).",
+    "status": "not_published"
+  },
+  {
+    "product_id": "biwin-bxl54860dw1-d28fb",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://cn.biwintech.com/wp-content/uploads/2025/02/BLACK-OPAL%E9%BB%91%E8%80%80%E7%B3%BB%E5%88%97-DW100%E5%86%85%E5%AD%98%E8%A7%84%E6%A0%BC%E4%B9%A6-.pdf",
+    "note": "Hoja oficial Black Opal DW100: tipo de RAM DDR5 RGB UDIMM; la tabla lista BXL54860DW1-D28FB (48GB 2x24GB 6000 CL28 Black).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "biwin-bxl54860dw1-d28fb",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://cn.biwintech.com/wp-content/uploads/2025/02/BLACK-OPAL%E9%BB%91%E8%80%80%E7%B3%BB%E5%88%97-DW100%E5%86%85%E5%AD%98%E8%A7%84%E6%A0%BC%E4%B9%A6-.pdf",
+    "note": "Hoja oficial Black Opal DW100: la fila BXL54860DW1-D28FB indica XMP3.0&E.X.P.O.",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0"
+  },
+  {
+    "product_id": "biwin-bxh41632hw1-d16eb",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.biwintech.com/wp-content/uploads/2026/09/HW100-Specifications.pdf",
+    "note": "Hoja oficial Biwin HW100: RAM Type DDR4 UDIMM; la tabla lista BXH41632HW1-D16EB (16GB 2x8GB 3200 CL16).",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "mushkin-mre5u480fffd16g",
+    "category_id": "ram",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://mushkin.com/product/redline-16gb-ddr5-4800-udimm-pc5-4800-4800mhz-40-40-40-mre5u480fffd16g/",
+    "note": "Pagina oficial Mushkin del P/N MRE5U480FFFD16G: Redline 16GB DDR5-4800 UDIMM.",
+    "value": "UDIMM"
+  },
+  {
+    "product_id": "mushkin-mre5u480fffd16g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://mushkin.com/product/redline-16gb-ddr5-4800-udimm-pc5-4800-4800mhz-40-40-40-mre5u480fffd16g/",
+    "note": "Pagina oficial Mushkin: DDR5-4800 40-40-40 (velocidad JEDEC); no menciona perfil XMP/EXPO.",
+    "status": "not_published"
+  },
+  {
+    "product_id": "goodram-ir-6000d564l30s-32gdc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "Ficha oficial IRDM DDR5: \"For OC modules ... Support for the Intel XMP 3.0 profile and AMD EXPO\". El P/N figura en la tabla de la gama. P/N IR-6000D564L30S/32GDC."
+  },
+  {
+    "product_id": "goodram-ir-6400d564l32s-32gdc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "Ficha oficial IRDM DDR5: \"For OC modules ... Support for the Intel XMP 3.0 profile and AMD EXPO\". El P/N figura en la tabla de la gama. P/N IR-6400D564L32S/32GDC."
+  },
+  {
+    "product_id": "goodram-ir-7200d564l34s-32gdc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "Ficha oficial IRDM DDR5: \"For OC modules ... Support for the Intel XMP 3.0 profile and AMD EXPO\". El P/N figura en la tabla de la gama. P/N IR-7200D564L34S/32GDC."
+  },
+  {
+    "product_id": "goodram-ir-7600d564l36s-32gdc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "Ficha oficial IRDM DDR5: \"For OC modules ... Support for the Intel XMP 3.0 profile and AMD EXPO\". El P/N figura en la tabla de la gama. P/N IR-7600D564L36S/32GDC."
+  },
+  {
+    "product_id": "goodram-ir-7200d564l34s-16g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-ddr5-oc/",
+    "note": "Ficha oficial IRDM DDR5: \"For OC modules ... Support for the Intel XMP 3.0 profile and AMD EXPO\". El P/N figura en la tabla de la gama. P/N IR-7200D564L34S/16G."
+  },
+  {
+    "product_id": "goodram-irg-60d5l30s-32gdc",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/irdm-rgb-ddr5/",
+    "note": "Ficha oficial IRDM RGB DDR5: \"IRDM RGB DDR5 modules are compatible with the Intel XMP and AMD EXPO profile\". P/N IRG-60D5L30S/32GDC en la tabla."
+  },
+  {
+    "product_id": "goodram-gr5600d564l46s-16g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-ddr5-dimm/",
+    "note": "La ficha oficial de la gama GOODRAM DIMM (modulo estandar JEDEC) lista el P/N sin ningun perfil XMP/EXPO; el fabricante no publica perfil. P/N GR5600D564L46S/16G."
+  },
+  {
+    "product_id": "goodram-gr3200d464l22-16g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+    "note": "La ficha oficial de la gama GOODRAM DIMM (modulo estandar JEDEC) lista el P/N sin ningun perfil XMP/EXPO; el fabricante no publica perfil. P/N GR3200D464L22/16G."
+  },
+  {
+    "product_id": "goodram-gr2666d464l19-16g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+    "note": "La ficha oficial de la gama GOODRAM DIMM (modulo estandar JEDEC) lista el P/N sin ningun perfil XMP/EXPO; el fabricante no publica perfil. P/N GR2666D464L19/16G."
+  },
+  {
+    "product_id": "goodram-gr2666d464l19s-8g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+    "note": "La ficha oficial de la gama GOODRAM DIMM (modulo estandar JEDEC) lista el P/N sin ningun perfil XMP/EXPO; el fabricante no publica perfil. P/N GR2666D464L19S/8G."
+  },
+  {
+    "product_id": "goodram-gr3200d464l22s-8g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/dram-ddr4-dimm-2/",
+    "note": "La ficha oficial de la gama GOODRAM DIMM (modulo estandar JEDEC) lista el P/N sin ningun perfil XMP/EXPO; el fabricante no publica perfil. P/N GR3200D464L22S/8G."
+  },
+  {
+    "product_id": "lexar-ld5u16g56c46st-bgs",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf",
+    "note": "El datasheet oficial Lexar DDR5 UDIMM (4800/5600) lista el P/N LD5U16G56C46ST-BGS con solo especificaciones JEDEC (CL46-45-45-90); no declara perfil XMP/EXPO."
+  },
+  {
+    "product_id": "coolmod-ram-ld5u32g56c46st-bgs",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf",
+    "note": "El datasheet oficial Lexar DDR5 UDIMM (4800/5600) lista el P/N LD5U32G56C46ST-BGS con solo especificaciones JEDEC (CL46-45-45-90); no declara perfil XMP/EXPO."
+  },
+  {
+    "product_id": "lexar-ld5u16g56c46st-hgn",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://resources.lexar.com/download/1562/data-sheet/14777/lexar-ddr5-standard-udimm-memory-datasheet-48005600.pdf",
+    "note": "El datasheet oficial Lexar DDR5 UDIMM (4800/5600) lista el P/N LD5U16G56C46ST-HGN con solo especificaciones JEDEC (CL46-45-45-90); no declara perfil XMP/EXPO."
+  },
+  {
+    "product_id": "lexar-ld4au008g-b3200gsst",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/",
+    "note": "La ficha oficial Lexar DDR4-3200 UDIMM lista el P/N LD4AU008G-B3200GSST con interfaz \"288-Pin UDIMM\"."
+  },
+  {
+    "product_id": "lexar-ld4au008g-b3200gsst",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/",
+    "note": "La ficha oficial Lexar DDR4-3200 UDIMM (P/N LD4AU008G-B3200GSST, 288-Pin UDIMM, CL22, 1.2 V) no menciona XMP ni ningun perfil."
+  },
+  {
+    "product_id": "lexar-ld4au032g-b3200gsst",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/",
+    "note": "La ficha oficial Lexar DDR4-3200 UDIMM lista el P/N LD4AU032G-B3200GSST con interfaz \"288-Pin UDIMM\"."
+  },
+  {
+    "product_id": "lexar-ld4au032g-b3200gsst",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/",
+    "note": "La ficha oficial Lexar DDR4-3200 UDIMM (P/N LD4AU032G-B3200GSST, 288-Pin UDIMM, CL22, 1.2 V) no menciona XMP ni ningun perfil."
+  },
+  {
+    "product_id": "lexar-ddr4-3200-udimm-16gb-cl22",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://americas.lexar.com/product/lexar-ddr4-3200-udimm-desktop-memory/",
+    "note": "La ficha oficial Lexar DDR4-3200 UDIMM (8/16/32 GB, P/N LD4AU016G-B3200GSST para 16 GB) no menciona XMP ni ningun perfil."
+  },
+  {
+    "product_id": "lexar-ld5u16g60c28br-rgd",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://resources.lexar.com/download/1842/document/16960/launchcommunication_ares-rgb-2nd-gen_ddr5_desktop-memory_202606.pdf",
+    "note": "Launch communication oficial Lexar ARES RGB 2nd Gen DDR5: \"Standard: Intel XMP 3.0 / AMD EXPO\"; el P/N LD5U16G60C28BR-RGD (6000, Black, CL28, 2x16GB) figura en su tabla."
+  },
+  {
+    "product_id": "team-group-tlzgd432g3600hc18jdc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/vulcan-z/spec-sheet/vulcan-z-en.pdf",
+    "note": "Spec sheet oficial T-FORCE VULCAN Z DDR4: \"Module Type DDR4 288 Pin Non-ECC Unbuffered DIMM\"; el P/N TLZGD432G3600HC18JDC01 (3600 CL18-22-22-42, 2x16GB) figura en la tabla."
+  },
+  {
+    "product_id": "team-group-ff3d532g6400hc32adc01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "Spec sheet oficial T-FORCE DELTA RGB DDR5: \"Module Type DDR5 288 Pin Non-ECC Unbuffered DIMM\"; el P/N FF3D532G6400HC32ADC01 (6400 CL32-39-39-84, 2x16GB) figura en la tabla."
+  },
+  {
+    "product_id": "coolmod-ram-flbd516g6000hc38j01",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/vulcan/spec-sheet/vulcan-en.pdf",
+    "note": "Spec sheet oficial T-FORCE VULCAN DDR5: \"Module Type DDR5 288 Pin Non-ECC Unbuffered DIMM\"; el P/N FLBD516G6000HC38J01 figura en la tabla."
+  },
+  {
+    "product_id": "teamgroup-ttced432g3600hc18jdc01",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "Intel XMP, Intel XMP 2.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr4/expert-u-dimm-ddr4-TTCED432G3600HC18JDC01/",
+    "note": "Pagina oficial T-CREATE EXPERT DDR4 Desktop: el producto lista \"Intel XMP2.0\" entre sus caracteristicas y el P/N TTCED432G3600HC18JDC01 (32GB 2x16GB 3600 CL18) figura en el listado."
+  },
+  {
+    "product_id": "teamgroup-elite-8gb-ddr4-3200-cl22",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/elite/spec-sheet/elite-en.pdf",
+    "note": "Spec sheet oficial ELITE U-DIMM DDR4: el P/N TED48G3200C2201 (DDR4-3200 CL22-22-22-52, 1.2 V) se lista sin perfil XMP/EXPO propio; el fabricante no publica perfil para este modulo."
+  },
+  {
+    "product_id": "teamgroup-tforce-delta-rgb-32gb-ddr5-6000-cl30",
+    "category_id": "ram",
+    "key": "Perfil",
+    "value": "AMD EXPO, Intel XMP, Intel XMP 3.0",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+    "note": "Spec sheet oficial T-FORCE DELTA RGB DDR5: fila Profile \"8000 MHz hacia abajo: Intel XMP 3.0 / AMD EXPO\" (aplica a 6000 MHz); el kit 2x16GB 6000 CL30 figura como FF3D532G6000HC30DC01."
+  },
+  {
+    "product_id": "apacer-el-08g2v-gnh",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL19",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+    "note": "Ficha oficial Apacer DDR4 Desktop: el P/N EL.08G2V.GNH figura como DDR4-2666 y la ficha indica CAS latency (2666MHz) CL19."
+  },
+  {
+    "product_id": "apacer-el-08g2v-gnh",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+    "note": "Ficha oficial Apacer DDR4 Desktop: el P/N EL.08G2V.GNH se lista solo con frecuencias JEDEC 2133-3200 y 1.2 V; no declara perfil XMP/EXPO."
+  },
+  {
+    "product_id": "apacer-el-16g2v-gnh",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL19",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+    "note": "Ficha oficial Apacer DDR4 Desktop: el P/N EL.16G2V.GNH figura como DDR4-2666 y la ficha indica CAS latency (2666MHz) CL19."
+  },
+  {
+    "product_id": "apacer-el-16g2v-gnh",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+    "note": "Ficha oficial Apacer DDR4 Desktop: el P/N EL.16G2V.GNH se lista solo con frecuencias JEDEC 2133-3200 y 1.2 V; no declara perfil XMP/EXPO."
+  },
+  {
+    "product_id": "apacer-el-08g21-gsh",
+    "category_id": "ram",
+    "key": "Latencia",
+    "value": "CL22",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+    "note": "Ficha oficial Apacer DDR4 Desktop: el P/N EL.08G21.GSH figura como DDR4-3200 y la ficha indica CAS latency (3200MHz) CL22."
+  },
+  {
+    "product_id": "apacer-el-08g21-gsh",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/ja-jp/product/personal-product/detail/personal_dram/ddr4_desktop_memory_module",
+    "note": "Ficha oficial Apacer DDR4 Desktop: el P/N EL.08G21.GSH se lista solo con frecuencias JEDEC 2133-3200 y 1.2 V; no declara perfil XMP/EXPO."
+  },
+  {
+    "product_id": "synology-d4er01-16g",
+    "category_id": "ram",
+    "key": "Velocidad",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.synology.com/en-global/products/DDR4",
+    "note": "La pagina oficial Synology DDR4 y la ficha Product_Spec_D4ER01-16G_enu.pdf (global.download.synology.com) solo indican descripcion, capacidad, EAN, garantia y modelos compatibles; no publican velocidad."
+  },
+  {
+    "product_id": "synology-d4er01-16g",
+    "category_id": "ram",
+    "key": "Latencia",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.synology.com/en-global/products/DDR4",
+    "note": "La pagina oficial Synology DDR4 (modulo D4ER01-16G) solo indica capacidad, EAN, garantia y modelos compatibles; no publica latencia CAS ni perfil XMP/EXPO."
+  },
+  {
+    "product_id": "synology-d4er01-16g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.synology.com/en-global/products/DDR4",
+    "note": "La pagina oficial Synology DDR4 (modulo D4ER01-16G) solo indica capacidad, EAN, garantia y modelos compatibles; no publica latencia CAS ni perfil XMP/EXPO."
+  },
+  {
+    "product_id": "synology-d4ec-2666-8g",
+    "category_id": "ram",
+    "key": "Latencia",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.synology.com/en-global/products/DDR4",
+    "note": "La pagina oficial Synology DDR4 (modulo D4EC-2666-8G) solo indica capacidad, EAN, garantia y modelos compatibles; no publica latencia CAS ni perfil XMP/EXPO."
+  },
+  {
+    "product_id": "synology-d4ec-2666-8g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.synology.com/en-global/products/DDR4",
+    "note": "La pagina oficial Synology DDR4 (modulo D4EC-2666-8G) solo indica capacidad, EAN, garantia y modelos compatibles; no publica latencia CAS ni perfil XMP/EXPO."
+  },
+  {
+    "product_id": "synology-d4ec-2666-16g",
+    "category_id": "ram",
+    "key": "Latencia",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.synology.com/en-global/products/DDR4",
+    "note": "La pagina oficial Synology DDR4 (modulo D4EC-2666-16G) solo indica capacidad, EAN, garantia y modelos compatibles; no publica latencia CAS ni perfil XMP/EXPO."
+  },
+  {
+    "product_id": "synology-d4ec-2666-16g",
+    "category_id": "ram",
+    "key": "Perfil",
+    "status": "not_published",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.synology.com/en-global/products/DDR4",
+    "note": "La pagina oficial Synology DDR4 (modulo D4EC-2666-16G) solo indica capacidad, EAN, garantia y modelos compatibles; no publica latencia CAS ni perfil XMP/EXPO."
+  },
+  {
+    "product_id": "g-skill-f4-3600c16d-32gtznc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/qvl/165/326/1562840211/F4-3600C16D-32GTZNC-QVL",
+    "note": "La ficha oficial G.SKILL situa el kit en \"Desktop Memory (U-DIMM/CU-DIMM)\"; al ser DDR4 (CU-DIMM solo existe en DDR5) se registra UDIMM. No hay campo explicito de tipo de modulo en la pagina. P/N F4-3600C16D-32GTZNC."
+  },
+  {
+    "product_id": "g-skill-f4-3600c16d-32gvkc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/qvl/165/184/1562831784/F4-3600C16D-32GVKC-QVL",
+    "note": "La ficha oficial G.SKILL situa el kit en \"Desktop Memory (U-DIMM/CU-DIMM)\"; al ser DDR4 (CU-DIMM solo existe en DDR5) se registra UDIMM. No hay campo explicito de tipo de modulo en la pagina. P/N F4-3600C16D-32GVKC."
+  },
+  {
+    "product_id": "g-skill-f4-3600c16q-32gtznc",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/cn/specification/204/328/1562840141/F4-3600C16Q-32GTZNC-Specification",
+    "note": "La ficha oficial G.SKILL situa el kit en \"Desktop Memory (U-DIMM/CU-DIMM)\"; al ser DDR4 (CU-DIMM solo existe en DDR5) se registra UDIMM. No hay campo explicito de tipo de modulo en la pagina. P/N F4-3600C16Q-32GTZNC."
+  },
+  {
+    "product_id": "g-skill-f4-3200c16d-16gvgb",
+    "category_id": "ram",
+    "key": "Formato",
+    "value": "UDIMM",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gskill.com/tw/specification/203/217/1536116621/F4-3200C16D-16GVGB-Specification",
+    "note": "La ficha oficial G.SKILL situa el kit en \"Desktop Memory (U-DIMM/CU-DIMM)\"; al ser DDR4 (CU-DIMM solo existe en DDR5) se registra UDIMM. No hay campo explicito de tipo de modulo en la pagina. P/N F4-3200C16D-16GVGB."
+  }
+]

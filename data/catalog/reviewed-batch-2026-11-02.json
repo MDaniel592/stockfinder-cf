@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gigabyte-rtx-5080-gaming-oc-16g",
+    "slug": "gigabyte-rtx-5080-gaming-oc-16g",
+    "name": "Gigabyte GeForce RTX 5080 GAMING OC 16G",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N5080GAMING-OC-16GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Chip gráfico": "GeForce RTX 5080",
+      "Memoria": "16 GB",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Interfaz": "PCIe 5.0",
+      "Frecuencia turbo": "2730 MHz",
+      "Longitud": "340 mm",
+      "Dimensiones": "340 × 140 × 70 mm",
+      "Fuente recomendada": "850 W",
+      "Conectores de alimentación": "1 × 16 pines",
+      "Consumo (TGP)": "360 W"
+    },
+    "mpn": "GV-N5080GAMING OC-16GD"
+  },
+  {
+    "id": "msi-mag-x870e-tomahawk-wifi",
+    "slug": "msi-mag-x870e-tomahawk-wifi",
+    "name": "MSI MAG X870E TOMAHAWK WIFI",
+    "category_id": "motherboard",
+    "brand": "MSI",
+    "manufacturer_url": "https://www.msi.com/Motherboard/MAG-X870E-TOMAHAWK-WIFI/Specification",
+    "specs_verified_at": "2026-11-08T22:03:51Z",
+    "specs": {
+      "Socket": "AM5",
+      "Tipo de memoria": "DDR5",
+      "Formato": "ATX",
+      "Chipset": "AMD X870E",
+      "Ranuras de memoria": "4",
+      "Memoria máxima": "256 GB",
+      "Wi-Fi": "Wi-Fi 7"
+    }
+  },
+  {
+    "id": "kingston-fury-beast-64gb-ddr5-6000-cl30-expo",
+    "slug": "kingston-fury-beast-64gb-ddr5-6000-cl30-expo",
+    "name": "Kingston FURY Beast 64 GB (2 × 32 GB) DDR5-6000 CL30 EXPO",
+    "category_id": "ram",
+    "brand": "Kingston",
+    "manufacturer_url": "https://www.kingston.com/datasheets/KF560C30BBEK2-64.pdf",
+    "specs_verified_at": "2026-11-02T00:12:12.897284+00:00",
+    "specs": {
+      "Tipo de memoria": "DDR5",
+      "Capacidad": "64 GB",
+      "Módulos": "2 × 32 GB",
+      "Velocidad": "6000 MT/s",
+      "Latencia": "CL30",
+      "Formato": "UDIMM",
+      "Perfil": "AMD EXPO 1.1 e Intel XMP 3.0"
+    },
+    "mpn": "KF560C30BBEK2-64"
+  }
+]

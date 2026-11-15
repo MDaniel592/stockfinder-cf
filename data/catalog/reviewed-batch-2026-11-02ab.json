@@ -1,0 +1,445 @@
+[
+  {
+    "id": "igabyte-gv-r907xgamingocice-16gd",
+    "slug": "igabyte-gv-r907xgamingocice-16gd",
+    "name": "Gigabyte AMD Radeon RX 9070 XT GAMING OC ICE 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-R907XGAMINGOCICE-16GD",
+    "manufacturer_url": "https://www.gigabyte.com/ge/Graphics-Card/GV-R907XGAMINGOCICE-16GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "Radeon RX 9070 XT",
+      "Memoria": "16 GB GDDR6",
+      "Bus de memoria": "256-bit",
+      "Frecuencia boost": "hasta 3060 MHz",
+      "Frecuencia de juego": "hasta 2520 MHz",
+      "Tipo de memoria": "GDDR6",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "3-n506t2-08d7-193075n",
+    "slug": "3-n506t2-08d7-193075n",
+    "name": "INNO3D GeForce RTX 5060 Ti TWIN X2 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N506T2-08D7-193075N",
+    "manufacturer_url": "https://inno3d.com/news/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-gets-gold-recommended-award-professional-review",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB GDDR7",
+      "Modelo": "TWIN X2",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "912-v535-005",
+    "slug": "912-v535-005",
+    "name": "MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "mpn": "912-V535-005",
+    "manufacturer_url": "https://fr-store.msi.com/products/geforce-rtx-5060-ti-16g-ventus-2x-oc-plus-graphics-card",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "GPU": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB GDDR7",
+      "Núcleos CUDA": "4608",
+      "Frecuencia boost": "2602 MHz",
+      "Velocidad de memoria": "28 Gbps",
+      "Modelo": "VENTUS 2X OC PLUS",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)",
+      "Longitud": "227 mm",
+      "Conectores de alimentación": "1 × 8 pines"
+    }
+  },
+  {
+    "id": "rx-97tswf3w9",
+    "slug": "rx-97tswf3w9",
+    "name": "XFX Swift AMD Radeon RX 9070 XT Gaming White 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-97TSWF3W9",
+    "manufacturer_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9070xt-white-triple-fan-gaming-edition",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "Radeon RX 9070 XT",
+      "Memoria": "16 GB GDDR6",
+      "Frecuencia boost": "hasta 2970 MHz",
+      "Frecuencia de juego": "hasta 2400 MHz",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "sus-90yv0lg3-m0na00",
+    "slug": "sus-90yv0lg3-m0na00",
+    "name": "Asus Dual Radeon RX 9060 XT White Edition 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0LG3-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90YV0LG3-M0NA00/DUAL-RX9060XT-16G-WHITE",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "Radeon RX 9060 XT",
+      "Memoria": "16 GB GDDR6",
+      "Bus de memoria": "128-bit",
+      "Tipo de memoria": "GDDR6",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "otac-zt-b50600f-10m",
+    "slug": "otac-zt-b50600f-10m",
+    "name": "Zotac Gaming GeForce RTX 5060 AMP 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50600F-10M",
+    "manufacturer_url": "https://www.zotac.com/emeai/product/graphics_card/zotac-gaming-geforce-rtx-5060-amp-0",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5060",
+      "Memoria": "8 GB GDDR7",
+      "Frecuencia boost": "2550 MHz",
+      "Modelo": "AMP",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "145 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "912-v531-680",
+    "slug": "912-v531-680",
+    "name": "MSI GeForce RTX 5080 VENTUS 3X OC 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "mpn": "912-V531-680",
+    "manufacturer_url": "https://fr-store.msi.com/products/geforce-rtx-5080-16g-ventus-3x-oc-black-graphics-card",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "GPU": "GeForce RTX 5080",
+      "Memoria": "16 GB GDDR7",
+      "Núcleos CUDA": "10752",
+      "Frecuencia boost": "2640 MHz",
+      "Velocidad de memoria": "30 Gbps",
+      "Modelo": "VENTUS 3X OC",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "256 bits",
+      "Consumo (TGP)": "360 W",
+      "Fuente recomendada": "850 W (referencia NVIDIA)",
+      "Longitud": "303 mm",
+      "Conectores de alimentación": "1 × 16 pines"
+    }
+  },
+  {
+    "id": "ainward-ne7506t019p1-gb2062b",
+    "slug": "ainward-ne7506t019p1-gb2062b",
+    "name": "Gainward GeForce RTX 5060 Ti Ghost 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Gainward",
+    "mpn": "NE7506T019P1-GB2062B",
+    "manufacturer_url": "https://www.gainward.com/main/vgapro.php?id=1248&lang=en",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5060 Ti",
+      "Memoria": "8 GB GDDR7",
+      "Bus de memoria": "128-bit",
+      "Frecuencia boost": "2572 MHz",
+      "Núcleos CUDA": "4608",
+      "Modelo": "Ghost",
+      "Tipo de memoria": "GDDR7",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "rx-97swfb3b9",
+    "slug": "rx-97swfb3b9",
+    "name": "XFX Swift AMD Radeon RX 9070 OC Gaming Edition 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-97SWFB3B9",
+    "manufacturer_url": "https://www.xfxforce.com/gpu/amd-radeon-rx-9000-series",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "Radeon RX 9070",
+      "Memoria": "16 GB GDDR6",
+      "Frecuencia boost": "hasta 2700 MHz",
+      "Modelo": "Swift OC Triple Fan",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "220 W",
+      "Fuente recomendada": "650 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "sus-90yv0l75-m0na00",
+    "slug": "sus-90yv0l75-m0na00",
+    "name": "Asus Prime Radeon RX 9070 XT White Edition OC 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0L75-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90YV0L75-M0NA00/ASUS-Prime-Radeon-RX-9070-XT-White-OC-Edition-16GB-GDDR6-Gaming-Grafikkarte",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "Radeon RX 9070 XT",
+      "Memoria": "16 GB GDDR6",
+      "Modelo": "Prime OC White",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "256 bits",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "sus-90yv0mh2-m0na00",
+    "slug": "sus-90yv0mh2-m0na00",
+    "name": "Asus Prime GeForce RTX 5060 Ti 16GB OC GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0MH2-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/nl/90YV0MH2-M0NA00/PRIME-RTX5060TI-O16G",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB GDDR7",
+      "Modelo": "Prime OC",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "sus-90yv0m17-m0na00",
+    "slug": "sus-90yv0m17-m0na00",
+    "name": "Asus Dual GeForce RTX 5070 OC 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0M17-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/se-en/90YV0M17-M0NA00/DUAL-RTX5070-O12G",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5070",
+      "Memoria": "12 GB GDDR7",
+      "Modelo": "Dual OC",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "192 bits",
+      "Consumo (TGP)": "250 W",
+      "Fuente recomendada": "650 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "sus-90yv0m10-m0na00",
+    "slug": "sus-90yv0m10-m0na00",
+    "name": "Asus Prime GeForce RTX 5070 OC 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0M10-M0NA00",
+    "manufacturer_url": "https://estore.asus.com/fr/90yv0m10-m0na00-asus-prime-geforce-rtxtm-5070-12gb-gddr7-oc-edition.html",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5070",
+      "Memoria": "12 GB GDDR7",
+      "Frecuencia boost": "2557 MHz default / 2587 MHz OC",
+      "Modelo": "Prime OC",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "192 bits",
+      "Consumo (TGP)": "250 W",
+      "Fuente recomendada": "650 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "otac-zt-b50700h-10p",
+    "slug": "otac-zt-b50700h-10p",
+    "name": "Zotac Gaming GeForce RTX 5070 TWIN EDGE OC 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50700H-10P",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5070/Brochure/ZT-B50700H-10P-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5070",
+      "Memoria": "12 GB GDDR7",
+      "Frecuencia boost": "2542 MHz",
+      "Modelo": "Twin Edge OC",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "192 bits",
+      "Consumo (TGP)": "250 W",
+      "Fuente recomendada": "650 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "apphire-11349-03-20g",
+    "slug": "apphire-11349-03-20g",
+    "name": "Sapphire Pulse AMD Radeon RX 9070 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Sapphire",
+    "mpn": "11349-03-20G",
+    "manufacturer_url": "https://nation.sapphiretech.com/en/consumer/pulse-radeon-rx-9070-16g-gddr6",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "Radeon RX 9070",
+      "Memoria": "16 GB GDDR6",
+      "Serie": "PULSE",
+      "Bus de memoria": "256-bit",
+      "Tipo de memoria": "GDDR6",
+      "Consumo (TBP)": "220 W",
+      "Fuente recomendada": "650 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "ainward-ne75060019p1-gb2063b",
+    "slug": "ainward-ne75060019p1-gb2063b",
+    "name": "Gainward GeForce RTX 5060 Ghost 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Gainward",
+    "mpn": "NE75060019P1-GB2063B",
+    "manufacturer_url": "https://www.gainward.com/main/vgapc.php?lang=en&vgapc_id=85",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5060",
+      "Memoria": "8 GB GDDR7",
+      "Bus de memoria": "128-bit",
+      "Frecuencia boost": "2497 MHz",
+      "Núcleos CUDA": "3840",
+      "Modelo": "Ghost",
+      "Tipo de memoria": "GDDR7",
+      "Consumo (TGP)": "145 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "sus-90yv0n10-m0na00",
+    "slug": "sus-90yv0n10-m0na00",
+    "name": "Asus Prime RTX 5060 OC 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0N10-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90YV0N10-M0NA00/ASUS-Prime-GeForce-RTX-5060-8GB-GDDR7-OC-Edition-Gaming-Grafikkarte",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5060",
+      "Memoria": "8 GB GDDR7",
+      "Modelo": "Prime OC",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "145 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "owercolor-rx9070xt16g-l-oc",
+    "slug": "owercolor-rx9070xt16g-l-oc",
+    "name": "PowerColor Hellhound AMD Radeon RX 9070 XT OC 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Powercolor",
+    "mpn": "RX9070XT16G-L/OC",
+    "manufacturer_url": "https://www.powercolor.com/product-detail211.htm",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "Radeon RX 9070 XT",
+      "Memoria": "16 GB GDDR6",
+      "Bus de memoria": "256-bit",
+      "Frecuencia boost": "hasta 3010 MHz OC / 2970 MHz Silent",
+      "Frecuencia de juego": "hasta 2460 MHz OC / 2400 MHz Silent",
+      "Modelo": "Hellhound",
+      "Tipo de memoria": "GDDR6",
+      "Consumo (TBP)": "304 W",
+      "Fuente recomendada": "750 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "sus-90yv0n00-m0na00",
+    "slug": "sus-90yv0n00-m0na00",
+    "name": "Asus TUF Gaming RTX 5060 OC 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0N00-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90YV0N00-M0NA00/TUF-RTX5060-O8G-GAMING",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5060",
+      "Memoria": "8 GB GDDR7",
+      "Modelo": "TUF OC",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "145 W",
+      "Fuente recomendada": "550 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "igabyte-gv-r906xgamingocice-16gd",
+    "slug": "igabyte-gv-r906xgamingocice-16gd",
+    "name": "Gigabyte AMD Radeon RX 9060 XT Gaming OC ICE 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-R906XGAMINGOCICE-16GD",
+    "manufacturer_url": "https://www.gigabyte.com/us/Graphics-Card/GV-R906XGAMINGOCICE-16GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "Radeon RX 9060 XT",
+      "Memoria": "16 GB GDDR6",
+      "Frecuencia boost": "hasta 3320 MHz",
+      "Frecuencia de juego": "hasta 2780 MHz",
+      "Tipo de memoria": "GDDR6",
+      "Bus de memoria": "128 bits",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)"
+    }
+  },
+  {
+    "id": "otac-zt-b50620h-10m",
+    "slug": "otac-zt-b50620h-10m",
+    "name": "Zotac Gaming GeForce RTX 5060 Ti TWIN EDGE OC 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50620H-10M",
+    "manufacturer_url": "https://www.zotac.com/do/product/graphics_card/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "GPU": "GeForce RTX 5060 Ti",
+      "Memoria": "16 GB GDDR7",
+      "Modelo": "Twin Edge OC",
+      "Tipo de memoria": "GDDR7",
+      "Bus de memoria": "128 bits",
+      "Consumo (TGP)": "180 W",
+      "Fuente recomendada": "600 W (referencia NVIDIA)"
+    }
+  },
+  {
+    "id": "apphire-11350-01-20g",
+    "slug": "apphire-11350-01-20g",
+    "name": "Sapphire Nitro+ Radeon RX 9060 XT Gaming OC 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Sapphire",
+    "mpn": "11350-01-20G",
+    "manufacturer_url": "https://www.sapphiretech.com/en/consumer/nitro-radeon-rx-9060-xt-16g-gddr6",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "GPU": "Radeon RX 9060 XT",
+      "Memoria": "16 GB GDDR6",
+      "Serie": "NITRO+",
+      "Bus de memoria": "128-bit",
+      "Tipo de memoria": "GDDR6",
+      "Consumo (TBP)": "160 W",
+      "Fuente recomendada": "450 W (referencia AMD)",
+      "Longitud": "300 mm",
+      "Frecuencia turbo": "Hasta 3320 MHz",
+      "Conectores de alimentación": "1 × 8 pines"
+    }
+  }
+]

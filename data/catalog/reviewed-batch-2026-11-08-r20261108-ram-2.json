@@ -1,0 +1,326 @@
+[
+ {
+  "id": "corsair-cmh64gx5m2d6000z40",
+  "slug": "corsair-cmh64gx5m2d6000z40",
+  "name": "Corsair Vengeance RGB 64 GB (2 × 32 GB) DDR5-6000 CL40",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH64GX5M2D6000Z40",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh64gx5m2d6000z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL40"
+  }
+ },
+ {
+  "id": "corsair-cmh32gx5m2e6000z36",
+  "slug": "corsair-cmh32gx5m2e6000z36",
+  "name": "Corsair Vengeance RGB 32 GB (2 × 16 GB) DDR5-6000 CL36",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH32GX5M2E6000Z36",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2e6000z36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mts-cl36-amd-expo-memory-kit-cmh32gx5m2e6000z36",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36"
+  }
+ },
+ {
+  "id": "corsair-cmk16gx4m2a2400c16",
+  "slug": "corsair-cmk16gx4m2a2400c16",
+  "name": "Corsair Vengeance LPX 16 GB (2 × 8 GB) DDR4-2400 CL16",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMK16GX4M2A2400C16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2a2400c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-2400mhz-c16-memory-kit-black-cmk16gx4m2a2400c16",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "16 GB",
+   "Módulos": "2 × 8 GB",
+   "Velocidad": "2400 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "corsair-cmk32gx5m2e6000z36w",
+  "slug": "corsair-cmk32gx5m2e6000z36w",
+  "name": "Corsair Vengeance Blanca 32 GB (2 × 16 GB) DDR5-6000 CL36",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMK32GX5M2E6000Z36W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2e6000z36w/vengeance-32gb-2x16gb-ddr5-dram-6000mts-cl36-amd-expo-intel-xmp-memory-kit-white-cmk32gx5m2e6000z36w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36"
+  }
+ },
+ {
+  "id": "corsair-cmh16gx5m1d6000z38",
+  "slug": "corsair-cmh16gx5m1d6000z38",
+  "name": "Corsair Vengeance RGB 16 GB (1 × 16 GB) DDR5-6000 CL38",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH16GX5M1D6000Z38",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh16gx5m1d6000z38/vengeance-rgb-16gb-1-x-16gb-ddr5-dram-up-to-6000mt-s-cl38-amd-expo-&-intel-xmp-memory-kit-gray-cmh16gx5m1d6000z38",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL38"
+  }
+ },
+ {
+  "id": "corsair-cmk32gx5m2b5200c40",
+  "slug": "corsair-cmk32gx5m2b5200c40",
+  "name": "Corsair Vengeance 32 GB (2 × 16 GB) DDR5-5200 CL40",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMK32GX5M2B5200C40",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx5m2b5200c40/vengeancea-32gb-2x16gb-ddr5-dram-5200mhz-c40-memory-kit-a-black-cmk32gx5m2b5200c40",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "5200 MT/s",
+   "Latencia": "CL40"
+  }
+ },
+ {
+  "id": "corsair-cmk16gx5m1e6000z36",
+  "slug": "corsair-cmk16gx5m1e6000z36",
+  "name": "Corsair Vengeance 16 GB (1 × 16 GB) DDR5-6000 CL36",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMK16GX5M1E6000Z36",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk16gx5m1e6000z36/vengeance-16gb-1x16gb-ddr5-dram-6000mts-cl36-amd-expo-&-intel-xmp-memory-kit-cmk16gx5m1e6000z36",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "16 GB",
+   "Módulos": "1 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL36"
+  }
+ },
+ {
+  "id": "corsair-cmw32gx4m2e3200c16w",
+  "slug": "corsair-cmw32gx4m2e3200c16w",
+  "name": "Corsair Vengeance RGB Pro Blanca 32 GB (2 × 16 GB) DDR4-3200 CL16",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMW32GX4M2E3200C16W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16w/vengeancea-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmw32gx4m2e3200c16w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "corsair-cmh32gx4m2e3200c16w",
+  "slug": "corsair-cmh32gx4m2e3200c16w",
+  "name": "Corsair Vengeance RGB Pro SL Blanca 32 GB (2 × 16 GB) DDR4-3200 CL16",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH32GX4M2E3200C16W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx4m2e3200c16w/vengeance-rgb-pro-sl-32gb-2x16gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh32gx4m2e3200c16w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "corsair-cmh32gx5m2b6000z38",
+  "slug": "corsair-cmh32gx5m2b6000z38",
+  "name": "Corsair Vengeance RGB 32 GB (2 × 16 GB) DDR5-6000 CL38 (CMH32GX5M2B6000Z38)",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH32GX5M2B6000Z38",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000z38/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl38-memory-kit-grey-cmh32gx5m2b6000z38",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6000 MT/s",
+   "Latencia": "CL38"
+  }
+ },
+ {
+  "id": "corsair-cmv8gx4m1a2400c16",
+  "slug": "corsair-cmv8gx4m1a2400c16",
+  "name": "Corsair Value Select 8 GB (1 × 8 GB) DDR4-2400 CL16",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMV8GX4M1A2400C16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmv8gx4m1a2400c16/corsair-memory-a-8gb-1x8gb-ddr4-2400mhz-c16-dimm-cmv8gx4m1a2400c16",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "2400 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "corsair-cmh32gx5m2e6200c36",
+  "slug": "corsair-cmh32gx5m2e6200c36",
+  "name": "Corsair Vengeance RGB 32 GB (2 × 16 GB) DDR5-6200 CL36",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH32GX5M2E6200C36",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2e6200c36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6200mt-s-c36-memory-kit-black-cmh32gx5m2e6200c36",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "6200 MT/s",
+   "Latencia": "CL36"
+  }
+ },
+ {
+  "id": "corsair-cmh32gx4m4e3200c16w",
+  "slug": "corsair-cmh32gx4m4e3200c16w",
+  "name": "Corsair Vengeance RGB Pro SL Blanca 32 GB (4 × 8 GB) DDR4-3200 CL16",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH32GX4M4E3200C16W",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx4m4e3200c16w/vengeance-rgb-pro-sl-32gb-4x8gb-ddr4-dram-3200mhz-c16-memory-kit-a-white-cmh32gx4m4e3200c16w",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "4 × 8 GB",
+   "Velocidad": "3200 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "corsair-cmh32gx5m1b5200z40",
+  "slug": "corsair-cmh32gx5m1b5200z40",
+  "name": "Corsair Vengeance RGB 32 GB (1 × 32 GB) DDR5-5200 CL40",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH32GX5M1B5200Z40",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m1b5200z40/vengeance-rgb-32gb-1x32gb-ddr5-dram-5200mts-cl40-amd-expo-intel-xmp-memory-kit-cmh32gx5m1b5200z40",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "1 × 32 GB",
+   "Velocidad": "5200 MT/s",
+   "Latencia": "CL40"
+  }
+ },
+ {
+  "id": "corsair-cmh32gx5m2x7000c34",
+  "slug": "corsair-cmh32gx5m2x7000c34",
+  "name": "Corsair Vengeance RGB 32 GB (2 × 16 GB) DDR5-7000 CL34",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH32GX5M2X7000C34",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2x7000c34/vengeance-rgb-32gb-2x16gb-ddr5-dram-7000mt-s-c34-memory-kit-black-cmh32gx5m2x7000c34",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "7000 MT/s",
+   "Latencia": "CL34"
+  }
+ },
+ {
+  "id": "corsair-cmh64gx5m2d5600z40",
+  "slug": "corsair-cmh64gx5m2d5600z40",
+  "name": "Corsair Vengeance RGB 64 GB (2 × 32 GB) DDR5-5600 CL40",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMH64GX5M2D5600Z40",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmh64gx5m2d5600z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-5600mt-s-cl40-memory-kit-grey-cmh64gx5m2d5600z40",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "64 GB",
+   "Módulos": "2 × 32 GB",
+   "Velocidad": "5600 MT/s",
+   "Latencia": "CL40"
+  }
+ },
+ {
+  "id": "corsair-cmk32gx4m2d3000c16",
+  "slug": "corsair-cmk32gx4m2d3000c16",
+  "name": "Corsair Vengeance LPX 32 GB (2 × 16 GB) DDR4-3000 CL16",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMK32GX4M2D3000C16",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk32gx4m2d3000c16/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-3000mhz-c16-memory-kit-black-cmk32gx4m2d3000c16",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR4",
+   "Capacidad": "32 GB",
+   "Módulos": "2 × 16 GB",
+   "Velocidad": "3000 MT/s",
+   "Latencia": "CL16"
+  }
+ },
+ {
+  "id": "corsair-cmk8gx5m1b5200c40",
+  "slug": "corsair-cmk8gx5m1b5200c40",
+  "name": "Corsair Vengeance 8 GB (1 × 8 GB) DDR5-5200 CL40",
+  "category_id": "ram",
+  "brand": "Corsair",
+  "mpn": "CMK8GX5M1B5200C40",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/memory/cmk8gx5m1b5200c40/vengeance-8gb-1x8gb-ddr5-dram-5200mt-s-cl40-memory-kit-black-cmk8gx5m1b5200c40",
+  "specs_verified_at": "2026-11-08T22:30:00Z",
+  "specs": {
+   "Tipo de memoria": "DDR5",
+   "Capacidad": "8 GB",
+   "Módulos": "1 × 8 GB",
+   "Velocidad": "5200 MT/s",
+   "Latencia": "CL40"
+  }
+ }
+]

@@ -1,0 +1,252 @@
+[
+ {
+  "id": "corsair-cw-9060088-ww",
+  "slug": "corsair-cw-9060088-ww",
+  "name": "Corsair iCUE NAUTILUS 240 RS (CW-9060088-WW)",
+  "category_id": "cooler",
+  "brand": "Corsair",
+  "mpn": "CW-9060088-WW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060088-ww/nautilus-240-rs-liquid-cpu-cooler-cw-9060088-ww",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "240 mm"
+  }
+ },
+ {
+  "id": "corsair-cw-9061026-ww",
+  "slug": "corsair-cw-9061026-ww",
+  "name": "Corsair iCUE LINK TITAN 360 RX LCD Blanco (CW-9061026-WW)",
+  "category_id": "cooler",
+  "brand": "Corsair",
+  "mpn": "CW-9061026-WW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061026-ww/icue-link-titan-360-rx-lcd-liquid-cpu-cooler-white-cw-9061026-ww",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "360 mm",
+   "Ventiladores": "3 × 120 mm"
+  }
+ },
+ {
+  "id": "corsair-cw-9061020-ww",
+  "slug": "corsair-cw-9061020-ww",
+  "name": "Corsair iCUE LINK TITAN 240 RX RGB Blanco (CW-9061020-WW)",
+  "category_id": "cooler",
+  "brand": "Corsair",
+  "mpn": "CW-9061020-WW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/ww/en/p/cpu-coolers/cw-9061020-ww/icue-link-titan-240-rx-rgb-aio-liquid-cpu-cooler-white-cw-9061020-ww",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "corsair-cw-9060095-ww",
+  "slug": "corsair-cw-9060095-ww",
+  "name": "Corsair iCUE NAUTILUS 360 RS ARGB Blanco (CW-9060095-WW)",
+  "category_id": "cooler",
+  "brand": "Corsair",
+  "mpn": "CW-9060095-WW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060095-ww/nautilus-360-rs-argb-liquid-cpu-cooler-white-cw-9060095-ww",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "360 mm"
+  }
+ },
+ {
+  "id": "corsair-cw-9060093-ww",
+  "slug": "corsair-cw-9060093-ww",
+  "name": "Corsair iCUE NAUTILUS 360 RS ARGB Negro (CW-9060093-WW)",
+  "category_id": "cooler",
+  "brand": "Corsair",
+  "mpn": "CW-9060093-WW",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060093-ww/nautilus-360-rs-argb-liquid-cpu-cooler-cw-9060093-ww",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Radiador": "360 mm"
+  }
+ },
+ {
+  "id": "arctic-acfre00181a",
+  "slug": "arctic-acfre00181a",
+  "name": "ARCTIC Liquid Freezer III Pro 420 (ACFRE00181A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00181A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-420/ACFRE00181A",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA115X",
+   "Radiador": "420 mm"
+  }
+ },
+ {
+  "id": "be-quiet-bk024",
+  "slug": "be-quiet-bk024",
+  "name": "be quiet! Dark Rock Slim (BK024)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK024",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/1659",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA2066, LGA1150, LGA1151, LGA1155, LGA2011, LGA2011-3",
+   "Altura": "159 mm",
+   "Ventiladores": "1"
+  }
+ },
+ {
+  "id": "be-quiet-bk047",
+  "slug": "be-quiet-bk047",
+  "name": "be quiet! Pure Rock Slim 3 (BK047)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK047",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/6120",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700",
+   "Altura": "127 mm",
+   "Heatpipes": "3",
+   "Ventiladores": "1"
+  }
+ },
+ {
+  "id": "be-quiet-bk040",
+  "slug": "be-quiet-bk040",
+  "name": "be quiet! Pure Rock 3 LX (BK040)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK040",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/5592",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1150, LGA1151, LGA1155",
+   "Altura": "154 mm",
+   "Ventiladores": "1"
+  }
+ },
+ {
+  "id": "be-quiet-bk036",
+  "slug": "be-quiet-bk036",
+  "name": "be quiet! Dark Rock Pro 5 (BK036)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BK036",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/cpucooler/4466",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1150, LGA1151, LGA1155",
+   "Altura": "168 mm",
+   "Ventiladores": "2"
+  }
+ },
+ {
+  "id": "be-quiet-bw013",
+  "slug": "be-quiet-bw013",
+  "name": "be quiet! Pure Loop 2 FX 240 mm (BW013)",
+  "category_id": "cooler",
+  "brand": "be quiet!",
+  "mpn": "BW013",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.bequiet.com/en/watercooler/3745",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA2066, LGA1150, LGA1151, LGA1155, LGA2011, LGA2011-3",
+   "Radiador": "240 mm",
+   "Ventiladores": "2 × 120 mm"
+  }
+ },
+ {
+  "id": "cooler-master-mly-d36m-a24pz-r1",
+  "slug": "cooler-master-mly-d36m-a24pz-r1",
+  "name": "Cooler Master MasterLiquid 360 ION LCD Negro (MLY-D36M-A24PZ-R1)",
+  "category_id": "cooler",
+  "brand": "Cooler Master",
+  "mpn": "MLY-D36M-A24PZ-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/MLY-D36M-A24PZ-R1.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA1156",
+   "Radiador": "360 mm"
+  }
+ },
+ {
+  "id": "cooler-master-rr-s4na-17pa-r1",
+  "slug": "cooler-master-rr-s4na-17pa-r1",
+  "name": "Cooler Master Hyper 212 Spectrum V3 ARGB (RR-S4NA-17PA-R1)",
+  "category_id": "cooler",
+  "brand": "Cooler Master",
+  "mpn": "RR-S4NA-17PA-R1",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.coolermaster.com/en-global/products/RR-S4NA-17PA-R1.html",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "AM5, AM4, LGA1851, LGA1700, LGA1200, LGA1151, LGA1150, LGA1155, LGA1156",
+   "Altura": "152 mm",
+   "Ventiladores": "1 × 120 mm",
+   "Heatpipes": "4"
+  }
+ },
+ {
+  "id": "arctic-acfre00185a",
+  "slug": "arctic-acfre00185a",
+  "name": "ARCTIC Liquid Freezer III Pro 420 A-RGB (ACFRE00185A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00185A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-420-A-RGB/ACFRE00185A",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Líquida AIO",
+   "Radiador": "420 mm"
+  }
+ },
+ {
+  "id": "arctic-acfre00226a",
+  "slug": "arctic-acfre00226a",
+  "name": "ARCTIC Freezer 4U-Altra (ACFRE00226A)",
+  "category_id": "cooler",
+  "brand": "ARCTIC",
+  "mpn": "ACFRE00226A",
+  "mpn_source": "manufacturer",
+  "manufacturer_url": "https://www.arctic.de/en/Freezer-4U-Altra/ACFRE00226A",
+  "specs_verified_at": "2026-11-09T16:30:00Z",
+  "specs": {
+   "Tipo": "Aire",
+   "Sockets compatibles": "LGA4926",
+   "Altura": "145 mm",
+   "Heatpipes": "8"
+  }
+ }
+]

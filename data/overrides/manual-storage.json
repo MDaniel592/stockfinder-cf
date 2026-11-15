@@ -1,0 +1,1541 @@
+[
+  {
+    "product_id": "apacer-as2280q4u-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Data%20Sheet_AS2280Q4U.pdf",
+    "note": "La hoja oficial lista el P/N exacto AP1TBAS2280Q4U-1 y distingue dimensiones del SSD y “With heat sink”. La guía oficial https://www.apacer.com/upload/media/download/Personal-biz/User%20Manual/AS2280Q4U_Quick%20Guide_220224.pdf especifica que el disipador va incluido como pieza separada que debe ensamblarse/desensamblarse; por eso no está integrado en el SSD."
+  },
+  {
+    "product_id": "teamgroup-cx2-256gb-t253x6256g0c101",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "520 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/tw/product-detail/ssd/TEAMGROUP/cx2/cx2-T253X6256G0C101/",
+    "note": "Ficha oficial TEAMGROUP, variante 256 GB, lectura secuencial 520 MB/s, P/N T253X6256G0C101."
+  },
+  {
+    "product_id": "teamgroup-mp33-256gb-tm8fp6256g0c101",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "1600 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/mp33/mp33-TM8FP6256G0C101/",
+    "note": "Ficha oficial TEAMGROUP, variante 256 GB (TM8FP6256G0C101), lectura secuencial 1,600 MB/s."
+  },
+  {
+    "product_id": "teamgroup-ms30-512gb-tm8ps7512g0c101",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "530 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/ms30-2280/ms30-2280-TM8PS7512G0C101/",
+    "note": "Ficha oficial del modelo 512GB y P/N exacto: lectura secuencial hasta 530 MB/s."
+  },
+  {
+    "product_id": "wd-green-sn3000-1-tb-wds100t4g0e",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "5000 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.sandisk.com/tools/documentRequestHandler?docPath=%2Fcontent%2Fdam%2Fdoc-library%2Fen_us%2Fassets%2Fpublic%2Fwestern-digital%2Fproduct%2Finternal-drives%2Fwd-green-ssd%2Fdata-sheet-wd-green-sn3000-nvme-ssd.pdf",
+    "note": "La ficha oficial lista WDS100T4G0E (1 TB) y la fila Sequential Read asigna 5000 MB/s."
+  },
+  {
+    "product_id": "wd-green-sn3000-2-tb-wds200t4g0e",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "5000 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.sandisk.com/tools/documentRequestHandler?docPath=%2Fcontent%2Fdam%2Fdoc-library%2Fen_us%2Fassets%2Fpublic%2Fwestern-digital%2Fproduct%2Finternal-drives%2Fwd-green-ssd%2Fdata-sheet-wd-green-sn3000-nvme-ssd.pdf",
+    "note": "La ficha oficial lista WDS200T4G0E (2 TB) y la fila Sequential Read asigna 5000 MB/s."
+  },
+  {
+    "product_id": "wd-black-sn7100-4-tb-wds400t4x0e",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "6800 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.sandisk.com/products/ssd/internal-ssd/wd-black-sn7100-nvme-internal-ssd?pubDate=20250708&sku=WDS400T4X0E-00CJA0",
+    "note": "La página oficial vincula WDS400T4X0E-00CJA0 (4 TB) con Sequential Read Performance de 6800 MB/s."
+  },
+  {
+    "product_id": "wd-blue-sn5000-1-tb-wds100t4b0e",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "5150 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.sandisk.com/tools/documentRequestHandler?docPath=%2Fcontent%2Fdam%2Fdoc-library%2Fen_us%2Fassets%2Fpublic%2Fwestern-digital%2Fproduct%2Finternal-drives%2Fwd-blue-nvme-ssd%2Fdata-sheet-wd-blue-sn5000-nvme-ssd.pdf",
+    "note": "La tabla oficial de SN5000 asigna 5150 MB/s de lectura secuencial al modelo WDS100T4B0E de 1 TB."
+  },
+  {
+    "product_id": "wd-green-sn350-500-gb-wds500g2g0c-00cdh0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "2400 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.sandisk.com/pt-br/tools/documentRequestHandler?docPath=%2Fcontent%2Fdam%2Fdoc-library%2Fen_us%2Fassets%2Fpublic%2Fwestern-digital%2Fproduct%2Finternal-drives%2Fwd-green-ssd%2Fproduct-brief-wd-green-sn350-nvme-ssd.pdf",
+    "note": "La ficha oficial relaciona WDS500G2G0C con 500 GB y publica hasta 2400 MB/s de lectura secuencial."
+  },
+  {
+    "product_id": "sandisk-optimus-5100-1-tb-sdsp51100tan-000e0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7100 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd",
+    "note": "La página oficial asocia el MPN exacto SDSP51100TAN-000E0 (1 TB) con lectura secuencial de 7100 MB/s."
+  },
+  {
+    "product_id": "sandisk-optimus-5100-2-tb-sdsp51200tan-000e0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7100 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd",
+    "note": "La página oficial asocia el MPN exacto SDSP51200TAN-000E0 (2 TB) con lectura secuencial de 7100 MB/s."
+  },
+  {
+    "product_id": "sandisk-optimus-gx-7100-500-gb-sdsp71500gan-000e0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "6800 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd",
+    "note": "La página oficial lista SDSP71500GAN-000E0 (500 GB) con lectura secuencial de 6800 MB/s."
+  },
+  {
+    "product_id": "sandisk-optimus-gx-7100-1-tb-sdsp71100tan-000e0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7250 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd",
+    "note": "La página oficial lista SDSP71100TAN-000E0 (1 TB) con lectura secuencial de 7250 MB/s."
+  },
+  {
+    "product_id": "sandisk-optimus-gx-7100-2-tb-sdsp71200tan-000e0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7250 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd",
+    "note": "La página oficial lista SDSP71200TAN-000E0 (2 TB) con lectura secuencial de 7250 MB/s."
+  },
+  {
+    "product_id": "sandisk-optimus-gx-7100-4-tb-sdsp71400tan-000e0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7000 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd",
+    "note": "La página oficial lista SDSP71400TAN-000E0 (4 TB) con lectura secuencial de 7000 MB/s."
+  },
+  {
+    "product_id": "sandisk-optimus-gx-pro-850x-1-tb-sdsp81100tan-000e0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7300 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/internal-drives/sandisk-optimus-gx-pro/data-sheet-optimus-gx-pro-850x-internal-ssd.pdf",
+    "note": "La ficha oficial lista SDSP81100TAN (1 TB, variante sin disipador) y 7300 MB/s de lectura secuencial."
+  },
+  {
+    "product_id": "sandisk-optimus-gx-pro-850x-2-tb-sdsp81200tan-000e0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7300 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/internal-drives/sandisk-optimus-gx-pro/data-sheet-optimus-gx-pro-850x-internal-ssd.pdf",
+    "note": "La ficha oficial lista SDSP81200TAN (2 TB, variante sin disipador) y 7300 MB/s de lectura secuencial."
+  },
+  {
+    "product_id": "sandisk-optimus-gx-pro-8100-1tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "14900 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/internal-drives/sandisk-optimus-gx-pro/data-sheet-optimus-gx-pro-8100-internal-nvme-ssd.pdf",
+    "note": "La ficha oficial asigna 14900 MB/s a 1 TB y enumera el MPN de 1 TB SDSP82100TAN."
+  },
+  {
+    "product_id": "wd-blue-sa510-500-gb-m-2-wds500g3b0b",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "560 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.sandisk.com/en-kz/products/ssd/internal-ssd/wd-blue-sa510-sata-m-2-ssd?sku=WDS500G3B0B",
+    "note": "La página oficial identifica WDS500G3B0B entre sus modelos M.2 500 GB y publica hasta 560 MB/s para modelos de 500 GB a 4 TB."
+  },
+  {
+    "product_id": "msi-spatium-m461-1-tb-s78-440l1d0-p83",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "5000 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://storage-asset.msi.com/datasheet/storage/latam/SPATIUM-M461-PCIe-4.0-NVMe-M.2.pdf",
+    "note": "La tabla oficial M461 asigna 5000 MB/s a 1 TB; la página oficial de tienda identifica SKU S78-440L1D0-P83 como 1 TB."
+  },
+  {
+    "product_id": "msi-spatium-m461-2-tb-s78-440q550-p83",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "5000 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://storage-asset.msi.com/datasheet/storage/latam/SPATIUM-M461-PCIe-4.0-NVMe-M.2.pdf",
+    "note": "La tabla oficial M461 asigna 5000 MB/s a 2 TB; la página oficial de tienda identifica SKU S78-440Q550-P83 como 2 TB."
+  },
+  {
+    "product_id": "msi-spatium-s270-480-gb-s78-440e350-p83",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "500 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://storage-asset.msi.com/specSheet/vn/storage/SPATIUM%20S270%20SATA%202.5%20480GB.pdf",
+    "note": "La hoja oficial SPATIUM S270 SATA 2.5 de 480 GB da hasta 500 MB/s de lectura secuencial."
+  },
+  {
+    "product_id": "crucial-ct2000bx500ssd1",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "540 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://assets.micron.com/adobe/assets/urn%3Aaaid%3Aaem%3A89a539f7-d1ba-4202-ab4d-161406b8747f/renditions/original/as/crucial-bx500-ssd-productflyer.pdf.html",
+    "note": "La ficha oficial de Micron vincula CT2000BX500SSD1 (2 TB) con lectura secuencial de 540 MB/s."
+  },
+  {
+    "product_id": "crucial-ct240bx500ssd1",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "540 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://assets.micron.com/adobe/assets/urn%3Aaaid%3Aaem%3A89a539f7-d1ba-4202-ab4d-161406b8747f/renditions/original/as/crucial-bx500-ssd-productflyer.pdf.html",
+    "note": "La ficha oficial de Micron vincula CT240BX500SSD1 (240 GB) con lectura secuencial de 540 MB/s."
+  },
+  {
+    "product_id": "crucial-ct500bx500ssd1",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "540 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://assets.micron.com/adobe/assets/urn%3Aaaid%3Aaem%3A89a539f7-d1ba-4202-ab4d-161406b8747f/renditions/original/as/crucial-bx500-ssd-productflyer.pdf.html",
+    "note": "La ficha oficial de Micron vincula CT500BX500SSD1 (500 GB) con lectura secuencial de 540 MB/s."
+  },
+  {
+    "product_id": "crucial-ct1000bx500ssd1",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "540 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://assets.micron.com/adobe/assets/urn%3Aaaid%3Aaem%3A89a539f7-d1ba-4202-ab4d-161406b8747f/renditions/original/as/crucial-bx500-ssd-productflyer.pdf.html",
+    "note": "La ficha oficial de Micron vincula CT1000BX500SSD1 (1 TB) con lectura secuencial de 540 MB/s."
+  },
+  {
+    "product_id": "crucial-ct2000t500ssd8",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7400 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/content/dam/crucial/ssd-products/t500/flyers/b2c/crucial-T500-b2c-product-flyer-en_combination.pdf",
+    "note": "La tabla oficial T500 asigna 7400 MB/s al modelo CT2000T500SSD8 (2 TB, sin disipador)."
+  },
+  {
+    "product_id": "kioxia-exceria-sata-480-gb-ltc10z480gg8",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "555 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://apac.kioxia.com/en-apac/personal/ssd/exceria-sata-ssd.html",
+    "note": "La ficha oficial lista LTC10Z480GG8 (480 GB) y especifica lectura secuencial máxima de 555 MB/s."
+  },
+  {
+    "product_id": "kioxia-exceria-sata-960-gb-ltc10z960gg8",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "555 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://apac.kioxia.com/en-apac/personal/ssd/exceria-sata-ssd.html",
+    "note": "La ficha oficial lista LTC10Z960GG8 (960 GB) y especifica lectura secuencial máxima de 555 MB/s."
+  },
+  {
+    "product_id": "pny-cs1030-250-gb-m280cs1030-250-rb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "2500 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/pny-ssd-cs1030-sell-sheet.pdf",
+    "note": "La ficha oficial CS1030 asigna 2500 MB/s de lectura al P/N M280CS1030-250-RB (250 GB)."
+  },
+  {
+    "product_id": "pny-cs1030-500-gb-m280cs1030-500-rb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "2000 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/cs1030-m2-nvme-ssd?sku=M280CS1030-500-RB",
+    "note": "La página oficial del SKU M280CS1030-500-RB (500 GB) da lectura máxima secuencial de 2000 MB/s."
+  },
+  {
+    "product_id": "pny-cs1030-1-tb-m280cs1030-1tb-rb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "2100 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/cs1030-m2-nvme-ssd?sku=M280CS1030-1TB-RB",
+    "note": "La página oficial del SKU M280CS1030-1TB-RB (1 TB) da lectura máxima secuencial de 2100 MB/s."
+  },
+  {
+    "product_id": "pny-cs2230-500gb-m280cs2230-500-rb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "3300 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/cs2230-m2-nvme-ssd?sku=M280CS2230-500-RB",
+    "note": "La página oficial del SKU M280CS2230-500-RB (500 GB) da lectura máxima secuencial de 3300 MB/s."
+  },
+  {
+    "product_id": "pny-cs2140-1tb-m280cs2140-1tb-rb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "3600 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/File%20Library/Company/Support/linecards/solid-state-drives/ssd-linecard-commercial.pdf",
+    "note": "La ficha oficial PNY lista M280CS2140-1TB-RB (1 TB) con lectura de hasta 3600 MB/s."
+  },
+  {
+    "product_id": "teamgroup-nv5000-1tb-tm8fgm001t0c101",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "4500 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/nv5000/nv5000-TM8FGM001T0C101/",
+    "note": "La tabla oficial modelo/capacidad/P/N asigna 4500 MB/s al NV5000 1 TB TM8FGM001T0C101."
+  },
+  {
+    "product_id": "corsair-mp600-elite-2tb-ps5-cssd-f2000gbmp600ecs",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ca/en/p/data-storage/cssd-f2000gbmp600ecs/mp600-elite-2tb-pcie-gen4-x4-nvme-1-4-m-2-ssd-for-ps5-cssd-f2000gbmp600ecs",
+    "note": "La página CORSAIR del SKU CSSD-F2000GBMP600ECS especifica SSD M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp600-elite-2tb-heatsink-cssd-f2000gbmp600ehs",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600ehs/mp600-elite-2tb-pcie-gen4-x4-nvme-1-4-m-2-ssd-with-heatsink-cssd-f2000gbmp600ehs",
+    "note": "La página CORSAIR del SKU CSSD-F2000GBMP600EHS especifica Storage Form Factor M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp600-elite-2tb-cssd-f2000gbmp600enh",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600enh/mp600-elite-2tb-pcie-gen4-x4-nvme-1-4-m-2-ssd-cssd-f2000gbmp600enh",
+    "note": "La página CORSAIR del SKU CSSD-F2000GBMP600ENH declara el formato compacto M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxt",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600cxt/mp600-core-xt-2tb-pcie-4-0-gen4-x-4-nvme-m-2-ssd-cssd-f2000gbmp600cxt",
+    "note": "La página CORSAIR del SKU CSSD-F2000GBMP600CXT especifica Storage Form Factor M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxtr2",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600cxtr2/mp600-core-xt-2tb-pcie-gen4-x4-nvme-1-4-m-2-ssd-cssd-f2000gbmp600cxtr2",
+    "note": "La página CORSAIR del SKU CSSD-F2000GBMP600CXTR2 especifica Storage Form Factor M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp600-core-xt-1tb-cssd-f1000gbmp600cxtr2",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp600cxtr2/mp600-core-xt-1tb-pcie-gen4-x4-nvme-1-4-m-2-ssd-cssd-f1000gbmp600cxtr2",
+    "note": "La página CORSAIR del SKU CSSD-F1000GBMP600CXTR2 declara formato compacto M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp600-pro-hydro-x-2tb-cssd-f2000gbmp600hxe",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600hxe/mp600-pro-2tb-m-2-nvme-pcie-gen-4-x4-hydro-x-ed-ssd-cssd-f2000gbmp600hxe",
+    "note": "La página CORSAIR del SKU CSSD-F2000GBMP600HXE especifica M.2 2280 Form Factor."
+  },
+  {
+    "product_id": "corsair-mp600-pro-nh-2tb-cssd-f2000gbmp600pnh",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600pnh/mp600-pro-nh-2tb-pcie-4-0-gen-4-x4-nvme-m-2-ssd-cssd-f2000gbmp600pnh",
+    "note": "La página CORSAIR del SKU CSSD-F2000GBMP600PNH declara formato M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp600-pro-xt-1tb-cssd-f1000gbmp600pxt",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/CSSD-F1000GBMP600PXT/mp600-pro-xt-1tb-m-2-nvme-pcie-gen-4-x4-ssd-cssd-f1000gbmp600pxt",
+    "note": "La página CORSAIR del SKU CSSD-F1000GBMP600PXT especifica M.2 2280 Form Factor."
+  },
+  {
+    "product_id": "corsair-mp700-pro-1tb-cssd-f1000gbmp700pnh",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ww/en/p/data-storage/cssd-f1000gbmp700pnh/mp700-pro-1tb-pcie-gen5-x4-nvme-2-0-m-2-ssd-cssd-f1000gbmp700pnh",
+    "note": "La página CORSAIR del SKU CSSD-F1000GBMP700PNH especifica Storage Form Factor M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp700-pro-2tb-cssd-f2000gbmp700pnh",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ww/en/explorer/diy-builder/storage/corsair-mp700-pro-vs-mp700/",
+    "note": "La ficha comparativa oficial CORSAIR incluye CSSD-F2000GBMP700PNH y declara M.2 2280 para MP700 PRO."
+  },
+  {
+    "product_id": "corsair-mp700-pro-1tb-air-cooler-cssd-f1000gbmp700pro",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp700pro/mp700-pro-1tb-with-air-cooler-pcie-gen5-x4-nvme-2-0-m-2-ssd-cssd-f1000gbmp700pro",
+    "note": "La página CORSAIR del SKU CSSD-F1000GBMP700PRO declara formato compacto M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp700-pro-2tb-air-cooler-cssd-f2000gbmp700pro",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/CSSD-F2000GBMP700PRO/mp700-pro-2tb-with-air-cooler-pcie-gen5-x4-nvme-2-0-m-2-ssd-cssd-f2000gbmp700pro",
+    "note": "La página CORSAIR del SKU CSSD-F2000GBMP700PRO declara formato compacto M.2 2280."
+  },
+  {
+    "product_id": "corsair-mp700-pro-se-2tb-air-cooler-cssd-f2000gbmp700pros",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp700pros/mp700-pro-se-with-air-cooler-2tb-pcie-5-0-x4-nvme-m-2-ssd-cssd-f2000gbmp700pros",
+    "note": "La página CORSAIR del SKU CSSD-F2000GBMP700PROS especifica Storage Form Factor M.2 2280."
+  },
+  {
+    "product_id": "wd-black-sn8100-4-tb-wds400t1x0m",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "14900 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/internal-drives/wd-black-ssd/data-sheet-wd-black-sn8100-nvme-ssd.pdf",
+    "note": "La tabla oficial del datasheet asigna WDS400T1X0M-00CMT0 (4TB) una lectura secuencial máxima de 14 900 MB/s."
+  },
+  {
+    "product_id": "wd-black-sn8100-1-tb-wds100t1x0m",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "14900 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/internal-drives/wd-black-ssd/data-sheet-wd-black-sn8100-nvme-ssd.pdf",
+    "note": "La tabla oficial del datasheet asigna WDS100T1X0M-00CMT0 (1TB) una lectura secuencial máxima de 14 900 MB/s."
+  },
+  {
+    "product_id": "wd-blue-sn5100-2-tb-wds200t5b0e-00cpe0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7100 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/internal-drives/wd-blue-sn5100-nvme-ssd/data-sheet-wd-blue-sn5100-nvme-ssd.pdf",
+    "note": "La tabla de rendimiento del datasheet identifica WDS200T5B0E-00CPE0 (2TB): lectura secuencial máxima de 7 100 MB/s."
+  },
+  {
+    "product_id": "wd-blue-sn5100-500-gb-wds500g5b0e-00cpe0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "6600 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/internal-drives/wd-blue-sn5100-nvme-ssd/data-sheet-wd-blue-sn5100-nvme-ssd.pdf",
+    "note": "La tabla de rendimiento del datasheet identifica WDS500G5B0E-00CPE0 (500GB): lectura secuencial máxima de 6 600 MB/s."
+  },
+  {
+    "product_id": "sandisk-wd-blue-sn5100-4tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "6900 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/internal-drives/wd-blue-sn5100-nvme-ssd/data-sheet-wd-blue-sn5100-nvme-ssd.pdf",
+    "note": "La tabla de rendimiento del datasheet identifica WDS400T5B0E-00CPE0 (4TB): lectura secuencial máxima de 6 900 MB/s."
+  },
+  {
+    "product_id": "wd-red-sa500-nas-2-tb-2-5-wds200t2r0a",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "560 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-ssd/product-brief-western-digital-wd-red-sa500-ssd.pdf",
+    "note": "El cuadro oficial de rendimiento del WD Red SA500 asigna al modelo de 2TB con P/N WDS200T2R0A lectura secuencial máxima de 560 MB/s."
+  },
+  {
+    "product_id": "wd-red-sa500-nas-1-tb-m-2-wds100t1r0b",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "560 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-ssd/product-brief-western-digital-wd-red-sa500-ssd.pdf",
+    "note": "El cuadro oficial de rendimiento del WD Red SA500 asigna al formato M.2 2280 de 1TB, P/N WDS100T1R0B, lectura secuencial máxima de 560 MB/s."
+  },
+  {
+    "product_id": "sandisk-ssd-plus-2-tb-sdssda-2t00-g28",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "545 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.sandisk.com/en-za/products/ssd/internal-ssd/sandisk-ssd-plus-sata-iii-ssd?sku=SDSSDA-2T00-G28",
+    "note": "La ficha oficial identifica el SKU SDSSDA-2T00-G28 (2TB) y publica hasta 545 MB/s de lectura secuencial para capacidades de 1–2TB."
+  },
+  {
+    "product_id": "wd-blue-sn5000-500-gb-wds500g4b0e",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "5000 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-nvme-ssd/data-sheet-wd-blue-sn5000-nvme-ssd.pdf",
+    "note": "La tabla del datasheet WD Blue SN5000 identifica WDS500G4B0E (500GB) con lectura secuencial máxima de 5 000 MB/s."
+  },
+  {
+    "product_id": "corsair-mp600-mini-1tb-cssd-f1000gbmp600mnr2",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7000 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ch/en/p/data-storage/cssd-f1000gbmp600mnr2/mp600-mini-1tb-gen4-pcie-x4-nvme-m-2-2230-ssd-cssd-f1000gbmp600mnr2",
+    "note": "La tabla de especificaciones para SKU CSSD-F1000GBMP600MNR2 publica lectura secuencial CDM de hasta 7 000 MB/s."
+  },
+  {
+    "product_id": "goodram-px700-1tb-ssdpr-px700-01t-80",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-px700-ssd-2/",
+    "note": "La ficha del fabricante para P/N SSDPR-PX700-01T-80 declara factor de forma M.2, tamaño 2280."
+  },
+  {
+    "product_id": "goodram-px700-1tb-ssdpr-px700-01t-80",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "7400 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-px700-ssd-2/",
+    "note": "La ficha oficial vincula P/N SSDPR-PX700-01T-80 con capacidad 1 024 GB y lectura secuencial máxima 7 400 MB/s."
+  },
+  {
+    "product_id": "crucial-ct1000p510ssd5",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "11000 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/content/dam/crucial/ssd-products/p510/flyers/b2c/crucial-P510-b2c-product-flyer.pdf",
+    "note": "El flyer oficial del P510 especifica para la capacidad de 1TB hasta 11 000 MB/s de lectura secuencial; incluye la variante de 1TB con disipador."
+  },
+  {
+    "product_id": "sandisk-520-sata-ssd-500-gb-sdss51500gab-000g0",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "560 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-520-sata-ssd",
+    "note": "La ficha oficial vincula el SKU SDSS51500GAB-000G0 (500GB) con lectura secuencial de 560 MB/s."
+  },
+  {
+    "product_id": "samsung-980-500gb-mz-v8v500bw",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "3100 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_NVMe_SSD_980_Data_Sheet_Rev.1.1_10129514049411.pdf",
+    "note": "Ficha técnica Samsung 980: lectura secuencial hasta 3100 MB/s para la versión de 500 GB."
+  },
+  {
+    "product_id": "corsair-mp700-pro-1tb-cssd-f1000gbmp700pnh",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "11700 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ww/en/p/data-storage/cssd-f1000gbmp700pnh/mp700-pro-1tb-pcie-gen5-x4-nvme-2-0-m-2-ssd-cssd-f1000gbmp700pnh",
+    "note": "La página oficial identifica SKU CSSD-F1000GBMP700PNH (1TB); su tabla de especificaciones registra lectura secuencial CDM de hasta 11 700 MB/s."
+  },
+  {
+    "product_id": "corsair-mp700-pro-1tb-air-cooler-cssd-f1000gbmp700pro",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "11700 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ww/en/p/data-storage/cssd-f1000gbmp700pro/mp700-pro-1tb-with-air-cooler-pcie-gen5-x4-nvme-2-0-m-2-ssd-cssd-f1000gbmp700pro",
+    "note": "La página oficial identifica SKU CSSD-F1000GBMP700PRO de 1TB; las especificaciones publican lectura secuencial CDM de hasta 11 700 MB/s."
+  },
+  {
+    "product_id": "crucial-ct2000p510ssd8",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/content/dam/crucial/ssd-products/p510/flyers/crucial-P510-b2c-product-flyer.pdf",
+    "note": "El encabezado oficial describe Crucial P510 como SSD PCIe Gen5 NVMe 2280 M.2; la tabla del mismo flyer contiene la capacidad 2TB."
+  },
+  {
+    "product_id": "kingston-kc3000-512gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/company/press/article/64751",
+    "note": "El comunicado técnico oficial lista el P/N SKC3000S/512G en KC3000 y especifica un difusor térmico de aluminio con grafeno de perfil bajo integrado en la unidad."
+  },
+  {
+    "product_id": "kingston-kc3000-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/company/press/article/64751",
+    "note": "El comunicado técnico oficial lista el P/N SKC3000S/1024G en KC3000 y especifica un difusor térmico de aluminio con grafeno de perfil bajo integrado en la unidad."
+  },
+  {
+    "product_id": "kingston-kc3000-2tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/company/press/article/64751",
+    "note": "El comunicado técnico oficial lista el P/N SKC3000D/2048G en KC3000 y especifica un difusor térmico de aluminio con grafeno de perfil bajo integrado en la unidad."
+  },
+  {
+    "product_id": "kingston-kc3000-4tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/company/press/article/64751",
+    "note": "El comunicado técnico oficial lista el P/N SKC3000D/4096G en KC3000 y especifica un difusor térmico de aluminio con grafeno de perfil bajo integrado en la unidad."
+  },
+  {
+    "product_id": "corsair-mp600-pro-hydro-x-2tb-cssd-f2000gbmp600hxe",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/ca/en/p/data-storage/cssd-f2000gbmp600hxe/mp600-pro-2tb-m-2-nvme-pcie-gen-4-x4-hydro-x-ed-ssd-cssd-f2000gbmp600hxe",
+    "note": "La ficha exacta CSSD-F2000GBMP600HXE incluye un bloque de agua Hydro X Series XM2 instalado de fábrica; en especificaciones el fabricante también lista disipador de aluminio."
+  },
+  {
+    "product_id": "corsair-mp600-mini-1tb-cssd-f1000gbmp600mnr2",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp600mnr2/mp600-mini-1tb-gen4-pcie-x4-nvme-m-2-2230-ssd-cssd-f1000gbmp600mnr2",
+    "note": "En la ficha del SKU CSSD-F1000GBMP600MNR2, las especificaciones técnicas declaran explícitamente “Heatsink: N/A” y “Heatsink Color: N/A”."
+  },
+  {
+    "product_id": "corsair-mp600-pro-nh-2tb-cssd-f2000gbmp600pnh",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/explorer/diy-builder/storage/whats-the-difference-between-the-mp600-core-gs-pro-pro-nh-and-pro-lpx/",
+    "note": "La guía oficial de CORSAIR indica expresamente que el MP600 PRO NH no se envía con heatspreader; la página de producto enlazada por la familia identifica el SKU CSSD-F2000GBMP600PNH."
+  },
+  {
+    "product_id": "corsair-mp600-pro-xt-1tb-cssd-f1000gbmp600pxt",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp600pxt/mp600-pro-xt-1tb-m-2-nvme-pcie-gen-4-x4-ssd-cssd-f1000gbmp600pxt",
+    "note": "La ficha oficial para SKU CSSD-F1000GBMP600PXT especifica “Built-in Aluminum Heatspreader” y su contenido del paquete incluye el SSD con disipador."
+  },
+  {
+    "product_id": "kingston-fury-renegade-g5-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/SFYR2S_en.pdf",
+    "note": "La ficha Kingston FURY Renegade G5 agrupa el P/N exacto SFYR2S/1T0 y describe un «Graphene Aluminum Heat Spreader» integrado; este modelo lleva el disipador térmico de bajo perfil."
+  },
+  {
+    "product_id": "kingston-fury-renegade-g5-2tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/SFYR2S_en.pdf",
+    "note": "La ficha Kingston FURY Renegade G5 agrupa el P/N exacto SFYR2S/2T0 y describe un «Graphene Aluminum Heat Spreader» integrado; este modelo lleva el disipador térmico de bajo perfil."
+  },
+  {
+    "product_id": "kingston-fury-renegade-g5-4tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/SFYR2S_en.pdf",
+    "note": "La ficha Kingston FURY Renegade G5 agrupa el P/N exacto SFYR2S/4T0 y describe un «Graphene Aluminum Heat Spreader» integrado; este modelo lleva el disipador térmico de bajo perfil."
+  },
+  {
+    "product_id": "kingston-fury-renegade-g5-8tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/datasheets/SFYR2S_en.pdf",
+    "note": "La ficha Kingston FURY Renegade G5 agrupa el P/N exacto SFYR2D/8T1 y describe un «Graphene Aluminum Heat Spreader» integrado; este modelo lleva el disipador térmico de bajo perfil."
+  },
+  {
+    "product_id": "teamgroup-nv5000-1tb-tm8fgm001t0c101",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "Sí",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/nv5000/nv5000-TM8FGM001T0C101/",
+    "note": "La ficha oficial identifica el P/N TM8FGM001T0C101 en la tabla y describe para este SSD una etiqueta disipadora de grafeno patentada («graphene heat dissipation label»); se registra como disipador térmico integrado en la propia unidad."
+  },
+  {
+    "product_id": "crucial-ct2000t700ssd5",
+    "category_id": "storage",
+    "key": "Formato",
+    "value": "M.2 2280",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/content/dam/crucial/ssd-products/t700/flyers/product/b2c/crucial-t700-b2c-product-flyer-en.pdf",
+    "note": "La tabla oficial identifica el P/N CT2000T700SSD5 como Crucial T700; la guía oficial de instalación del T700 indica que el punto de montaje a 80 mm (2280) corresponde a este SSD: https://www.crucial.com/content/dam/crucial/ssd-products/t700/install-guide/crucial-t700-pcie-gen5-nvme-m2-ssd-install-guide.pdf."
+  },
+  {
+    "product_id": "crucial-ct1000e100ssd8",
+    "category_id": "storage",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/ssd/e100/ct1000e100ssd8",
+    "note": "Ficha de producto Crucial E100: formato M.2 2280.",
+    "value": "M.2 2280"
+  },
+  {
+    "product_id": "crucial-ct2000e100ssd8",
+    "category_id": "storage",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/ssd/e100/ct2000e100ssd8",
+    "note": "Ficha de producto Crucial E100: formato M.2 2280.",
+    "value": "M.2 2280"
+  },
+  {
+    "product_id": "crucial-ct480e100ssd8",
+    "category_id": "storage",
+    "key": "Formato",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/ssd/e100/ct480e100ssd8",
+    "note": "Ficha de producto Crucial E100: formato M.2 2280.",
+    "value": "M.2 2280"
+  },
+  {
+    "product_id": "goodram-px700-1tb-ssdpr-px700-01t-80",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-px700-ssd/",
+    "note": "GOODRAM especifica disipador de grafeno de perfil bajo; la tabla logística incluye el P/N de 1 TB.",
+    "value": "Sí"
+  },
+  {
+    "product_id": "kioxia-exceria-basic-1-tb-lsf10z001tg8",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-basic.html",
+    "note": "KIOXIA identifica el SKU dentro de una gama sin disipador: distingue expresamente «EXCERIA with Heatsink» como línea aparte, primera de la marca con heatsink; este modelo pertenece a otra serie.",
+    "value": "No"
+  },
+  {
+    "product_id": "kioxia-exceria-basic-1-tb-lsf10z001tg8",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-basic.html",
+    "note": "Ficha oficial KIOXIA, máximo de lectura secuencial para esta capacidad.",
+    "value": "7200 MB/s"
+  },
+  {
+    "product_id": "kioxia-exceria-basic-2-tb-lsf10z002tg8",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-basic.html",
+    "note": "KIOXIA identifica el SKU dentro de una gama sin disipador: distingue expresamente «EXCERIA with Heatsink» como línea aparte, primera de la marca con heatsink; este modelo pertenece a otra serie.",
+    "value": "No"
+  },
+  {
+    "product_id": "kioxia-exceria-basic-2-tb-lsf10z002tg8",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-basic.html",
+    "note": "Ficha oficial KIOXIA, máximo de lectura secuencial para esta capacidad.",
+    "value": "7300 MB/s"
+  },
+  {
+    "product_id": "kioxia-exceria-g3-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-g3.html",
+    "note": "KIOXIA identifica el SKU dentro de una gama sin disipador: distingue expresamente «EXCERIA with Heatsink» como línea aparte, primera de la marca con heatsink; este modelo pertenece a otra serie.",
+    "value": "No"
+  },
+  {
+    "product_id": "kioxia-exceria-g3-1tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-g3.html",
+    "note": "Ficha oficial KIOXIA, máximo de lectura secuencial para esta capacidad.",
+    "value": "10000 MB/s"
+  },
+  {
+    "product_id": "kioxia-exceria-g3-2tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-g3.html",
+    "note": "KIOXIA identifica el SKU dentro de una gama sin disipador: distingue expresamente «EXCERIA with Heatsink» como línea aparte, primera de la marca con heatsink; este modelo pertenece a otra serie.",
+    "value": "No"
+  },
+  {
+    "product_id": "kioxia-exceria-g3-2tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-g3.html",
+    "note": "Ficha oficial KIOXIA, máximo de lectura secuencial para esta capacidad.",
+    "value": "10000 MB/s"
+  },
+  {
+    "product_id": "kioxia-exceria-plus-g3-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-plus-g3-nvme-ssd.html",
+    "note": "KIOXIA identifica el SKU dentro de una gama sin disipador: distingue expresamente «EXCERIA with Heatsink» como línea aparte, primera de la marca con heatsink; este modelo pertenece a otra serie.",
+    "value": "No"
+  },
+  {
+    "product_id": "kioxia-exceria-plus-g3-1tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-plus-g3-nvme-ssd.html",
+    "note": "Ficha oficial KIOXIA, máximo de lectura secuencial para esta capacidad.",
+    "value": "5000 MB/s"
+  },
+  {
+    "product_id": "kioxia-exceria-plus-g3-2tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-plus-g3-nvme-ssd.html",
+    "note": "KIOXIA identifica el SKU dentro de una gama sin disipador: distingue expresamente «EXCERIA with Heatsink» como línea aparte, primera de la marca con heatsink; este modelo pertenece a otra serie.",
+    "value": "No"
+  },
+  {
+    "product_id": "kioxia-exceria-plus-g3-2tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-plus-g3-nvme-ssd.html",
+    "note": "Ficha oficial KIOXIA, máximo de lectura secuencial para esta capacidad.",
+    "value": "5000 MB/s"
+  },
+  {
+    "product_id": "kioxia-exceria-plus-g4-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-plus-g4-nvme-ssd.html",
+    "note": "KIOXIA identifica el SKU dentro de una gama sin disipador: distingue expresamente «EXCERIA with Heatsink» como línea aparte, primera de la marca con heatsink; este modelo pertenece a otra serie.",
+    "value": "No"
+  },
+  {
+    "product_id": "kioxia-exceria-plus-g4-1tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-plus-g4-nvme-ssd.html",
+    "note": "Ficha oficial KIOXIA, máximo de lectura secuencial para esta capacidad.",
+    "value": "10000 MB/s"
+  },
+  {
+    "product_id": "kioxia-exceria-pro-g2-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-pro-g2.html",
+    "note": "KIOXIA identifica el SKU dentro de una gama sin disipador: distingue expresamente «EXCERIA with Heatsink» como línea aparte, primera de la marca con heatsink; este modelo pertenece a otra serie.",
+    "value": "No"
+  },
+  {
+    "product_id": "kioxia-exceria-pro-g2-1tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-pro-g2.html",
+    "note": "Ficha oficial KIOXIA, máximo de lectura secuencial para esta capacidad.",
+    "value": "14400 MB/s"
+  },
+  {
+    "product_id": "kioxia-exceria-pro-g2-4tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-pro-g2.html",
+    "note": "KIOXIA identifica el SKU dentro de una gama sin disipador: distingue expresamente «EXCERIA with Heatsink» como línea aparte, primera de la marca con heatsink; este modelo pertenece a otra serie.",
+    "value": "No"
+  },
+  {
+    "product_id": "kioxia-exceria-pro-g2-4tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://europe.kioxia.com/en-europe/personal/ssd/exceria-pro-g2.html",
+    "note": "Ficha oficial KIOXIA, máximo de lectura secuencial para esta capacidad.",
+    "value": "14900 MB/s"
+  },
+  {
+    "product_id": "samsung-980-500gb-mz-v8v500bw",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://semiconductor.samsung.com/emea/consumer-storage/internal-ssd/980/",
+    "note": "Samsung especifica heat spreader label para control térmico del controlador/NAND integrado en este modelo; MPN de 500GB figura en la página oficial.",
+    "value": "Sí"
+  },
+  {
+    "product_id": "samsung-mz-v9v1t0bw",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.samsung.com/sg/memory-storage/nvme-ssd/990-1tb-nvme-pcie-gen-4-mz-v9v1t0bw/",
+    "note": "Samsung confirma etiqueta térmica de disipación integrada en NVMe SSD y ficha exacta MZ-V9V1T0BW.",
+    "value": "Sí"
+  },
+  {
+    "product_id": "sandisk-optimus-5100-4tb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd",
+    "note": "Ficha oficial SANDISK Optimus 5100, lectura secuencial máxima de la capacidad y MPN exacto.",
+    "value": "6900 MB/s"
+  },
+  {
+    "product_id": "sandisk-optimus-5100-500gb",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd",
+    "note": "Ficha oficial SANDISK Optimus 5100, lectura secuencial máxima de la capacidad y MPN exacto.",
+    "value": "6600 MB/s"
+  },
+  {
+    "product_id": "adata-xpg-mars-980-blade-2tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "value": "No",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_mars_980_blade_pcie_gen5_x4_m2_ssd_20250321.pdf",
+    "note": "Ficha oficial para SMAR-980B-2TCS: versión BLADE para laptop, dimensiones de unidad sin disipador y heatsink descrito como opcional."
+  },
+  {
+    "product_id": "adata-legend-860-500gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com.cn/storage/downloadfile/datasheet_legend_860_pcie_gen4_x4_m2_2280_ssd_20241029.pdf",
+    "note": "La tabla oficial de pedido confirma exactamente SLEG-860-500GCS (500GB); ficha técnica oficial y compatibilidad PS5 de la serie indican disipador opcional, no integrado. Opcional: https://www.adata.com/storage/downloadfile/LEGEND-860-Compatible-with-PS5-Illustration_20230613.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "adata-legend-860-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com.cn/storage/downloadfile/datasheet_legend_860_pcie_gen4_x4_m2_2280_ssd_20241029.pdf",
+    "note": "La tabla oficial de pedido confirma exactamente SLEG-860-1000GCS (1TB); ficha técnica oficial y compatibilidad PS5 de la serie indican disipador opcional, no integrado. Opcional: https://www.adata.com/storage/downloadfile/LEGEND-860-Compatible-with-PS5-Illustration_20230613.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "adata-legend-900-512gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_legend_900_pcie_gen4_x4_m2_2280_solid_state_drive_20250620.pdf",
+    "note": "La tabla oficial confirma exactamente SLEG-900-512GCS (512GB); el documento oficial de compatibilidad PS5 de LEGEND 900 indica disipador opcional. https://www.adata.com/storage/downloadfile/LEGEND-900-Compatible-with-PS5-Illustration_20230613.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "adata-legend-900-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_legend_900_pcie_gen4_x4_m2_2280_solid_state_drive_20250620.pdf",
+    "note": "La tabla oficial confirma exactamente SLEG-900-1TCS (1TB); el documento oficial de compatibilidad PS5 de LEGEND 900 indica disipador opcional. https://www.adata.com/storage/downloadfile/LEGEND-900-Compatible-with-PS5-Illustration_20230613.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "adata-legend-900-2tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_legend_900_pcie_gen4_x4_m2_2280_solid_state_drive_20250620.pdf",
+    "note": "La tabla oficial confirma exactamente SLEG-900-2TCS (2TB); el documento oficial de compatibilidad PS5 de LEGEND 900 indica disipador opcional. https://www.adata.com/storage/downloadfile/LEGEND-900-Compatible-with-PS5-Illustration_20230613.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "adata-xpg-gammix-s60-512gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_s60_pcie_gen4_x4_m2_ssd_20231128.pdf",
+    "note": "La tabla oficial confirma exactamente AGAMMIXS60-512G-CS (512GB); el documento oficial de GAMMIX S60 indica disipador opcional. https://www.adata.com/storage/downloadfile/GAMMIX-S60-Compatible-with-PS5-Illustration_20231128.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "adata-xpg-gammix-s60-2tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_xpg_gammix_s60_pcie_gen4_x4_m2_ssd_20231128.pdf",
+    "note": "La tabla oficial confirma exactamente AGAMMIXS60-2T-CS (2TB); el documento oficial de GAMMIX S60 indica disipador opcional. https://www.adata.com/storage/downloadfile/GAMMIX-S60-Compatible-with-PS5-Illustration_20231128.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "dell-345-bjpr",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "550 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.solidigm.com/content/dam/solidigm/en/site/products/data-center/product-briefs/d3-s4520-s4620-product-brief/documents/d3-s4520-s4620-product-brief.pdf",
+    "note": "La ficha Dell del SKU 345-BJPR identifica una unidad SATA de 960 GB S4520 (https://www.dell.com/en-us/shop/dell-960gb-ssd-sata-read-intensive-6gbps-512e-25in-1dwpd/apd/345-bjpr/storage-drives-media); el brief oficial Solidigm del modelo D3-S4520 publica «128K Sequential R/W up to 550/510 MB/s». Se registra la lectura secuencial máxima publicada para ese modelo."
+  },
+  {
+    "product_id": "dell-345-bdqm",
+    "category_id": "storage",
+    "key": "Lectura secuencial",
+    "value": "550 MB/s",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.solidigm.com/content/dam/solidigm/en/site/products/data-center/product-briefs/d3-s4520-s4620-product-brief/documents/d3-s4520-s4620-product-brief.pdf",
+    "note": "La ficha Dell del SKU 345-BDQM identifica una unidad SATA de 960 GB S4520 (https://www.dell.com/en-us/shop/dell-960gb-ssd-sata-read-intensive-6gbps-512e-25in-with-35in-hyb-carr-s4520/apd/345-bdqm/storage-drives-media); el brief oficial Solidigm del modelo D3-S4520 publica «128K Sequential R/W up to 550/510 MB/s». Se registra la lectura secuencial máxima publicada para ese modelo."
+  },
+  {
+    "product_id": "apacer-as2280p4-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Data%20Sheet_AS2280P4.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "apacer-as2280q4l-512gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.apacer.com/upload/media/download/Personal-biz/Specification%20Sheet/Data_Sheet_AS2280Q4L.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "corsair-mp600-core-xt-1tb-cssd-f1000gbmp600cxtr2",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f1000gbmp600cxtr2/x",
+    "value": "No"
+  },
+  {
+    "product_id": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxt",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600cxt/x",
+    "value": "No"
+  },
+  {
+    "product_id": "corsair-mp600-core-xt-2tb-cssd-f2000gbmp600cxtr2",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f2000gbmp600cxtr2/x",
+    "value": "No"
+  },
+  {
+    "product_id": "corsair-mp600-core-xt-4tb-cssd-f4000gbmp600cxt",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.corsair.com/us/en/p/data-storage/cssd-f4000gbmp600cxt/mp600-core-xt-4tb-pcie-4-0-gen4-x-4-nvme-m-2-ssd-cssd-f4000gbmp600cxt",
+    "value": "No"
+  },
+  {
+    "product_id": "crucial-ct1000e100ssd8",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/ssd/e100/ct1000e100ssd8",
+    "value": "No"
+  },
+  {
+    "product_id": "crucial-ct2000e100ssd8",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/ssd/e100/ct2000e100ssd8",
+    "value": "No"
+  },
+  {
+    "product_id": "crucial-ct480e100ssd8",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/ssd/e100/ct480e100ssd8",
+    "value": "No"
+  },
+  {
+    "product_id": "crucial-ct2000p3pssd8",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.crucial.com/ssd/p3-plus/ct2000p3pssd8",
+    "value": "No"
+  },
+  {
+    "product_id": "forgeon-nimbus-1tb-fo-ssd-n-1tb-6",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pccomponentes.com/disco-duro-forgeon-nimbus-disco-ssd-1tb-6400-mb-s-nvme-pcie-4-0-m-2-2280",
+    "value": "No"
+  },
+  {
+    "product_id": "gigabyte-gen4-4000e-1tb-g440e1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Solid-State-Drive/GIGABYTE-Gen4-4000E-SSD-1TB/sp",
+    "value": "No"
+  },
+  {
+    "product_id": "gigabyte-gen4-4000e-500gb-g440e500g",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.gigabyte.com/Solid-State-Drive/GIGABYTE-Gen4-4000E-SSD-500GB/sp",
+    "value": "No"
+  },
+  {
+    "product_id": "goodram-px600-1tb-ssdpr-px600-1k0-80",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-px600-ssd/",
+    "value": "No"
+  },
+  {
+    "product_id": "goodram-px600-500gb-ssdpr-px600-500-80",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.goodram.com/en/products/goodram-px600-ssd/",
+    "value": "No"
+  },
+  {
+    "product_id": "intenso-mi500-500gb-3836450",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-pcie-mi500/",
+    "value": "No"
+  },
+  {
+    "product_id": "intenso-mi500-2tb-3836470",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-pcie-mi500/",
+    "value": "No"
+  },
+  {
+    "product_id": "intenso-top-m2-sata-ssd-1-tb-3832460",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-sata-iii-top/",
+    "value": "No"
+  },
+  {
+    "product_id": "intenso-top-m2-sata-ssd-256-gb-3832440",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-sata-iii-top/",
+    "value": "No"
+  },
+  {
+    "product_id": "intenso-top-m2-sata-ssd-512-gb-3832450",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.intenso.de/en/products/solid-state-drives/m-2-ssd-sata-iii-top/",
+    "value": "No"
+  },
+  {
+    "product_id": "kingston-nv3-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "value": "No"
+  },
+  {
+    "product_id": "kingston-nv3-2tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "value": "No"
+  },
+  {
+    "product_id": "kingston-nv3-4tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "value": "No"
+  },
+  {
+    "product_id": "kingston-nv3-500gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "value": "No"
+  },
+  {
+    "product_id": "kingston-nv3-2230-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "value": "No"
+  },
+  {
+    "product_id": "kingston-nv3-2230-2tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "value": "No"
+  },
+  {
+    "product_id": "kingston-nv3-2230-500gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "value": "No"
+  },
+  {
+    "product_id": "lexar-nm990-1tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.lexar.com/global/products/Lexar-NM990-M-2-2280-PCIe-5-0-NVMe-SSD/",
+    "value": "No"
+  },
+  {
+    "product_id": "lexar-nq790-512gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://americas.lexar.com/es/product/lexar-nq790-pcie-4-0-ssd/",
+    "value": "No"
+  },
+  {
+    "product_id": "msi-spatium-m461-1-tb-s78-440l1d0-p83",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://es-store.msi.com/products/spatium-m461-pcie-4-0-nvme-m-2-1tb-discos-ssd",
+    "value": "No"
+  },
+  {
+    "product_id": "msi-spatium-m461-2-tb-s78-440q550-p83",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://es-store.msi.com/products/spatium-m461-pcie-4-0-nvme-m-2-2tb-ssd",
+    "value": "No"
+  },
+  {
+    "product_id": "pny-cs1030-1-tb-m280cs1030-1tb-rb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2024.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "pny-cs1030-250-gb-m280cs1030-250-rb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2023.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "pny-cs1030-500-gb-m280cs1030-500-rb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2024.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "pny-cs2140-1tb-m280cs2140-1tb-rb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2024.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "pny-cs2230-500gb-m280cs2230-500-rb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.pny.com/file%20library/company/support/product%20brochures/solid%20state%20drives/linecard-ssd-2023.pdf",
+    "value": "No"
+  },
+  {
+    "product_id": "sandisk-optimus-5100-4tb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd?sku=SDSP51400TAN-000E0",
+    "value": "No"
+  },
+  {
+    "product_id": "sandisk-optimus-5100-500gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://shop.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-5100-internal-nvme-ssd?sku=SDSP51500GAN-000E0",
+    "value": "No"
+  },
+  {
+    "product_id": "sandisk-nas-800-3840gb",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.sandisk.com/en-ca/products/ssd/internal-ssd/sandisk-nas-800-nvme-ssd?sku=SDSNP2384TAN-000E0",
+    "value": "No"
+  },
+  {
+    "product_id": "teamgroup-mp33-256gb-tm8fp6256g0c101",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/mp33/mp33-TM8FP6256G0C101/",
+    "value": "No"
+  },
+  {
+    "product_id": "teamgroup-ms30-512gb-tm8ps7512g0c101",
+    "category_id": "storage",
+    "key": "Disipador integrado",
+    "source": "manual",
+    "date": "2026-11-10",
+    "source_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/ms30-2280/ms30-2280-TM8PS7512G0C101/",
+    "value": "No"
+  }
+]

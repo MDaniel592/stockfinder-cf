@@ -1,0 +1,796 @@
+[
+  {
+    "id": "igabyte-gv-n506teaglemax-oc-8gd",
+    "slug": "igabyte-gv-n506teaglemax-oc-8gd",
+    "name": "Gigabyte GeForce RTX 5060 Ti EAGLE MAX OC 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N506TEAGLEMAX OC-8GD",
+    "manufacturer_url": "https://www.gigabyte.com/eu/Graphics-Card/GV-N506TEAGLEMAX-OC-8GD/sp",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "GeForce RTX 5060 Ti EAGLE MAX OC 8G",
+      "Memoria": "8 GB GDDR7",
+      "Bus de memoria": "128-bit",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5060 Ti"
+    }
+  },
+  {
+    "id": "otac-zt-b50800j2-10p",
+    "slug": "otac-zt-b50800j2-10p",
+    "name": "Zotac Gaming GeForce RTX 5080 SOLID CORE OC 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50800J2-10P",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5080/Brochure/ZT-B50800J2-10P-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5080 SOLID CORE OC",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "igabyte-gv-n5060eaglemax-oc-8gd",
+    "slug": "igabyte-gv-n5060eaglemax-oc-8gd",
+    "name": "Gigabyte GeForce RTX 5060 EAGLE MAX OC 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N5060EAGLEMAX OC-8GD",
+    "manufacturer_url": "https://www.gigabyte.com/es/Graphics-Card/GV-N5060EAGLEMAX-OC-8GD/sp",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "GeForce RTX 5060 EAGLE MAX OC 8G",
+      "Memoria": "8 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5060"
+    }
+  },
+  {
+    "id": "igabyte-gv-n5080wf3ocv2-16gd",
+    "slug": "igabyte-gv-n5080wf3ocv2-16gd",
+    "name": "Gigabyte GeForce RTX 5080 WINDFORCE OC V2 SFF 16GB GDDR7 DLSS5",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N5080WF3OCV2-16GD",
+    "manufacturer_url": "https://www.gigabyte.com/in/Graphics-Card/GV-N5080WF3OCV2-16GD/sp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "GeForce RTX 5080 WINDFORCE OC V2 SFF",
+      "Memoria": "16 GB GDDR7",
+      "Bus de memoria": "256-bit",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "sus-90yv0md3-m0na00",
+    "slug": "sus-90yv0md3-m0na00",
+    "name": "Asus TUF Gaming RTX 5070 Ti OC White Edition 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0MD3-M0NA00",
+    "manufacturer_url": "https://www.asus.com/es/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-white-gaming/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "TUF Gaming GeForce RTX 5070 Ti OC White Edition",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Frecuencia turbo": "Hasta 2610 MHz (OC) / 2588 MHz (estándar)",
+      "Conectores de alimentación": "1 × 16 pines"
+    }
+  },
+  {
+    "id": "sus-90yv0md0-m0na00",
+    "slug": "sus-90yv0md0-m0na00",
+    "name": "Asus TUF Gaming GeForce RTX 5070 Ti OC 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0MD0-M0NA00",
+    "manufacturer_url": "https://www.asus.com/il/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-gaming/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "TUF Gaming GeForce RTX 5070 Ti OC Edition",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5070 Ti",
+      "Frecuencia turbo": "Hasta 2610 MHz (OC) / 2588 MHz (estándar)",
+      "Conectores de alimentación": "1 × 16 pines"
+    }
+  },
+  {
+    "id": "sus-90yv0m30-m0na00",
+    "slug": "sus-90yv0m30-m0na00",
+    "name": "Asus TUF Gaming GeForce RTX 5080 OC 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0M30-M0NA00",
+    "manufacturer_url": "https://www.asus.com/fr/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5080-o16g-gaming/techspec/",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "TUF Gaming GeForce RTX 5080 OC Edition",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5080",
+      "Frecuencia turbo": "Hasta 2730 MHz (OC) / 2700 MHz (estándar)"
+    }
+  },
+  {
+    "id": "3-n506t2-16d7-191073n",
+    "slug": "3-n506t2-16d7-191073n",
+    "name": "INNO3D GeForce RTX 5060 Ti TWIN X2 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N506T2-16D7-191073N",
+    "manufacturer_url": "https://inno3d.com/news/inno3d-geforce-rtx-5060-ti-16gb-twin-x2-gets-91-stars-out-10-award-gadget-pilipinas",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "INNO3D GeForce RTX 5060 Ti TWIN X2",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "vcg5060t16dfxpb1-o",
+    "slug": "vcg5060t16dfxpb1-o",
+    "name": "PNY GeForce RTX 5060 Ti Dual Fan OC 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "PNY",
+    "mpn": "VCG5060T16DFXPB1-O",
+    "manufacturer_url": "https://www.pny.com/geforce-rtx-5060-ti-16gb-models?sku=VCG5060T16DFXPB1-O",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "PNY GeForce RTX 5060 Ti Dual Fan OC",
+      "Memoria": "16 GB GDDR7",
+      "Bus de memoria": "128-bit",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5060 Ti"
+    }
+  },
+  {
+    "id": "vcg5070t16tfxpb1",
+    "slug": "vcg5070t16tfxpb1",
+    "name": "PNY GeForce RTX 5070 Ti 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "PNY",
+    "mpn": "VCG5070T16TFXPB1",
+    "manufacturer_url": "https://www.pny.com/geforce-rtx-5070-ti-models?sku=VCG5070T16TFXPB1",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "PNY GeForce RTX 5070 Ti",
+      "Memoria": "16 GB GDDR7",
+      "Bus de memoria": "256-bit",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5070 Ti"
+    }
+  },
+  {
+    "id": "912-v531-005",
+    "slug": "912-v531-005",
+    "name": "MSI GeForce RTX 5080 GAMING TRIO OC 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "mpn": "912-V531-005",
+    "manufacturer_url": "https://fr-store.msi.com/products/geforce-rtx-5080-16g-gaming-trio-oc-graphics-card",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "MSI GeForce RTX 5080 16G GAMING TRIO OC",
+      "Memoria": "16 GB GDDR7",
+      "Bus de memoria": "256-bit",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5080",
+      "Longitud": "338 mm",
+      "Conectores de alimentación": "1 × 16 pines"
+    }
+  },
+  {
+    "id": "sus-90yv0lf1-m0na00",
+    "slug": "sus-90yv0lf1-m0na00",
+    "name": "Asus Prime Radeon RX 9060 XT OC Edition 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0LF1-M0NA00",
+    "manufacturer_url": "https://estore.asus.com/it/90yv0lf1-m0na00-asus-prime-radeontm-rx-9060-xt-16gb-gddr6-oc-edition.html",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASUS PRIME Radeon RX 9060 XT OC Edition",
+      "Memoria": "16 GB GDDR6",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "3-n50803-16d7-176068n",
+    "slug": "3-n50803-16d7-176068n",
+    "name": "INNO3D GeForce RTX 5080 X3 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N50803-16D7-176068N",
+    "manufacturer_url": "https://www.inno3d.com/news/inno3d-geforce-rtx-5080-x3-gets-recommended-award-tweaktown",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "INNO3D GeForce RTX 5080 X3",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "sus-90yv0lx0-m0na00",
+    "slug": "sus-90yv0lx0-m0na00",
+    "name": "Asus Prime GeForce RTX 5080 OC 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0LX0-M0NA00",
+    "manufacturer_url": "https://shop.asus.com/tr/90yv0lx0-m0na00-asus-prime-geforce-rtxtm-5080-16gb-gddr7-oc-edition.html",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASUS PRIME GeForce RTX 5080 OC Edition",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "srock-rx7600-cl-8go",
+    "slug": "srock-rx7600-cl-8go",
+    "name": "ASRock AMD Radeon RX 7600 Challenger OC 8GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Asrock",
+    "mpn": "RX7600 CL 8GO",
+    "manufacturer_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%207600%20Challenger%208GB%20OC/index.asp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASRock Radeon RX 7600 Challenger 8GB OC",
+      "Memoria": "8 GB GDDR6",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "912-v532-029",
+    "slug": "912-v532-029",
+    "name": "MSI GeForce RTX 5070 GAMING TRIO OC 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "mpn": "912-V532-029",
+    "manufacturer_url": "https://fr-store.msi.com/collections/offres-speciales/products/geforce-rtx-5070-12g-gaming-trio-oc-graphics-card",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "MSI GeForce RTX 5070 12G GAMING TRIO OC",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5070",
+      "Longitud": "338 mm",
+      "Frecuencia turbo": "2610 MHz",
+      "Conectores de alimentación": "1 × 16 pines"
+    }
+  },
+  {
+    "id": "rx-96ts316w7",
+    "slug": "rx-96ts316w7",
+    "name": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition White 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-96TS316W7",
+    "manufacturer_url": "https://www.xfxforce.com/shop/xfx-swift-amd-radeon-rx-9060xt-oc-white-triple-fan-gaming-edition-16gb",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "XFX SWIFT Radeon RX 9060 XT OC White Triple Fan Gaming Edition",
+      "Memoria": "16 GB GDDR6",
+      "Tipo de memoria": "GDDR6",
+      "Chip gráfico": "Radeon RX 9060 XT"
+    }
+  },
+  {
+    "id": "sus-90yv0nf0-m0na00",
+    "slug": "sus-90yv0nf0-m0na00",
+    "name": "Asus ROG Astral GeForce RTX 5090 BTF OC Edition 32GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0NF0-M0NA00",
+    "manufacturer_url": "https://promotion.asus.com/tr/football-2026/tac/",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASUS ROG Astral GeForce RTX 5090 OC BTF Gaming",
+      "Memoria": "32 GB GDDR7",
+      "Variant": "BTF",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "otac-zt-b50700q-10p",
+    "slug": "otac-zt-b50700q-10p",
+    "name": "Zotac Gaming GeForce RTX 5070 Twin Edge OC White Edition 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50700Q-10P",
+    "manufacturer_url": "https://www.zotac.com/product/graphics_card/GeForce-RTX-5070/all",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5070 Twin Edge OC White Edition",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "otac-zt-b50900q-10p",
+    "slug": "otac-zt-b50900q-10p",
+    "name": "Zotac Gaming GeForce RTX 5090 SOLID OC White Edition 32GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50900Q-10P",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5090/Brochure/ZT-B50900Q-10P-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5090 SOLID OC White Edition",
+      "Memoria": "32 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "otac-zt-b50500h-10m",
+    "slug": "otac-zt-b50500h-10m",
+    "name": "Zotac Gaming GeForce RTX 5050 Twin Edge OC 8GB GDDR6 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50500H-10M",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5050/Brochure/ZT-B50500H-10M-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5050 Twin Edge OC",
+      "Memoria": "8 GB GDDR6",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "otac-zt-b50600q-10m",
+    "slug": "otac-zt-b50600q-10m",
+    "name": "Zotac Gaming GeForce RTX 5060 Twin Edge OC White Edition 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50600Q-10M",
+    "manufacturer_url": "https://www.zotac.com/product/graphics_card/all",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5060 Twin Edge OC White Edition",
+      "Memoria": "8 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "ainward-ne75070s19k9-gb2050t",
+    "slug": "ainward-ne75070s19k9-gb2050t",
+    "name": "Gainward GeForce RTX 5070 Python III OC 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Gainward",
+    "mpn": "NE75070S19K9-GB2050T",
+    "manufacturer_url": "https://www.gainward.com/main/vgapro.php?id=1238&lang=en",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "Gainward GeForce RTX 5070 Python III OC",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5070"
+    }
+  },
+  {
+    "id": "otac-zt-b50600h-10m",
+    "slug": "otac-zt-b50600h-10m",
+    "name": "Zotac Gaming GeForce RTX 5060 Twin Edge OC 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50600H-10M",
+    "manufacturer_url": "https://www.zotac.com/download/mediadrivers/External/GraphicsCard/5060/Brochure/ZT-B50600H-10M-brochure.pdf",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5060 Twin Edge OC",
+      "Memoria": "8 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "sus-90yv0n30-m0na00",
+    "slug": "sus-90yv0n30-m0na00",
+    "name": "Asus ProArt GeForce RTX 5080 OC Edition 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0N30-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/nl/90YV0N30-M0NA00/PROART-RTX5080-O16G",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASUS ProArt GeForce RTX 5080 OC Edition",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "sus-90yv0n15-m0na00",
+    "slug": "sus-90yv0n15-m0na00",
+    "name": "Asus Dual GeForce RTX 5060 White OC Edition 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0N15-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/fi-en/90YV0N15-M0NA00/DUAL-RTX5060-O8G-WHITE",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASUS Dual GeForce RTX 5060 White OC Edition",
+      "Memoria": "8 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "rx-96tmercb9",
+    "slug": "rx-96tmercb9",
+    "name": "XFX Mercury AMD Radeon RX 9060 XT OC Gaming Edition 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-96TMERCB9",
+    "manufacturer_url": "https://www.xfxforce.com/shop/xfx-mercury-amd-radeon-rx-9060xt-oc-gaming-edition-16gb",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "XFX MERCURY Radeon RX 9060 XT OC Gaming Edition",
+      "Memoria": "16 GB GDDR6",
+      "Tipo de memoria": "GDDR6",
+      "Chip gráfico": "Radeon RX 9060 XT"
+    }
+  },
+  {
+    "id": "sus-90yv0mq0-m0na00",
+    "slug": "sus-90yv0mq0-m0na00",
+    "name": "Asus Prime Radeon RX 9070 EVO OC Edition 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0MQ0-M0NA00",
+    "manufacturer_url": "https://estore.asus.com/hu/rog/90yv0mq0-m0na00-asus-prime-radeontm-rx-9070-evo-oc-edition-16gb-gddr6.html",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASUS PRIME Radeon RX 9070 EVO OC Edition",
+      "Memoria": "16 GB GDDR6",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "srock-rx9070xt-sld-16g",
+    "slug": "srock-rx9070xt-sld-16g",
+    "name": "ASRock AMD Radeon RX 9070 XT Steel Legend Dark 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Asrock",
+    "mpn": "RX9070XT SLD 16G",
+    "manufacturer_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%20Dark%2016GB/",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASRock Radeon RX 9070 XT Steel Legend Dark 16GB",
+      "Memoria": "16 GB GDDR6",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "igabyte-gv-n5060wf2max-oc-8gd",
+    "slug": "igabyte-gv-n5060wf2max-oc-8gd",
+    "name": "Gigabyte GeForce RTX 5060 Windforce Max OC 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N5060WF2MAX OC-8GD",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N5060WF2MAX-OC-8GD/sp",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "GeForce RTX 5060 WINDFORCE MAX OC 8G",
+      "Memoria": "8 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5060"
+    }
+  },
+  {
+    "id": "igabyte-gv-n5050oc-8gl",
+    "slug": "igabyte-gv-n5050oc-8gl",
+    "name": "Gigabyte GeForce RTX 5050 OC Low Profile 8GB GDDR6 DLSS4",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N5050OC-8GL",
+    "manufacturer_url": "https://www.gigabyte.com/Graphics-Card/GV-N5050OC-8GL/sp",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "GeForce RTX 5050 OC Low Profile 8G",
+      "Memoria": "8 GB GDDR6",
+      "Tipo de memoria": "GDDR6",
+      "Chip gráfico": "GeForce RTX 5050"
+    }
+  },
+  {
+    "id": "sus-90yv0n72-m0na00",
+    "slug": "sus-90yv0n72-m0na00",
+    "name": "Asus Dual GeForce RTX 5050 OC 8GB GDDR6 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0N72-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/ch-en/90YV0N72-M0NA00/DUAL-RTX5050-O8G",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASUS Dual GeForce RTX 5050 OC Edition",
+      "Memoria": "8 GB GDDR6",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "rx-97tqickb9",
+    "slug": "rx-97tqickb9",
+    "name": "XFX Quicksilver AMD Radeon RX 9070 XT Gaming 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "XFX",
+    "mpn": "RX-97TQICKB9",
+    "manufacturer_url": "https://www.xfxforce.com/shop/xfx-quicksilver-amd-radeon-rx-9070xt-gaming-edition",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "XFX QUICKSILVER Radeon RX 9070 XT Gaming Edition",
+      "Memoria": "16 GB GDDR6",
+      "Tipo de memoria": "GDDR6",
+      "Chip gráfico": "Radeon RX 9070 XT"
+    }
+  },
+  {
+    "id": "srock-rx9060xt-cl-16go",
+    "slug": "srock-rx9060xt-cl-16go",
+    "name": "ASRock AMD Radeon RX 9060 XT Challenger OC 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Asrock",
+    "mpn": "RX9060XT CL 16GO",
+    "manufacturer_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209060%20XT%20Challenger%2016GB%20OC/index.us.asp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASRock Radeon RX 9060 XT Challenger 16GB OC",
+      "Memoria": "16 GB GDDR6",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "otac-zt-b50800q-10p",
+    "slug": "otac-zt-b50800q-10p",
+    "name": "Zotac Gaming GeForce RTX 5080 SOLID OC White Edition 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50800Q-10P",
+    "manufacturer_url": "https://www.zotac.com/product/graphics_card/GeForce-RTX-5080/all",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5080 SOLID OC White Edition",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "912-v537-005",
+    "slug": "912-v537-005",
+    "name": "MSI GeForce RTX 5060 GAMING OC 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "mpn": "912-V537-005",
+    "manufacturer_url": "https://fr-store.msi.com/collections/composants/products/geforce-rtx-5060-8g-gaming-oc-graphics-card",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "MSI GeForce RTX 5060 8G GAMING OC",
+      "Memoria": "8 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5060",
+      "Longitud": "248 mm",
+      "Frecuencia turbo": "2625 MHz",
+      "Conectores de alimentación": "1 × 8 pines"
+    }
+  },
+  {
+    "id": "otac-zt-b50700e-10p",
+    "slug": "otac-zt-b50700e-10p",
+    "name": "Zotac Gaming GeForce RTX 5070 TWIN EDGE 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50700E-10P",
+    "manufacturer_url": "https://www.zotac.com/product/graphics_card/GeForce-RTX-5070/all",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5070 Twin Edge",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "igabyte-gv-n5070wf3-12gd",
+    "slug": "igabyte-gv-n5070wf3-12gd",
+    "name": "Gigabyte GeForce RTX 5070 WindForce SFF 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Gigabyte",
+    "mpn": "GV-N5070WF3-12GD",
+    "manufacturer_url": "https://www.gigabyte.com/id/Graphics-Card/GV-N5070WF3-12GD/sp",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "GeForce RTX 5070 WINDFORCE SFF 12G",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5070"
+    }
+  },
+  {
+    "id": "srock-rx9070xt-sl-16g",
+    "slug": "srock-rx9070xt-sl-16g",
+    "name": "ASRock AMD Radeon RX 9070 XT Steel Legend 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Asrock",
+    "mpn": "RX9070XT-SL-16G",
+    "manufacturer_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Steel%20Legend%2016GB/index.us.asp",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASRock Radeon RX 9070 XT Steel Legend 16GB",
+      "Memoria": "16 GB GDDR6",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "otac-zt-b50620f-10m",
+    "slug": "otac-zt-b50620f-10m",
+    "name": "Zotac Gaming GeForce RTX 5060 Ti AMP 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50620F-10M",
+    "manufacturer_url": "https://www.zotac.com/de/product/graphics_card/GeForce-RTX-5060-Ti/all",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5060 Ti AMP",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "otac-zt-b50700fq-10p",
+    "slug": "otac-zt-b50700fq-10p",
+    "name": "Zotac Gaming GeForce RTX 5070 AMP White Edition 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50700FQ-10P",
+    "manufacturer_url": "https://www.zotac.com/product/graphics_card/GeForce-RTX-5070/all",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5070 AMP White Edition",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "otac-zt-b50800d2-10p",
+    "slug": "otac-zt-b50800d2-10p",
+    "name": "Zotac Gaming GeForce RTX 5080 SOLID CORE 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50800D2-10P",
+    "manufacturer_url": "https://www.zotac.com/product/graphics_card/GeForce-RTX-5080/all",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5080 SOLID CORE",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "3-n506t2-08d7x-193075w",
+    "slug": "3-n506t2-08d7x-193075w",
+    "name": "INNO3D GeForce RTX 5060 Ti TWIN X2 OC White 8GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N506T2-08D7X-193075W",
+    "manufacturer_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5060-ti-8gb-twin-x2-oc",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "INNO3D GeForce RTX 5060 Ti TWIN X2 OC White",
+      "Memoria": "8 GB GDDR7",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Longitud": "250 mm",
+      "Frecuencia turbo": "2602 MHz",
+      "Conectores de alimentación": "1 × 8 pines"
+    }
+  },
+  {
+    "id": "912-v812-077",
+    "slug": "912-v812-077",
+    "name": "MSI GeForce RTX 5060 Ti VENTUS 3X OC 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "MSI",
+    "mpn": "912-V812-077",
+    "manufacturer_url": "https://es-store.msi.com/products/geforce-rtx-5060-ti-16g-ventus-3x-oc-tarjetas-graficas",
+    "specs_verified_at": "2026-11-08T22:32:27Z",
+    "specs": {
+      "Modelo": "MSI GeForce RTX 5060 Ti 16G VENTUS 3X OC",
+      "Memoria": "16 GB GDDR7",
+      "Bus de memoria": "128-bit",
+      "Tipo de memoria": "GDDR7",
+      "Chip gráfico": "GeForce RTX 5060 Ti",
+      "Longitud": "306 mm",
+      "Frecuencia turbo": "2602 MHz",
+      "Conectores de alimentación": "1 × 8 pines"
+    }
+  },
+  {
+    "id": "srock-rx9070-cl-16g",
+    "slug": "srock-rx9070-cl-16g",
+    "name": "ASRock AMD Radeon RX 9070 Challenger 16GB GDDR6",
+    "category_id": "gpu",
+    "brand": "Asrock",
+    "mpn": "RX9070-CL-16G",
+    "manufacturer_url": "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20Challenger%2016GB/",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASRock Radeon RX 9070 Challenger 16GB",
+      "Memoria": "16 GB GDDR6",
+      "Tipo de memoria": "GDDR6"
+    }
+  },
+  {
+    "id": "otac-zt-b50700d-10p",
+    "slug": "otac-zt-b50700d-10p",
+    "name": "Zotac Gaming GeForce RTX 5070 SOLID 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50700D-10P",
+    "manufacturer_url": "https://www.zotac.com/product/graphics_card/GeForce-RTX-5070/all",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5070 SOLID",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "otac-zt-b50700j-10p",
+    "slug": "otac-zt-b50700j-10p",
+    "name": "Zotac Gaming GeForce RTX 5070 SOLID OC 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Zotac",
+    "mpn": "ZT-B50700J-10P",
+    "manufacturer_url": "https://www.zotac.com/product/graphics_card/GeForce-RTX-5070/all",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ZOTAC GAMING GeForce RTX 5070 SOLID OC",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "3-n50702-12d7-195064n",
+    "slug": "3-n50702-12d7-195064n",
+    "name": "INNO3D GeForce RTX 5070 TWIN X2 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N50702-12D7-195064N",
+    "manufacturer_url": "https://inno3d.com/news/inno3d-geforce-rtx-5070-twin-x2-gets-gold-recommended-award-professional-review",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "INNO3D GeForce RTX 5070 TWIN X2",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "sus-90yv0lz0-m0na00",
+    "slug": "sus-90yv0lz0-m0na00",
+    "name": "Asus TUF Gaming GeForce RTX 5070 OC 12GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "Asus",
+    "mpn": "90YV0LZ0-M0NA00",
+    "manufacturer_url": "https://webshop.asus.com/no-en/90YV0LZ0-M0NA00/TUF-RTX5070-O12G-GAMING",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "ASUS TUF Gaming GeForce RTX 5070 OC Edition",
+      "Memoria": "12 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  },
+  {
+    "id": "3-n507t3-16d7-176068n",
+    "slug": "3-n507t3-16d7-176068n",
+    "name": "INNO3D GeForce RTX 5070 Ti X3 16GB GDDR7 DLSS4",
+    "category_id": "gpu",
+    "brand": "INNO3D",
+    "mpn": "N507T3-16D7-176068N",
+    "manufacturer_url": "https://www.inno3d.com/news/inno3d-geforce-rtx-5080-x3-5070-ti-x3-5070-twin-x2-gets-stars-award-gadget-pilipinas",
+    "specs_verified_at": "2026-11-08T21:46:29Z",
+    "specs": {
+      "Modelo": "INNO3D GeForce RTX 5070 Ti X3",
+      "Memoria": "16 GB GDDR7",
+      "Tipo de memoria": "GDDR7"
+    }
+  }
+]

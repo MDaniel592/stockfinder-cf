@@ -1,0 +1,5 @@
+# Publica PostgreSQL SOLO en la IP de Tailscale del nodo (nunca en la IP publica de Azure).
+services:
+  postgres:
+    ports:
+      - "100.80.73.54:5432:5432"
