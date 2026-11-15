@@ -216,9 +216,16 @@ def run(args):
                 with conn.transaction():
                     ids = stage_candidates(conn, [row])
                     pid = exact_product(conn, row)
+                    approved = False
                     if pid:
-                        if ids:
-                            approve(conn, ids[0], 'Neobyte: exact verified MPN/EAN, matching category and direct EUR offer from the product page.', pid)
+                        try:
+                            if ids:
+                                approve(conn, ids[0], 'Neobyte: exact verified MPN/EAN, matching category and direct EUR offer from the product page.', pid)
+                            approved = True
+                        except ValueError as error:
+                            # Real identity blocks (variant conflicts) stay pending; they must not abort the crawl.
+                            print(json.dumps(dict(event='neobyte_left_pending', url=url, reason=str(error))), flush=True)
+                    if approved:
                         stats['approved'] += 1
                     else:
                         stats['pending'] += 1
