@@ -44,6 +44,7 @@ Los scripts de rastreo escriben solo en las bases aisladas `stockfinder_*_local`
 | Script | Qué hace |
 |---|---|
 | `fetch_official.py` | Fetch one public manufacturer page at a time (curl_cffi browser TLS, like the PcComponentes scripts) |
+| `manufacturer_common.py` | Normalisers shared by the manufacturer reference tools (index, diff, scrape) |
 | `manufacturer_diff.py` | Compare the pending review queue with the manufacturer reference index |
 | `manufacturer_index.py` | Build one reference index of manufacturer identifiers from every source already in the project |
 | `manufacturer_scrape.py` | Shared helpers for the official manufacturer scrapers (GPUs and the other categories) |
