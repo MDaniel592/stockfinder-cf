@@ -1,5 +1,6 @@
 import json
 import sys
+import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -33,24 +34,6 @@ def ldlc_page(cards, marketplace='0'):
     return html + '<script>' + scripts + '</script>'
 
 
-def test_ldlc_price_and_stock_from_inline_scripts():
-    html = ldlc_page([('PB1', 'AR1', '110€<sup>95</sup>', 1),
-                      ('PB2', 'AR2', '2&nbsp;400€<sup>95</sup>', 9),
-                      ('PB3', 'AR3', None, 9),
-                      ('PB4', 'AR4', '10€<sup>5</sup>', 2)])
-    cards = refresh.ldlc_cards(html, ldlc_local)
-    by_sku = {c['retailer_sku']: c for c in cards.values()}
-    assert (by_sku['PB1']['price_cents'], by_sku['PB1']['in_stock']) == (11095, True)
-    assert (by_sku['PB2']['price_cents'], by_sku['PB2']['in_stock']) == (240095, False)
-    assert (by_sku['PB3']['price_cents'], by_sku['PB3']['in_stock']) == (None, False)
-    assert (by_sku['PB4']['price_cents'], by_sku['PB4']['in_stock']) == (None, None)  # one-digit decimals are ambiguous; unknown stock code
-
-
-def test_ldlc_marketplace_cards_are_not_trusted():
-    cards = refresh.ldlc_cards(ldlc_page([('PB1', 'AR1', '110€<sup>95</sup>', 1)], marketplace='1'), ldlc_local)
-    assert next(iter(cards.values()))['price_cents'] is None
-
-
 def neobyte_page(items):
     links = [f'https://www.neobyte.es/{slug}-{pid}.html' for pid, slug, *_ in items]
     html = '<script type="application/ld+json">' + json.dumps(
@@ -65,23 +48,43 @@ def neobyte_page(items):
     return html
 
 
-def test_neobyte_price_and_button_state():
-    html = neobyte_page([('1', 'a-b', '588.99', 'add'), ('2', 'c-d', '1,000.5'.replace(',', ''), 'more'),
-                         ('3', 'e-f', 'oops', 'add')])
-    cards = refresh.neobyte_cards(html, neobyte_local)
-    by_id = {c['retailer_sku']: c for c in cards.values()}
-    assert (by_id['1']['price_cents'], by_id['1']['in_stock']) == (58899, True)
-    assert (by_id['2']['price_cents'], by_id['2']['in_stock']) == (100050, False)
-    assert by_id['3']['price_cents'] is None
+class ListingRefreshTests(unittest.TestCase):
+    def test_ldlc_price_and_stock_from_inline_scripts(self):
+        html = ldlc_page([('PB1', 'AR1', '110€<sup>95</sup>', 1),
+                          ('PB2', 'AR2', '2&nbsp;400€<sup>95</sup>', 9),
+                          ('PB3', 'AR3', None, 9),
+                          ('PB4', 'AR4', '10€<sup>5</sup>', 2)])
+        cards = refresh.ldlc_cards(html, ldlc_local)
+        by_sku = {c['retailer_sku']: c for c in cards.values()}
+        assert (by_sku['PB1']['price_cents'], by_sku['PB1']['in_stock']) == (11095, True)
+        assert (by_sku['PB2']['price_cents'], by_sku['PB2']['in_stock']) == (240095, False)
+        assert (by_sku['PB3']['price_cents'], by_sku['PB3']['in_stock']) == (None, False)
+        assert (by_sku['PB4']['price_cents'], by_sku['PB4']['in_stock']) == (None, None)  # one-digit decimals are ambiguous; unknown stock code
+
+    def test_ldlc_marketplace_cards_are_not_trusted(self):
+        cards = refresh.ldlc_cards(ldlc_page([('PB1', 'AR1', '110€<sup>95</sup>', 1)], marketplace='1'), ldlc_local)
+        assert next(iter(cards.values()))['price_cents'] is None
+
+    def test_neobyte_price_and_button_state(self):
+        html = neobyte_page([('1', 'a-b', '588.99', 'add'), ('2', 'c-d', '1,000.5'.replace(',', ''), 'more'),
+                             ('3', 'e-f', 'oops', 'add')])
+        cards = refresh.neobyte_cards(html, neobyte_local)
+        by_id = {c['retailer_sku']: c for c in cards.values()}
+        assert (by_id['1']['price_cents'], by_id['1']['in_stock']) == (58899, True)
+        assert (by_id['2']['price_cents'], by_id['2']['in_stock']) == (100050, False)
+        assert by_id['3']['price_cents'] is None
+
+    def test_merge_listing_falls_back_on_untrusted_values(self):
+        row = dict(price_cents=10000, in_stock=True, last_checked_at='old', commercial_observation_source='S')
+        assert refresh.merge_listing(row, dict(price_cents=None, in_stock=True), 'now') is None
+        assert refresh.merge_listing(row, dict(price_cents=9000, in_stock=None), 'now') is None
+        assert refresh.merge_listing(row, dict(price_cents=30000, in_stock=True), 'now') is None  # >2x jump
+        merged = refresh.merge_listing(row, dict(price_cents=9000, in_stock=False), 'now')
+        assert (merged['price_cents'], merged['in_stock'], merged['last_checked_at']) == (9000, False, 'now')
+        assert merged['commercial_observation_source'] == 'S' + refresh.SOURCE_NOTE
+        again = refresh.merge_listing(merged, dict(price_cents=9000, in_stock=False), 'later')
+        assert again['commercial_observation_source'].count(refresh.SOURCE_NOTE) == 1
 
 
-def test_merge_listing_falls_back_on_untrusted_values():
-    row = dict(price_cents=10000, in_stock=True, last_checked_at='old', commercial_observation_source='S')
-    assert refresh.merge_listing(row, dict(price_cents=None, in_stock=True), 'now') is None
-    assert refresh.merge_listing(row, dict(price_cents=9000, in_stock=None), 'now') is None
-    assert refresh.merge_listing(row, dict(price_cents=30000, in_stock=True), 'now') is None  # >2x jump
-    merged = refresh.merge_listing(row, dict(price_cents=9000, in_stock=False), 'now')
-    assert (merged['price_cents'], merged['in_stock'], merged['last_checked_at']) == (9000, False, 'now')
-    assert merged['commercial_observation_source'] == 'S' + refresh.SOURCE_NOTE
-    again = refresh.merge_listing(merged, dict(price_cents=9000, in_stock=False), 'later')
-    assert again['commercial_observation_source'].count(refresh.SOURCE_NOTE) == 1
+if __name__ == "__main__":
+    unittest.main()
