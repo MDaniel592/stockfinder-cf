@@ -16,3 +16,6 @@ artifacts/
 work/
 nas/backups/
 *.bak-*
+
+# Stray page downloads in the repo root
+/*.html
