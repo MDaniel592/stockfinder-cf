@@ -152,3 +152,10 @@ La réplica del NAS sirve el configurador, las listas compartidas y el ranking s
 Migraciones y permisos: `python3 scripts/setup_supabase_features.py`. No ejecutar `data-api-off`: la fachada privada necesita que `stockfinder_features` sea el único esquema expuesto. Las tablas del catálogo y las claves de servidor no se exponen al navegador. Detalles en [Supabase](../supabase-migration.md).
 
 CPU real del Worker: `python3 scripts/worker_metrics.py --minutes 60`. Los logs `request_sample` distinguen ruta y caché, pero su `wall_ms` mide tiempo de pared, no CPU. La caché frontal global se deja desactivada para conservar el tratamiento gratuito de los assets estáticos; se usa caché interna por categoría y respuestas en flujo cuando no requieren actualizar estado.
+
+## Refresco rápido de LDLC/Neobyte desde listados
+
+Servicios `ldlc-listing` y `neobyte-listing` (`infra/compose/azure-crawlers.override.yaml`, perfil `crawlers`). Arranque y parada:
+`dc -f infra/compose/azure-core.override.yaml -f infra/compose/azure-crawlers.override.yaml --profile crawlers up -d --no-deps ldlc-listing neobyte-listing`
+(sustituye `stop` para pararlos). Escriben solo en `stockfinder_ldlc_local` / `stockfinder_neobyte_local`. Diagnóstico: `docker logs stockfinder-v2-<tienda>-listing-1`,
+`artifacts/<tienda>/checkpoints/listing-refresh-state.json`. Detalles en `docs/ldlc-local.md` y `docs/neobyte-local.md`.

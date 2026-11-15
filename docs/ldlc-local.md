@@ -93,3 +93,16 @@ Objetivo activo: resolver todas las pendientes con evidencia individual y tres a
 El pipeline admite `action: reject` solo con nota detallada y `rejection_evidence` (`reason_code`: `identity_conflict`, `unsupported_bundle` u `out_of_scope`; `source_url` oficial citado en la nota; `observed` identificando MPN/EAN/nombre literal; `official` con hallazgo distinto). La ausencia de una fuente no justifica por si sola un rechazo. Rechazar una aprobada o varios fingerprints pendientes del mismo SKU esta bloqueado.
 
 Un producto existente puede revalidarse con `verification_review_id` de su aprobacion pendiente y evidencia primaria nueva; su nombre, marca, MPN y manufacturer_url no pueden cambiar en ese refresco. La relacion Viper Gaming/Patriot se acredita por revision de RAM con MPN exacto, `brand_evidence` y fuente Patriot; no se crea alias global de marcas.
+
+## Refresco rápido de precio y stock (listados)
+
+`scripts/retailer_listing_refresh.py --retailer ldlc` actualiza precio y stock leyendo las páginas de categoría, sin abrir cada ficha.
+LDLC no usa una API: el servidor añade al final del HTML un `<script>` por producto (`data-offer-id`) que rellena
+`<div class="price">110€<sup>95</sup></div>` y el stock (`stock-1` en stock, `stock-9` agotado). El script parsea esos bloques y exige:
+decimales de dos dígitos, vendedor directo (`data-is-marketplace="0"`), código de stock conocido y un precio dentro de 0,5x–2x del cacheado.
+Lo que no cumpla vuelve a la ficha (`candidate()`), igual que el rastreo completo. Los productos nuevos también van a la ficha.
+
+- Servicio: `ldlc-listing` (perfil `crawlers`), cada 2 h. Sale sin hacer nada si el rastreo completo tiene `.crawl.lock`.
+- Manual: `scripts/retailer_listing_refresh.sh ldlc [--dry-run] [--verify N] [--categories gpu ...] [--max-pages N]`.
+- `--dry-run` no toca BD ni caché; `--verify N` compara N productos con su ficha.
+- Estado en `listing-refresh-state.json` y `listing-refresh-summary.json`; los productos de la caché que ya no salen en el listado se anotan en `listing-refresh-missing.json` (solo en pasadas completas).

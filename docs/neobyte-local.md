@@ -46,3 +46,13 @@ El crawler original ya terminó. Antes de iniciar otro, confirma que no existe u
 
 
 Política de revisión vigente: el 14 de noviembre de 2026 el usuario autorizó criterio B para cajas y refrigeración en estas bases aisladas, con evidencia oficial de variante completa, procedencia de códigos de tienda explícita y sin contradicción de EAN. Los batches no basados en MPN exacto necesitan `variant_evidence`; véase [catálogo](catalog.md). CPU, RAM, almacenamiento y fuentes conservan identidad por MPN oficial exacto. No cambia la exclusión de producción.
+
+## Refresco rápido de precio y stock (listados)
+
+`scripts/retailer_listing_refresh.py --retailer neobyte` lee `<span class="product-price" content="588.99">` de cada tarjeta
+(`article.product-miniature`) y deduce el stock del botón: "Añadir al carrito" = en stock, "Más detalles" = sin stock.
+Si falta alguno, el precio es ambiguo o salta más de 2x respecto a la caché, se consulta la ficha como en el rastreo completo.
+
+- Servicio: `neobyte-listing` (perfil `crawlers`), cada 2 h; respeta `.crawl.lock` y el retardo de `run-state.json`.
+- Manual: `scripts/retailer_listing_refresh.sh neobyte [--dry-run] [--verify N]` (con `SHARD=<nombre>` para un directorio de checkpoints propio).
+- Validado en lectura contra la caché de fichas (64 de 64 tarjetas coincidentes en precio y stock).
