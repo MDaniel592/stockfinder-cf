@@ -179,7 +179,9 @@ def run(args):
 
     from curl_cffi import requests
     state = {}
-    request_delay = max(2.0, float(json.loads(state_file.read_text()).get('request_delay_seconds', 2)) if state_file.exists() else 2.0)
+    # Never go faster than the full crawler has had to (it raises the delay after 403/429/503).
+    request_delay = max([2.0] + [float(json.loads((args.output / name).read_text()).get('request_delay_seconds', 2))
+                                 for name in (STATE_NAME, 'run-state.json') if (args.output / name).exists()])
     stats = dict(pages=0, listed=0, from_listing=0, fallback_pages=0, new=0, unchanged=0,
                  price_changed=0, stock_changed=0, missing_from_listing=0, rejected_observations=0,
                  approved=0, pending=0, verified=0, verify_mismatches=0)

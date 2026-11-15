@@ -34,6 +34,21 @@ services:
       - ../../data:/app/data:ro
       - ../../db:/app/db:ro
       - ../../artifacts/ldlc/checkpoints:/output
+  ldlc-listing:
+    <<: *crawler
+    # Refresco rapido de precio y stock desde las paginas de listado (scripts/retailer_listing_refresh.py): una peticion por
+    # pagina en vez de una por ficha. Cada 2 h; si el rastreo completo tiene el bloqueo del directorio sale sin hacer nada.
+    # Solo escribe en la base aislada y en la cache de ldlc; las fichas nuevas o dudosas se consultan como siempre.
+    command:
+      - sh
+      - -c
+      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer ldlc --database-url postgresql://stockfinder@postgres/stockfinder_ldlc_local --output /output || true; sleep 7200; done
+    volumes:
+      - ../../scripts:/app/scripts:ro
+      - ../../nas:/app/nas:ro
+      - ../../data:/app/data:ro
+      - ../../db:/app/db:ro
+      - ../../artifacts/ldlc/checkpoints:/output
   ldlc-pipeline:
     <<: *crawler
     command: [python, scripts/ldlc_pipeline.py, --database-url, 'postgresql://stockfinder@postgres/stockfinder_ldlc_local',
@@ -51,6 +66,21 @@ services:
       - sh
       - -c
       - while true; do if python scripts/neobyte_local.py --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output --watch --refresh; then sleep 86400; else sleep 3600; fi; done
+    volumes:
+      - ../../scripts:/app/scripts:ro
+      - ../../nas:/app/nas:ro
+      - ../../data:/app/data:ro
+      - ../../db:/app/db:ro
+      - ../../artifacts/neobyte/checkpoints:/output
+  neobyte-listing:
+    <<: *crawler
+    # Refresco rapido de precio y stock desde las paginas de listado (scripts/retailer_listing_refresh.py): una peticion por
+    # pagina en vez de una por ficha. Cada 2 h; si el rastreo completo tiene el bloqueo del directorio sale sin hacer nada.
+    # Solo escribe en la base aislada y en la cache de neobyte; las fichas nuevas o dudosas se consultan como siempre.
+    command:
+      - sh
+      - -c
+      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer neobyte --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output || true; sleep 7200; done
     volumes:
       - ../../scripts:/app/scripts:ro
       - ../../nas:/app/nas:ro
