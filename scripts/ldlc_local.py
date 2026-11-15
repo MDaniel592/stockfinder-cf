@@ -17,6 +17,7 @@ from urllib.parse import urljoin, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path[:0] = [str(ROOT / 'nas'), str(ROOT / 'scripts')]
+from retailer_common import MissingListing, exact_product, retry_delay  # noqa: E402,F401
 BASE = 'https://www.ldlc.com'
 PREFIX = BASE + '/es-es/informatica/piezas-de-informatica/'
 CATEGORIES = {
@@ -29,18 +30,6 @@ CATEGORIES = {
     'case': [('caja-de-pc', 4678)],
     'cooler': [('ventilador-procesador', 4712), ('watercooling', 4715)],
 }
-
-
-def retry_delay(value, now=None):
-    now = time.time() if now is None else now
-    try:
-        seconds = int(value)
-    except (TypeError, ValueError):
-        try:
-            seconds = parsedate_to_datetime(value).timestamp() - now
-        except (TypeError, ValueError, OverflowError):
-            seconds = 0
-    return max(900, seconds)
 
 
 def refresh_session_started_at(state, now=None):
@@ -72,13 +61,6 @@ def snapshot_is_current(path, cutoff, timestamp_key='last_checked_at'):
         return observed.astimezone(timezone.utc) >= started.astimezone(timezone.utc)
     except (OSError, ValueError, TypeError, AttributeError, json.JSONDecodeError):
         return False
-
-
-class MissingListing(RuntimeError):
-    def __init__(self, status, url):
-        self.status = status
-        self.url = url
-        super().__init__(f'Listing unavailable: HTTP {status}')
 
 
 class Structured(HTMLParser):
@@ -157,26 +139,6 @@ def candidate(html, url, category, checked):
                 missing_fields=['manufacturer_url', 'verified_specifications'],
                 commercial_observation_source='LDLC Spanish product JSON-LD, direct seller',
                 raw_properties=[{'key': 'ldlc_sku', 'value': p.get('sku')}])
-
-
-def exact_product(conn, row):
-    from import_catalog import canonical_brand, normalize
-    matches = set()
-    for kind, scope, value in [('mpn', canonical_brand(row.get('brand')), row.get('mpn')),
-                               ('ean', 'global', row.get('ean'))]:
-        if not value:
-            continue
-        found = conn.execute('SELECT product_id FROM product_identifiers WHERE kind=%s AND scope=%s AND value=%s',
-                             (kind, scope, normalize(value))).fetchone()
-        if found:
-            matches.add(found[0])
-    if len(matches) != 1:
-        return None
-    pid = next(iter(matches))
-    product = conn.execute("SELECT data FROM catalog_entities WHERE entity='product' AND entity_id=%s AND deleted_at IS NULL", (pid,)).fetchone()
-    if not product or product[0]['category_id'] != row['category_hint']:
-        return None
-    return pid
 
 
 def run(args):
