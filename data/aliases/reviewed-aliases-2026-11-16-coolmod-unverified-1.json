@@ -1,0 +1,387 @@
+[
+ {
+  "product_id": "amd-ryzen-5-7600x",
+  "kind": "mpn",
+  "value": "100-100000593WOF",
+  "source_url": "https://www.coolmod.com/amd-ryzen-5-7600x-5-3ghz-socket-am5-boxed/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad exacta: el fabricante asocia MPN 100-100000593WOF con el modelo Procesador  AMD Ryzen 5 7600X 5.3GHz Socket AM5 Boxed. Ficha oficial AMD confirma modelo, Product ID y estas especificaciones. Fuentes oficiales: https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600x.html. Observación Coolmod 2026-11-02T18:18:35.875Z: 18995 céntimos EUR, stock disponible; capturada del Product JSON-LD del retailer.\nObservación de oferta Coolmod 2026-11-02T18:18:35.875Z: MPN publicado 100-100000593WOF; precio 18995 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "asus-rog-strix-b650e-e-gaming-wifi",
+  "kind": "mpn",
+  "value": "90MB1BB0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-rog-strix-b650e-e-gaming-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90MB1BB0-M0EAY0 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://rog.asus.com/motherboards/rog-strix/rog-strix-b650e-e-gaming-wifi-model/spec/. Fuente de tienda: https://www.coolmod.com/asus-rog-strix-b650e-e-gaming-wifi-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-rog-strix-b650-a-gaming-wifi",
+  "kind": "mpn",
+  "value": "90MB1BP0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-rog-strix-b650-a-gaming-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90MB1BP0-M0EAY0 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/spec/. Fuente de tienda: https://www.coolmod.com/asus-rog-strix-b650-a-gaming-wifi-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-tuf-gaming-b650-plus-wifi",
+  "kind": "mpn",
+  "value": "90MB1BZ0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-tuf-gaming-b650-plus-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90MB1BZ0-M0EAY0 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-plus-wifi/techspec/. Fuente de tienda: https://www.coolmod.com/asus-tuf-gaming-b650-plus-wifi-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-dual-rtx-3050-v2-oc-8gb",
+  "kind": "mpn",
+  "value": "90YV0GH6-M0NA00",
+  "source_url": "https://www.coolmod.com/asus-dual-geforce-rtx-3050-v2-oc-edition-8gb-gddr6",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90YV0GH6-M0NA00 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx3050-o8g-v2/techspec/. Fuente de tienda: https://www.coolmod.com/asus-dual-geforce-rtx-3050-v2-oc-edition-8gb-gddr6. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "gigabyte-b650-eagle-ax",
+  "kind": "mpn",
+  "value": "B650 EAGLE AX",
+  "source_url": "https://www.coolmod.com/gigabyte-b650-eagle-ax-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN B650 EAGLE AX coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.gigabyte.com/Motherboard/B650-EAGLE-AX-rev-10-11. Fuente de tienda: https://www.coolmod.com/gigabyte-b650-eagle-ax-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "noctua-nh-d15-g2",
+  "kind": "mpn",
+  "value": "NH-D15 G2",
+  "source_url": "https://www.coolmod.com/noctua-nh-d15-g2-pwm/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Modelo/código exacto NH-D15 G2 de la ficha oficial, variante Standard (sin HBC/LBC). MPN publicado incorporado al producto canónico que antes carecía de referencia: https://www.noctua.at/en/products/nh-d15-g2"
+ },
+ {
+  "product_id": "msi-mpg-x870e-carbon-wifi",
+  "kind": "mpn",
+  "value": "911-7E49-08S",
+  "source_url": "https://www.coolmod.com/msi-mpg-x870e-carbon-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 911-7E49-08S coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI/Specification. Fuente de tienda: https://www.coolmod.com/msi-mpg-x870e-carbon-wifi-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-rog-crosshair-x870e-hero",
+  "kind": "mpn",
+  "value": "90MB1IE0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-rog-crosshair-x870e-hero-wifi-socket-am5/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: MPN exacto y modelo ROG CROSSHAIR X870E HERO publicados en la tienda oficial ASUS España. Coincide exactamente con el producto canónico ASUS ROG Crosshair X870E Hero; fuente: https://estore.asus.com/es/90mb1ie0-m0eay0-rog-crosshair-x870e-hero.html. Oferta directa de Coolmod: 695.96 EUR; en stock; comprobada 2026-11-02T18:23:51.265Z; URL: https://www.coolmod.com/asus-rog-crosshair-x870e-hero-wifi-socket-am5/\nObservación de oferta Coolmod 2026-11-02T18:23:51.265Z: MPN publicado 90MB1IE0-M0EAY0; precio 69596 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "asus-proart-x870e-creator-wifi",
+  "kind": "mpn",
+  "value": "90MB1IG0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-proart-x870e-creator-wifi-socket-am5/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: MPN 90MB1IG0-M0EAY0 exacto y coincidente con el identificador canónico de ASUS ProArt X870E-CREATOR WIFI. Identidad y especificaciones verificadas en fabricante: https://www.asus.com/motherboards-components/motherboards/proart/proart-x870e-creator-wifi/techspec/. Oferta observada en tienda directa (www.coolmod.com): 514.95 EUR; disponibilidad=en stock; comprobada 2026-11-02T18:31:42.101Z; URL: https://www.coolmod.com/asus-proart-x870e-creator-wifi-socket-am5/\nObservación de oferta Coolmod 2026-11-02T18:31:42.101Z: MPN publicado 90MB1IG0-M0EAY0; precio 51495 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "asus-prime-x870-p-wifi",
+  "kind": "mpn",
+  "value": "90MB1IS0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-prime-x870-p-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90MB1IS0-M0EAY0 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/us/motherboards-components/motherboards/prime/prime-x870-p-wifi/techspec/. Fuente de tienda: https://www.coolmod.com/asus-prime-x870-p-wifi-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-tuf-gaming-x870-plus-wifi",
+  "kind": "mpn",
+  "value": "90MB1IU0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-tuf-gaming-x870-plus-wifi-socket-am5/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: MPN 90MB1IU0-M0EAY0 exacto y coincidente con el identificador canónico de ASUS TUF GAMING X870-PLUS WIFI. Identidad y especificaciones verificadas en fabricante: https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x870-plus-wifi/techspec/. Oferta observada en tienda directa (www.coolmod.com): 379.95 EUR; disponibilidad=en stock; comprobada 2026-11-02T18:24:43.203Z; URL: https://www.coolmod.com/asus-tuf-gaming-x870-plus-wifi-socket-am5/\nObservación de oferta Coolmod 2026-11-02T18:24:43.203Z: MPN publicado 90MB1IU0-M0EAY0; precio 37995 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "asus-rog-strix-z890-e-gaming-wifi",
+  "kind": "mpn",
+  "value": "90MB1IM0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-rog-strix-z890-e-gaming-wifi-socket-1851/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: MPN exacto y modelo ROG STRIX Z890-E GAMING WIFI publicados en la tienda oficial ASUS España. Coincide exactamente con el producto canónico ASUS ROG Strix Z890-E Gaming WiFi; fuente: https://estore.asus.com/es/90mb1im0-m0eay0-rog-strix-z890-e-gaming-wifi.html. Oferta directa de Coolmod: 552.95 EUR; en stock; comprobada 2026-11-02T18:24:18.685Z; URL: https://www.coolmod.com/asus-rog-strix-z890-e-gaming-wifi-socket-1851/\nObservación de oferta Coolmod 2026-11-02T18:24:18.685Z: MPN publicado 90MB1IM0-M0EAY0; precio 55295 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "gigabyte-x870-gaming-wifi6",
+  "kind": "mpn",
+  "value": "9MX87GW-00-10",
+  "source_url": "https://www.coolmod.com/gigabyte-x870-gaming-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 9MX87GW-00-10 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.gigabyte.com/Motherboard/X870-GAMING-WIFI6-rev-1x/sp. Fuente de tienda: https://www.coolmod.com/gigabyte-x870-gaming-wifi-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "msi-b850-gaming-plus-wifi",
+  "kind": "mpn",
+  "value": "911-7E56-05S",
+  "source_url": "https://www.coolmod.com/msi-b850-gaming-plus-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 911-7E56-05S coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.msi.com/Motherboard/B850-GAMING-PLUS-WIFI/Specification. Fuente de tienda: https://www.coolmod.com/msi-b850-gaming-plus-wifi-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-prime-b860m-a-wifi",
+  "kind": "mpn",
+  "value": "90MB1JY0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-prime-b860m-a-wifi-socket-1851",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90MB1JY0-M0EAY0 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/us/motherboards-components/motherboards/prime/prime-b860m-a-wifi/techspec/. Fuente de tienda: https://www.coolmod.com/asus-prime-b860m-a-wifi-socket-1851. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-tuf-gaming-b850-plus-wifi",
+  "kind": "mpn",
+  "value": "90MB1J30-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-tuf-gaming-b850-plus-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90MB1J30-M0EAY0 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850-plus-wifi/techspec/. Fuente de tienda: https://www.coolmod.com/asus-tuf-gaming-b850-plus-wifi-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-prime-radeon-rx-9070-xt-oc-16gb",
+  "kind": "mpn",
+  "value": "90YV0L71-M0NA00",
+  "source_url": "https://www.coolmod.com/asus-prime-amd-radeon-rx-9070-xt-oc-16gb-gddr6",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Modelo completo y presentación contrastados con https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rx9070xt-o16g/techspec/; MPN 90YV0L71-M0NA00 coincide exactamente con identificador canónico o alias de tienda documentado. Chromium normal Coolmod 2026-11-02T10:12:52.561Z: SKU PROD-037360, precio EUR 1082.95, schema InStock. Sin packs ni marketplace. Evidencia en reviewed-coolmod-2026-11-02e-candidates.json."
+ },
+ {
+  "product_id": "msi-mag-x870e-tomahawk-wifi",
+  "kind": "mpn",
+  "value": "601-7E59-04S",
+  "source_url": "https://www.coolmod.com/msi-mag-x870e-tomahawk-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Modelo completo MAG X870E TOMAHAWK WIFI confirmado en MSI Specification: AM5 X870E ATX cuatro DDR5. Alias de tienda 601-7E59-04S documentado con SKU PROD-037366; observación JSON-LD EUR334.95 y stock explícito. Distinto de X870, MAX y PZ."
+ },
+ {
+  "product_id": "powercolor-red-devil-rx-9070-xt-oc-16gb",
+  "kind": "mpn",
+  "value": "RX9070XT16G-E/OC",
+  "source_url": "https://www.coolmod.com/powercolor-red-devil-amd-radeon-rx-9070-xt-oc-16gb-gddr6",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN RX9070XT16G-E/OC coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.powercolor.com/product--95.htm. Fuente de tienda: https://www.coolmod.com/powercolor-red-devil-amd-radeon-rx-9070-xt-oc-16gb-gddr6. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "powercolor-reaper-rx-9070-xt-16gb",
+  "kind": "mpn",
+  "value": "RX9070XT16G-A",
+  "source_url": "https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9070-xt-16gb-gddr6",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN RX9070XT16G-A coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.powercolor.com/product--95.htm. Fuente de tienda: https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9070-xt-16gb-gddr6. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "msi-geforce-rtx-5070-ti-16g-gaming-trio-oc",
+  "kind": "mpn",
+  "value": "912-V531-286",
+  "source_url": "https://www.coolmod.com/msi-geforce-rtx-5070-ti-gaming-trio-oc-16gb-gddr7-dlss4/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad exacta: el fabricante confirma MPN 912-V531-286 para Tarjeta Gráfica MSI GeForce RTX 5070 Ti GAMING TRIO OC 16GB GDDR7 DLSS4 . La fuente oficial del fabricante confirma el MPN exacto y la variante del producto. Fuentes: https://pl-store.msi.com/products/geforce-rtx-5070-ti-16g-gaming-trio-oc. Observación Coolmod 2026-11-02T18:20:57.831Z: 163195 céntimos EUR, stock disponible; Product JSON-LD de la tienda.\nObservación de oferta Coolmod 2026-11-02T18:20:57.831Z: MPN publicado 912-V531-286; precio 163195 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "gigabyte-aorus-rtx-5080-xtreme-waterforce-16g",
+  "kind": "mpn",
+  "value": "9VN5080AW-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-aorus-geforce-rtx-5080-xtreme-waterforce-16gb-gddr7",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Modelo AORUS RTX5080 Xtreme WaterForce contrastado con ficha GIGABYTE; alias comercial Coolmod 9VN5080AW-00-G10 documentado, SKU PROD-037539, JSON-LD EUR y stock explícito en observación 2026-11-01. No confundir con modelo de aire ni waterblock WB."
+ },
+ {
+  "product_id": "912-v531-680",
+  "kind": "mpn",
+  "value": "912-V531-264",
+  "source_url": "https://www.coolmod.com/msi-geforce-rtx-5080-ventus-3x-oc-16gb-gddr7/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad exacta confirmada por fuente oficial del fabricante para MPN 912-V531-264. Especificaciones verificadas: {'Modelo': 'GeForce RTX 5080', 'Memoria': '16GB GDDR7', 'Variante': 'Ventus 3X OC'}. Fuentes: https://eu-business-store.msi.com/en-es/products/msi-geforce-rtx-5080-16g-ventus-3x-oc-tarjeta-grafica-es. Observación Coolmod 2026-11-02T18:23:07.225Z: 200996 céntimos EUR; stock True. Evidencia: Fuente oficial confirma el MPN/código y las especificaciones indicadas.\nObservación de oferta Coolmod 2026-11-02T18:23:07.225Z: MPN publicado 912-V531-264; precio 200996 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "asus-prime-rtx-5070-ti-oc-16gb",
+  "kind": "mpn",
+  "value": "90YV0MF0-M0NA00",
+  "source_url": "https://www.coolmod.com/asus-prime-geforce-rtx-5070-ti-oc-16gb-gddr7",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90YV0MF0-M0NA00 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5070ti-o16g/techspec/. Fuente de tienda: https://www.coolmod.com/asus-prime-geforce-rtx-5070-ti-oc-16gb-gddr7. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-rog-astral-rtx-5090-oc-32gb",
+  "kind": "mpn",
+  "value": "90YV0LW0-M0NA00",
+  "source_url": "https://www.coolmod.com/asus-rog-astral-geforce-rtx-5090-oc-gaming-32gb-gddr7/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: MPN 90YV0LW0-M0NA00 exacto y coincidente con el identificador canónico de ASUS ROG Astral GeForce RTX 5090 OC 32 GB. Identidad y especificaciones verificadas en fabricante: https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-o32g-gaming/spec/. Oferta observada en tienda directa (www.coolmod.com): 7299.95 EUR; disponibilidad=en stock; comprobada 2026-11-02T18:23:02.969Z; URL: https://www.coolmod.com/asus-rog-astral-geforce-rtx-5090-oc-gaming-32gb-gddr7/\nObservación de oferta Coolmod 2026-11-02T18:23:02.969Z: MPN publicado 90YV0LW0-M0NA00; precio 729995 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "msi-geforce-rtx-5070-ti-16g-ventus-3x-oc",
+  "kind": "mpn",
+  "value": "912-V531-083",
+  "source_url": "https://www.coolmod.com/msi-geforce-rtx-5070-ti-ventus-3x-oc-16gb-gddr7-dlss4",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 912-V531-083 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.msi.com/Graphics-Card/GeForce-RTX-5070-Ti-16G-VENTUS-3X-OC/Specification. Fuente de tienda: https://www.coolmod.com/msi-geforce-rtx-5070-ti-ventus-3x-oc-16gb-gddr7-dlss4. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "msi-geforce-rtx-5070-12g-ventus-2x-oc",
+  "kind": "mpn",
+  "value": "912-V532-003",
+  "source_url": "https://www.coolmod.com/msi-geforce-rtx-5070-ventus-2x-oc-12gb-gddr7-dlss4",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 912-V532-003 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.msi.com/Graphics-Card/GeForce-RTX-5070-12G-VENTUS-2X-OC/Specification. Fuente de tienda: https://www.coolmod.com/msi-geforce-rtx-5070-ventus-2x-oc-12gb-gddr7-dlss4. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "amd-ryzen-9-9900x3d",
+  "kind": "mpn",
+  "value": "AMD-Ryzen-9-9900X3D",
+  "source_url": "https://www.coolmod.com/amd-ryzen-9-9900x3d-5-5ghz-socket-am5-boxed",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN AMD-Ryzen-9-9900X3D coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9900x3d.html. Fuente de tienda: https://www.coolmod.com/amd-ryzen-9-9900x3d-5-5ghz-socket-am5-boxed. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "gigabyte-b850-gaming-wifi6",
+  "kind": "mpn",
+  "value": "9MB85GW-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-b850-gaming-wifi6-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 9MB85GW-00-G10 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.gigabyte.com/Motherboard/B850-GAMING-WIFI6-rev-1x. Fuente de tienda: https://www.coolmod.com/gigabyte-b850-gaming-wifi6-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus",
+  "kind": "mpn",
+  "value": "912-V536-001",
+  "source_url": "https://www.coolmod.com/msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-8gb-gddr7-dlss4",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 912-V536-001 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-8G-VENTUS-2X-OC-PLUS/Specification. Fuente de tienda: https://www.coolmod.com/msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-8gb-gddr7-dlss4. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-b650e-max-gaming-wifi",
+  "kind": "mpn",
+  "value": "90MB1LD0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-max-gaming-wifi-b650e-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90MB1LD0-M0EAY0 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/motherboards-components/motherboards/others/b650e-max-gaming-wifi/techspec/. Fuente de tienda: https://www.coolmod.com/asus-max-gaming-wifi-b650e-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-dual-rtx-5060-ti-oc-16gb",
+  "kind": "mpn",
+  "value": "90YV0MH0-M0NA00",
+  "source_url": "https://www.coolmod.com/asus-dual-geforce-rtx-5060-ti-oc-16gb-gddr7-dlss4",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90YV0MH0-M0NA00 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060ti-o16g/techspec/. Fuente de tienda: https://www.coolmod.com/asus-dual-geforce-rtx-5060-ti-oc-16gb-gddr7-dlss4. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-x870-max-gaming-wifi7",
+  "kind": "mpn",
+  "value": "90MB1LY0-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-x870-max-gaming-wifi7-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90MB1LY0-M0EAY0 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/motherboards-components/motherboards/others/x870-max-gaming-wifi7/techspec/. Fuente de tienda: https://www.coolmod.com/asus-x870-max-gaming-wifi7-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-dual-rtx-5060-ti-oc-8gb",
+  "kind": "mpn",
+  "value": "90YV0MP2-M0NA00",
+  "source_url": "https://www.coolmod.com/asus-dual-geforce-rtx-5060-ti-oc-8gb-gddr7-dlss4",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90YV0MP2-M0NA00 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx5060ti-o8g/techspec/. Fuente de tienda: https://www.coolmod.com/asus-dual-geforce-rtx-5060-ti-oc-8gb-gddr7-dlss4. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "gigabyte-rtx-5060-ti-aero-oc-16gb",
+  "kind": "mpn",
+  "value": "9VN506TAO-00-G10",
+  "source_url": "https://www.coolmod.com/gigabyte-geforce-rtx-5060-ti-aero-oc-16gb-gddr7-dlss4/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Modelo confirmado, código de tienda no confirmado por fabricante: la página Gigabyte confirma el modelo AERO OC 16G y la variante 16 GB; el código observado 9VN506TAO-00-G10 no aparece como MPN oficial. Se conserva la oferta enlazada al modelo por coincidencia exacta de nombre/modelo y se marca el código como retailer-only. Fuente: . Observación Coolmod 2026-11-02T18:20:41.010Z: 102195 céntimos EUR, stock disponible; Product JSON-LD de la tienda.\nObservación de oferta Coolmod 2026-11-02T18:20:41.010Z: MPN publicado 9VN506TAO-00-G10; precio 102195 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "msi-geforce-rtx-5060-8g-ventus-2x-oc",
+  "kind": "mpn",
+  "value": "912-V537-002",
+  "source_url": "https://www.coolmod.com/msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-dlss4",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 912-V537-002 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.msi.com/Graphics-Card/GeForce-RTX-5060-8G-VENTUS-2X-OC/Specification. Fuente de tienda: https://www.coolmod.com/msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-dlss4. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "gigabyte-rx-9060-xt-gaming-oc-16gb",
+  "kind": "mpn",
+  "value": "GV-R9060XTGAMING OC-16",
+  "source_url": "https://www.coolmod.com/gigabyte-amd-radeon-rx-9060-xt-gaming-oc-16gb-gddr6",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN GV-R9060XTGAMING OC-16 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.gigabyte.com/Graphics-Card/GV-R9060XTGAMING-OC-16GD/sp. Fuente de tienda: https://www.coolmod.com/gigabyte-amd-radeon-rx-9060-xt-gaming-oc-16gb-gddr6. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "powercolor-reaper-rx-9060-xt-16gb",
+  "kind": "mpn",
+  "value": "1A1-G00433800G",
+  "source_url": "https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9060-xt-16gb-gddr6",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 1A1-G00433800G coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.powercolor.com/product-detail248.htm. Fuente de tienda: https://www.coolmod.com/powercolor-reaper-amd-radeon-rx-9060-xt-16gb-gddr6. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "msi-b850m-gaming-plus-wifi",
+  "kind": "mpn",
+  "value": "911-7E66-001",
+  "source_url": "https://www.coolmod.com/msi-b850m-gaming-plus-wifi-socket-am5/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: MPN 911-7E66-001 exacto y coincidente con el identificador canónico de MSI B850M GAMING PLUS WIFI. Identidad y especificaciones verificadas en fabricante: https://www.msi.com/Motherboard/B850M-GAMING-PLUS-WIFI/Specification. Oferta observada en tienda directa (www.coolmod.com): 190.95 EUR; disponibilidad=en stock; comprobada 2026-11-02T18:32:40.389Z; URL: https://www.coolmod.com/msi-b850m-gaming-plus-wifi-socket-am5/\nObservación de oferta Coolmod 2026-11-02T18:32:40.389Z: MPN publicado 911-7E66-001; precio 19095 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "msi-pro-b850-s-wifi6e",
+  "kind": "mpn",
+  "value": "911-7E80-002",
+  "source_url": "https://www.coolmod.com/msi-placa-base-pro-b850-s-wifi6e-atx-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 911-7E80-002 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.msi.com/Motherboard/PRO-B850-S-WIFI6E/Specification. Fuente de tienda: https://www.coolmod.com/msi-placa-base-pro-b850-s-wifi6e-atx-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "msi-b850-gaming-plus-wifi6e",
+  "kind": "mpn",
+  "value": "911-7E80-001",
+  "source_url": "https://www.coolmod.com/msi-b850-gaming-plus-wifi6e",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 911-7E80-001 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.msi.com/Motherboard/B850-GAMING-PLUS-WIFI6E/Specification. Fuente de tienda: https://www.coolmod.com/msi-b850-gaming-plus-wifi6e. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-dual-rx-9060-xt-16gb",
+  "kind": "mpn",
+  "value": "90YV0LG2-M0NA00",
+  "source_url": "https://www.coolmod.com/asus-dual-radeon-rx-9060-xt-16gb-gddr6",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90YV0LG2-M0NA00 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx9060xt-16g/techspec/. Fuente de tienda: https://www.coolmod.com/asus-dual-radeon-rx-9060-xt-16gb-gddr6. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "msi-mag-x870e-tomahawk-max-wifi-pz",
+  "kind": "mpn",
+  "value": "7E84-002R",
+  "source_url": "https://www.coolmod.com/msi-mag-x870e-tomahawk-max-wifi-pz-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Modelo completo contrastado en https://www.msi.com/Motherboard/MAG-X870E-TOMAHAWK-MAX-WIFI-PZ/Specification. MPN exacto oficial en RAM; identificador de distribución de tienda documentado como alias en placas MSI, manteniendo variantes separadas. Identidad aprobada; precio/stock solo se publican si constan explícitamente."
+ },
+ {
+  "product_id": "asus-tuf-gaming-b650e-plus-wifi",
+  "kind": "mpn",
+  "value": "90MB1M20-M0EAY0",
+  "source_url": "https://www.coolmod.com/asus-tuf-gaming-b650e-plus-wifi-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90MB1M20-M0EAY0 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650e-plus-wifi/techspec/. Fuente de tienda: https://www.coolmod.com/asus-tuf-gaming-b650e-plus-wifi-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "gigabyte-b860m-eagle-v2",
+  "kind": "mpn",
+  "value": "B860M EAGLE V2",
+  "source_url": "https://www.coolmod.com/gigabyte-b860m-eagle-v2-socket-1851/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: MPN B860M EAGLE V2 exacto y coincidente con el identificador canónico de Gigabyte B860M EAGLE V2. Identidad y especificaciones verificadas en fabricante: https://www.gigabyte.com/Motherboard/B860M-EAGLE-V2/sp. Oferta observada en tienda directa (www.coolmod.com): 130.95 EUR; disponibilidad=en stock; comprobada 2026-11-02T18:32:46.726Z; URL: https://www.coolmod.com/gigabyte-b860m-eagle-v2-socket-1851/\nObservación de oferta Coolmod 2026-11-02T18:32:46.726Z: MPN publicado B860M EAGLE V2; precio 13095 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "asus-proart-rtx-5070-ti-oc-16gb",
+  "kind": "mpn",
+  "value": "90YV0NR0-M0NA00",
+  "source_url": "https://www.coolmod.com/asus-proart-rtx-5070-ti-oc-edition-16gb-gddr7-dlss4/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad exacta: el fabricante asocia MPN 90YV0NR0-M0NA00 con el modelo Tarjeta Gráfica Asus ProArt GeForce RTX 5070 Ti OC Edition 16GB GDDR7 DLSS4. ASUS eShop oficial publica el número de pieza 90YV0NR0-M0NA00 y el nombre de modelo coincidente; las especificaciones indicadas proceden de la ficha técnica del fabricante. Fuentes oficiales: https://webshop.asus.com/de/Grafikkarten/ASUS-ProArt-GeForce-RTX-5070-Ti-OC-Edition-16GB-GDDR7-Content-Creation-Grafikkarte/90YV0NR0-M0NA00. Observación Coolmod 2026-11-02T18:20:02.273Z: 189095 céntimos EUR, stock disponible; capturada del Product JSON-LD del retailer.\nObservación de oferta Coolmod 2026-11-02T18:20:02.273Z: MPN publicado 90YV0NR0-M0NA00; precio 189095 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "msi-geforce-rtx-5060-ti-8g-gaming-trio-oc",
+  "kind": "mpn",
+  "value": "912-V536-004",
+  "source_url": "https://www.coolmod.com/msi-geforce-rtx-5060-ti-gaming-trio-oc-8gb-gddr7-dlss4/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad exacta: el fabricante confirma MPN 912-V536-004 para Tarjeta Gráfica MSI GeForce RTX 5060 Ti GAMING TRIO OC 8GB GDDR7 DLSS4 . La fuente oficial del fabricante confirma el MPN exacto y la variante del producto. Fuentes: https://fr-store.msi.com/products/geforce-rtx-5060-ti-8g-gaming-trio-oc-graphics-card. Observación Coolmod 2026-11-02T18:21:20.283Z: 68196 céntimos EUR, stock disponible; Product JSON-LD de la tienda.\nObservación de oferta Coolmod 2026-11-02T18:21:20.283Z: MPN publicado 912-V536-004; precio 68196 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "nvidia-rtx-pro-4500-blackwell-workstation-32gb",
+  "kind": "mpn",
+  "value": "900-5G147-2250-000",
+  "source_url": "https://www.coolmod.com/nvidia-rtx-pro-4500-ia-blackwell-32gb-gddr7-ecc-bulk",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 900-5G147-2250-000 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/. Fuente de tienda: https://www.coolmod.com/nvidia-rtx-pro-4500-ia-blackwell-32gb-gddr7-ecc-bulk. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "nvidia-rtx-pro-6000-blackwell-workstation-96gb",
+  "kind": "mpn",
+  "value": "900-5G144-2200-000",
+  "source_url": "https://www.coolmod.com/nvidia-rtx-pro-6000-ia-blackwell-workstation-edition-96gb-gddr7-bulk",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 900-5G144-2200-000 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/. Fuente de tienda: https://www.coolmod.com/nvidia-rtx-pro-6000-ia-blackwell-workstation-edition-96gb-gddr7-bulk. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "msi-pro-b850-s-evo-wifi",
+  "kind": "mpn",
+  "value": "7E97-001R",
+  "source_url": "https://www.coolmod.com/msi-pro-b850-s-evo-wifi-socket-am5/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: La ficha oficial MSI confirma el modelo MSI PRO B850-S EVO WIFI y las especificaciones siguientes: Socket AM5, Chipset AMD B850, Tipo de memoria DDR5, Formato ATX, Ranuras de memoria 4, Memoria máxima 256 GB. No se localizó en fuente oficial una vinculación explícita del código observado 7E97-001R con ese modelo; se conserva el estado de identidad MPN como no confirmado y la asociación previa de modelo, sin afirmar exactitud del MPN. Fuente: https://www.msi.com/Motherboard/PRO-B850-S-EVO-WIFI/Specification.\nObservación de oferta Coolmod 2026-11-02T18:24:48.587Z: MPN publicado 7E97-001R; precio 18495 céntimos EUR; disponibilidad InStock (stock=True)."
+ },
+ {
+  "product_id": "gigabyte-x870-aorus-stealth",
+  "kind": "mpn",
+  "value": "X870 AORUS STEALTH",
+  "source_url": "https://www.coolmod.com/gigabyte-x870-aorus-stealth-w7-socket-am5",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN X870 AORUS STEALTH coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.gigabyte.com/Motherboard/X870-AORUS-STEALTH/sp. Fuente de tienda: https://www.coolmod.com/gigabyte-x870-aorus-stealth-w7-socket-am5. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asus-dual-radeon-rx-7800-xt-oc-16gb",
+  "kind": "mpn",
+  "value": "CM-PROD-048811",
+  "source_url": "https://www.coolmod.com/asus-dual-radeon-rx-7800-xt-oc-16gb-gddr6-1788420155/",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Ficha oficial https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx7800xt-o16g/techspec/: confirma modelo Dual Radeon RX 7800 XT OC Edition 16GB GDDR6, referencia oficial DUAL-RX7800XT-O16G y atributos de variante de la observación (memoria/edición/OC/color o socket/chipset/formato/WiFi cuando los declara). Código comercial CM-PROD-048811 registrado como alias de tienda; no se atribuye al fabricante."
+ },
+ {
+  "product_id": "asus-dual-rtx-5060-oc-advanced-8gb",
+  "kind": "mpn",
+  "value": "90YV0PS0-M0NA00",
+  "source_url": "https://www.coolmod.com/asus-dual-geforce-rtx-5060-oc-advanced-edition-8gb-gddr7-dlss4",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90YV0PS0-M0NA00 coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asus.com/ie/motherboards-components/graphics-cards/dual/dual-rtx5060-o8g-a/techspec/. Fuente de tienda: https://www.coolmod.com/asus-dual-geforce-rtx-5060-oc-advanced-edition-8gb-gddr7-dlss4. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ },
+ {
+  "product_id": "asrock-arc-pro-b70-creator-32gb",
+  "kind": "mpn",
+  "value": "90-GA6GZZ-00UANF",
+  "source_url": "https://www.coolmod.com/asrock-intel-arc-pro-b70-creator-32gb-gddr6",
+  "note": "Código comercial de Coolmod aprobado en la cola de revisión con esta evidencia: Identidad revisada: MPN 90-GA6GZZ-00UANF coincide exactamente con identificador canónico o alias comercial documentado. Modelo y especificaciones: https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20Pro%20B70%20Creator%2032GB/. Fuente de tienda: https://www.coolmod.com/asrock-intel-arc-pro-b70-creator-32gb-gddr6. Se conservan variantes de ensamblador, capacidad y presentación. Oferta publicada solo con precio, stock y vendedor directo verificados."
+ }
+]
