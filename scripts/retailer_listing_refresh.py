@@ -168,7 +168,7 @@ def run(args):
         path = args.output / name
         if path.exists() and json.loads(path.read_text()).get('retry_after_epoch', 0) > now:
             raise SystemExit(f'{args.retailer} cooldown is active ({name}); nothing fetched')
-    allowed = {config['database']} | ({'/stockfinder'} if args.retailer == 'ldlc' else set())  # LDLC runs on production since 2026-11-16
+    allowed = {config['database']} | {'/stockfinder'}  # LDLC and Neobyte run on production since 2026-11-16
     if not args.dry_run and urlparse(args.database_url or '').path not in allowed:
         raise SystemExit(f"Only {', '.join(sorted(a[1:] for a in allowed))} is allowed for {args.retailer}")
 

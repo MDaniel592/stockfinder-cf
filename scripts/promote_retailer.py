@@ -28,6 +28,7 @@ def main():
     ap.add_argument('--source-url', required=True)
     ap.add_argument('--dest-url', required=True)
     ap.add_argument('--apply', action='store_true')
+    ap.add_argument('--skip-conflicts', action='store_true', help='leave out products whose identifiers/EAN already belong to another production product (and their offers/rows); they need a manual identity decision')
     ap.add_argument('--report', type=Path)
     a = ap.parse_args()
     src = psycopg.connect(a.source_url, autocommit=False)
@@ -57,12 +58,20 @@ def main():
     for p in new:
         ean = sproducts[p].get('ean')
         if ean and didents.get(('ean', 'global', str(ean))) not in (None, p): ean_dups.append(p)
+    skipped = set()
+    if a.skip_conflicts:
+        skipped = {c['source_product'] for c in ident_conflict} | set(ean_dups)
+        ident_conflict, ean_dups = [], []
+        offers = {e: o for e, o in offers.items() if o['product_id'] not in skipped}
+        new = [p for p in new if p not in skipped]
+        ident_new = [x for x in ident_new if x[3] not in skipped]
+        pids -= skipped
     url_dup = [e for e, o in offers.items() if o.get('url_public') in doffer_urls]
     bad_price = [e for e, o in offers.items() if not isinstance(o.get('price_cents'), int) or o['price_cents'] <= 0 or not isinstance(o.get('in_stock'), bool)]
     report = dict(shop=a.shop, offers=len(offers), distinct_products=len(pids), new_products=len(new), existing_products=len(existing),
                   existing_products_that_differ_locally=len(changed_existing), offers_with_missing_product=len(missing),
                   identifiers_to_add=len(ident_new), identifier_conflicts=ident_conflict[:50], identifier_conflict_count=len(ident_conflict),
-                  new_products_ean_owned_by_other=ean_dups, offers_already_in_prod=len(url_dup), offers_bad_price_or_stock=len(bad_price))
+                  skipped_conflicting_products=sorted(skipped), new_products_ean_owned_by_other=ean_dups, offers_already_in_prod=len(url_dup), offers_bad_price_or_stock=len(bad_price))
     print(json.dumps(report, indent=2, ensure_ascii=False))
     if a.report: a.report.write_text(json.dumps(report, indent=2, ensure_ascii=False) + '\n')
     if not a.apply:
@@ -75,10 +84,13 @@ def main():
             dst.execute("insert into product_identifiers(kind,scope,value,product_id) values(%s,%s,%s,%s) on conflict do nothing", (k, s, v, p))
         for eid, data in offers.items(): write(dst, 'offer', eid, data)
         for r in src.execute("select shop_id,retailer_sku,product_id,match_kind,match_value,match_evidence,checked_at from retailer_listings where shop_id=%s", (a.shop,)):
+            if r[2] in skipped: continue
             dst.execute("insert into retailer_listings values(%s,%s,%s,%s,%s,%s,%s) on conflict do nothing", r)
         for r in src.execute("select shop_id,retailer_sku,status,product_id,mpn,ean,review_note,reviewed_at from retailer_classifications where shop_id=%s and status in ('approved','rejected')", (a.shop,)):
+            if r[3] in skipped: continue
             dst.execute("insert into retailer_classifications values(%s,%s,%s,%s,%s,%s,%s,%s) on conflict do nothing", r)
         for r in src.execute("select shop_id,retailer_sku,fingerprint,candidate,proposed_product_id,status,review_note,first_seen_at,last_seen_at,reviewed_at from retailer_review_queue where shop_id=%s and status in ('approved','rejected')", (a.shop,)):
+            if r[4] in skipped: continue
             exists = dst.execute("select 1 from retailer_review_queue where shop_id=%s and retailer_sku=%s and fingerprint=%s", r[:3]).fetchone()
             if not exists:
                 dst.execute("insert into retailer_review_queue(shop_id,retailer_sku,fingerprint,candidate,proposed_product_id,status,review_note,first_seen_at,last_seen_at,reviewed_at) values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",

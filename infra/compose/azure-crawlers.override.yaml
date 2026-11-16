@@ -1,4 +1,4 @@
-# LDLC (desde 2026-11-16, base de produccion `stockfinder`, como Coolmod/PcComponentes) y Neobyte (aun en base AISLADA stockfinder_neobyte_local) (curl_cffi, sin navegador).
+# LDLC y Neobyte (ambos desde 2026-11-16 en la base de produccion stockfinder, como Coolmod/PcComponentes) (curl_cffi, sin navegador).
 # Sustituye a `bash scripts/ldlc_local.sh` y `bash scripts/neobyte_local.sh` del NAS. Neobyte: ningun publicador ni sync-agent apunta a su base.
 # Arranque (perfil `crawlers`):  docker compose ... --profile crawlers up -d ldlc-pipeline neobyte-pipeline
 x-crawler: &crawler
@@ -58,7 +58,7 @@ services:
     command:
       - sh
       - -c
-      - while true; do if python scripts/neobyte_local.py --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output --watch --refresh-inventory; then sleep 86400; else sleep 3600; fi; done
+      - while true; do if python scripts/neobyte_local.py --database-url postgresql://stockfinder@postgres/stockfinder --output /output --watch --refresh-inventory; then sleep 86400; else sleep 3600; fi; done
     volumes:
       - ../../scripts:/app/scripts:ro
       - ../../nas:/app/nas:ro
@@ -77,7 +77,7 @@ services:
     command:
       - sh
       - -c
-      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer neobyte --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output || true; sleep 7200; done
+      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer neobyte --database-url postgresql://stockfinder@postgres/stockfinder --output /output || true; sleep 7200; done
     volumes:
       - ../../scripts:/app/scripts:ro
       - ../../nas:/app/nas:ro
@@ -86,7 +86,7 @@ services:
       - ../../artifacts/neobyte/checkpoints:/output
   neobyte-pipeline:
     <<: *crawler
-    command: [python, scripts/neobyte_pipeline.py, --database-url, 'postgresql://stockfinder@postgres/stockfinder_neobyte_local',
+    command: [python, scripts/neobyte_pipeline.py, --database-url, 'postgresql://stockfinder@postgres/stockfinder',
               --directory, /output, --watch]
     volumes:
       - ../../scripts:/app/scripts:ro

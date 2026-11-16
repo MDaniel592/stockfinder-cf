@@ -290,8 +290,8 @@ if __name__ == '__main__':
     parser.add_argument('--directory', type=Path, required=True)
     parser.add_argument('--watch', action='store_true')
     args = parser.parse_args()
-    if urlparse(args.database_url).path != '/stockfinder_neobyte_local':
-        parser.error('Only stockfinder_neobyte_local is permitted')
+    if urlparse(args.database_url).path not in ('/stockfinder_neobyte_local', '/stockfinder'):  # production allowed since 2026-11-16
+        parser.error('Only stockfinder or stockfinder_neobyte_local is permitted')
     args.directory.mkdir(parents=True, exist_ok=True)
     with psycopg.connect(args.database_url) as conn:
         while True:

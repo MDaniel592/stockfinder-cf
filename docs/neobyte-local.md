@@ -6,7 +6,7 @@ Misma estrategia que [LDLC local](ldlc-local.md), en una base propia para poder 
 
 ## Base aislada
 
-`stockfinder_neobyte_local`: copia completa del catálogo NAS (el script la crea solo si no existe y nunca la borra). Ningún sync-agent, réplica ni publicador apunta a ella. Checkpoints en `artifacts/neobyte/checkpoints/`. El cargador rechaza cualquier otra base (`tests/test_neobyte.py`). **No se ha desplegado nada a Cloudflare/Supabase ni hay servicio Neobyte en Compose.**
+`stockfinder_neobyte_local`: copia completa del catálogo NAS (el script la crea solo si no existe y nunca la borra). Ningún sync-agent, réplica ni publicador apunta a ella. Checkpoints en `artifacts/neobyte/checkpoints/`. El cargador rechaza cualquier otra base (`tests/test_neobyte.py`). **Desde el 16-nov-2026 Neobyte está en producción** (base `stockfinder`): se promovió con `scripts/promote_retailer.py --shop neobyte --skip-conflicts --apply` (3.223 ofertas, 1.080 productos nuevos; informe en `work/neobyte-promotion-20261116/`), y `neobyte-crawl`, `neobyte-listing` y `neobyte-pipeline` escriben ya en esa base. `stockfinder_neobyte_local` queda como copia histórica. **Pendiente:** 55 productos con identificadores que ya pertenecen a otro producto de producción (lista en `apply.json`, `skipped_conflicting_products`) quedaron fuera; requieren decidir si son duplicados antes de remapear sus ofertas. Hay que revisar también la ficha Noctua NH-D15 G2 chromax.black (MPN `NH-D15G2` sin identificador verificado), que el rastreo registra como `offer_refresh_skipped`.
 
 ```bash
 bash scripts/neobyte_local.sh --watch              # todas las categorías
@@ -64,7 +64,7 @@ Si el túnel cae, el proxy del NAS lo reabre solo (`Restart=always`); si el NAS 
 
 ## Cambios compartidos
 
-Una línea cada uno para registrar la tienda: `DOMAINS` en `nas/import_offers.py`, `SHOPS` en `nas/import_catalog.py` y `--shop` en `nas/review_queue.py`. `nas/publisher.py` sigue con `SHOPS = ('coolmod','pccomponentes')`, así que Neobyte no se exporta a producción.
+Una línea cada uno para registrar la tienda: `DOMAINS` en `nas/import_offers.py`, `SHOPS` en `nas/import_catalog.py` y `--shop` en `nas/review_queue.py`. `nas/publisher.py` incluye `SHOPS = ('coolmod','pccomponentes','ldlc','neobyte')` desde el 16-nov-2026.
 
 ## Estado local (14 de noviembre de 2026, 10:28 UTC)
 

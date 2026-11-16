@@ -41,7 +41,7 @@ docker exec stockfinder-v2-postgres-1 psql -U stockfinder -d stockfinder_ldlc_lo
 
 Las pruebas del parser están en `tests/test_ldlc.py`; la suite NAS comprueba importación idempotente de LDLC y rechazo de dominios falsos. El registro final de cada carga se guarda en `artifacts/ldlc/checkpoints/summary.json`.
 
-La integración queda deliberadamente local: no hay servicio LDLC en Compose ni exportación de targets LDLC en el publicador. Antes de activar producción habrá que revisar los pendientes, comprobar cobertura y frescura, decidir frecuencia y conectar explícitamente descubrimiento/refresco al flujo operativo. Esta rama no activa ninguna de esas tareas.
+**Desde el 16-nov-2026 LDLC está en producción** (base `stockfinder`, commit `a6bdf65`): `ldlc-pipeline`, `ldlc-listing` y `ldlc-local` escriben directamente en la base de producción como Coolmod/PcComponentes, y `nas/publisher.py` lo incluye en `SHOPS` (autoaprobación y exportación de targets). La base `stockfinder_ldlc_local` queda solo como copia histórica. Los pendientes se siguen revisando con las reglas de este documento.
 
 ## Estado de la carga local (14 de noviembre de 2026, 10:28 UTC)
 

@@ -157,5 +157,5 @@ CPU real del Worker: `python3 scripts/worker_metrics.py --minutes 60`. Los logs 
 
 Servicios `ldlc-listing` y `neobyte-listing` (`infra/compose/azure-crawlers.override.yaml`, perfil `crawlers`). Arranque y parada:
 `dc -f infra/compose/azure-core.override.yaml -f infra/compose/azure-crawlers.override.yaml --profile crawlers up -d --no-deps ldlc-listing neobyte-listing`
-(sustituye `stop` para pararlos). Escriben solo en `stockfinder_ldlc_local` / `stockfinder_neobyte_local`. Diagnóstico: `docker logs stockfinder-v2-<tienda>-listing-1`,
+(sustituye `stop` para pararlos). Escriben en la base de producción `stockfinder` (LDLC desde el 16-nov-2026; Neobyte desde su promoción, ver `docs/neobyte-local.md`). Diagnóstico: `docker logs stockfinder-v2-<tienda>-listing-1`,
 `artifacts/<tienda>/checkpoints/listing-refresh-state.json`. Detalles en `docs/ldlc-local.md` y `docs/neobyte-local.md`.

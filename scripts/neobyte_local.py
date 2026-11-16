@@ -112,8 +112,9 @@ def candidate(html, url, category, checked):
 
 def run(args):
     # No production DB name, and never inherit DATABASE_URL from the live service.
-    if urlparse(args.database_url).path != DATABASE:
-        raise SystemExit('Only the isolated stockfinder_neobyte_local database is allowed')
+    # Neobyte joined production on 2026-11-16 (user decision). The isolated copy stays allowed.
+    if urlparse(args.database_url).path not in (DATABASE, '/stockfinder'):
+        raise SystemExit('Only stockfinder or the isolated stockfinder_neobyte_local database is allowed')
     import psycopg
     from catalog import write
     from review_queue import stage_candidates, approve

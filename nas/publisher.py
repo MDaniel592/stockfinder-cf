@@ -32,7 +32,7 @@ from generate_seed import CATEGORIES  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 LOCK_ID = 73610942  # distinto del lock del sync-agent (73610941)
-SHOPS = ('coolmod', 'pccomponentes')
+SHOPS = ('coolmod', 'pccomponentes', 'ldlc', 'neobyte')
 RECOVERABLE = ('Observación sin MPN/EAN', 'Canonical product absent', 'Verified identifier does not match', 'Unknown canonical product')
 BLOCKING_STATUS = ('review', 'conflict', 'mismatch', 'changed')
 
