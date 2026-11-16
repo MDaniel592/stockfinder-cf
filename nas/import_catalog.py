@@ -127,6 +127,10 @@ def import_products(conn, products, codes=None, overrides=None):
         verified_at = payload.get('specs_verified_at')
         if isinstance(verified_at, str) and re.fullmatch(r'\d{4}-\d{2}-\d{2}', verified_at):
             payload['specs_verified_at'] = verified_at + 'T00:00:00Z'
+        # The Worker contract (z.string().datetime({offset:true})) rejects the WHOLE sync batch on a malformed timestamp.
+        verified_at = payload.get('specs_verified_at')
+        if isinstance(verified_at, str) and not re.fullmatch(r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?(Z|[+-]\d{2}:\d{2})', verified_at):
+            raise ValueError(f'specs_verified_at is not an ISO-8601 timestamp with offset: {verified_at!r}')
         # Optional public field; only sent once the deployed Worker contract accepts it (PUBLISH_RETAILER_CODES=1).
         if codes and codes.get(product_id): payload['retailer_codes'] = codes[product_id]
         # Identifiers registered under an older spelling of this brand move to the canonical scope.
