@@ -1,5 +1,5 @@
-# LDLC y Neobyte (curl_cffi, sin navegador) como servicios, en bases AISLADAS (stockfinder_ldlc_local / stockfinder_neobyte_local).
-# Sustituye a `bash scripts/ldlc_local.sh` y `bash scripts/neobyte_local.sh` del NAS. Ningun publicador ni sync-agent apunta a estas bases.
+# LDLC (desde 2026-11-16, base de produccion `stockfinder`, como Coolmod/PcComponentes) y Neobyte (aun en base AISLADA stockfinder_neobyte_local) (curl_cffi, sin navegador).
+# Sustituye a `bash scripts/ldlc_local.sh` y `bash scripts/neobyte_local.sh` del NAS. Neobyte: ningun publicador ni sync-agent apunta a su base.
 # Arranque (perfil `crawlers`):  docker compose ... --profile crawlers up -d ldlc-pipeline neobyte-pipeline
 x-crawler: &crawler
   image: stockfinder-v2-sync-agent
@@ -27,7 +27,7 @@ services:
     command:
       - sh
       - -c
-      - while true; do if python scripts/ldlc_local.py --database-url postgresql://stockfinder@postgres/stockfinder_ldlc_local --output /output --watch --refresh; then sleep 86400; else sleep 3600; fi; done
+      - while true; do if python scripts/ldlc_local.py --database-url postgresql://stockfinder@postgres/stockfinder --output /output --watch --refresh; then sleep 86400; else sleep 3600; fi; done
     volumes:
       - ../../scripts:/app/scripts:ro
       - ../../nas:/app/nas:ro
@@ -38,11 +38,11 @@ services:
     <<: *crawler
     # Refresco rapido de precio y stock desde las paginas de listado (scripts/retailer_listing_refresh.py): una peticion por
     # pagina en vez de una por ficha. Cada 2 h; si el rastreo completo tiene el bloqueo del directorio sale sin hacer nada.
-    # Solo escribe en la base aislada y en la cache de ldlc; las fichas nuevas o dudosas se consultan como siempre.
+    # Escribe en produccion (ofertas via import_offer/outbox) y en la cache de ldlc; las fichas nuevas o dudosas se consultan como siempre.
     command:
       - sh
       - -c
-      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer ldlc --database-url postgresql://stockfinder@postgres/stockfinder_ldlc_local --output /output || true; sleep 7200; done
+      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer ldlc --database-url postgresql://stockfinder@postgres/stockfinder --output /output || true; sleep 7200; done
     volumes:
       - ../../scripts:/app/scripts:ro
       - ../../nas:/app/nas:ro
@@ -51,7 +51,7 @@ services:
       - ../../artifacts/ldlc/checkpoints:/output
   ldlc-pipeline:
     <<: *crawler
-    command: [python, scripts/ldlc_pipeline.py, --database-url, 'postgresql://stockfinder@postgres/stockfinder_ldlc_local',
+    command: [python, scripts/ldlc_pipeline.py, --database-url, 'postgresql://stockfinder@postgres/stockfinder',
               --directory, /output, --watch]
     volumes:
       - ../../scripts:/app/scripts:ro

@@ -167,8 +167,9 @@ def run(args):
         path = args.output / name
         if path.exists() and json.loads(path.read_text()).get('retry_after_epoch', 0) > now:
             raise SystemExit(f'{args.retailer} cooldown is active ({name}); nothing fetched')
-    if not args.dry_run and urlparse(args.database_url or '').path != config['database']:
-        raise SystemExit(f"Only the isolated {config['database'][1:]} database is allowed")
+    allowed = {config['database']} | ({'/stockfinder'} if args.retailer == 'ldlc' else set())  # LDLC runs on production since 2026-11-16
+    if not args.dry_run and urlparse(args.database_url or '').path not in allowed:
+        raise SystemExit(f"Only {', '.join(sorted(a[1:] for a in allowed))} is allowed for {args.retailer}")
 
     import fcntl
     lock = (args.output / '.crawl.lock').open('w')

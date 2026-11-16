@@ -147,8 +147,9 @@ def run(args):
     from catalog import write
     from review_queue import stage_candidates, approve
     # No production DB name, and never inherit DATABASE_URL from the live service.
-    if urlparse(args.database_url).path != '/stockfinder_ldlc_local':
-        raise SystemExit('Only the isolated stockfinder_ldlc_local database is allowed')
+    # LDLC joined production on 2026-11-16 (user decision): same database as Coolmod/PcComponentes. The isolated copy stays allowed.
+    if urlparse(args.database_url).path not in ('/stockfinder_ldlc_local', '/stockfinder'):
+        raise SystemExit('Only stockfinder or the isolated stockfinder_ldlc_local database is allowed')
     args.output.mkdir(parents=True, exist_ok=True)
     state_file = args.output / 'run-state.json'
     state = {}
