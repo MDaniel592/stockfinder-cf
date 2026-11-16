@@ -69,7 +69,7 @@ def validate_review(conn, decision, aliases):
     # Needs the same full variant evidence as cases/coolers with >=4 attributes (watts, ATX standard, modular, color/80 PLUS...).
     psu_b = (candidate.get('category_hint') == 'psu' and decision.get('psu_criterion_b') is True
              and len((decision.get('variant_evidence') or {}).get('attributes') or {}) >= 4)
-    if canonical_brand(candidate.get('brand')) != canonical_brand(product['brand']):
+    if not (icecat_identity and decision.get('brand_alias') == 'adata->xpg') and canonical_brand(candidate.get('brand')) != canonical_brand(product['brand']):
         raise ValueError('Retailer and manufacturer brands differ')
     if product['category_id'] != candidate['category_hint']:
         raise ValueError('Product and retailer categories differ')
@@ -83,7 +83,9 @@ def validate_review(conn, decision, aliases):
     official_domain = registrable(urlparse(product['manufacturer_url']).hostname)[0]
     # User-authorized extension (2026-11-14): exact full variants for cases/coolers.
     # This remains an explicit human review, never an automatic name match.
-    if candidate['category_hint'] in ('case', 'cooler') or psu_b:
+    if candidate['category_hint'] in ('case', 'cooler') and icecat_identity:
+        pass  # Icecat EAN+brand+part code identifies the exact variant; no separate variant_evidence needed
+    elif candidate['category_hint'] in ('case', 'cooler') or psu_b:
         exact_mpn = (not chosen and product.get('mpn_source') == 'manufacturer'
                      and bool(candidate.get('mpn'))
                      and normalize(candidate['mpn']) == normalize(product.get('mpn', '')))

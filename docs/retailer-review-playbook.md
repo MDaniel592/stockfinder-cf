@@ -65,3 +65,20 @@ Icecat está alimentado por las marcas. Cuando la web del fabricante no publica 
 - Lote: la decisión lleva `icecat_evidence: {gtin, icecat_id}` y la nota debe decir que la identidad viene de Icecat. `manufacturer_url` sigue siendo una página real de la marca. Implementado en `scripts/icecat_identity.py` y `validate_review` de `ldlc_pipeline.py` (copia: `.bak-20261115-icecat`). Neobyte aún no lo usa.
 - No sirve si Icecat devuelve otro código (MSI MAG A850GL: `MAG A850GL PCIE5`, no `306-…`) ni sin revisión de placa (Gigabyte B550M).
 - Ejemplo: `claude-icecat-fsp-twins-pro-batch-001.json` (FSP Twins PRO 500/700/900 W).
+
+## 8. Vías de identidad añadidas el 15-nov-2026 (decididas por el usuario; validadores LDLC y Neobyte)
+
+Código en `scripts/{icecat_identity,amd_opn,manufacturer_ean}.py` y `validate_review` de los dos pipelines (copias `*.bak-20261115-*`). Ninguna autoriza publicar.
+
+| Campo de la decisión | Cuándo vale | Qué comprueba el validador |
+|---|---|---|
+| `icecat_evidence {gtin, icecat_id}` | psu, cpu, ram, storage, case, cooler | GTIN de Icecat = EAN de la tienda, misma marca (sin distinguir mayúsculas), código de marca de Icecat = MPN de tienda = MPN canónico literal. Archivo `artifacts/<tienda>/icecat-evidence/<GTIN>.json` |
+| `icecat_evidence.match = 'ean_model'` | La tienda imprime un código regional (MSI 306-…, Gigabyte 28xxx-…) | Código de Icecat = nombre de modelo canónico, o todos sus tokens con dígitos aparecen en nombre/MPN canónico (subcadena si ≥4 caracteres). Registra el EAN como alias |
+| `icecat_evidence.match = 'mpn_literal'` | Registro obtenido por marca+MPN sin lista de GTIN | Archivo con `"lookup": "brand_mpn"`; el resto de comprobaciones literales siguen |
+| `brand_alias = 'adata->xpg'` | case, cooler, psu | Solo con Icecat y marca XPG en el registro |
+| `manufacturer_ean {source_url, ean_on_page, model_on_page}` | psu, cpu, ram, storage | La página del fabricante imprime el código de barras (UPC = EAN sin 0 inicial); la nota cita URL, código y modelo |
+| `amd_opn {official_opn, packaging}` | cpu AMD | Raíz `100-<9 dígitos>` igual a la de un OPN en amd.com; el canónico conserva el OPN de la tienda (`mpn_source: retailer`) |
+| `psu_criterion_b: true` + `variant_evidence` | psu cuya marca no imprime el código (Seasonic, Lian Li) | ≥4 atributos, ficha oficial exacta, EAN comprobado; `mpn_source: retailer` |
+| Sufijo regional | psu/cpu/ram/storage | `region_equal`: `-3BEU` coincide con `-3B` |
+
+Vías sin resolver (política o acceso): Full Icecat (403 código 9: Lian Li, Seasonic, Cooler Master, AMD, G.Skill), msi.com sin `306-…`, gigabyte.com en mantenimiento, Corsair sin slug de URL, Textorm sin ficha con esos MPN.

@@ -19,6 +19,7 @@ from generate_seed import CATEGORIES
 from icecat_identity import verified_icecat_identity
 from amd_opn import verified_amd_opn
 from manufacturer_ean import verified_manufacturer_ean
+from house_brand import verified_house_brand
 import psycopg
 
 
@@ -160,11 +161,12 @@ def validate_review(conn, decision, aliases):
     icecat_identity = verified_icecat_identity(candidate, product, decision, ICECAT_EVIDENCE_DIR, normalize, canonical_brand)
     amd_identity = verified_amd_opn(candidate, product, decision, normalize)
     mfr_ean_identity = verified_manufacturer_ean(candidate, product, decision, registrable)
+    house_identity = verified_house_brand(candidate, product, decision, normalize, 'ldlc')
     # User policy 2026-11-15: criterion B for PSUs whose brand never prints the store code.
     # Needs the same full variant evidence as cases/coolers with >=4 attributes (watts, ATX standard, modular, color/80 PLUS...).
     psu_b = (candidate.get('category_hint') == 'psu' and decision.get('psu_criterion_b') is True
              and len((decision.get('variant_evidence') or {}).get('attributes') or {}) >= 4)
-    if not sn350_identity and canonical_brand(candidate.get('brand')) != canonical_brand(product['brand']):
+    if not (icecat_identity and decision.get('brand_alias') == 'adata->xpg') and not sn350_identity and canonical_brand(candidate.get('brand')) != canonical_brand(product['brand']):
         brand_evidence = decision.get('brand_evidence') or {}
         source = urlparse(str(brand_evidence.get('source_url', '')))
         # Viper Gaming is documented per SKU on Patriot's own site. This is
@@ -196,7 +198,7 @@ def validate_review(conn, decision, aliases):
                     and retailer_mpn != manufacturer_mpn
                     and retailer_mpn in normalize(decision.get('note', ''))
                     and manufacturer_mpn in normalize(decision.get('note', '')))
-    if candidate['category_hint'] not in ('gpu', 'motherboard', 'case', 'cooler') and not (icecat_identity or amd_identity or mfr_ean_identity or psu_b):
+    if candidate['category_hint'] not in ('gpu', 'motherboard', 'case', 'cooler') and not (icecat_identity or amd_identity or mfr_ean_identity or psu_b or house_identity):
         if chosen or product.get('mpn_source') != 'manufacturer' or not candidate.get('mpn') or (not sn350_identity and not hyphen_match and not region_equal(candidate['mpn'], product.get('mpn', ''))):
             raise ValueError('Other component categories require an exact manufacturer MPN, never criterion B aliases')
         verified_mpn = candidate['mpn'] if sn350_identity else product['mpn']
@@ -205,7 +207,9 @@ def validate_review(conn, decision, aliases):
     official_domain = registrable(urlparse(product['manufacturer_url']).hostname)[0]
     # User-authorized extension (2026-11-14): exact full variants for cases/coolers.
     # This remains an explicit human review, never an automatic name match.
-    if candidate['category_hint'] in ('case', 'cooler') or psu_b:
+    if candidate['category_hint'] in ('case', 'cooler') and (icecat_identity or house_identity):
+        pass  # Icecat EAN+brand+part code identifies the exact variant; no separate variant_evidence needed
+    elif candidate['category_hint'] in ('case', 'cooler') or psu_b:
         exact_mpn = (not chosen and product.get('mpn_source') == 'manufacturer'
                      and bool(candidate.get('mpn'))
                      and normalize(candidate['mpn']) == normalize(product.get('mpn', '')))
@@ -224,7 +228,7 @@ def validate_review(conn, decision, aliases):
                         and not verified_manufacturer_document(product, decision))):
                 raise ValueError('Variant evidence must cite the canonical manufacturer domain or an exact reviewed authentic document')
     sources = re.findall(r'https://[^\s<>"\)]+', evidence)
-    if not icecat_identity and not any(urlparse(url).hostname and registrable(urlparse(url).hostname)[0] == official_domain for url in sources):
+    if not (icecat_identity or house_identity) and not any(urlparse(url).hostname and registrable(urlparse(url).hostname)[0] == official_domain for url in sources):
         raise ValueError('Review must cite the canonical manufacturer domain')
     if len(decision.get('note', '').strip()) < 40:
         raise ValueError('Detailed decision evidence required')
@@ -309,7 +313,9 @@ def import_reviewed_products(conn, products, decisions):
                    and any(d.get('product_id') == product.get('id') and isinstance(d.get('amd_opn'), dict) for d in decisions))
         psu_new = (product['category_id'] == 'psu' and product.get('mpn_source') == 'retailer'
                    and any(d.get('product_id') == product.get('id') and d.get('psu_criterion_b') is True for d in decisions))
-        if product['category_id'] not in ('gpu', 'motherboard', 'case', 'cooler') and product.get('mpn_source') != 'manufacturer' and not amd_new and not psu_new:
+        house_new = (product.get('brand') == 'Textorm' and product.get('mpn_source') == 'retailer'
+                     and any(d.get('product_id') == product.get('id') and isinstance(d.get('house_brand'), dict) for d in decisions))
+        if product['category_id'] not in ('gpu', 'motherboard', 'case', 'cooler') and product.get('mpn_source') != 'manufacturer' and not amd_new and not psu_new and not house_new:
             raise ValueError('Other new component categories require a verified manufacturer MPN')
         if not product.get('manufacturer_evidence'):
             raise ValueError('New products require explicit official evidence')
@@ -379,7 +385,8 @@ def cycle(conn, directory):
     ICECAT_EVIDENCE_DIR = directory / 'icecat-evidence'
     state_file = directory / 'pipeline-state.json'
     state = json.loads(state_file.read_text()) if state_file.exists() else {'files': {}}
-    state['files'] = {key: value for key, value in state['files'].items() if '-batch-' in key}
+    # Un lote borrado o renombrado por su autor no debe tumbar el pipeline al releerlo.
+    state['files'] = {key: value for key, value in state['files'].items() if '-batch-' in key and (directory / 'reviews' / key).exists()}
     state.setdefault('superseded_errors', [])
     for path in sorted((directory / 'reviews').glob('*-batch-*.json')):
         try:

@@ -11,7 +11,7 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
-EXACT_CATEGORIES = ('psu', 'cpu', 'ram', 'storage')
+EXACT_CATEGORIES = ('psu', 'cpu', 'ram', 'storage', 'case', 'cooler')  # case/cooler added 2026-11-15 (Icecat EAN is color/variant specific)
 
 
 def _digits(value):
@@ -23,7 +23,7 @@ def verified_icecat_identity(candidate, product, decision, evidence_dir, normali
     if not isinstance(claim, dict):
         return None
     if candidate.get('category_hint') not in EXACT_CATEGORIES or product.get('category_id') != candidate.get('category_hint'):
-        raise ValueError('Icecat identity is only accepted for exact-MPN categories (psu, cpu, ram, storage)')
+        raise ValueError('Icecat identity is only accepted for psu, cpu, ram, storage, case, cooler')
     gtin = _digits(claim.get('gtin'))
     if not gtin or gtin != _digits(candidate.get('ean')):
         raise ValueError('Icecat GTIN must equal the retailer EAN')
@@ -31,13 +31,17 @@ def verified_icecat_identity(candidate, product, decision, evidence_dir, normali
     if not path.is_file():
         raise ValueError('Icecat evidence file missing for GTIN ' + gtin)
     record = json.loads(path.read_text(encoding='utf-8'))
-    if record.get('source') != 'Icecat JSON API' or gtin not in {_digits(g) for g in record.get('returned_gtins', [])}:
+    mpn_lookup = claim.get('match') == 'mpn_literal' and record.get('lookup') == 'brand_mpn' and not record.get('returned_gtins')
+    if record.get('source') != 'Icecat JSON API' or (not mpn_lookup and gtin not in {_digits(g) for g in record.get('returned_gtins', [])}):
         raise ValueError('Icecat evidence does not return the retailer GTIN')
     checked = datetime.fromisoformat(record['checked_at'])
     if checked.tzinfo is None or (checked - datetime.now(timezone.utc)).total_seconds() > 60:
         raise ValueError('Icecat evidence has an invalid timestamp')
-    brands = {canonical_brand(record.get('brand')), canonical_brand(candidate.get('brand')), canonical_brand(product.get('brand'))}
-    if len(brands) != 1:
+    brands = {re.sub(r'[^a-z0-9]', '', str(canonical_brand(b) or '').lower()) for b in (record.get('brand'), candidate.get('brand'), product.get('brand'))}
+    bk = lambda b: re.sub(r'[^a-z0-9]', '', str(b or '').lower())
+    alias_ok = (decision.get('brand_alias') == 'adata->xpg' and candidate.get('category_hint') in ('case', 'cooler', 'psu')
+                and bk(candidate.get('brand')) == 'adata' and bk(product.get('brand')) == 'xpg' and bk(record.get('brand')) == 'xpg')
+    if len(brands) != 1 and not alias_ok:
         raise ValueError('Icecat, retailer and canonical brands differ')
     code = normalize(record.get('brand_part_code') or '')
     if claim.get('match') == 'ean_model':
@@ -49,7 +53,8 @@ def verified_icecat_identity(candidate, product, decision, evidence_dir, normali
         # code (UD850GM, PG5...) appears in the canonical name/MPN (revision words like V2 may differ).
         digit_tokens = [t for t in re.findall(r'[A-Za-z0-9]+', str(record.get('brand_part_code') or '')) if re.search(r'\d', t) and len(t) >= 3]
         haystack = set(re.findall(r'[a-z0-9]+', (str(product.get('name') or '') + ' ' + str(product.get('mpn') or '')).lower()))
-        token_match = bool(digit_tokens) and all(t.lower() in haystack for t in digit_tokens)
+        joined = re.sub(r'[^a-z0-9]', '', (str(product.get('name') or '') + str(product.get('mpn') or '')).lower())
+        token_match = bool(digit_tokens) and all(t.lower() in haystack or (len(t) >= 4 and t.lower() in joined) for t in digit_tokens)
         if not code or (code != model and not token_match):
             raise ValueError('Icecat part code must match the canonical model for ean_model identity')
     else:
