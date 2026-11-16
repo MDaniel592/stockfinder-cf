@@ -36,18 +36,17 @@ describe.sequential('offers_total: recount only for shop/offer batches, converge
   }, 30000);
   afterAll(() => worker.dispose());
 
-  test('the recount statement is emitted only when the batch has a shop or offer event (always without events)', () => {
-    const has = (events?: Array<{ entity: string; entity_id: string; operation: string }>) => finalizeStatements(events as never).some(s => s.sql.includes('offers_total'));
-    expect(has()).toBe(true);
-    expect(has([{ entity: 'product', entity_id: 'p', operation: 'upsert' }, { entity: 'category', entity_id: 'c', operation: 'delete' }])).toBe(false);
-    expect(has([{ entity: 'product', entity_id: 'p', operation: 'upsert' }, { entity: 'offer', entity_id: 'o', operation: 'upsert' }])).toBe(true);
-    expect(has([{ entity: 'shop', entity_id: 's', operation: 'delete' }])).toBe(true);
-    expect(has([{ entity: 'offer', entity_id: 'o', operation: 'delete' }])).toBe(true);
+  test('the exact recount is unconditional only for batches with a shop event; other batches recount at most once per hour', () => {
+    const unconditional = (events?: Array<{ entity: string; entity_id: string; operation: string }>) => finalizeStatements(events as never).some(x => x.sql.includes('offers_total') && !x.sql.includes('totals_version<>'));
+    expect(unconditional()).toBe(false);
+    expect(unconditional([{ entity: 'product', entity_id: 'p', operation: 'upsert' }])).toBe(false);
+    expect(unconditional([{ entity: 'offer', entity_id: 'o', operation: 'upsert' }, { entity: 'offer', entity_id: 'o2', operation: 'delete' }])).toBe(false);
+    expect(unconditional([{ entity: 'shop', entity_id: 's', operation: 'delete' }])).toBe(true);
   });
 
   test('after the first sync the total is exact and converged', async () => {
     const s = await state();
-    expect(s.offers_total).toBe(3); expect(await active()).toBe(3); expect(s.totals_version).toBe(s.facets_version);
+    expect(s.offers_total).toBe(3); expect(await active()).toBe(3);
   });
 
   test('a burst of 50 product-only batches bumps facets_version, does not recount, and leaves the total correct', async () => {
@@ -55,32 +54,32 @@ describe.sequential('offers_total: recount only for shop/offer batches, converge
     for (let i = 0; i < 50; i++) await send([ev('product', `burst-${i}`, gpu(`burst-${i}`))]);
     const after = await state();
     expect(after.facets_version).toBe(before.facets_version + 50);
-    expect(after.totals_version).toBe(before.totals_version);                                   // not recounted: stays behind
+    expect(after.totals_version).toBe(before.totals_version);                                   // not recounted (same hour)
     expect(after.offers_total).toBe(3); expect(await active()).toBe(3);
   });
 
   test('the next offer batch recounts and converges totals_version', async () => {
     await send([ev('offer', 'o4', offer('p3', 'sa'))]);
     const s = await state();
-    expect(s.offers_total).toBe(4); expect(await active()).toBe(4); expect(s.totals_version).toBe(s.facets_version);
+    expect(s.offers_total).toBe(4); expect(await active()).toBe(4);
   });
 
   test('a price-only refresh of an existing offer keeps the total (no facets bump, no recount needed)', async () => {
     const before = await state();
     await send([ev('offer', 'o4', offer('p3', 'sa', 45000))]);
     const after = await state();
-    expect(after.offers_total).toBe(4); expect(after.facets_version).toBe(before.facets_version); expect(after.totals_version).toBe(after.facets_version);
+    expect(after.offers_total).toBe(4); expect(after.facets_version).toBe(before.facets_version);
   });
 
   test('shop soft-delete drops its offers from the total; restoring it brings them back, even after product-only batches in between', async () => {
     await send([ev('shop', 'sb', undefined, 'delete')]);
     let s = await state();
-    expect(s.offers_total).toBe(3); expect(await active()).toBe(3); expect(s.totals_version).toBe(s.facets_version);   // o2 belonged to sb
+    expect(s.offers_total).toBe(3); expect(await active()).toBe(3);   // o2 belonged to sb
     for (let i = 0; i < 5; i++) await send([ev('product', `after-delete-${i}`, gpu(`after-delete-${i}`))]);
     expect((await state()).offers_total).toBe(3);                                                // unchanged: nothing recounted, nothing changed
     await send([ev('shop', 'sb', { name: 'B', url_public: 'https://b.example' })]);               // restore
     s = await state();
-    expect(s.offers_total).toBe(4); expect(await active()).toBe(4); expect(s.totals_version).toBe(s.facets_version);
+    expect(s.offers_total).toBe(4); expect(await active()).toBe(4);
   });
 
   test('offer delete and insert are reflected exactly', async () => {
@@ -89,6 +88,19 @@ describe.sequential('offers_total: recount only for shop/offer batches, converge
     await send([ev('product', 'between', gpu('between'))]);                                      // product-only batch between the two offer batches
     await send([ev('offer', 'o5', offer('p2', 'sb')), ev('offer', 'o6', offer('p3', 'sb'))]);
     const s = await state();
-    expect(s.offers_total).toBe(5); expect(await active()).toBe(5); expect(s.totals_version).toBe(s.facets_version);
+    expect(s.offers_total).toBe(5); expect(await active()).toBe(5);
+  });
+
+  test('incremental total: resurrecting a tombstone is +1, a stale or repeated event changes nothing', async () => {
+    const base = (await state()).offers_total;
+    await send([ev('offer', 'o5', undefined, 'delete')]);
+    expect((await state()).offers_total).toBe(base - 1); expect(await active()).toBe(base - 1);
+    await send([ev('offer', 'o5', offer('p2', 'sb'))]);                                           // same id, newer version: resurrected
+    expect((await state()).offers_total).toBe(base); expect(await active()).toBe(base);
+    await send([ev('offer', 'o5', offer('p2', 'sb', 41000))]);                                    // already active: price change only
+    expect((await state()).offers_total).toBe(base);
+    const stale = { event_id: ++eventId, entity: 'offer', entity_id: 'o5', version: 1, operation: 'delete', changed_at: now };
+    await send([stale]);                                                                          // old delete must not apply nor decrement
+    expect((await state()).offers_total).toBe(base); expect(await active()).toBe(base);
   });
 });

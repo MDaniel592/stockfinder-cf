@@ -42,7 +42,7 @@ const sameArgs = (id: string, d: Record<string, unknown>) => [id, d.product_id, 
  * - facets_version moves only when facets, counts, brand/category/shop lists or the sitemap can change: any
  *   product/category/shop event, or an offer that appears, disappears or moves (price/stock changes do not).
  */
-export function structureBump(entity: Entity, id: string, operation: 'upsert' | 'delete', data: Record<string, unknown>): Stmt[] {
+export function structureBump(entity: Entity, id: string, operation: 'upsert' | 'delete', data: Record<string, unknown>, version = Number.MAX_SAFE_INTEGER): Stmt[] {
   const head = `UPDATE sync_status SET`;
   // A shop mark only moves freshness, like a freshness-only offer refresh: NO version bump, so it never evicts the edge/D1
   // caches (that would re-read D1 on every pass). Cached bodies may lag by at most EDGE_TTL; the status object (offers_checked_at,
@@ -50,8 +50,14 @@ export function structureBump(entity: Entity, id: string, operation: 'upsert' | 
   if (entity === 'shop_check') return [];
   if (entity !== 'offer') return [stmt(`${head} facets_version=facets_version+1,data_version=data_version+1 WHERE id=1`)];
   if (operation === 'delete')
-    return [stmt(`${head} facets_version=facets_version+1,data_version=data_version+1 WHERE id=1 AND EXISTS(SELECT 1 FROM catalog_offers c WHERE c.id=? AND c.deleted_at IS NULL)`, id)];
+    return [
+      // offers_total is kept incrementally (see finalizeStatements): an accepted delete of an active offer of an active shop is -1.
+      stmt(`${head} offers_total=MAX(offers_total-1,0) WHERE id=1 AND EXISTS(SELECT 1 FROM catalog_offers c WHERE c.id=? AND c.deleted_at IS NULL AND c.version<? AND EXISTS(SELECT 1 FROM catalog_shops s WHERE s.id=c.shop_id AND s.deleted_at IS NULL))`, id, version),
+      stmt(`${head} facets_version=facets_version+1,data_version=data_version+1 WHERE id=1 AND EXISTS(SELECT 1 FROM catalog_offers c WHERE c.id=? AND c.deleted_at IS NULL)`, id)];
   return [
+    // An accepted upsert that makes an offer of an active shop newly active (new row, or resurrected tombstone) is +1.
+    stmt(`${head} offers_total=offers_total+1 WHERE id=1 AND EXISTS(SELECT 1 FROM catalog_shops s WHERE s.id=? AND s.deleted_at IS NULL)
+      AND NOT EXISTS(SELECT 1 FROM catalog_offers c WHERE c.id=? AND (c.deleted_at IS NULL OR c.version>=?))`, data.shop_id, id, version),
     // Freshness-only refreshes never evict commercial responses. This runs before the offer upsert.
     stmt(`INSERT INTO category_cache_epochs(category_id,version)
       SELECT DISTINCT category_id,1 FROM catalog_products WHERE id IN (?,(SELECT product_id FROM catalog_offers WHERE id=?))
@@ -109,24 +115,21 @@ export function listingIndex(hasCategory: boolean, sort: string, ranked: boolean
   return name ? ` INDEXED BY ${name}` : '';
 }
 
+const HOUR = `(CAST(strftime('%s','now') AS INTEGER)/3600)`;
 const SWEEP_TOKEN = `((SELECT facets_version FROM sync_status WHERE id=1)||'.'||(CAST(strftime('%s','now') AS INTEGER)/3600))`;
 /**
- * offers_total counts active offers (OFFER_ACTIVE: offer and its shop not deleted), so only shop events and offer events can change
- * it; a batch made of products/categories never needs the recount (a full scan of catalog_offers + a shop lookup per offer, ~7.4k rows
- * read for 3.9k offers). Without `events` the recount is always emitted.
+ * offers_total counts active offers (OFFER_ACTIVE: offer and its shop not deleted). Offer events adjust it incrementally in
+ * structureBump (+1/-1, one row read each). The exact recount (a full scan of catalog_offers + a shop lookup per offer: ~4k rows
+ * read per call, 36 % of D1 reads on a bulk-promotion day) now runs only when a shop event arrives (it can flip many offers at
+ * once) and at most once per hour otherwise, which heals any drift (totals_version holds the hour of the last recount).
  */
-const touchesActiveOffers = (events?: SyncEvent[]) => !events || events.some(e => e.entity === 'shop' || e.entity === 'offer');
+const touchesShops = (events?: SyncEvent[]) => !!events?.some(e => e.entity === 'shop');
 
-/**
- * Statements to run LAST: public offer total and eviction of stale persisted cache rows.
- * The recount keeps the `totals_version<>facets_version` guard, so a batch that does not touch offers can bump facets_version
- * (a product-only batch) without recounting: totals_version then stays behind and the next batch that does contain an offer or shop
- * event recounts, converging to the exact total.
- */
 export function finalizeStatements(events?: SyncEvent[]): Stmt[] {
   return [
-    ...(touchesActiveOffers(events) ? [stmt(`UPDATE sync_status SET offers_total=(SELECT COUNT(*) FROM catalog_offers o WHERE ${OFFER_ACTIVE}), totals_version=facets_version
-      WHERE id=1 AND totals_version<>facets_version`)] : []),
+    // totals_version now stores the UTC hour of the last exact recount (it no longer tracks facets_version).
+    ...(touchesShops(events) ? [stmt(`UPDATE sync_status SET offers_total=(SELECT COUNT(*) FROM catalog_offers o WHERE ${OFFER_ACTIVE}), totals_version=${HOUR} WHERE id=1`)]
+      : [stmt(`UPDATE sync_status SET offers_total=(SELECT COUNT(*) FROM catalog_offers o WHERE ${OFFER_ACTIVE}), totals_version=${HOUR} WHERE id=1 AND totals_version<>${HOUR}`)]),
     // Sweep only when the structure version or the hour changed since the last sweep (token in sync_status.cache_swept, migration 0010).
     // The statement is driven from sync_status (CROSS JOIN fixes the loop order) so that a skipped sweep never starts the api_cache
     // loop: ~1 row read instead of every cached row on every sync batch.

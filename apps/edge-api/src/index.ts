@@ -89,7 +89,7 @@ async function sync(request: Request, env: Env) {
         event.entity_id, o.product_id, o.shop_id, o.price_cents, Number(o.in_stock), o.last_checked_at,
           event.entity_id, event.version, o.price_cents, Number(o.in_stock)));
     }
-    statements.push(...structureBump(event.entity as Entity, event.entity_id, event.operation as 'upsert' | 'delete', data));
+    statements.push(...structureBump(event.entity as Entity, event.entity_id, event.operation as 'upsert' | 'delete', data, event.version));
     if (event.operation === 'upsert' && event.entity === 'offer') statements.push(freshnessUpdate(event.entity_id, event.version, changedAt, data));
     // Table/column names originate exclusively from the validated, strict schema.
     statements.push(stmt(`INSERT INTO ${table}(${columns.join(',')}) VALUES(${columns.map(() => '?').join(',')})
