@@ -315,9 +315,17 @@ def run(args):
                         with conn.transaction():
                             ids = stage_candidates(conn, [row])
                             pid = module.exact_product(conn, row)
+                            approved = False
                             if pid:
-                                if ids:
-                                    approve(conn, ids[0], f'{args.retailer.upper() if args.retailer == "ldlc" else "Neobyte"}: exact verified MPN/EAN, matching category and direct EUR offer from the listing/product page.', pid)
+                                try:
+                                    if ids:
+                                        with conn.transaction():
+                                            approve(conn, ids[0], f'{args.retailer.upper() if args.retailer == "ldlc" else "Neobyte"}: exact verified MPN/EAN, matching category and direct EUR offer from the listing/product page.', pid)
+                                    approved = True
+                                except ValueError as error:
+                                    # Real identity blocks (variant conflicts) stay pending; they must not abort the refresh.
+                                    print(json.dumps(dict(event=f'{args.retailer}_left_pending', url=item_url, reason=str(error))), flush=True)
+                            if approved:
                                 stats['approved'] += 1
                             else:
                                 stats['pending'] += 1
