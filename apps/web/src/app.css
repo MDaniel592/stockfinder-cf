@@ -445,8 +445,8 @@ main { flex: 1; min-width: 0; min-height: calc(100dvh - var(--header-h)); } /* f
 .offer-row.is-best { background: color-mix(in srgb, var(--good-bg) 60%, transparent); }
 .offer-shop { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; min-width: 0; }
 .offer-shop strong { font-size: 16px; }
-.shop-logo { display: inline-flex; align-items: center; justify-content: center; box-sizing: content-box; height: 22px; padding: 5px 10px; border-radius: 8px; background: #fff; border: 1px solid var(--border, #d9dee5); vertical-align: middle; }
-.shop-logo img { display: block; height: 22px; width: auto; }
+.shop-logo { display: inline-flex; align-items: center; justify-content: center; box-sizing: content-box; height: 24px; padding: 5px 10px; border-radius: 8px; background: #fff; border: 1px solid var(--border, #d9dee5); vertical-align: middle; }
+.shop-logo img { display: block; height: 24px; width: auto; }
 .shop-logo.pp-shop { margin: 0 2px; padding: 3px 8px; }
 .shop-logo.pp-shop, .shop-logo.pp-shop img { height: 18px; }
 .offer-shop small { flex-basis: 100%; font-size: 13px; color: var(--text-3); }

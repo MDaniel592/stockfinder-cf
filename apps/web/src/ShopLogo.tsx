@@ -4,7 +4,7 @@ const LOGOS: Record<string, { src: string; ratio: number }> = {
   pccomponentes: { src: '/images/shops/pccomponentes.svg', ratio: 138 / 48 },
   ldlc: { src: '/images/shops/ldlc.svg', ratio: 338 / 135 },
 };
-const HEIGHT = 22;
+const HEIGHT = 24;
 
 export function ShopName({ name, className = '' }: { name: string; className?: string }) {
   const logo = LOGOS[name.toLowerCase().replace(/[^a-z0-9]/g, '')];
