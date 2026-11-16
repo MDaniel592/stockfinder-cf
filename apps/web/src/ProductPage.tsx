@@ -9,6 +9,7 @@ import { categoryPath } from './router';
 import { displayName, groupSpecs, keySpecs } from './display';
 import { References, RefMark, ReportButton, Thumb, type Item, type Shop } from './ProductBits';
 import { shopsLabel } from './ProductCard';
+import { ShopName } from './ShopLogo';
 
 const SHOP_IMAGE_HOSTS: Array<[RegExp, string]> = [[/(^|\.)pccomponentes\.com$|(^|\.)pccomponentes\./i, 'PcComponentes'], [/(^|\.)coolmod\.com$|(^|\.)coolmod\./i, 'Coolmod']];
 /** Retailer credit for images taken from a shop (explicit origin field when present, else the source URL host). */
@@ -39,7 +40,7 @@ function Offers({ product, offers, loading, error, demo }: { product: Item; offe
   return <div className="offers">{offers.map(offer => {
     const fresh = offerFreshness(offer.last_checked_at);
     return <div key={offer.id} className={`offer-row offer-${fresh.level} ${offer === best ? 'is-best' : ''}`}>
-      <div className="offer-shop"><strong>{offer.shop_name}</strong>{offer === best && offers.filter(o => o.in_stock).length > 1 && <span className="best-tag">Mejor precio</span>}
+      <div className="offer-shop"><ShopName name={offer.shop_name}/>{offer === best && offers.filter(o => o.in_stock).length > 1 && <span className="best-tag">Mejor precio</span>}
         <small title={absoluteDate(offer.last_checked_at)}>Comprobado {relativeAge(offer.last_checked_at)}</small>
         {fresh.label && <span className={`fresh-badge ${fresh.level}`}>{fresh.label}</span>}</div>
       <span className={offer.in_stock ? 'in-stock' : 'out-stock'}>{offer.in_stock ? 'Disponible' : 'Sin stock'}</span>
@@ -79,7 +80,7 @@ export function ProductPage({ product, offers, offersLoading, offerError, shops,
       <aside className="pp-pricebox" aria-label="Resumen de precio">
         <span className="pp-price-label">{best ? 'Mejor precio' : 'Precio'}</span>
         <strong className={`pp-price ${product.min_price_cents === null ? 'price-pending' : 'price-verified'}`}>{product.min_price_cents === null ? 'Sin precio verificado' : money(product.min_price_cents)}</strong>
-        {best ? <p className="pp-price-meta">en <strong>{best.shop_name}</strong> · comprobado <span title={absoluteDate(best.last_checked_at)}>{relativeAge(best.last_checked_at)}</span></p>
+        {best ? <p className="pp-price-meta">en <ShopName name={best.shop_name} className="pp-shop"/> · comprobado <span title={absoluteDate(best.last_checked_at)}>{relativeAge(best.last_checked_at)}</span></p>
           : <p className="pp-price-meta">{offersLoading ? 'Buscando ofertas…' : offers.length ? 'Ninguna tienda lo tiene en stock ahora.' : 'Aún no hay ofertas verificadas.'}</p>}
         {best && !demo && <a className="primary pp-cta" href={best.url_public} target="_blank" rel="noopener noreferrer">Ver en {best.shop_name} <ArrowUpRight size={16} aria-hidden="true"/></a>}
         <p className="pp-price-meta">{shopsLabel(product.offers_count)} comparadas</p>
