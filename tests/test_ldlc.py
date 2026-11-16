@@ -23,9 +23,10 @@ class LdlcTests(unittest.TestCase):
                  offers=offer, **{'@type': 'Product'})
         return '<script type="application/ld+json">' + json.dumps(p) + '</script>'
 
-    def test_production_database_is_refused_before_any_write(self):
+    def test_unknown_database_is_refused_before_any_write(self):
+        # LDLC may write to the isolated copy and, since 2026-11-16, to production; any other database is refused.
         with self.assertRaises(SystemExit):
-            run(argparse.Namespace(database_url='postgresql://stockfinder@postgres/stockfinder'))
+            run(argparse.Namespace(database_url='postgresql://stockfinder@postgres/stockfinder_other'))
 
     def test_blocked_crawl_keeps_cooldown(self):
         with tempfile.TemporaryDirectory() as directory:

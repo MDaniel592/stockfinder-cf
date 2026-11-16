@@ -59,7 +59,7 @@ class ListingRefreshTests(unittest.TestCase):
         assert (by_sku['PB1']['price_cents'], by_sku['PB1']['in_stock']) == (11095, True)
         assert (by_sku['PB2']['price_cents'], by_sku['PB2']['in_stock']) == (240095, False)
         assert (by_sku['PB3']['price_cents'], by_sku['PB3']['in_stock']) == (None, False)
-        assert (by_sku['PB4']['price_cents'], by_sku['PB4']['in_stock']) == (None, None)  # one-digit decimals are ambiguous; unknown stock code
+        assert (by_sku['PB4']['price_cents'], by_sku['PB4']['in_stock']) == (None, True)  # one-digit decimals are ambiguous (no price); stock code 2 means in stock
 
     def test_ldlc_marketplace_cards_are_not_trusted(self):
         cards = refresh.ldlc_cards(ldlc_page([('PB1', 'AR1', '110€<sup>95</sup>', 1)], marketplace='1'), ldlc_local)
