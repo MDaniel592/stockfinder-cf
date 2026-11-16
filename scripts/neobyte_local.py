@@ -168,7 +168,7 @@ def run(args):
         conn.commit()
         for category in args.categories or CATEGORIES:
             inventory_file = args.output / ('inventory-' + category + '.json')
-            if inventory_file.exists() and not args.refresh:
+            if inventory_file.exists() and not (args.refresh or args.refresh_inventory):
                 saved = json.loads(inventory_file.read_text())
                 urls = dict.fromkeys(saved['urls'])
                 category_pages = saved['pages']
@@ -246,7 +246,10 @@ if __name__ == '__main__':
     parser.add_argument('--database-url', required=True)
     parser.add_argument('--output', type=Path, required=True)
     parser.add_argument('--categories', nargs='+', choices=CATEGORIES)
-    parser.add_argument('--refresh', action='store_true')
+    parser.add_argument('--refresh', action='store_true', help='Re-read the category listings and every product page')
+    parser.add_argument('--refresh-inventory', action='store_true',
+                        help='Re-read the category listings to discover new products; only new product pages are fetched '
+                             '(price and stock of known ones come from the listing refresh)')
     parser.add_argument('--watch', action='store_true', help='Resume automatically after transient failures')
     args = parser.parse_args()
     if not args.watch:

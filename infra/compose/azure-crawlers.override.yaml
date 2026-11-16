@@ -47,7 +47,8 @@ services:
       - ../../artifacts/ldlc:/output
   neobyte-crawl:
     <<: *crawler
-    # Igual que ldlc-crawl: una pasada completa de precio y stock cada 24 h (reintento en 1 h si falla).
+    # Descubrimiento: relee los listados de categoria cada 24 h (reintento en 1 h si falla) y solo pide las fichas nuevas.
+    # Precio y stock de las ya conocidas los refresca neobyte-listing; --refresh (una peticion por ficha) queda para uso manual.
     # Salida residencial: el WAF de Neobyte desafia toda peticion que sale de la IP del datacenter de Azure
     # (403 + cf-mitigated: challenge, incluso en robots.txt). NEOBYTE_PROXY apunta al nodo SOCKS5 del NAS
     # (residencial) que el NAS expone en la VM por el tunel inverso SSH; ver docs/neobyte-local.md.
@@ -57,7 +58,7 @@ services:
     command:
       - sh
       - -c
-      - while true; do if python scripts/neobyte_local.py --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output --watch --refresh; then sleep 86400; else sleep 3600; fi; done
+      - while true; do if python scripts/neobyte_local.py --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output --watch --refresh-inventory; then sleep 86400; else sleep 3600; fi; done
     volumes:
       - ../../scripts:/app/scripts:ro
       - ../../nas:/app/nas:ro
@@ -76,7 +77,7 @@ services:
     command:
       - sh
       - -c
-      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer neobyte --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output || true; sleep 21600; done
+      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer neobyte --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output || true; sleep 7200; done
     volumes:
       - ../../scripts:/app/scripts:ro
       - ../../nas:/app/nas:ro

@@ -11,7 +11,7 @@ Misma estrategia que [LDLC local](ldlc-local.md), en una base propia para poder 
 ```bash
 bash scripts/neobyte_local.sh --watch              # todas las categorías
 bash scripts/neobyte_local.sh --categories gpu     # una categoría (reutiliza fichas guardadas)
-bash scripts/neobyte_local.sh --refresh            # reconsultar precio y stock
+bash scripts/neobyte_local.sh --refresh-inventory  # releer listados y pedir solo las fichas nuevas (lo que hace el servicio neobyte-crawl)
 bash scripts/neobyte_local.sh --pipeline --watch   # aplicar lotes revisados y actualizar estado
 ```
 
