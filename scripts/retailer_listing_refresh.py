@@ -251,6 +251,7 @@ def run(args):
         from review_queue import stage_candidates, approve
         conn = psycopg.connect(args.database_url)
     verify_left = args.verify
+    pass_started = datetime.now(timezone.utc)
     seen_cached = set()
     save_state('running')
     try:
@@ -340,6 +341,17 @@ def run(args):
                              if re.fullmatch(r'(PB\d+|\d+)\.json', p.name) and p.name not in seen_cached)
             stats['missing_from_listing'] = len(missing)
             (args.output / 'listing-refresh-missing.json').write_text(json.dumps(missing, indent=2) + '\n')
+            if conn and urlparse(args.database_url).path == '/stockfinder':
+                # En produccion la frescura publica es la marca por tienda (shop_check), como en Coolmod/PcComponentes:
+                # cuentan las ofertas confirmadas en esta pasada (last_checked_at >= inicio); el resto conserva su fecha.
+                from catalog import publish_shop_check
+                confirmed = {row[0] for row in conn.execute(
+                    """SELECT entity_id FROM catalog_entities WHERE entity='offer' AND deleted_at IS NULL
+                       AND data->>'shop_id'=%s AND (data->>'last_checked_at')::timestamptz >= %s""",
+                    (args.retailer, pass_started)).fetchall()}
+                result = publish_shop_check(conn, args.retailer, pass_started, confirmed)
+                conn.commit()
+                print(json.dumps(dict(event='shop_check', shop=args.retailer, **result)), flush=True)
     finally:
         if conn:
             conn.close()
