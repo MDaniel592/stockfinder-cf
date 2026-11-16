@@ -52,7 +52,8 @@ def cents(value):
 LDLC_MARKER = re.compile(r"""querySelectorAll\('\[id\*="pdt"\]\[data-offer-id="([A-Za-z0-9]+)"\]'\)""")
 LDLC_PRICE = re.compile(r"""\.price'\)\.outerHTML\s*=\s*'<div class="price">(?:<div class="price">)?([^<]*?)€<sup>(\d{2})</sup>""")
 LDLC_STOCK = re.compile(r'data-stock-web="(\d+)"')
-LDLC_STOCK_CODES = {'1': True, '9': False}
+# Codigos del listado contrastados con la ficha de producto (2026-11-16, 3 categorias): 2 = en stock (17/17), 5 y 6 = sin stock (8/8).
+LDLC_STOCK_CODES = {'1': True, '2': True, '5': False, '6': False, '9': False}
 
 
 def ldlc_scripts(html):
@@ -185,7 +186,7 @@ def run(args):
                                  for name in (STATE_NAME, 'run-state.json') if (args.output / name).exists()])
     stats = dict(pages=0, listed=0, from_listing=0, fallback_pages=0, new=0, unchanged=0,
                  price_changed=0, stock_changed=0, missing_from_listing=0, rejected_observations=0,
-                 approved=0, pending=0, verified=0, verify_mismatches=0)
+                 approved=0, pending=0, verified=0, verify_mismatches=0, fallback_reasons={})
 
     def save_state(status, **extra):
         state.update(status=status, updated_at=datetime.now(timezone.utc).isoformat(),
@@ -295,6 +296,13 @@ def run(args):
                                                       listing=[row['price_cents'], row['in_stock']],
                                                       product_page=[page_row['price_cents'], page_row['in_stock']])), flush=True)
                         if row is None:
+                            if old is None: why = 'sin_cache'
+                            elif card['price_cents'] is None and card['in_stock'] is None: why = 'sin_precio_ni_stock'
+                            elif card['price_cents'] is None: why = 'sin_precio'
+                            elif card['in_stock'] is None: why = 'sin_stock'
+                            elif not old.get('price_cents'): why = 'cache_sin_precio'
+                            else: why = 'salto_de_precio'
+                            stats['fallback_reasons'][why] = stats['fallback_reasons'].get(why, 0) + 1
                             row = product_page(item_url, category)
                             if row is None:
                                 continue
