@@ -66,7 +66,7 @@ services:
     command:
       - sh
       - -c
-      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer neobyte --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output || true; sleep 7200; done
+      - sleep 900; while true; do python scripts/retailer_listing_refresh.py --retailer neobyte --database-url postgresql://stockfinder@postgres/stockfinder_neobyte_local --output /output || true; sleep 21600; done
     volumes:
       - ../../scripts:/app/scripts:ro
       - ../../nas:/app/nas:ro
