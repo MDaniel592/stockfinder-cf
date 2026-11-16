@@ -179,7 +179,7 @@ def run(args):
     except OSError:
         raise SystemExit('Another crawl holds the lock for this directory')
 
-    from curl_cffi import requests
+    from retailer_transport import browser_session
     state = {}
     # Never go faster than the full crawler has had to (it raises the delay after 403/429/503).
     request_delay = max([2.0] + [float(json.loads((args.output / name).read_text()).get('request_delay_seconds', 2))
@@ -195,7 +195,7 @@ def run(args):
         temporary.write_text(json.dumps(state, indent=2) + '\n')
         temporary.replace(state_file)
 
-    session = requests.Session(impersonate='chrome')
+    session = browser_session(args.retailer)
     last = 0.0
 
     def fetch(url):

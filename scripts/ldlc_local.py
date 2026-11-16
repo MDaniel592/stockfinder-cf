@@ -143,9 +143,9 @@ def candidate(html, url, category, checked):
 
 def run(args):
     import psycopg
-    from curl_cffi import requests
     from catalog import write
     from review_queue import stage_candidates, approve
+    from retailer_transport import browser_session
     # No production DB name, and never inherit DATABASE_URL from the live service.
     # LDLC joined production on 2026-11-16 (user decision): same database as Coolmod/PcComponentes. The isolated copy stays allowed.
     if urlparse(args.database_url).path not in ('/stockfinder_ldlc_local', '/stockfinder'):
@@ -175,7 +175,7 @@ def run(args):
         temporary.write_text(json.dumps(state, indent=2) + '\n')
         temporary.replace(state_file)
 
-    session = requests.Session(impersonate='chrome')
+    session = browser_session('ldlc')
     last_request = 0
 
     def fetch(url):

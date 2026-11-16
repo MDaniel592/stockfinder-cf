@@ -26,6 +26,42 @@ Neobyte (PrestaShop) está tras Cloudflare: `curl` simple recibe el desafío, `c
 
 Mismas reglas de LDLC: ≥2 s entre peticiones (4/8/12 s tras bloqueo), espera mínima de 15 min tras 403/429/503 o desafío, coincidencia solo por MPN por marca o EAN exactos y misma categoría; lo demás queda pendiente en `retailer_review_queue`. No se crean productos por parecido de nombre.
 
+## Salida residencial: el WAF bloquea la IP del datacenter
+
+Desde el 16 de noviembre de 2026 Neobyte responde **403 + `cf-mitigated: challenge`** a **todo** el dominio (también `robots.txt`) cuando la petición sale de la IP pública de la VM de Azure. No son las cabeceras:
+
+- `curl` con UA de Chrome, `curl_cffi` con `impersonate='chrome'` (cualquier versión) y con las cabeceras exactas del navegador dan 403.
+- Reproducir la petición que sí funciona en un navegador (Brave) desde la VM, **con su cookie `cf_clearance`**, también da 403: la autorización está ligada a la IP que resolvió el desafío.
+- La misma URL responde **200** desde la IP residencial de casa (83.59.29.61) y desde el NAS, incluso con `curl` simple.
+- El propio WAF es el que bloquea: `r.jina.ai` y un Chromium headless en la VM reciben el mismo desafío.
+
+Por eso el rastreo sale por casa. No hay eludir CAPTCHA: el nodo solo cambia la ruta de salida.
+
+**Ruta de salida (montada el 16-nov-2026)**
+
+1. En el NAS (casa): `stockfinder-socks`, un proxy SOCKS5 (`microsocks`) en `127.0.0.1:1080`, que sale por la IP residencial.
+2. Del NAS a la VM: `stockfinder-egress-tunnel`, un túnel SSH inverso (`ssh -R 172.18.0.1:1081:127.0.0.1:1080`) que deja el proxy en el gateway de la red Docker de la VM (`172.18.0.1`). La ACL de Tailscale no hace falta: el túnel lo abre el NAS hacia la VM, que sí está permitido.
+3. En la VM: `scripts/retailer_transport.py` crea la sesión de `curl_cffi` con `NEOBYTE_PROXY=socks5h://172.18.0.1:1081` (en `.env`, interpolado por Compose para `neobyte-crawl` y `neobyte-listing`).
+
+`GatewayPorts clientspecified` (drop-in `/etc/ssh/sshd_config.d/99-stockfinder-gatewayports.conf` en la VM) es lo que permite al túnel fijar esa dirección; sin él el puerto remoto queda en el loopback y los contenedores no llegan.
+
+`socks5h` y no `socks5`: el nombre se resuelve en el proxy, porque el DNS de Azure no resuelve las direcciones del CDN de la tienda.
+
+El proxy solo cambia la ruta: mismos hosts, mismo retardo entre peticiones y mismo análisis que antes. `STOCKFINDER_PROXY`, `HTTPS_PROXY` y `ALL_PROXY` sirven como respaldo genérico; sin ninguna variable el comportamiento es el de siempre (directo).
+
+**Operación**
+
+```bash
+# NAS
+systemctl status stockfinder-socks stockfinder-egress-tunnel
+curl -s --socks5-hostname 127.0.0.1:1080 https://api.ipify.org   # debe devolver 83.59.29.61
+# VM
+ss -ltn | grep 1081                                                # 172.18.0.1:1081
+docker exec stockfinder-v2-neobyte-listing-1 printenv NEOBYTE_PROXY
+```
+
+Si el túnel cae, el proxy del NAS lo reabre solo (`Restart=always`); si el NAS está apagado, el rastreador vuelve a recibir 403 y entra en su espera de 15 min sin tocar nada.
+
 ## Cambios compartidos
 
 Una línea cada uno para registrar la tienda: `DOMAINS` en `nas/import_offers.py`, `SHOPS` en `nas/import_catalog.py` y `--shop` en `nas/review_queue.py`. `nas/publisher.py` sigue con `SHOPS = ('coolmod','pccomponentes')`, así que Neobyte no se exporta a producción.

@@ -48,6 +48,12 @@ services:
   neobyte-crawl:
     <<: *crawler
     # Igual que ldlc-crawl: una pasada completa de precio y stock cada 24 h (reintento en 1 h si falla).
+    # Salida residencial: el WAF de Neobyte desafia toda peticion que sale de la IP del datacenter de Azure
+    # (403 + cf-mitigated: challenge, incluso en robots.txt). NEOBYTE_PROXY apunta al nodo SOCKS5 del NAS
+    # (residencial) que el NAS expone en la VM por el tunel inverso SSH; ver docs/neobyte-local.md.
+    environment:
+      PGPASSWORD: ${POSTGRES_PASSWORD}
+      NEOBYTE_PROXY: ${NEOBYTE_PROXY:-}
     command:
       - sh
       - -c
@@ -63,6 +69,10 @@ services:
     # Refresco rapido de precio y stock desde las paginas de listado (scripts/retailer_listing_refresh.py): una peticion por
     # pagina en vez de una por ficha. Cada 2 h; si el rastreo completo tiene el bloqueo del directorio sale sin hacer nada.
     # Solo escribe en la base aislada y en la cache de neobyte; las fichas nuevas o dudosas se consultan como siempre.
+    # Misma salida residencial que neobyte-crawl: sin NEOBYTE_PROXY el WAF responde 403 a la IP del datacenter.
+    environment:
+      PGPASSWORD: ${POSTGRES_PASSWORD}
+      NEOBYTE_PROXY: ${NEOBYTE_PROXY:-}
     command:
       - sh
       - -c

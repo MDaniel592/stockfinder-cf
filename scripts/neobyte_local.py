@@ -115,9 +115,9 @@ def run(args):
     if urlparse(args.database_url).path != DATABASE:
         raise SystemExit('Only the isolated stockfinder_neobyte_local database is allowed')
     import psycopg
-    from curl_cffi import requests
     from catalog import write
     from review_queue import stage_candidates, approve
+    from retailer_transport import browser_session
     args.output.mkdir(parents=True, exist_ok=True)
     state_file = args.output / 'run-state.json'
     state = {}
@@ -136,7 +136,7 @@ def run(args):
         temporary.write_text(json.dumps(state, indent=2) + '\n')
         temporary.replace(state_file)
 
-    session = requests.Session(impersonate='chrome')
+    session = browser_session('neobyte')
     last_request = 0
 
     def fetch(url):
