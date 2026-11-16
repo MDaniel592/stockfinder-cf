@@ -166,7 +166,12 @@ def stage_candidates(conn,candidates):
                     from datetime import datetime
                     observed=datetime.fromisoformat(candidate['last_checked_at'].replace('Z','+00:00'))
                     if not current or observed>=current[0]:
-                        import_offer(conn,{**candidate,'product_id':decision[1],'match_evidence':decision[4]})
+                        try:
+                            # Savepoint: a failed refresh must not abort the whole crawl or poison the transaction.
+                            with conn.transaction():
+                                import_offer(conn,{**candidate,'product_id':decision[1],'match_evidence':decision[4]})
+                        except ValueError as error:
+                            print(json.dumps(dict(event='offer_refresh_skipped',shop=shop,retailer_sku=sku,url=candidate.get('url_public'),mpn=candidate.get('mpn'),product_id=decision[1],reason=str(error)),ensure_ascii=False),flush=True)
                 continue
             if not mpn:continue
             classify(conn,candidate,'pending',None,'La identidad MPN del SKU ha cambiado; requiere nueva revisión.')
