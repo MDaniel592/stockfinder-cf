@@ -186,7 +186,7 @@ def run(args):
                                  for name in (STATE_NAME, 'run-state.json') if (args.output / name).exists()])
     stats = dict(pages=0, listed=0, from_listing=0, fallback_pages=0, new=0, unchanged=0,
                  price_changed=0, stock_changed=0, missing_from_listing=0, rejected_observations=0,
-                 approved=0, pending=0, verified=0, verify_mismatches=0, fallback_reasons={})
+                 approved=0, pending=0, verified=0, verify_mismatches=0, sin_producto_ya_decidido=0, fallback_reasons={})
 
     def save_state(status, **extra):
         state.update(status=status, updated_at=datetime.now(timezone.utc).isoformat(),
@@ -337,8 +337,10 @@ def run(args):
                                     print(json.dumps(dict(event=f'{args.retailer}_left_pending', url=item_url, reason=str(error))), flush=True)
                             if approved:
                                 stats['approved'] += 1
-                            else:
+                            elif ids:
                                 stats['pending'] += 1
+                            else:
+                                stats['sin_producto_ya_decidido'] += 1  # ficha ya rechazada/pendiente en la cola, sin cambios
                         conn.commit()
                     save_state('running', category=category)
                     url = module.Structured(html).next
