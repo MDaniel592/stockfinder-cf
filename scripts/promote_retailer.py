@@ -38,6 +38,10 @@ def main():
     didents = {(k, s, v): p for k, s, v, p in dst.execute("select kind, scope, value, product_id from product_identifiers")}
     doffer_urls = {r[0] for r in dst.execute("select data->>'url_public' from catalog_entities where entity='offer' and deleted_at is null and data->>'shop_id'=%s", (a.shop,))}
     missing = sorted(p for p in pids if p not in sproducts)
+    tombstoned = {r[0] for r in dst.execute("select entity_id from catalog_entities where entity='product' and deleted_at is not null")}
+    # Products deliberately removed from production stay removed (and their offers are not promoted).
+    pids = {p for p in pids if p not in tombstoned}
+    offers = {e: o for e, o in offers.items() if o['product_id'] not in tombstoned}
     new = sorted(p for p in pids if p in sproducts and p not in dprod)
     existing = sorted(p for p in pids if p in dprod)
     changed_existing = [p for p in existing if sproducts[p] != dprod[p]]
