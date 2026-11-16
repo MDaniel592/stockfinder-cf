@@ -20,20 +20,6 @@ x-crawler: &crawler
   security_opt: [no-new-privileges:true]
   logging: {driver: json-file, options: {max-size: 10m, max-file: '3'}}
 services:
-  ldlc-crawl:
-    <<: *crawler
-    # `--watch` ejecuta UNA pasada y termina; `--refresh` vuelve a consultar precio y stock. Una pasada completa cada 24 h
-    # (reintento en 1 h si falla). Pausas >= 2 s entre peticiones (8 s por bloqueos anteriores) y cooldown tras 403/429/503.
-    command:
-      - sh
-      - -c
-      - while true; do if python scripts/ldlc_local.py --database-url postgresql://stockfinder@postgres/stockfinder --output /output --watch --refresh; then sleep 86400; else sleep 3600; fi; done
-    volumes:
-      - ../../scripts:/app/scripts:ro
-      - ../../nas:/app/nas:ro
-      - ../../data:/app/data:ro
-      - ../../db:/app/db:ro
-      - ../../artifacts/ldlc/checkpoints:/output
   ldlc-listing:
     <<: *crawler
     # Refresco rapido de precio y stock desde las paginas de listado (scripts/retailer_listing_refresh.py): una peticion por
