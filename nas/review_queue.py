@@ -3,6 +3,7 @@ import argparse
 import hashlib
 import json
 import os
+import re
 from pathlib import Path
 from datetime import datetime,timezone
 from urllib.parse import urlparse
@@ -120,6 +121,13 @@ def migrate(conn):
     conn.execute((ROOT/'db/postgres-migrations/0003_review_queue.sql').read_text())
     conn.execute((ROOT/'db/postgres-migrations/0004_persistent_classification.sql').read_text())
 
+LEGACY_GT_NOTE='Retirado de la web por decision del usuario (GPU GT antigua; regla automatica 2026-11-17).'
+LEGACY_GT_RE=re.compile(r"\bGT\s?-?(?:2[1-4]0|3[1-3]0|4[2-4]0|5[2-3]0|6[1-4]0|7[1-4]0|1010|1030)\b",re.I)
+
+def is_legacy_gt_gpu(candidate):
+    """True for GeForce GT-series graphics cards (not GTX/RTX); GTX/GTS do not match."""
+    return candidate.get('category_hint')=='gpu' and bool(LEGACY_GT_RE.search(str(candidate.get('name') or '')))
+
 def classify(conn,candidate,status,product_id,note):
     conn.execute('''INSERT INTO retailer_classifications(shop_id,retailer_sku,status,product_id,mpn,ean,review_note)
       VALUES(%s,%s,%s,%s,%s,%s,%s) ON CONFLICT(shop_id,retailer_sku) DO UPDATE SET
@@ -155,6 +163,10 @@ def stage_candidates(conn,candidates):
             conn.execute('''INSERT INTO retailer_classifications(shop_id,retailer_sku,status,product_id,mpn,ean,review_note)
               SELECT shop_id,%s,status,product_id,mpn,ean,review_note FROM retailer_classifications WHERE shop_id=%s AND retailer_sku=%s
               ON CONFLICT(shop_id,retailer_sku) DO NOTHING''',(sku,shop,known[1]))
+        if is_legacy_gt_gpu(candidate):
+            # Politica: GPU GeForce GT antiguas (GT 710/730/1030...) no se publican.
+            classify(conn,candidate,'rejected',None,LEGACY_GT_NOTE)
+            continue
         decision=conn.execute('SELECT status,product_id,mpn,ean,review_note FROM retailer_classifications WHERE shop_id=%s AND retailer_sku=%s',(shop,sku)).fetchone()
         if decision and decision[0]=='rejected':continue
         if decision and decision[0]=='approved':
