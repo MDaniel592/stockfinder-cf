@@ -127,7 +127,7 @@ describe.sequential('hourly fresh count cache', () => {
   // Regression: the lookup used 'hourly:fresh'||?||... and D1 binds the number 12 as REAL ('hourly:fresh12.0'), so it never matched
   // the key written from JS and the whole-table scan ran on every status computation. The key is now built in JS (hour only).
   test('the stored count is read back (a sentinel row wins over the scan) and the scan result is stored under the same key', async () => {
-    const fv = ((await h.worker.query('SELECT facets_version FROM sync_status WHERE id=1'))[0] as { facets_version: number }).facets_version, key = `hourly:fresh12:${fv}`;
+    const key = 'hourly:fresh12';
     await h.worker.query('INSERT OR REPLACE INTO api_cache(key,version,body) VALUES(?,?,?)', key, hour(), '1');
     await h.send([h.ev('shop_check', 'sa', h.mark(new Date().toISOString()))]);           // sync() resets the status memo
     expect((await h.api('catalog/status')).body.offers_fresh).toBe(1);
@@ -137,3 +137,4 @@ describe.sequential('hourly fresh count cache', () => {
     expect(await h.worker.query('SELECT version,body FROM api_cache WHERE key=?', key)).toEqual([{ version: hour(), body: '3' }]);
   });
 });
+

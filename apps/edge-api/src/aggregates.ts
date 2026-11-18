@@ -127,6 +127,8 @@ const touchesShops = (events?: SyncEvent[]) => !!events?.some(e => e.entity === 
 
 export function finalizeStatements(events?: SyncEvent[]): Stmt[] {
   return [
+    // A shop event can flip many offers at once: drop the hourly fresh-share row so the next status recounts it (offer events let it lag up to an hour).
+    ...(touchesShops(events) ? [stmt(`DELETE FROM api_cache WHERE key LIKE 'hourly:fresh%'`)] : []),
     // totals_version now stores the UTC hour of the last exact recount (it no longer tracks facets_version).
     ...(touchesShops(events) ? [stmt(`UPDATE sync_status SET offers_total=(SELECT COUNT(*) FROM catalog_offers o WHERE ${OFFER_ACTIVE}), totals_version=${HOUR} WHERE id=1`)]
       : [stmt(`UPDATE sync_status SET offers_total=(SELECT COUNT(*) FROM catalog_offers o WHERE ${OFFER_ACTIVE}), totals_version=${HOUR} WHERE id=1 AND totals_version<>${HOUR}`)]),

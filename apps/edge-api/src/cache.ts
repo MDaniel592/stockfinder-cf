@@ -140,7 +140,7 @@ export function withFreshness<T extends Pick<Status, 'source_changed_at' | 'offe
  * mark of its last confirmed pass (shop_checks, see offerChecked) or, if it was unconfirmed or the shop has no mark, its own
  * last_checked_at (renewed at most every FRESHNESS_SECONDS in nas/catalog.py), so a healthy offer stays well under 12 h. */
 export const FRESH_WINDOW_HOURS = 12;
-/* The hourly count is cached in api_cache as key `hourly:fresh<H>:<facets_version>`, version = hour. The key MUST be matched with the
+/* The hourly count is cached in api_cache as key `hourly:fresh<H>`, version = hour (NOT keyed by facets_version: every new/removed offer bumps it and each bump cost a ~21k-row scan; the share now lags catalogue changes by up to an hour, like shop marks). The key MUST be matched with the
  * window interpolated into the SQL text, never a bound number: D1 binds JS numbers as REAL, so `'hourly:fresh'||?` produced 'hourly:fresh12.0'
  * and the lookup never hit (a 5.8k-row scan on every status computation). A shop mark does not bump facets_version, so the share lags a
  * shop pass by up to an hour: that is the documented design (one scan per hour), and offers_checked_at/stale are live. */
@@ -169,7 +169,7 @@ export async function computeStatus(env: CacheEnv): Promise<Status> {
   try {
     [row, cached] = await env.db.reads([
       stmt('SELECT last_event_id,last_sync_at,source_changed_at,offers_total,offers_checked_max,facets_version,(SELECT MAX(checked_at) FROM shop_checks WHERE deleted_at IS NULL) AS shop_checked_max FROM sync_status WHERE id=1'),
-      stmt(`SELECT body FROM api_cache WHERE key='hourly:fresh${FRESH_WINDOW_HOURS}:'||(SELECT facets_version FROM sync_status WHERE id=1) AND version=?`, hour)
+      stmt(`SELECT body FROM api_cache WHERE key='hourly:fresh${FRESH_WINDOW_HOURS}' AND version=?`, hour)
     ]);
   } catch (error) {
     if (statusMemo) return withFreshness(statusMemo.value, staleAfter(env));
@@ -183,7 +183,7 @@ export async function computeStatus(env: CacheEnv): Promise<Status> {
     const n = await env.db.first<{ n: number }>(`SELECT COUNT(*) AS n FROM catalog_offers o WHERE ${eff.sql}>=? AND ${OFFER_ACTIVE}`,
       ...eff.params, new Date(Date.now() - FRESH_WINDOW_HOURS * 3600_000).toISOString());
     fresh = String(n?.n ?? 0);
-    await env.db.run(cachePut(['key', 'version', 'body']), `hourly:fresh${FRESH_WINDOW_HOURS}:${r?.facets_version ?? 0}`, hour, fresh).catch(() => undefined);
+    await env.db.run(cachePut(['key', 'version', 'body']), `hourly:fresh${FRESH_WINDOW_HOURS}`, hour, fresh).catch(() => undefined);
   }
   const value = buildStatus(env, r, Number(fresh));
   statusMemo = { at: Date.now(), value };

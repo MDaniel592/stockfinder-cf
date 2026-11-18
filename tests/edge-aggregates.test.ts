@@ -120,6 +120,7 @@ describe.sequential('version-keyed response cache', () => {
     expect((await api('brands')).body.data).toEqual(['Acme']);
   });
   test('public offer total follows structure', async () => {
+    await worker.query("DELETE FROM api_cache WHERE key LIKE 'hourly:fresh%'");                       // the fresh share is cached for an hour (offer events do not evict it)
     const status = (await api('catalog/status')).body;
     expect(status.offers_total).toBe(4); expect(status.offers_fresh).toBe(4);
   });

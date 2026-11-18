@@ -427,6 +427,7 @@ describe.sequential('Freshness', () => {
   const fresh = freshWorker.mf;
   const push = (events: unknown[]) => fresh.dispatchFetch('https://test/internal/sync', signed(events));
   const status = async () => ((await (await fresh.dispatchFetch('https://test/api/v1/catalog/status')).json()) as any);
+  const clearFreshShare = () => freshWorker.query("DELETE FROM api_cache WHERE key LIKE 'hourly:fresh%'");
   beforeAll(() => freshWorker.migrate(), 30000);
   afterAll(() => freshWorker.dispose());
   test('without offers it falls back to source_changed_at', async () => {
@@ -450,6 +451,7 @@ describe.sequential('Freshness', () => {
     await push([event('offer', 'o2', offerData('p', 110, true, iso(-6 * 86400_000), 's'), 1),
       event('offer', 'o3', offerData('p', 120, true, iso(-11 * 3600_000), 's'), 1),
       event('offer', 'o4', offerData('p', 130, true, iso(-13 * 3600_000), 's'), 1)]);
+    await clearFreshShare();                                                                  // cached for an hour; offer events do not evict it
     const s = await status();
     expect(s.offers_total).toBe(4); expect(s.offers_fresh).toBe(2); expect(s.offers_fresh_hours).toBe(12);
   });
