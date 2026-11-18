@@ -68,7 +68,7 @@ python3 scripts/cloudflare.py rollback VERSION_ID
 
 **Orden de despliegue (0009 + 0010)**: `python3 scripts/cloudflare.py d1 migrations apply DB --remote` (aplica 0009 y 0010) → `npm run build` → `python3 scripts/cloudflare.py deploy` → solo entonces reconstruir y recrear `sync-agent` (`docker compose build sync-agent && docker compose up -d --no-deps sync-agent`). Rollback: el Worker anterior sigue funcionando con las tablas y la columna nuevas (son aditivas); no hace falta revertir las migraciones.
 
-Backups externos y restauración están pendientes. Preparar `pg_dump -Fc` cifrado fuera del NAS, verificar ambos códigos con `pipefail` y ensayar restauración aislada. Revisar cuotas de cuenta y medir crecimiento antes de ampliar carga; alertas/retención automáticas pendientes.
+**Backup de producción (18-nov-2026):** el NAS ejecuta `/opt/docker/stockfinder-backups/backup-azure.sh` por cron cada 6 h (`15 */6 * * *`, log `/var/log/stockfinder-backup.log`): `pg_dump` con el rol `backup_ro` dentro del contenedor de la VM, por SSH (clave `/root/.ssh/stockfinder_vm`; Postgres no publica puertos), 56 huecos rotativos en `/opt/docker/stockfinder-backups/dumps` y comprobación de tamaño y `gzip -t`. El volcado anterior por Tailscale (`100.80.73.54:5432`) fallaba desde el 15-nov. Volcado de la antigua base del NAS (incluye las bases aisladas `*_local` y `lab`): `old-nas-postgres-20261118.sql.gz` en la misma carpeta. Backups externos cifrados y ensayo de restauración siguen pendientes. Preparar `pg_dump -Fc` cifrado fuera del NAS, verificar ambos códigos con `pipefail` y ensayar restauración aislada. Revisar cuotas de cuenta y medir crecimiento antes de ampliar carga; alertas/retención automáticas pendientes.
 
 ## Reportes de usuarios
 
