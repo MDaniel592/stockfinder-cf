@@ -18,7 +18,13 @@ KEY_ALIASES = {
                 'RPM': 'Velocidad de rotación', 'Cache': 'Caché', 'Cache de disco': 'Caché'},
     'case': {'Formatos de placa base': 'Formatos compatibles', 'Placas base compatibles': 'Formatos compatibles',
              'Model': 'Modelo', 'Edition': 'Edición', 'Materials': 'Materiales', 'Front I/O': 'Panel frontal',
-             'Clearance': 'Espacio libre', 'Chassis dimensions': 'Dimensiones', 'Fan capacity': 'Capacidad de ventiladores'},
+             'Clearance': 'Espacio libre', 'Chassis dimensions': 'Dimensiones', 'Fan capacity': 'Capacidad de ventiladores',
+             # Claves que traen Neobyte (inglés) y Abysm; la tabla y el configurador solo leen las canónicas de arriba.
+             **{k: 'Longitud GPU máxima' for k in ('GPU máxima', 'Longitud maxima GPU', 'Longitud máxima GPU', 'Maximum GPU length',
+                                                    'Maximum graphics card length')},
+             **{k: 'Altura disipador máxima' for k in ('Altura maxima disipador CPU', 'Maximum CPU cooler height')},
+             **{k: 'Formatos compatibles' for k in ('Placas base', 'Motherboard support')},
+             'Dimensions': 'Dimensiones'},
     'cooler': {'Cooling type': 'Tipo', 'TDP máximo': 'TDP', 'Sockets': 'Sockets compatibles'},
     'ram': {'color': 'Color', 'capacity': 'Capacidad', 'speed': 'Velocidad', 'latency': 'Latencia', 'model': 'Línea',
             'Latencia CAS': 'Latencia', 'Perfil de memoria': 'Perfil', 'Memory type': 'Tipo de memoria', 'Capacity': 'Capacidad',
@@ -396,6 +402,9 @@ def normalize_value(category, key, value):
     elif key == 'Chipset': value = re.sub(r'^intel\b', 'Intel', re.sub(r'^amd\b', 'AMD', value, flags=re.I), flags=re.I)
     elif key == 'Formato' and category == 'motherboard': value = _formats(value)
     elif key == 'Voltaje': value = _voltage(value)
+    elif category == 'case' and key in ('Longitud GPU máxima', 'Altura disipador máxima'):
+        m = re.fullmatch(r'(?i)(?:up to|hasta)?\s*(\d+(?:\.\d+)?)\s*mm', value)
+        if m: value = f'{m.group(1)} mm'
     elif key == 'Color':
         value = COLORS.get(value.casefold(), value)
         if value == value.lower(): value = _upper_first(value)
