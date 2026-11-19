@@ -235,7 +235,7 @@ main { flex: 1; min-width: 0; min-height: calc(100dvh - var(--header-h)); } /* f
 .catalog-heading h1 { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 24px; font-weight: 750; letter-spacing: -.025em; }
 .catalog-heading h1 span { display: inline-grid; place-items: center; min-width: 32px; height: 26px; padding: 0 10px; border-radius: 999px; font-size: 14px; font-weight: 600; letter-spacing: 0; color: var(--text-2); background: var(--surface-3); font-variant-numeric: tabular-nums; }
 .catalog-subtitle { font-size: 13px; color: var(--text-3); }
-.catalog-workspace { display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 20px; align-items: start; min-height: calc(100dvh - var(--header-h) - 150px); }
+.catalog-workspace { display: grid; grid-template-columns: clamp(250px, 21vw, 300px) minmax(0, 1fr); gap: 20px; align-items: start; min-height: calc(100dvh - var(--header-h) - 150px); }
 /* The filter column never makes the page taller than the results: the aside has no intrinsic height (contain: size) and
    stretches to the results row; the inner panel is sticky, bounded by the viewport and by that row, and scrolls itself. */
 .catalog-filters { align-self: stretch; contain: size; min-height: 120px; }

@@ -3,6 +3,7 @@ const LOGOS: Record<string, { src: string; ratio: number }> = {
   coolmod: { src: '/images/shops/coolmod.png', ratio: 762 / 166 },
   pccomponentes: { src: '/images/shops/pccomponentes.svg', ratio: 138 / 48 },
   ldlc: { src: '/images/shops/ldlc-2.svg', ratio: 338 / 135 },
+  neobyte: { src: '/images/shops/neobyte.svg', ratio: 1475.8 / 394.9 },
 };
 const HEIGHT = 24;
 
