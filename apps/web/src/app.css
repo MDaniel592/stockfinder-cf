@@ -773,7 +773,7 @@ dialog[open] { animation: pop .22s var(--ease); }
 :root[data-density="compact"] .home { gap: 28px; }
 :root[data-density="compact"] .catalog-heading { margin-bottom: 10px; }
 :root[data-density="compact"] .catalog-heading h1 { font-size: 22px; }
-:root[data-density="compact"] .catalog-workspace { grid-template-columns: 210px minmax(0, 1fr); gap: 20px; }
+:root[data-density="compact"] .catalog-workspace { grid-template-columns: clamp(240px, 19vw, 280px) minmax(0, 1fr); gap: 20px; }
 :root[data-density="compact"] .filter-stock { min-height: 36px; font-size: 13px; }
 :root[data-density="compact"] .filter-group summary { min-height: 32px; font-size: 13px; }
 :root[data-density="compact"] .filter-options label { min-height: 26px; font-size: 13px; }
