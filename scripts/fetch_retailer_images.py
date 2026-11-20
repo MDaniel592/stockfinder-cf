@@ -106,7 +106,6 @@ def select_targets(products, rows, curated, mfr_state, state, args, public_dir=N
     out = []
     for pid, shops in listings.items():
         product = by_id[pid]
-        if has_manufacturer_image(pid, curated, mfr_state): continue
         if args.ids and pid not in args.ids: continue
         entry = state['products'].get(pid)
         if entry:

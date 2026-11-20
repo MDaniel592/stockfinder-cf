@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-11-09T21:10:33Z",
-  "processed_total": 1034,
+  "updated_at": "2026-11-20T19:46:05Z",
+  "processed_total": 1121,
   "ok_by_shop": {
-    "pccomponentes": 652,
-    "coolmod": 379
+    "pccomponentes": 703,
+    "coolmod": 414
   },
   "counts": {
-    "ok": 1031,
-    "skip:article_not_in_api": 3
+    "ok": 1117,
+    "skip:article_not_in_api": 3,
+    "skip:file_exists": 1
   },
   "shops": {},
-  "run_done": 18,
-  "run_total": 18,
-  "eta_utc": "2026-11-09T21:10:33Z"
+  "run_done": 4,
+  "run_total": 4,
+  "eta_utc": "2026-11-20T19:46:05Z"
 }
