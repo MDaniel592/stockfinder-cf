@@ -69,7 +69,7 @@ def fetch(args):
 def finalize(args):
     """Host: descarta imágenes compartidas por >=2 productos (una imagen = un modelo), copia al repo y escribe apply.json."""
     state = json.loads(STATE.read_text()); targets = {p['id']: p for p in json.loads((WORK/'targets.json').read_text())}
-    ok = {k: e for k, e in state.items() if e['status'] == 'ok'}
+    ok = {k: e for k, e in state.items() if k in targets and e['status'] == 'ok'}
     by_url = collections.defaultdict(set); by_sha = collections.defaultdict(set)
     for k, e in ok.items(): by_url[e['image_url']].add(k); by_sha[e['sha256']].add(k)
     shared = {k for s in list(by_url.values()) + list(by_sha.values()) if len(s) > 1 for k in s}
